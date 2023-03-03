@@ -92,9 +92,7 @@ https://cors.deno.dev/http://95.0.226.197:8000/play/a014
 #https://bit.ly/3P7NnBm?/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
-#https://cors.deno.dev/https://live-server-2.splitstream.io/f32f40ba-66a7-471e-b8ad-d70ee51744da/tracks-v1a1/playlist.m3u8| User-Agent=Lavf53.32.100 
-#https://cors.deno.dev/https://streaming.netdirekt.com.tr:443/35757/msyapi/teleontv_canliyayin_fogmediagroup_4kultrahd__/chunks.m3u8
-#https://cors.deno.dev/https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_fogmediagroup_4kultrahd__/chunks.m3u8
+https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
 https://cors.deno.dev/https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8|User-Agent=Lavf53.32.100 
@@ -307,9 +305,9 @@ https://cors.deno.dev/https://mn-nl.mncdn.com:443/blutv_ulusalkanal/blutv_ulusal
 #https://cors.deno.dev/http://135.125.234.9:8081/ulusalkanal/tracks-v1a1/mono.m3u8| User-Agent=Lavf53.32.100
 
 #EXTINF:-1 tvg-id="FlashTV.tr"tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="HABER",FLASH TV ᴴᴰ
-https://cors.deno.dev/https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8|User-Agent=Lavf53.32.100        
+https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8| User-Agent=Lavf53.32.100       
+#https://cors.deno.dev/https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8|User-Agent=Lavf53.32.100        
 #https://cors.deno.dev/http://iptvmasterlink.dyndns.org:8080/FlashTvHd/playlist.m3u8| User-Agent=Lavf53.32.100    
-#https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8| User-Agent=Lavf53.32.100       
 
 #EXTINF:-1 tvg-id="HalkTV.tr"tvg-name="Halk TV TR"  tvg-logo="https://picon-13398.kxcdn.com/halktvtr.jpg" group-title="HABER",HALK TV ᵁᴴᴰ⁺
 https://cors.deno.dev/https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8|User-Agent=Lavf53.32.100    
