@@ -1,52 +1,52 @@
-#EXTM3U x-tvg-url="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml,https://i.mjh.nz/SamsungTVPlus/de.xml.gz,https://i.mjh.nz/PlutoTV/de.xml.gz,https://iptvx.site/epg_lite.xml.gz,,,,"
+#EXTM3U 
+#x-tvg-url="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml,https://i.mjh.nz/SamsungTVPlus/de.xml.gz,https://i.mjh.nz/PlutoTV/de.xml.gz,https://iptvx.site/epg_lite.xml.gz,,,,"
 #refresh="86400" cache=500
-#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="Live: Turkey",▬ Turkey [TR]  ▬
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Turkey_flag.png" group-title="Live: Turkey",▬ Turkey [TR]  ▬
 #https://proxy.rssblue.com?url=
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
-https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8|User-Agent=Lavf53.32.100 
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
-http://195.142.1.211:4022/udp/224.2.2.19:10001|User-Agent=Lavf53.32.100 
+http://195.142.1.211:4022/udp/224.2.2.19:10001
 
 #EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᵁᴴᴰ⁺
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8|User-Agent=Lavf53.32.100 
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.1:10001|User-Agent=Lavf53.32.100 
+http://195.142.1.211:4022/udp/224.2.2.1:10001
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺
-https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+http://195.142.1.211:4022/udp/224.2.2.9:10001
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.33:10001|User-Agent=Lavf53.32.100  
+http://195.142.1.211:4022/udp/224.2.2.33:10001
 
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100 
+http://195.142.1.211:4022/udp/224.2.2.34:10001
 
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.32.100 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8|User-Agent=Lavf53.32.100  
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:-1tvg-id="Teve2.tr"tvg-name="Teve2.tr"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᵁᴴᴰ⁺
-https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8|User-Agent=Lavf53.32.100 
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="ULUSAL",360 TV ᵁᴴᴰ⁺
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8|User-Agent=Lavf53.32.100 
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv4-logo.png" group-title="ULUSAL",TV 4 ᵁᴴᴰ⁺
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8|User-Agent=Lavf53.32.100 
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="ULUSAL",A2 ᵁᴴᴰ⁺
-http://185.234.217.146:8080/a2_red_K_TV/index.m3u8|User-Agent=Lavf53.32.100  
+http://185.234.217.146:8080/a2_red_K_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
-https://epg.pw/stream/a68835ae64ddf9909cb9b05a743bf461a652cd310f274829a559bf3aa7c721d0.ts
+https://epg.pw/stream/b6588b56215b12b9d3de4e94af2e70567d8a2d741dc9edf5925b87a10b7079a2.ts
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
-https://streaming.netdirekt.com.tr:443/35757/teleontv/teleonmediagroup_showtimeapp_4kultrahd_/chunks.m3u8|User-Agent=Lavf53.32.100  
-https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8|User-Agent=Lavf53.32.100  
+https://streaming.netdirekt.com.tr:443/35757/teleontv/teleonmediagroup_showtimeapp_4kultrahd_/chunks.m3u8
 
 #EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d3292420-de0e-40a6-bbc6-9caedde337ad.png" group-title="ULUSAL",CİNE5 ᴴᴰ
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
@@ -54,106 +54,104 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPDyY5d5IpLzUjPPiZoNjNxscqiArUPncwL42W5KrDpOGhINrN1aRN4uabbQcWtMvl7_01tM75oqS8RCqVDU2QqoKDtCCueHCNiTQyUR56S71-F-Cpzgr4IzsJW9UrJzqwm4N7dr950PysjpW7kzy5bmn8fAAvTr6eH3u3m-Y8wnruB-vOQIZ3QtwqlA/w197-h46/kobimtv.PNG" group-title="ULUSAL",KOBiM TV ᴴᴰ
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8|User-Agent=Lavf53.32.100 
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="AkitTV.tr" tvg-logo="https://picon-13398.kxcdn.com/akittvtr.jpg" group-title="ULUSAL",AKIT TV ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.41:10001|User-Agent=Lavf53.32.100 
+http://195.142.1.211:4022/udp/224.2.2.41:10001
 
 #EXTINF:1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/benguturk.png"group-title="ULUSAL",BENGUTURK TV ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.44:10001|User-Agent=Lavf53.32.100 
+http://195.142.1.211:4022/udp/224.2.2.44:10001
 
 #EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU  
-http://31.3.91.134:12005/udp/224.0.0.1:36516|User-Agent=Lavf53.32.100  
-
+http://31.3.91.134:12005/udp/224.0.0.1:36516
 
 #EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="ULUSAL",MELTEM TV ᵁᴴᴰ⁺
-#https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8|User-Agent=Lavf53.32.100       
+#https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8  
 
 #EXTINF:0  tvg-id="tivi6.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d3abe0c9-c8ba-4e03-a7fd-52e3ff523e2e.png" group-title="ULUSAL", TİVİ 6 ᴴᴰ
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8|User-Agent=Lavf53.32.100       
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://kanallogo2.com/images/ulusal/tv-em.png" aspect-ratio="16:9" group-title="ULUSAL",TVEM ᴴᴰ
-https://cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8|User-Agent=Lavf53.32.100     
+https://cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/teve-63-canli-izle.png" tvg-id2="MzA=" group-title="ULUSAL",TEVE 63 
-https://arajans.ozelip.com:3234/live/arajanslive.m3u8|User-Agent=Lavf53.32.100 
+#https://arajans.ozelip.com:3234/live/arajanslive.m3u8|User-Agent=Lavf53.32.100 
 
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",TV35 ᴴᴰ⁺
 #https://cors.deno.dev/https://stream01.tv35.com.tr/hls2/tv35izmir.m3u8|User-Agent=Lavf53.32.100 
 
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",birtv ᴴᴰ⁺
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8|User-Agent=Lavf53.32.100 
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://1.bp.blogspot.com/-wF5eNKY01xg/X6rpBQckirI/AAAAAAAAPp0/DV08ZjdaWlECc4-XCNqa6ATJJoy6moLKgCLcBGAsYHQ/s320/denizposta.png"  group-title="ULUSAL",DENİZ POSTASI ᴴᴰ
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8|User-Agent=Lavf53.32.100  
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYhTpIm.png" group-title="ULUSAL" , KANAL 34 iSTANBUL
-https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8|User-Agent=Lavf53.32.100  
+https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/NPgSgYm.png" group-title="ULUSAL", KANAL iSTANBUL ᴴᴰ
-http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/playlist.m3u8|User-Agent=Lavf53.32.100  
+http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ta44cGT.png" group-title="ULUSAL",ISTANBUL TV
-http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8|User-Agent=Lavf53.32.100  
+http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 
 #EXTINF:-1 tvg-id="KanalB.tr" tvg-name="KANAL B TR" tvg-logo="https://picon-13398.kxcdn.com/kanalbtr.jpg" aspect-ratio="16:9" group-title="ULUSAL",KANAL B ᴴᴰ
-https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8|User-Agent=Lavf53.32.100  
+https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 
 #EXTINF:0 tvg-id="Kanal5.tr tvg-name="KANAL 5 TR" tvg-logo="https://i.imgur.com/otRfbDM.png"group-title="ULUSAL", KANAL 5 ANKARA ᴴᴰ
-#http://50.7.136.162:1935/canlitv/kanal5/chunklist_w991018405.m3u8|User-Agent=Lavf53.32.100       
+#http://50.7.136.162:1935/canlitv/kanal5/chunklist_w991018405.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijPvlTl3E8aBVEIphgHHe1ZmJD-joOg7HbNCN00u9ebJzeTDnPfICxaJA-l6kh1hat62UBJMu3qPw-xyfMNKcq8vii9dCVUeJs3PdcCVXb5r7SS7_qaGyMRCweqK6KT2XTQ8f_im6u6CWZG5gJuUixZarduOCfIp9nnFM2y5Ic46mV1pFGCHfjh7eTow/w65-h64/CH6.png", CHANNEL 6 HD
-#https://cors.deno.dev/https://host.onlineradyotv.net:8081/channel6tv/index.m3u8|User-Agent=Lavf53.32.100       
+#https://cors.deno.dev/https://host.onlineradyotv.net:8081/channel6tv/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b41a1ed9-c92b-4252-bdf3-d4553335d814.png" group-title="ULUSAL",MSBC Kanal 2000 ᴴᴰ
-#https://cors.deno.dev/http://yerelmedya.tv:1935/kanal2000/bant1/chunks.m3u8|User-Agent=Lavf53.32.100     
+#https://cors.deno.dev/http://yerelmedya.tv:1935/kanal2000/bant1/chunks.m3u8
   
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20445a9b-3713-4f67-8f06-825a1277ff4f.png" group-title="ULUSAL",TV 2020 ᴴᴰ
-#https://cors.deno.dev/http://50.7.136.162:1935/canlitv/tv2020/chunklist.m3u8|User-Agent=Lavf53.32.100  
+#https://cors.deno.dev/http://50.7.136.162:1935/canlitv/tv2020/chunklist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d3df5795-0bd7-4c41-b5e6-8a60c640ac9b.png" group-title="ULUSAL",Torba TV
-#https://cors.deno.dev/http://50.7.136.162:1935/canlitv/torbatv/chunklist.m3u8|User-Agent=Lavf53.32.100  
+#https://cors.deno.dev/http://50.7.136.162:1935/canlitv/torbatv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TV5.tr" tvg-name="TV 5 TR" tvg-logo="https://picon-13398.kxcdn.com/tv5tr.jpg" group-title="ULUSAL",TV 5 ᴴᴰ
 https://live.cache-stream.workers.dev/stream/56MllGbeFME/live.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/090de54f-27dc-4a7e-9b78-fd979dc77777.png" group-title= "ULUSAL",TV 48 ᴴᴰ
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined|User-Agent=Lavf53.32.100        
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined    
 
 #EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0a63a891-c19e-48d4-b6c6-90a1700b1bd8.png"group-title="ULUSAL" ,TVO ᴴᴰ
-https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8|User-Agent=Lavf53.32.100     
+https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 
 #EXTINF:0 tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN KADIN TVᴴᴰ
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8|User-Agent=Lavf53.32.100 
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGRh2rAXlRVDJ1Y81_Wnz2bSc-kzOzXZ5PWpN7VDvWsqm3771XEr98GerfS9RYYU2Cys2sZPp6fOlo-3ohTNbgK6eMAIfW7uX8ksgii5DDbI7phg0OS9vyCuMB_07VXjezaI0XnClPyizSTxehWHwRXchViNtABUigqEV8SSuVNw1mTeDUek0n4XPAgA/w111-h111/COZUM.png", COZUM YAPI TV HD
-#http://64.225.99.57:3496/hybrid/play.m3u8|User-Agent=Lavf53.32.100        
+#http://64.225.99.57:3496/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://i.imgur.com/ve4p5te.png"aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV ᴴᴰ
-https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8|User-Agent=Lavf53.32.100      
+https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg" aspect-ratio="16:9"   group-title="ULUSAL",AKILLI TV 
-http://213.172.73.170:8081/nimble_live/1024__Akilli_TV/playlist.m3u8|User-Agent=Lavf53.32.100   
+http://213.172.73.170:8081/nimble_live/1024__Akilli_TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="trtbelgesel.tr"tvg-name="TGRT Belgesel TR"  tvg-logo="https://picon-13398.kxcdn.com/tgrtbelgeseltr.jpg" aspect-ratio="16:9"  group-title="ULUSAL",TGRT BELGESEL  
-http://31.3.91.134:12005/udp/224.0.0.1:36517|User-Agent=Lavf53.32.100  
+http://31.3.91.134:12005/udp/224.0.0.1:36517
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV
-http://yerelmedya.tv:1935/anadolunettv/bant1/chunks.m3u8|User-Agent=Lavf53.32.100  
+http://yerelmedya.tv:1935/anadolunettv/bant1/chunks.m3u8
 
 #EXTINF:8 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER STAR1 
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
 #EXTINF:9 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER STAR2
-https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
+#https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
 
 #EXTINF:11 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER DEM TV
-https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
+#https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
 
 #EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER ON TV
-https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
+#https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",Lig Radyo
 https://live.cache-stream.workers.dev/stream/UCZIvIef-1bk227OJeMKp2aA/live.m3u8
@@ -210,127 +208,127 @@ https://live.cache-stream.workers.dev/stream/UC-2KSeUU5SMCX6XLRD-AEvw/live.m3u8
 
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber HD TR" tvg-logo="https://picon-13398.kxcdn.com/trthaberhdtr.jpg"tvg-url="" group-title="HABER",TRT HABER  ᴴᴰ⁺
-https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8|User-Agent=Lavf53.32.100 
+https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="HABER",A HABER ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.20:10001|User-Agent=Lavf53.32.100 
+http://195.142.1.211:4022/udp/224.2.2.20:10001
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="HABER",CNN TURK ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.10:10001|User-Agent=Lavf53.32.100 
+http://195.142.1.211:4022/udp/224.2.2.10:10001
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="HABER",HABER GLOBAL ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.45:10001|User-Agent=Lavf53.32.100 
+http://195.142.1.211:4022/udp/224.2.2.45:10001
 
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="HABER",ULKE TV ᴴᴰ⁺
-https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8|User-Agent=Lavf53.32.100        
+https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 
 #EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV HD" tvg-logo="https://picon-13398.kxcdn.com/24tvtr.jpg" group-title="HABER",24 TV ᵁᴴᴰ⁺
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8|User-Agent=Lavf53.32.100        
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 
 #EXTINF:-1 tvg-id="TVNet.tr" tvg-name="TV Net TR" tvg-logo="https://picon-13398.kxcdn.com/tvnettr.jpg" group-title="HABER",TV NET ᴴᴰ⁺
-https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8|User-Agent=Lavf53.32.100      
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV 100 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tv100tr.jpg" group-title="HABER",TV100 ᴴᴰ⁺
-https://tv100.blutv.com/blutv_tv100_live/live.m3u8|User-Agent=Lavf53.32.100        
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber HD TR" tvg-logo="https://picon-13398.kxcdn.com/tgrthabertr.jpg" group-title="HABER",TGRT HABER ᵁᴴᴰ⁺
-https://is.gd/Ydh7Jd/tgrt_haber.m3u8|User-Agent=Lavf53.32.100 
+https://is.gd/Ydh7Jd/tgrt_haber.m3u8
 
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Turk TR" tvg-logo="https://picon-13398.kxcdn.com/haberturktr.jpg" group-title="HABER",HABER TURK ᵁᴴᴰ⁺
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8|User-Agent=Lavf53.32.100        
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="HABER",NTV ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.2:10001|User-Agent=Lavf53.32.100 
+http://195.142.1.211:4022/udp/224.2.2.2:10001
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.liderhaberajansi.com/wp-content/uploads/2022/02/lider-haber-ajansi-logo.png" group-title="HABER",LİDER HABER ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.13:10001|User-Agent=Lavf53.32.100  
+http://195.142.1.211:4022/udp/224.2.2.13:10001
 
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="https://picon-13398.kxcdn.com/ulsalkanaltr.jpg" group-title="HABER",ULUSAL KANAL ᴴᴰ
-https://mn-nl.mncdn.com:443/blutv_ulusalkanal/blutv_ulusalkanal.smil/chunklist_b2096000.m3u8|User-Agent=Lavf53.32.100      
+https://mn-nl.mncdn.com:443/blutv_ulusalkanal/blutv_ulusalkanal.smil/chunklist_b2096000.m3u8   
 
 #EXTINF:-1 tvg-id="FlashTV.tr"tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="HABER",FLASH TV ᴴᴰ
-https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8| User-Agent=Lavf53.32.100       
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 
 #EXTINF:-1 tvg-id="HalkTV.tr"tvg-name="Halk TV TR"  tvg-logo="https://picon-13398.kxcdn.com/halktvtr.jpg" group-title="HABER",HALK TV ᵁᴴᴰ⁺
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8|User-Agent=Lavf53.32.100    
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele1.tr" tvg-logo="https://picon-13398.kxcdn.com/tele1tr.jpg" group-title="HABER",TELE 1 ᵁᴴᴰ⁺
-https://tele1.blutv.com/blutv_tele1_live/live.m3u8|User-Agent=Lavf53.32.100    
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="HABER",KRT TV ᵁᴴᴰ⁺
-https://krt.blutv.com/blutv_krt_live/live.m3u8| User-Agent=Lavf53.32.100       
+https://krt.blutv.com/blutv_krt_live/live.m3u8
 
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEii8xR5n8XeIJ5hszOs_uCsSwhAhtDo5aO_rIqY1k9t4DbzJkIyg10TEFdtc4ZGwuLspWzD8M6F3c-uK50GuU5AUgCnNFpQi8oa2sWakYh6Qfxid6OEfZB-G_XvNZMzzcFrOD6ByzOkOB9gVjau00AOXiQRHxFVeaIghXYfXpcIIxJGbnr1PI3SmfFfNA=w153-h86"group-title="HABER" , SOZCU TV
-https://mn-nl.mncdn.com/blutv_szctv/live.m3u8|User-Agent=Lavf53.32.100     
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
 
 #EXTINF:-1 tvg-id="caddetv.tr" tvg-name="CADDE TV HD" tvg-logo="https://caddetv.com.tr/content/ankara/images/logo.png" group-title="HABER",CADDE TV
 http://95.0.226.197:8000/play/a03q
 
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT TR" tvg-logo="https://picon-13398.kxcdn.com/bloomberg.jpg" group-title="HABER",BLOOMBERG HT ᵁᴴᴰ⁺
-https://bloomberght-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8|User-Agent=Lavf53.32.100 
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
 #EXTINF:-1 tvg-id="APara.tr" tvg-name="A Para FHD TR" tvg-logo="https://picon-13398.kxcdn.com/aparatr.jpg" group-title="HABER",A PARA ᵁᴴᴰ⁺
-http://31.177.62.182:8004/play/s12
+https://live.cache-stream.workers.dev/stream/UCzrGg6iyRDuUSnO0cQ5oLcA/live.m3u8
 
 #EXTINF:-1 tvg-id="tv100Ekonomi.tr"tvg-logo="https://i.ibb.co/MsC8cgb/mektv.png"group-title="HABER",MILLI EKONOMI
-https://cdn-mektv.yayin.com.tr/mektv/mektv/playlist.m3u8|User-Agent=Lavf53.32.100  
+#https://cdn-mektv.yayin.com.tr/mektv/mektv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="tv100Ekonomi.tr"tvg-logo="https://yerelmedya.tv/logosTV/bultentv.png"group-title="HABER",BÜLTEN TV ANKARA
-https://waw1.artiyerelmedya.net/bultentv/bant1/playlist.m3u8|User-Agent=Lavf53.32.100 
+https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/chunklist_w177972703_b1996000.m3u8
 
 #EXTINF:-1 tvg-id="tv100Ekonomi.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/04d8881d-f0cb-4a27-92c2-94230402fd92.png"group-title="HABER",TV100 eko ᴴᴰ⁺
-https://live.cache-stream.workers.dev/stream/UCndsdUW_oPLqpQJY9J8oIRg/live.m3u8|User-Agent=Lavf53.32.100 
+https://live.cache-stream.workers.dev/stream/UCndsdUW_oPLqpQJY9J8oIRg/live.m3u8
 
 #EXTINF:-1 tvg-id="Finansturk.tr" tvg-logo="https://finansturktv.com/images/logo.png" group-title="HABER",FINANSTURK ᴴᴰ
-https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8|User-Agent=Lavf53.32.100       
+https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8
 
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekoturk.tr" tvg-logo="https://picon-13398.kxcdn.com/ekoturktr.jpg"  group-title="HABER",EKOTURK ᴴᴰ⁺
-https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8|User-Agent=Lavf53.32.100       
+http://185.234.217.146:8080/eko_turk/index.m3u8
 
 #EXTINF:-1 tvg-id="BBNTurk.tr" tvg-name="bbn.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2179fd50-0f23-470e-b8ab-3b2e081894e5.png" aspect-ratio="16:9" group-title="HABER",BBN TURK  ᴴᴰ
-https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8|User-Agent=Lavf53.32.100       
+https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
 
 #EXTINF:-1 tvg-id="ARTITV.de" tvg-name="ARTI 1 TR" tvg-logo="https://picon-13398.kxcdn.com/artikrd.jpg" group-title="HABER",ARTI TV  ᴴᴰ⁺
 http://185.236.229.31:9981/play/a04a
 
 #EXTINF:-1 tvg-id="Medya Haber KRD"tvg-name="Medya Haber KRD"  tvg-logo="https://picon-13398.kxcdn.com/medyahaberkrd.jpg" group-title="HABER",MEDYA HABER ᴴᴰ⁺
-https://muzkurd.com:443/Medya/live15/chunklist_w994833781.m3u8|User-Agent=Lavf53.32.100     
+https://muzkurd.com:443/Medya/live15/chunklist_w994833781.m3u8
 
 #EXTINF:-1 tvg-id="CemTV.tr" tvg-name="Cem TV TR" tvg-logo="https://picon-13398.kxcdn.com/cemtvtr.jpg" group-title="HABER",CEM TV ᴴᴰ
-http://195.142.152.86:5858/CEMTV/index.m3u8|User-Agent=Lavf53.32.100 
+#http://195.142.152.86:5858/CEMTV/index.m3u8|User-Agent=Lavf53.32.100 
 
 #EXTINF:-1 tvg-id="YolTV.tr" tvg-logo="http://img.canlitvlive.io/logo/yol-tv.png" group-title="HABER",YOL TV ᴴᴰ
-https://stream.yol.tv:9443/medialive/yol.m3u8|User-Agent=Lavf53.32.100 
+https://stream.yol.tv:9443/medialive/yol.m3u8
 
 #EXTINF:-1 tvg-id="CanTV.tr" tvg-logo="https://picon-13398.kxcdn.com/cantvkrd.jpg"  group-title="HABER",CAN TV ᴴᴰ
-http://canbroadcast.com:7000/canlican/tv.m3u8|User-Agent=Lavf53.32.100 
+http://canbroadcast.com:7000/canlican/tv.m3u8
 
 #EXTINF: -1 tvg-id="SamanyoluTV.tr" tvg-logo="http://i.hizliresim.com/43r1sl4.png" group-title="HABER", SAMANYOLU TV
-http://cdn.jwplayer.com/manifests/u3f6Dexv.m3u8|User-Agent=Lavf53.32.100 
+http://cdn.jwplayer.com/manifests/u3f6Dexv.m3u8
 
 #EXTINF:-1 tvg-id="McEu.us" tvg-name="McEu.us" tvg-logo="https://picon-13398.kxcdn.com/mceutr.jpg" group-title="HABER",MC EU TV ᴴᴰ
-https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8|User-Agent=Lavf53.32.100 
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 #EXTINF:-1 tvg-id="McEu.us" tvg-name="McEu.us" tvg-logo="https://picon-13398.kxcdn.com/mceutr.jpg" group-title="HABER",ALESTA TV ᴴᴰ
 #https://n2.cdn.jetstre.am/session/49d4e96a9b6f2bb9b2f199b313947bab/sz/mceutv/wowza4/live/mc2/playlist.m3u8?token=JOIJuiYoDddye9kvg-Wm2g&time=1667659022
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.yilmaztv.com/logo/business-channel-turk.png" group-title="HABER",BUSINESS CHANNEL TURK ᴴᴰ
-https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/playlist.m3u8|User-Agent=Lavf53.32.100 
+https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.metropoltv.com.tr/assets/METROPOLTV_LOGO.webp" group-title="HABER",Metropol Tv
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://skyhaber.tv/wp-content/uploads/2022/07/tv-sky.png" group-title="HABER", SKY HBR TV 
-https://vdo.digitalbox.xyz:3652/stream/play.m3u8|User-Agent=Lavf53.32.100          
+https://vdo.digitalbox.xyz:3652/stream/play.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6db76241-1eb4-479f-9241-6fbe261f3a79.png" group-title="HABER",World Türkᴴᴰ
-https://waw3.artiyerelmedya.net/worldturk/bant1/playlist.m3u8|User-Agent=Lavf53.32.100 
+https://waw3.artiyerelmedya.net/worldturk/bant1/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf6b95a5-b675-49b3-9b79-62a1818d662a.png" group-title="HABER",Hür TVᴴᴰ
 #https://cors.deno.dev/http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/hurturktv|User-Agent=Lavf53.32.100 
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/237352c3-eca8-4449-96c4-2088ccf3ddda.png" group-title="HABER",TASC TVᴴᴰ
-https://live.tasc.tv:5443/LiveApp/streams/996700068960085406468141.m3u8|User-Agent=Lavf53.32.100 
+#https://live.tasc.tv:5443/LiveApp/streams/996700068960085406468141.m3u8|User-Agent=Lavf53.32.100 
 
 #EXTINF:-1 tvg-id="" tvg-name=" TR" tvg-logo="https://www.canlitv.dev/poster/uzay-haber.png"  group-title="HABER",UZAY HABER ᴴᴰ
 #http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6749/index.m3u8
@@ -339,13 +337,13 @@ https://live.tasc.tv:5443/LiveApp/streams/996700068960085406468141.m3u8|User-Age
 #http://cdn1-cthabertv.yayin.com.tr/cthabertv/ngrp:cthabertv/chunklist_w12146769_b1696000.m3u8|User-Agent=Lavf53.32.100 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2020/09/TurkHaberBB.png" group-title="HABER",TURK HABERᴴᴰ
-https://edge1.socialsmart.tv:443/turkhaber/bant1/playlist.m3u8|User-Agent=Lavf53.32.100 
+https://edge1.socialsmart.tv:443/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish"tvg-logo="" group-title="HABER",postatv ON
-http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8|User-Agent=Lavf53.32.100 
+http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"  tvg-logo="https://www.akratek.com/wp-content/uploads/2019/11/Akratek-BLTTURK-3.png"group-title="HABER", BLT TURKᴴᴰ
-#http://yerelmedya.tv:1935/bltturk/bant1/playlist.m3u8|User-Agent=Lavf53.32.100 
+#http://yerelmedya.tv:1935/bltturk/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OgbLRWN.png" group-title="HABER",MEDYA 24ᴴᴰ
 #https://yayin2.medya24.com:1947/medya24/live/chunklist_w738076911.m3u8|User-Agent=Lavf53.32.100 
@@ -366,249 +364,1108 @@ https://h92.artiyerelmedya.net/kanal16/bant1/chunks.m3u8|User-Agent=Lavf53.32.10
 https://5be5d840359c6.streamlock.net/bursahabertv/bursahabertv/playlist.m3u8|User-Agent=Lavf53.32.100       
 
 #EXTINF:-1 group-title="HABER" tvg-logo="https://i.imgur.com/hb8QM53.png", Beykent TV
-https://yayin30.haber100.com/live/beykenttv/chunklist_w589627931.m3u8|User-Agent=Lavf53.32.100       
+https://yayin30.haber100.com/live/beykenttv/chunklist_w589627931.m3u8
 
 #EXTINF:-1 tvg-id="TRTMeclis.tr" tvg-name="TRT Meclis HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbmm_tv.png" group-title="HABER",TBMM - MECLiS TVᴴᴰ
-https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8|User-Agent=Lavf53.32.100 
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdnassets.aa.com.tr/assets/newVersion/images/logo1_b_yan_100.png"  group-title="HABER_NEWS",ANADOLU AJANS Live  Haber Ajansı 1
-https://mtulqxgomrllive3.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0e060623.smil/chunklist_b200000.m3u8|User-Agent=Lavf53.32.100 
+https://mtulqxgomrllive3.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0e060623.smil/chunklist_b200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdnassets.aa.com.tr/assets/newVersion/images/logo1_b_yan_100.png"  group-title="HABER_NEWS",ANADOLU AJANS Live  Haber Ajansı 2
-https://mtulqxgomrllive3.mediatriple.net/mtulqxgomrllive/broadcast_59f9c12387f12.smil/chunklist_b200000.m3u8|User-Agent=Lavf53.32.100 
+https://mtulqxgomrllive3.mediatriple.net/mtulqxgomrllive/broadcast_59f9c12387f12.smil/chunklist_b200000.m3u8
 
 #EXTINF:0 type="stream" group="HABER_NEWS" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/234dd0da-3246-40cd-a249-947178ae6269.jpeg",Albayrak Ajans
-https://cdn10-albayrakajans.yayin.com.tr/albayrakajans/albayrakajans/playlist.m3u8|User-Agent=Lavf53.32.100 
+https://cdn10-albayrakajans.yayin.com.tr/albayrakajans/albayrakajans/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER_NEWS" tvg-logo="https://i.imgur.com/pSvhSP2.png", DHA Canlı 1
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8|User-Agent=Lavf53.32.100 
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
 #EXTINF:-1 group-title="HABER_NEWS" tvg-logo="https://i.imgur.com/pSvhSP2.png", DHA Canlı 2
-https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8|User-Agent=Lavf53.32.100 
+https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
 
-#EXTINF:-1 group-logo="https://www.yilmaztv.com/logo/elif-tv.png" tvg-id="CORONA" tvg-name="CoronaVirus Dunya Takip" tvg-logo="http://logo.apk-red.com/logo/tr.png" group-title="HABER_NEWS", CoronaVirus Dunya 
-#https://live.cache-stream.workers.dev/stream/NMre6IAAAiU/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="HABER_NEWS",MeteoTV.TR
-https://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b1673b7c36b7.smil/chunklist_b400000.m3u8|User-Agent=Lavf53.32.100 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="HABER_NEWS",Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8|User-Agent=Lavf53.32.100 
-
-#EXTINF:-1 tvg-id="Meteonews.ch" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="HABER_NEWS",Meteonews (1080p)
-https://streaming.meteonews.net/hls/stream.m3u8|User-Agent=Lavf53.32.100 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="HABER_NEWS",MeteoTV.EU
-http://65.108.87.116:8000/play/1/index.m3u8|User-Agent=Lavf53.32.100 
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2.tr" tvg-logo="https://picon-13398.kxcdn.com/trt2tr.jpg" group-title="ULUSAL-int" ,TRT 2 ᴴᴰ
-https://tv-trt2.medya.trt.com.tr/master.m3u8|User-Agent=Lavf53.32.100 
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRTAvaz.tr" tvg-logo="https://picon-13398.kxcdn.com/trtavaztr.jpg" group-title="ULUSAL-int",TRT AVAZ ᴴᴰ
-http://213.172.73.170:8081/nimble_live/1020__TRT_Avaz/playlist.m3u8|User-Agent=Lavf53.32.100 
+http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk TR" tvg-logo="https://picon-13398.kxcdn.com/trtturk.jpg" group-title="ULUSAL-int",TRT Türk TR
-https://tv-trtturk.medya.trt.com.tr/master.m3u8|User-Agent=Lavf53.32.100 
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa TR" tvg-logo="https://i.imgur.com/8t5aAVx.png"  group-title="ULUSAL-int",ATV AVRUPA ᴴᴰ
 http://62.182.82.104/atv_turk/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="ShowTurk.tr"tvg-name="Show Turk TR"  tvg-logo="https://i.imgur.com/UsMsmA7.png"  group-title="ULUSAL-int",SHOW TURK ᴴᴰ
-https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8| User-Agent=Lavf53.32.100    
+https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
    
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="EuroStar TR" tvg-logo="https://picon-13398.kxcdn.com/eurostartr.jpg"   group-title="ULUSAL-int",EURO STAR ᴴᴰ
-https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8| User-Agent=Lavf53.32.100    
+https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
    
 #EXTINF:-1 tvg-id="EuroD.tr"tvg-name="Euro D TR"   tvg-logo="https://i.imgur.com/4cr2gol.png"  group-title="ULUSAL-int",EURO D ᴴᴰ
-https://kdlive.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8|User-Agent=Lavf53.32.100 
+https://kdlive.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 Int TR"  tvg-logo="https://picon-13398.kxcdn.com/tv8inltr.jpg" group-title="ULUSAL-int",TV8 INT ᴴᴰ
 http://95.0.226.197:8000/play/a037
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="KANAL 7 Avrupa TR"   tvg-logo="https://picon-13398.kxcdn.com/kanal7avrupatr.jpg" group-title="ULUSAL-int",KANAL 7 AVRUPA ᴴᴰ
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8| User-Agent=Lavf53.32.100 
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRT EU TR" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url=""aspect-ratio="16:9"  group-title="ULUSAL-int",TGRT EU  
-https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8| User-Agent=Lavf53.32.100   
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
     
 #EXTINF:-1 tvg-id="KanalAvrupa.tr"tvg-name="Kanal Avrupa TR"   tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_avrupa.png" group-title="ULUSAL-int",KANAL AVRUPA ᴴᴰ
-http://51.15.2.151/hls/kanalavrupa.m3u8| User-Agent=Lavf53.32.100     
+http://51.15.2.151/hls/kanalavrupa.m3u8
 
 #EXTINF:0 type="stream"  channelId="-1" tvg-logo="https://i.imgur.com/OjUTb79.png"group="ULUSAL-int", TÜRKMENELİ TV
 https://stream.klcsistem.com:5443/LiveApp/streams/512289357781413484749219.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e2246aa5-9f01-4aea-b786-999ece599f03.png"group-title="ULUSAL-int",İsviçre TV
-http://tv56245.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8| User-Agent=Lavf53.32.100 
+http://tv56245.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/08e39c95-2734-440c-a8a3-3bc585af86c6.png"group-title="ULUSAL-int",Almanya TV
-http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8| User-Agent=Lavf53.32.100 
+http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/32bfec21-a5c1-4ea9-ad1c-d9db3e2174c4.png" group-title="ULUSAL-int",Viyana TV
-http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8| User-Agent=Lavf53.32.100   
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a246dd87-23b1-4d50-a9d5-f63dfe50b5ab.png"group-title="ULUSAL-int",TV Avrupa
-http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8| User-Agent=Lavf53.32.100  
+http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
  
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/08490548-6d45-4b62-bc6f-f2b121686294.png" group-title="ULUSAL-int",Brüksel Türk
-https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8| User-Agent=Lavf53.32.100     
+https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
   
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/76901451-a9e6-4d73-8a74-eb2ea7034693.png" group-title="ULUSAL-int",Aktif TV
-http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8| User-Agent=Lavf53.32.100      
+http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
  
 #EXTINF:-1 group-title="ULUSAL-int" tvg-logo="https://i.imgur.com/XQz5zAO.png", TV ADİGE
-http://91.134.203.253:30124/tvadige/tvadige/playlist.m3u8|User-Agent=Lavf53.32.100 
+#http://91.134.203.253:30124/tvadige/tvadige/playlist.m3u8|User-Agent=Lavf53.32.100 
 
-
-
-#EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="Germany",Das Erste Ⓖ
-https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:0 group-title="Germany" tvg-id="4480" tvg-logo="http://epg.it999.ru/img/4480.png" tvg-rec="0",Das Erste HD DE
-#http://195.142.152.86:5858/DasErsteHD/index.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="4480" tvg-logo="http://epg.it999.ru/img/4480.png" tvg-rec="0",ARD FHD
-https://data.fernsehzone.com/stream123.php/ard.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="3072" tvg-logo="http://epg.it999.ru/img/3072.png" tvg-rec="3",ZDF HD DE
-https://data.fernsehzone.com/stream123.php/zdf.m3u8
-#EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" group-title="Germany",ZDF Ⓖ
-http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="SWR Baden-Württemberg Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SWR_Fernsehen_Logo_2014.svg/640px-SWR_Fernsehen_Logo_2014.svg.png" tvg-id="SWRFernsehenBadenWurttemberg.de" group-title="Germany",SWR Baden-Württemberg Ⓖ
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="3127" tvg-logo="http://epg.it999.ru/img/3127.png" tvg-rec="3",Kabel Eins HD DE
-https://data.fernsehzone.com/getstream.php/kabel-1.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo=""tvg-rec="0",Kabel Eins doku HD DE
-https://data.fernsehzone.com/stream123.php/kabel1doku.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="3070" tvg-logo="http://epg.it999.ru/img/3070.png" tvg-rec="3",ProSieben HD DE
-https://data.fernsehzone.com/getstream.php/pro7.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="5655" tvg-logo="http://epg.it999.ru/img/5655.png" tvg-rec="0",SIXX HD DE
-https://s6.hopslan.com/sixxc/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="2995" tvg-logo="http://epg.it999.ru/img/2995.png" tvg-rec="3",Sat.1 HD DE
-https://data.fernsehzone.com/stream123.php/sat1.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo=""tvg-rec="0",SAT1
-https://s6.hopslan.com:443/sat1q1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo=""tvg-rec="0",SAT.1 gold
-https://data.fernsehzone.com/stream123.php/sgold.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="3071" tvg-logo="http://epg.it999.ru/img/3071.png" tvg-rec="0",ProSieben Maxx HD DE
-https://data.fernsehzone.com/stream123.php/prosiebenmaxx.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="3113" tvg-logo="http://epg.it999.ru/img/3113.png" tvg-rec="3",RTL HD DE
-https://data.fernsehzone.com/getstream.php/rtl.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo=""tvg-rec="0",RTL Live
-http://178.250.208.141/152/play.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="3112" tvg-logo="http://epg.it999.ru/img/3112.png" tvg-rec="3",RTL 2 HD DE
-https://data.fernsehzone.com/getstream.php/rtl2-zwei.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo=""tvg-rec="0",RTL II 
-http://178.250.208.141/67/play.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="3114" tvg-logo="http://epg.it999.ru/img/3114.png" tvg-rec="3",RTL Nitro HD DE
-https://data.fernsehzone.com/stream123.php/rtlnitroger.m3u8
-#EXTINF:0 group-title="Germany" tvg-rec="0",TELE5 HD DE
-https://data.fernsehzone.com/stream123.php/tele-5ger2.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="2996" tvg-logo="http://epg.it999.ru/img/2996.png" tvg-rec="3",VOX HD DE
-https://data.fernsehzone.com/getstream.php/vox.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo=""tvg-rec="0",VOX 
-http://178.250.208.141/91/play.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo=""tvg-rec="0",VOXup
-http://178.250.208.141/54/play.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo=""tvg-rec="0",ANIXE HD SERIE
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo=""tvg-rec="0",Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:0 group-title="Germany" tvg-rec="0",SERVUS TV HD DE
-https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="3sat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png" tvg-id="3sat.de" group-title="Germany",3sat Ⓖ
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo="https://i.imgur.com/PVT0v0n.png"tvg-rec="0",3 SAT
-http://178.250.208.141/69/play.m3u8
-#EXTINF:-1 tvg-name="ARD Alpha Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png" tvg-id="ARDalpha.de" group-title="Germany",ARD Alpha Ⓖ
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="ONE Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/640px-One_2022.svg.png" tvg-id="One.de" group-title="Germany",ONE Ⓖ
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-name="ZDFinfo Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/640px-ZDFinfo_2011.svg.png" tvg-id="ZDFinfo.de" group-title="Germany",ZDFinfo Ⓖ
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="6174" tvg-logo="http://epg.it999.ru/img/6174.png" tvg-rec="0",ZDF Info HD DE
-http://178.250.208.141/174/play.m3u8
-#EXTINF:-1 tvg-name="ZDFneo Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/569px-ZDFneo2017_Logo.svg.png" tvg-id="ZDFneo.de" group-title="Germany",ZDFneo Ⓖ
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ARTE Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/186px-Arte_Logo_2017.svg.png" tvg-id="ARTEDeutsch.de" group-title="Germany",ARTE Ⓖ
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="5656" tvg-logo="http://epg.it999.ru/img/5656.png" tvg-rec="0",arte HD DE
-http://178.250.208.141/9/play.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="5661" tvg-logo="http://epg.it999.ru/img/5661.png" tvg-rec="0",ORF 1 HD DE
-https://data.fernsehzone.com/getstream.php/orf1a.m3u8
-#EXTINF:0 group-title="Germany" tvg-rec="0",ORF 2 HD DE
-https://data.fernsehzone.com/getstream.php/orf2-live.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="5704" tvg-logo="http://epg.it999.ru/img/5704.png" tvg-rec="0",DMAX HD DE
-https://data.fernsehzone.com/getstream.php/dmax.m3u8
-#EXTINF:0 group-title="Germany" tvg-rec="0",TLC HD DE
-https://data.fernsehzone.com/stream123.php/tlc.m3u8
-#EXTINF:-1 tvg-name="Euronews Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/640px-Euronews_2016_logo.svg.png" tvg-id="EuronewsGerman.fr" group-title="Germany",Euronews Deutsch
-https://euronews.alteox.app/hls/de_stream.m3u8
-#EXTINF:-1 tvg-name="Phoenix Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/640px-Phoenix-logo-2018.svg.png" tvg-id="Phoenix.de" group-title="Germany",Phoenix Ⓖ
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="Tagesschau24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png" tvg-id="tagesschau24.de" group-title="Germany",Tagesschau24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-name="Welt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/640px-Welt_TV_Logo_2016.svg.png" tvg-id="Welt.de" group-title="Germany",Welt
-https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
-#EXTINF:-1 tvg-name="DW Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" tvg-id="DWDeutsch.de" group-title="Germany",DW Deutsch
-https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
-#EXTINF:-1 tvg-name="DW Deutsch+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" tvg-id="DWDeutschPlus.de" group-title="Germany",DW Deutsch+
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="3116" tvg-logo="http://epg.it999.ru/img/3116.png" tvg-rec="3",Super RTL HD DE
-https://data.fernsehzone.com/stream123.php/superrtl2.m3u8
-#EXTINF:0 group-title="Germany"tvg-logo="http://epg.it999.ru/img/6251.png" tvg-rec="0",DISNEY HD DE
-https://data.fernsehzone.com/stream123.php/disneyger2.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="3077" tvg-logo="http://epg.it999.ru/img/3077.png" tvg-rec="3",Comedy Central HD DE
-https://data.fernsehzone.com/getstream.php/comedy-central.m3u8
-#EXTINF:-1 tvg-name="KiKa Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/640px-Kika_2012.svg.png" tvg-id="KIKA.de" group-title="Germany",KiKa Ⓖ
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:0 group-title="Germany" tvg-id="5659" tvg-logo="http://epg.it999.ru/img/5659.png" tvg-rec="0",KIKA HD DE
-http://178.250.208.141/68/play.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo=""tvg-rec="0",Super RTL
-http://178.250.208.141/55/play.m3u8
-#EXTINF:-1 tvg-name="Nick Ⓖ" tvg-logo="https://i.imgur.com/mhldfsB.png" tvg-id="NickGermany.de" group-title="Germany",Nick Ⓖ
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo=""tvg-rec="0",SRF 1
-http://178.250.208.141/128/play.m3u8
-#EXTINF:0 group-title="Germany" tvg-logo=""tvg-rec="0",SRF 3
-http://178.250.208.141/136/play.m3u8
-#EXTINF:-1 tvg-name="BR Nord Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/768px-Logo_BR_Fernsehen_2021.svg.png" tvg-id="BRFernsehenNord.de" group-title="Germany",BR Nord Ⓖ
-https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="BR Süd Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/768px-Logo_BR_Fernsehen_2021.svg.png" tvg-id="BRFernsehenSud.de" group-title="Germany",BR Süd Ⓖ
-https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="HR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hr-fernsehen_Logo_2015.svg/640px-Hr-fernsehen_Logo_2015.svg.png" tvg-id="HRFernsehen.de" group-title="Germany",HR Ⓖ
-https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
-#EXTINF:-1 tvg-name="MDR Sachsen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png" tvg-id="MDRFernsehenSachsen.de" group-title="Germany",MDR Sachsen Ⓖ
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png" tvg-id="MDRFernsehenSachsenAnhalt.de" group-title="Germany",MDR Sachsen-Anhalt Ⓖ
-https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
-#EXTINF:-1 tvg-name="MDR Thüringen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png" tvg-id="MDRFernsehenThuringen.de" group-title="Germany",MDR Thüringen Ⓖ
-https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
-#EXTINF:-1 tvg-name="NDR Hamburg Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenHamburg.de" group-title="Germany",NDR Hamburg Ⓖ
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenMecklenburgVorpommern.de" group-title="Germany",NDR Mecklenburg-Vorpommern Ⓖ
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-#EXTINF:-1 tvg-name="NDR Niedersachsen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenNiedersachsen.de" group-title="Germany",NDR Niedersachsen Ⓖ
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-name="NDR Schleswig-Holstein Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenSchleswigHolstein.de" group-title="Germany",NDR Schleswig-Holstein Ⓖ
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-#EXTINF:-1 tvg-name="Radio Bremen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_Radio_Bremen.svg/640px-Logo_Radio_Bremen.svg.png" tvg-id="RadioBremenFernsehen.de" group-title="Germany",Radio Bremen Ⓖ
-https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 tvg-name="RBB Berlin Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/640px-Rbb_Fernsehen_Logo_2017.08.svg.png" tvg-id="RBBBerlin.de" group-title="Germany",RBB Berlin Ⓖ
-https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-#EXTINF:-1 tvg-name="RBB Brandenburg Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/640px-Rbb_Fernsehen_Logo_2017.08.svg.png" tvg-id="RBBBrandenburg.de" group-title="Germany",RBB Brandenburg Ⓖ
-https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
-#EXTINF:-1 tvg-name="SR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/639px-SR_Fernsehen.svg.png" tvg-id="SRFernsehen.de" group-title="Germany",SR Ⓖ
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SWR_Fernsehen_Logo_2014.svg/640px-SWR_Fernsehen_Logo_2014.svg.png" tvg-id="SWRFernsehenRheinlandPfalz.de" group-title="Germany",SWR Rheinland-Pfalz Ⓖ
-https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
-#EXTINF:-1 tvg-name="WDR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png" tvg-id="WDR.de" group-title="Germany",WDR Ⓖ
-https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
-#EXTINF:-1 tvg-name="NDR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenInternational.de" group-title="Germany",NDR International
-https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-name="MTV Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/640px-MTV-2021.svg.png" tvg-id="MTVGermany.de" group-title="Germany",MTV Germany
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
-#EXTINF:-1 tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="Schlager Deluxe" tvg-logo="https://i.imgur.com/YPpgUOg.png" tvg-id="SchlagerDeluxe.de" group-title="Germany",Schlager Deluxe
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/JN6Kd0q.png" tvg-id="DeluxeLoungeHD.de" group-title="Germany",Deluxe Lounge HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
+http://195.142.152.86:5858/DasErsteHD/index.m3u8
+#EXTINF:0,(DE) Ard Das Erste 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4461&extension=ts
+#EXTINF:0,(DE) ZDF 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4460&extension=ts
+#EXTINF:0,(DE) RTL 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4459&extension=ts
+#EXTINF:0,(DE) Sat 1 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4458&extension=ts
+#EXTINF:0,(DE) Prosieben 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4457&extension=ts
+#EXTINF:0,(DE) Vox 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4455&extension=ts
+#EXTINF:0,(DE) Kabel 1 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4454&extension=ts
+#EXTINF:0,(DE) RTL 2 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4456&extension=ts
+#EXTINF:0,(DE) 3 Sat 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4446&extension=ts
+#EXTINF:0,(DE) Arte 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4445&extension=ts
+#EXTINF:0,(DE) One 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=60636&extension=ts
+#EXTINF:0,(DE) ZDF Info 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4444&extension=ts
+#EXTINF:0,(DE) ZDF Neo 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4443&extension=ts
+#EXTINF:0,(DE) Sixx 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4453&extension=ts
+#EXTINF:0,(DE) Mdr 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4439&extension=ts
+#EXTINF:0,(DE) Tele 5 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4452&extension=ts
+#EXTINF:0,(DE) Sat 1 Gold 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4449&extension=ts
+#EXTINF:0,(DE) ProSieben Maxx 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4450&extension=ts
+#EXTINF:0,(DE) Anixe+ 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=89867&extension=ts
+#EXTINF:0,(DE) Nitro 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4451&extension=ts
+#EXTINF:0,(DE) Super RTL 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4469&extension=ts
+#EXTINF:0,(DE) ARD Alpha 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=89868&extension=ts
+#EXTINF:0,(DE) RBB Berlin 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=95041&extension=ts
+#EXTINF:0,(DE) BR 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4442&extension=ts
+#EXTINF:0,(DE) HR 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4441&extension=ts
+#EXTINF:0,(DE) SR 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4437&extension=ts
+#EXTINF:0,(DE) N24 DOKU
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3386&extension=ts
+#EXTINF:0,(DE) Welt 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=32692&extension=ts
+#EXTINF:0,(DE) N-TV 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=35768&extension=ts
+#EXTINF:0,(DE) ProSieben MAXX HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49112&extension=ts
+#EXTINF:0,(DE) Phoenix HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=50189&extension=ts
+#EXTINF:0,(DE) 1-2-3.tv 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=38916&extension=ts
+#EXTINF:0,(DE) RTL UP 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=128150&extension=ts
+#EXTINF:0,(DE) VOX UP 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=128151&extension=ts
+#EXTINF:0,(DE) Tagesschau 24 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=35767&extension=ts
+#EXTINF:0,(DE) Swr 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3273&extension=ts
+#EXTINF:0,(DE) QVC 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=122572&extension=ts
+#EXTINF:0,??? DEUTSCHLAND HD???
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7245&extension=ts
+#EXTINF:0,(DE) Ard Das Erste HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49100&extension=ts
+#EXTINF:0,(DE) ZDF HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49101&extension=ts
+#EXTINF:0,(DE) RTL HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49103&extension=ts
+#EXTINF:0,(DE) Sat.1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49102&extension=ts
+#EXTINF:0,(DE) ProSieben HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49104&extension=ts
+#EXTINF:0,(DE) Kabel Eins HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49107&extension=ts
+#EXTINF:0,(DE) Vox HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49106&extension=ts
+#EXTINF:0,(DE) RTL 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49105&extension=ts
+#EXTINF:0,(DE) Sat.1 Gold HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49109&extension=ts
+#EXTINF:0,(DE) Sat 1 Emotions HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=131808&extension=ts
+#EXTINF:0,(DE) Anixe HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=127794&extension=ts
+#EXTINF:0,(DE) RTL Plus
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51485&extension=ts
+#EXTINF:0,(DE) Super RTL HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49108&extension=ts
+#EXTINF:0,(DE) RTL Nitro HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49113&extension=ts
+#EXTINF:0,(DE) RTL Crime HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=61335&extension=ts
+#EXTINF:0,(DE) RTL Living HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3357&extension=ts
+#EXTINF:0,(DE) RTL Passion HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3353&extension=ts
+#EXTINF:0,(DE) Welt HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=127795&extension=ts
+#EXTINF:0,(DE) N-TV HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=127797&extension=ts
+#EXTINF:0,(DE) Tele 5 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49111&extension=ts
+#EXTINF:0,(DE) Hg TV HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4448&extension=ts
+#EXTINF:0,(DE) 3 sat HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49114&extension=ts
+#EXTINF:0,(DE) Sixx HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49110&extension=ts
+#EXTINF:0,(DE) Wdr HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4440&extension=ts
+#EXTINF:0,(DE) Ndr HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3379&extension=ts
+#EXTINF:0,(DE) ServusTV HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3346&extension=ts
+#EXTINF:0,(DE) Welt der Wunder HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=89862&extension=ts
+#EXTINF:0,(DE) Qvc Style Deutschland
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=89865&extension=ts
+#EXTINF:0,(DE) Nicer Dicer TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=122571&extension=ts
+#EXTINF:0,(DE) Radio Bremen 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=122573&extension=ts
+#EXTINF:0,(DE) MTV 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4463&extension=ts
+#EXTINF:0,(DE) Classica
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3425&extension=ts
+#EXTINF:0,(DE) Jukebox
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3400&extension=ts
+#EXTINF:0,(DE) Deluxe Music 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4462&extension=ts
+#EXTINF:0,(DE) Deutsches Musik Fernsehen
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3423&extension=ts
+#EXTINF:0,(DE) Nick JR
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=104857&extension=ts
+#EXTINF:0,(DE) NickToons
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=111971&extension=ts
+#EXTINF:0,(DE) Baby Tv
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=50076&extension=ts
+#EXTINF:0,(DE) Junior
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=95040&extension=ts
+#EXTINF:0,(DE) Kika 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4467&extension=ts
+#EXTINF:0,(DE) TOGGO plus
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3262&extension=ts
+#EXTINF:0,(DE) Boomerang HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3429&extension=ts
+#EXTINF:0,(DE) Disney Junior 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4465&extension=ts
+#EXTINF:0,(DE) Disney Channel 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4466&extension=ts
+#EXTINF:0,(DE) Nickelodeon 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4468&extension=ts
+#EXTINF:0,(DE) Cartoon Network HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3426&extension=ts
+#EXTINF:0,(DE) XP Animation 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49874&extension=ts
+#EXTINF:0,(DE) XP Animation 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=76267&extension=ts
+#EXTINF:0,(DE) XP Select Kinder
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=137266&extension=ts
+#EXTINF:0,(DE) Mascha und der Bдr 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=76280&extension=ts
+#EXTINF:0,(DE) Mascha und der Bдr 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103519&extension=ts
+#EXTINF:0,(DE) Naruto Sugoi Doryoku
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=100225&extension=ts
+#EXTINF:0,(DE) XP Tom & Jerry TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=136967&extension=ts
+#EXTINF:0,DE : XP PAW Patrol HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=104260&extension=ts
+#EXTINF:0,(DE) XP Rick and Morty
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=94094&extension=ts
+#EXTINF:0,(DE) XP BoJack Horseman
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=79404&extension=ts
+#EXTINF:0,(DE) XP Micky Maus
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=94590&extension=ts
+#EXTINF:0,(DE) XP Death Done HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103514&extension=ts
+#EXTINF:0,(DE) American Dad!
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=79457&extension=ts
+#EXTINF:0,(DE) XP Futurama
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=79587&extension=ts
+#EXTINF:0,(DE) DuckTales HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=102613&extension=ts
+#EXTINF:0,(DE) XP Die Simpsons
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=79458&extension=ts
+#EXTINF:0,(DE) XP Family Guy
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=79437&extension=ts
+#EXTINF:0,(DE) XP Peppa Wutz
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=76251&extension=ts
+#EXTINF:0,(DE) Sky Cinema Premieren 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=57012&extension=ts
+#EXTINF:0,(DE) Sky Cinema Premieren +24 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=57005&extension=ts
+#EXTINF:0,(DE) Sky Cinema Fun 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3315&extension=ts
+#EXTINF:0,(DE) Sky Cinema Comedy 4k+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=123446&extension=ts
+#EXTINF:0,(DE) Sky Cinema Action 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4473&extension=ts
+#EXTINF:0,(DE) Sky Cinema Family 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4472&extension=ts
+#EXTINF:0,(DE) Sky Cinema Thriller 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=57011&extension=ts
+#EXTINF:0,(DE) Sky Cinema Special 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=57014&extension=ts
+#EXTINF:0,(DE) Sky Cinema Best Of 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=57006&extension=ts
+#EXTINF:0,(DE) Sky Cinema hits HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=132611&extension=ts
+#EXTINF:0,(DE) Sky Cinema 24 HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=132610&extension=ts
+#EXTINF:0,(DE) Sky Atlantic 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4471&extension=ts
+#EXTINF:0,(DE) Sky Cinema Krimi 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3311&extension=ts
+#EXTINF:0,(DE) Sky Cinema Classics 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=111970&extension=ts
+#EXTINF:0,(DE) Sky Crime HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=123447&extension=ts
+#EXTINF:0,(DE) Sky Replay HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=123445&extension=ts
+#EXTINF:0,(DE) Sky Select 1 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=137598&extension=ts
+#EXTINF:0,(DE) Sky Select 2 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=137599&extension=ts
+#EXTINF:0,(DE) Sky Select 3 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=137600&extension=ts
+#EXTINF:0,(DE) Sky Select 4 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=137601&extension=ts
+#EXTINF:0,(DE) Sky Select 5 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=137602&extension=ts
+#EXTINF:0,(DE) Sky Select 6 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=137603&extension=ts
+#EXTINF:0,(DE) Sky Select 7 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=137604&extension=ts
+#EXTINF:0,(DE) Sky Select 8 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=137605&extension=ts
+#EXTINF:0,(DE) 13th Street 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3444&extension=ts
+#EXTINF:0,(DE) AXN HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3430&extension=ts
+#EXTINF:0,(DE) SyFy 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3271&extension=ts
+#EXTINF:0,(DE) Heimatkanal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3404&extension=ts
+#EXTINF:0,(DE) Kinowelt TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3392&extension=ts
+#EXTINF:0,(DE) Prosieben Fun HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3370&extension=ts
+#EXTINF:0,(DE) Romance TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3363&extension=ts
+#EXTINF:0,(DE) WarnerTV Comedy 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=30699&extension=ts
+#EXTINF:0,(DE) TNT Film 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3265&extension=ts
+#EXTINF:0,(DE) TNT Serie 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3263&extension=ts
+#EXTINF:0,(DE) Universal TV 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3261&extension=ts
+#EXTINF:0,(DE) Kabel 1 Classics HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3397&extension=ts
+#EXTINF:0,(DE) DBO Kino 2023 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=150076&extension=ts
+#EXTINF:0,(DE) DBO Kino 2023 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=149517&extension=ts
+#EXTINF:0,(DE) DBO Kino 2023 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=146967&extension=ts
+#EXTINF:0,(DE) DBO Kino 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=81473&extension=ts
+#EXTINF:0,(DE) DBO Kino 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3302&extension=ts
+#EXTINF:0,(DE) DBO Kino 3 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=77065&extension=ts
+#EXTINF:0,(DE) DBO Kino 4 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=76982&extension=ts
+#EXTINF:0,(DE) DBO Kino 5 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=81469&extension=ts
+#EXTINF:0,(DE) Action 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=100906&extension=ts
+#EXTINF:0,(DE) Action 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=95048&extension=ts
+#EXTINF:0,(DE) Action 3 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=95049&extension=ts
+#EXTINF:0,(DE) Horror 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=48531&extension=ts
+#EXTINF:0,(DE) Horror 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=79639&extension=ts
+#EXTINF:0,(DE) Horror 3 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=95052&extension=ts
+#EXTINF:0,(DE) Komцdie HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=144869&extension=ts
+#EXTINF:0,(DE) CineBox 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103311&extension=ts
+#EXTINF:0,(DE) CineBox 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103310&extension=ts
+#EXTINF:0,(DE) CineBox 3 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=144943&extension=ts
+#EXTINF:0,(DE) Amazon Prime 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=136966&extension=ts
+#EXTINF:0,(DE) Amazon Prime 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103292&extension=ts
+#EXTINF:0,(DE) Amazon Prime 3 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103293&extension=ts
+#EXTINF:0,(DE) Amazon Serien 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103287&extension=ts
+#EXTINF:0,(DE) Marvel\'s Serien HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=100330&extension=ts
+#EXTINF:0,(DE) Marvel\'s Anime HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=100933&extension=ts
+#EXTINF:0,(DE) Marvel Cinema HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=79456&extension=ts
+#EXTINF:0,(DE) HBO Serien HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103290&extension=ts
+#EXTINF:0,(DE) Netflix Movies
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103294&extension=ts
+#EXTINF:0,(DE) Netflix Serien 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=101710&extension=ts
+#EXTINF:0,(DE) Netflix Serien 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=100226&extension=ts
+#EXTINF:0,(DE) Netflix Serien 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103295&extension=ts
+#EXTINF:0,(DE) Apple TV+ HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103312&extension=ts
+#EXTINF:0,(DE) Disney+ HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103317&extension=ts
+#EXTINF:0,(DE) DBO Western
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=103303&extension=ts
+#EXTINF:0,(DE) Popcorn 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=121351&extension=ts
+#EXTINF:0,(DE) Popcorn 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=121350&extension=ts
+#EXTINF:0,(DE) Popcorn 3 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=121349&extension=ts
+#EXTINF:0,(DE) Klassischer 4 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=76282&extension=ts
+#EXTINF:0,(DE) Klassischer 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=46572&extension=ts
+#EXTINF:0,(DE) Klassischer 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=76274&extension=ts
+#EXTINF:0,(DE) Klassischer 3 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=76275&extension=ts
+#EXTINF:0,(DE) Klassischer 5 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=76284&extension=ts
+#EXTINF:0,(DE) Abenteuer HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=144868&extension=ts
+#EXTINF:0,(DE) Star Wars HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=144867&extension=ts
+#EXTINF:0,(DE) Mдrchen HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=97879&extension=ts
+#EXTINF:0,(DE) Knight Rider
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=88899&extension=ts
+#EXTINF:0,(DE) Al Pacino
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=100913&extension=ts
+#EXTINF:0,(DE) Bruce Willis
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=81518&extension=ts
+#EXTINF:0,(DE) Rambo HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=79586&extension=ts
+#EXTINF:0,(DE) Vin Diesel
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=72352&extension=ts
+#EXTINF:0,(DE) DW Johnson
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=72351&extension=ts
+#EXTINF:0,(DE) Keanu Reeves
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=53573&extension=ts
+#EXTINF:0,(DE) Steven Segal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=92728&extension=ts
+#EXTINF:0,(DE) Mel Gibson
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=92912&extension=ts
+#EXTINF:0,(DE) Tom Hanks
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=93360&extension=ts
+#EXTINF:0,(DE) Jackie Chan
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=79157&extension=ts
+#EXTINF:0,(DE) Samuel L Jackson
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=93361&extension=ts
+#EXTINF:0,(DE) Jason Statham
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=48683&extension=ts
+#EXTINF:0,(DE) J.C Van Damme
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=53227&extension=ts
+#EXTINF:0,(DE) James Bond 007
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=79401&extension=ts
+#EXTINF:0,(DE) Denzel Washington
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=72346&extension=ts
+#EXTINF:0,(DE) Fast & Furious HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=98716&extension=ts
+#EXTINF:0,(DE) Bud Spencer & Terence Hill
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=79327&extension=ts
+#EXTINF:0,(DE) DAZN 1 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=11236&extension=ts
+#EXTINF:0,(DE) DAZN 2 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=11237&extension=ts
+#EXTINF:0,(DE) DAZN 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=45307&extension=ts
+#EXTINF:0,(DE) DAZN 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=45308&extension=ts
+#EXTINF:0,(DE) Amazon Prime 4k+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=147694&extension=ts
+#EXTINF:0,(DE) Sky Sport Austria 1 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4625&extension=ts
+#EXTINF:0,(DE) Sky Sport Austria 2 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=119131&extension=ts
+#EXTINF:0,(DE) Sky Sport Austria 3 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=119132&extension=ts
+#EXTINF:0,(DE) Sky Sport Austria 4 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=119133&extension=ts
+#EXTINF:0,(DE) Sky Sport Austria 5 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=119658&extension=ts
+#EXTINF:0,(DE) Sky Sport Austria 6 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=119659&extension=ts
+#EXTINF:0,(DE) Sky Sport Austria 7 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=119660&extension=ts
+#EXTINF:0,(DE) Sport1 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=142298&extension=ts
+#EXTINF:0,(DE) Sport1+ 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4623&extension=ts
+#EXTINF:0,(DE) Teleclub Sport 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=80305&extension=ts
+#EXTINF:0,(DE) Teleclub Sport 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=80306&extension=ts
+#EXTINF:0,(DE) Mьnchen TV 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=89863&extension=ts
+#EXTINF:0,(DE) FC Bayern TV HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=91386&extension=ts
+#EXTINF:0,(DE) Eurosport 1 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4622&extension=ts
+#EXTINF:0,(DE) Eurosport 2 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4621&extension=ts
+#EXTINF:0,(DE) Motorvision
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3390&extension=ts
+#EXTINF:0,(DE) Auto motor sport channel HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=116643&extension=ts
+#EXTINF:0,(DE) DAZN Event 1 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135183&extension=ts
+#EXTINF:0,(DE) DAZN Event 2 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135182&extension=ts
+#EXTINF:0,(DE) DAZN Event 3 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135181&extension=ts
+#EXTINF:0,(DE) DAZN Event 4 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135180&extension=ts
+#EXTINF:0,(DE) DAZN Event 5 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135179&extension=ts
+#EXTINF:0,(DE) DAZN Event 6 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135178&extension=ts
+#EXTINF:0,(DE) DAZN Event 7 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135177&extension=ts
+#EXTINF:0,(DE) DAZN Event 8 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135176&extension=ts
+#EXTINF:0,(DE) DAZN Event 9 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135175&extension=ts
+#EXTINF:0,(DE) DAZN Event 10 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135174&extension=ts
+#EXTINF:0,(DE) DAZN Event 11 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135173&extension=ts
+#EXTINF:0,(DE) DAZN Event 12 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135172&extension=ts
+#EXTINF:0,(DE) DAZN Event 13 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135171&extension=ts
+#EXTINF:0,(DE) DAZN Event 14 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135170&extension=ts
+#EXTINF:0,(DE) DAZN Event 15 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135169&extension=ts
+#EXTINF:0,(DE) DAZN Event 16 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135168&extension=ts
+#EXTINF:0,(DE) DAZN Event 17 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135167&extension=ts
+#EXTINF:0,(DE) RTL Event 1 4K+ (RTL+)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135166&extension=ts
+#EXTINF:0,(DE) RTL Event 2 4K+ (RTL+)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135165&extension=ts
+#EXTINF:0,(DE) RTL Event 3 4K+ (RTL+)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135164&extension=ts
+#EXTINF:0,(DE) RTL Event 4 4K+ (RTL+)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135163&extension=ts
+#EXTINF:0,(DE) RTL Event 5 4K+ (RTL+)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135162&extension=ts
+#EXTINF:0,(DE) RTL Event 6 4K+ (RTL+)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135161&extension=ts
+#EXTINF:0,(DE) RTL Event 7 4K+ (RTL+)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135160&extension=ts
+#EXTINF:0,(DE) RTL Event 8 4K+ (RTL+)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135159&extension=ts
+#EXTINF:0,(DE) RTL Event 9 4K+ (RTL+)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135158&extension=ts
+#EXTINF:0,(DE) RTL Event 10 4K+ (RTL+)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=135157&extension=ts
+#EXTINF:0,(DE) Glory Kickboxing
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=118312&extension=ts
+#EXTINF:0,(DE) Telekom Fussball 1HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=38908&extension=ts
+#EXTINF:0,(DE) Telekom Fussball 2HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=38907&extension=ts
+#EXTINF:0,(DE) Telekom Fussball 3HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=38906&extension=ts
+#EXTINF:0,(DE) Telekom Fussball 4HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=38905&extension=ts
+#EXTINF:0,(DE) Telekom Fussball 5HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=38904&extension=ts
+#EXTINF:0,(DE) Telekom Fussball 6HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=38903&extension=ts
+#EXTINF:0,(DE) Telekom Fussball 7HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=47987&extension=ts
+#EXTINF:0,(DE) Telekom Fussball 8HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=47988&extension=ts
+#EXTINF:0,(DE) Telekom - BBL Sport 1 nur Spiel Tag
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51267&extension=ts
+#EXTINF:0,(DE) Telekom - BBL Sport 2 nur Spiel Tag
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51268&extension=ts
+#EXTINF:0,(DE) Telekom - BBL Sport 3 nur Spiel Tag
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51269&extension=ts
+#EXTINF:0,(DE) Telekom Sport BBL Sport 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51270&extension=ts
+#EXTINF:0,(DE) Telekom - DEL Sport 1 nur Spiel Tag
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51271&extension=ts
+#EXTINF:0,(DE) Telekom - DEL Sport 2 nur Spiel Tag
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51272&extension=ts
+#EXTINF:0,(DE) Telekom - DEL Sport 3 nur Spiel Tag
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51273&extension=ts
+#EXTINF:0,(DE) Telekom - DEL Sport 4 nur Spiel Tag
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51274&extension=ts
+#EXTINF:0,(DE) Telekom - DEL Sport 5 nur Spiel Tag
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51275&extension=ts
+#EXTINF:0,(DE) Telekom - DEL Sport 6 nur Spiel Tag
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51276&extension=ts
+#EXTINF:0,(DE) Telekom DEL Sport 7
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51277&extension=ts
+#EXTINF:0,(DE) Telekom - Frauen Bundesliga HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51262&extension=ts
+#EXTINF:0,(DE) Telekom Sky Sport Kompakt 1 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51263&extension=ts
+#EXTINF:0,(DE) Telekom Sky Sport Kompakt 2 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51264&extension=ts
+#EXTINF:0,(DE) Telekom Sky Sport Kompakt 3 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51265&extension=ts
+#EXTINF:0,(DE) Telekom Sky Sport Kompakt 4 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51266&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 1 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4619&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 2 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3336&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 3 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3335&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 4 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3334&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 5 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3333&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 6 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3332&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 7 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3331&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 8 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3330&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 9 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3329&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 10 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=119880&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 1 HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3248&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 2 HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3247&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 3 HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3246&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 4 HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3245&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 5 HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3244&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 6 HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3243&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 7 HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3242&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 8 HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3241&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 9 HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3240&extension=ts
+#EXTINF:0,(DE) Sky Bundesliga 10 HD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3337&extension=ts
+#EXTINF:0,(DE) Sky Sport News 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4628&extension=ts
+#EXTINF:0,(DE) Sky Sport Top Event 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=132617&extension=ts
+#EXTINF:0,(DE) Sky Sport Premier League 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=132615&extension=ts
+#EXTINF:0,(DE) Sky Sport Tennis 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=132614&extension=ts
+#EXTINF:0,(DE) Sky Sport Golf 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=132613&extension=ts
+#EXTINF:0,(DE) Sky Sport Mix 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=132612&extension=ts
+#EXTINF:0,(DE) Sky Sport F1 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=112076&extension=ts
+#EXTINF:0,(DE) Sky Sport F1 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=148490&extension=ts
+#EXTINF:0,(DE) Sky Sport 1 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4627&extension=ts
+#EXTINF:0,(DE) Sky Sport 2 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3296&extension=ts
+#EXTINF:0,(DE) Sky Sport 3 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3295&extension=ts
+#EXTINF:0,(DE) Sky Sport 4 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3294&extension=ts
+#EXTINF:0,(DE) Sky Sport 5 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3293&extension=ts
+#EXTINF:0,(DE) Sky Sport 6 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3292&extension=ts
+#EXTINF:0,(DE) Sky Sport 7 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3291&extension=ts
+#EXTINF:0,(DE) Sky Sport 8 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3290&extension=ts
+#EXTINF:0,(DE) Sky Sport 9 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3289&extension=ts
+#EXTINF:0,(DE) Sky Sport 10 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=120293&extension=ts
+#EXTINF:0,(DE) Sky Sport 11 4K
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3298&extension=ts
+#EXTINF:0,(DE) Sky Sport 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3300&extension=ts
+#EXTINF:0,(DE) Sky Sport 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=55475&extension=ts
+#EXTINF:0,(DE) Sky Sport 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=55476&extension=ts
+#EXTINF:0,(DE) Sky Sport 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3297&extension=ts
+#EXTINF:0,(DE) Sky Sport 3 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=45292&extension=ts
+#EXTINF:0,(DE) Sky Sport 4 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=45293&extension=ts
+#EXTINF:0,(DE) Sky Sport 5 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=45294&extension=ts
+#EXTINF:0,(DE) Sky Sport 6 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=45295&extension=ts
+#EXTINF:0,(DE) Sky Sport 7 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=45296&extension=ts
+#EXTINF:0,(DE) Sky Sport 8 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=45297&extension=ts
+#EXTINF:0,(DE) Sky Sport 9 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=45298&extension=ts
+#EXTINF:0,(DE) Sky Sport 10 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=45299&extension=ts
+#EXTINF:0,(DE) Sky Sport 11 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=45300&extension=ts
+#EXTINF:0,(DE) National Geographic 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7522&extension=ts
+#EXTINF:0,(DE) Crime + Investigation
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=45770&extension=ts
+#EXTINF:0,(DE) Animal Planet 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3439&extension=ts
+#EXTINF:0,(DE) Discovery 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3421&extension=ts
+#EXTINF:0,(DE) Discovery Channel HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=122570&extension=ts
+#EXTINF:0,(DE) DMAX 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7526&extension=ts
+#EXTINF:0,(DE) DMAX HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=127796&extension=ts
+#EXTINF:0,(DE) E! 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7528&extension=ts
+#EXTINF:0,(DE) TLC 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7527&extension=ts
+#EXTINF:0,(DE) Disney XD+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3416&extension=ts
+#EXTINF:0,(DE) Kabel Eins Doku 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=48384&extension=ts
+#EXTINF:0,(DE) Nat Geo Wild 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7523&extension=ts
+#EXTINF:0,(DE) History Channel 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7524&extension=ts
+#EXTINF:0,(DE) Spiegel Geschichte 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7525&extension=ts
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="=== SPOR EXTRA ===" tvg-logo="http://nartanesi.access.ly:54381/images/54537691bb5cb518ae1938496cc24b15.png" group-title="TR ✦ B**N SPOR-(EXTRA)",=== SPOR EXTRA ===
 http://sun66.xyz:54381/DVLT.96/250l920I1/81752
@@ -3348,34 +4205,7 @@ https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
 
 
 
-#EXTINF:0 tvg-id="1" CUID="1" tvg-chno="1" tvg-name="TR - OPTIMUS POP MUSİC 1 FHD" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - OPTIMUS POP MUSİC 1 FHD
-http://85.14.243.57:8000/video?channel=1
-#EXTINF:0 tvg-id="2" CUID="2" tvg-chno="2" tvg-name="TR - OPTIMUS POP MUSİC 2 FHD" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - OPTIMUS POP MUSİC 2 FHD
-http://85.14.243.57:8000/video?channel=2
-#EXTINF:0 tvg-id="3" CUID="3" tvg-chno="3" tvg-name="TR - OPTIMUS POP MUSİC 3 FHD" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - OPTIMUS POP MUSİC 3 FHD
-http://85.14.243.57:8000/video?channel=3
-#EXTINF:0 tvg-id="4" CUID="4" tvg-chno="4" tvg-name="TR - OPTIMUS POP MUSİC 4 FHD" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - OPTIMUS POP MUSİC 4 FHD
-http://85.14.243.57:8000/video?channel=4
-#EXTINF:0 tvg-id="5" CUID="5" tvg-chno="5" tvg-name="TR - OPTIMUS POP MUSİC 5 FHD" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - OPTIMUS POP MUSİC 5 FHD
-http://85.14.243.57:8000/video?channel=5
-#EXTINF:0 tvg-id="6" CUID="6" tvg-chno="6" tvg-name="TR - OPTIMUS POP MUSİC 6 FHD" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - OPTIMUS POP MUSİC 6 FHD
-http://85.14.243.57:8000/video?channel=6
-#EXTINF:0 tvg-id="7" CUID="7" tvg-chno="7" tvg-name="TR - OPTIMUS POP MUSİC 7 FHD" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - OPTIMUS POP MUSİC 7 FHD
-http://85.14.243.57:8000/video?channel=7
-#EXTINF:0 tvg-id="8" CUID="8" tvg-chno="8" tvg-name="TR - OPTIMUS POP MUSİC 8 FHD" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - OPTIMUS POP MUSİC 8 FHD
-http://85.14.243.57:8000/video?channel=8
-#EXTINF:0 tvg-id="9" CUID="9" tvg-chno="9" tvg-name="TR - OPTIMUS POP MUSİC 9 FHD" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - OPTIMUS POP MUSİC 9 FHD
-http://85.14.243.57:8000/video?channel=9
-#EXTINF:0 tvg-id="10" CUID="10" tvg-chno="10" tvg-name="TR - OPTIMUS POP MUSİC 10 FHD" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - OPTIMUS POP MUSİC 10 FHD
-http://85.14.243.57:8000/video?channel=10
-#EXTINF:0 tvg-id="11" CUID="11" tvg-chno="11" tvg-name="TR - OPTIMUS RAP MUSİC 1 FHD" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - OPTIMUS RAP MUSİC 1 FHD
-http://85.14.243.57:8000/video?channel=11
-#EXTINF:0 tvg-id="12" CUID="12" tvg-chno="12" tvg-name="TR - OPTIMUS RAP MUSİC 2 FHD" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - OPTIMUS RAP MUSİC 2 FHD
-http://85.14.243.57:8000/video?channel=12
-#EXTINF:0 tvg-id="13" CUID="13" tvg-chno="13" tvg-name="TR.MUSİC ARKAPLAN" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR.MUSİC ARKAPLAN
-http://85.14.243.57:8000/video?channel=13
-#EXTINF:0 tvg-id="14" CUID="14" tvg-chno="14" tvg-name="TR - YILMAZ GÜNEY" tvg-logo="http://85.14.243.57:8000/images/dizquetv.png" group-title="ULUSAL",TR - YILMAZ GÜNEY
-http://85.14.243.57:8000/video?channel=14
+
 
 
 #EXTINF:1 tvg-id="TRTMuzik.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/032bc15f-bc31-44c2-9049-27a0ddc0ecd0.png" group-title="Müzik",TRT Müzik
