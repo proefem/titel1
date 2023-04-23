@@ -3,6 +3,7 @@
 #refresh="86400" cache=500
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Turkey_flag.png" group-title="Live: Turkey",▬ Turkey [TR]  ▬
 #https://proxy.rssblue.com?url=
+
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
 https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
@@ -44,6 +45,12 @@ http://185.234.217.146:8080/a2_red_K_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
 https://epg.pw/stream/b6588b56215b12b9d3de4e94af2e70567d8a2d741dc9edf5925b87a10b7079a2.ts
+
+#EXTINF:-1 group-title="ULUSAL", NTD YESILCAM SİNEMA 
+https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+
+#EXTINF:-1 group-title="ULUSAL" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53 /CLCTV.PNG", CLC MEDYA TV HD
+https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
 https://streaming.netdirekt.com.tr:443/35757/teleontv/teleonmediagroup_showtimeapp_4kultrahd_/chunks.m3u8
@@ -99,21 +106,6 @@ http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr" tvg-name="KANAL B TR" tvg-logo="https://picon-13398.kxcdn.com/kanalbtr.jpg" aspect-ratio="16:9" group-title="ULUSAL",KANAL B ᴴᴰ
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 
-#EXTINF:0 tvg-id="Kanal5.tr tvg-name="KANAL 5 TR" tvg-logo="https://i.imgur.com/otRfbDM.png"group-title="ULUSAL", KANAL 5 ANKARA ᴴᴰ
-#http://50.7.136.162:1935/canlitv/kanal5/chunklist_w991018405.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijPvlTl3E8aBVEIphgHHe1ZmJD-joOg7HbNCN00u9ebJzeTDnPfICxaJA-l6kh1hat62UBJMu3qPw-xyfMNKcq8vii9dCVUeJs3PdcCVXb5r7SS7_qaGyMRCweqK6KT2XTQ8f_im6u6CWZG5gJuUixZarduOCfIp9nnFM2y5Ic46mV1pFGCHfjh7eTow/w65-h64/CH6.png", CHANNEL 6 HD
-#https://cors.deno.dev/https://host.onlineradyotv.net:8081/channel6tv/index.m3u8
-
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b41a1ed9-c92b-4252-bdf3-d4553335d814.png" group-title="ULUSAL",MSBC Kanal 2000 ᴴᴰ
-#https://cors.deno.dev/http://yerelmedya.tv:1935/kanal2000/bant1/chunks.m3u8
-  
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20445a9b-3713-4f67-8f06-825a1277ff4f.png" group-title="ULUSAL",TV 2020 ᴴᴰ
-#https://cors.deno.dev/http://50.7.136.162:1935/canlitv/tv2020/chunklist.m3u8
-
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d3df5795-0bd7-4c41-b5e6-8a60c640ac9b.png" group-title="ULUSAL",Torba TV
-#https://cors.deno.dev/http://50.7.136.162:1935/canlitv/torbatv/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="TV5.tr" tvg-name="TV 5 TR" tvg-logo="https://picon-13398.kxcdn.com/tv5tr.jpg" group-title="ULUSAL",TV 5 ᴴᴰ
 https://live.cache-stream.workers.dev/stream/56MllGbeFME/live.m3u8
 
@@ -127,31 +119,20 @@ https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGRh2rAXlRVDJ1Y81_Wnz2bSc-kzOzXZ5PWpN7VDvWsqm3771XEr98GerfS9RYYU2Cys2sZPp6fOlo-3ohTNbgK6eMAIfW7uX8ksgii5DDbI7phg0OS9vyCuMB_07VXjezaI0XnClPyizSTxehWHwRXchViNtABUigqEV8SSuVNw1mTeDUek0n4XPAgA/w111-h111/COZUM.png", COZUM YAPI TV HD
-#http://64.225.99.57:3496/hybrid/play.m3u8
+http://70.34.214.187:3496/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://i.imgur.com/ve4p5te.png"aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV ᴴᴰ
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg" aspect-ratio="16:9"   group-title="ULUSAL",AKILLI TV 
-http://213.172.73.170:8081/nimble_live/1024__Akilli_TV/playlist.m3u8
+http://31.223.85.34:9999/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-id="trtbelgesel.tr"tvg-name="TGRT Belgesel TR"  tvg-logo="https://picon-13398.kxcdn.com/tgrtbelgeseltr.jpg" aspect-ratio="16:9"  group-title="ULUSAL",TGRT BELGESEL  
 http://31.3.91.134:12005/udp/224.0.0.1:36517
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV
-http://yerelmedya.tv:1935/anadolunettv/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 
-#EXTINF:8 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER STAR1 
-#https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-
-#EXTINF:9 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER STAR2
-#https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
-
-#EXTINF:11 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER DEM TV
-#https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
-
-#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER ON TV
-#https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",Lig Radyo
 https://live.cache-stream.workers.dev/stream/UCZIvIef-1bk227OJeMKp2aA/live.m3u8
