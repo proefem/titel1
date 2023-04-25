@@ -46,20 +46,10 @@ http://185.234.217.146:8080/a2_red_K_TV/index.m3u8
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
 https://epg.pw/stream/b6588b56215b12b9d3de4e94af2e70567d8a2d741dc9edf5925b87a10b7079a2.ts
 
-#EXTINF:-1 group-title="ULUSAL", NTD YESILCAM SİNEMA 
+#EXTINF:-1 tvg-id="TVEm.tr" tvg-logo="https://www.yilmaztv.ru/logo/nth-yesilcam.png" group-title="Sinema",NTN YEŞİLÇAM
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 
-#EXTINF:-1 group-title="ULUSAL" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53 /CLCTV.PNG", CLC MEDYA TV HD
-https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
-https://streaming.netdirekt.com.tr:443/35757/teleontv/teleonmediagroup_showtimeapp_4kultrahd_/chunks.m3u8
-
-#EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d3292420-de0e-40a6-bbc6-9caedde337ad.png" group-title="ULUSAL",CİNE5 ᴴᴰ
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
-
-#EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPDyY5d5IpLzUjPPiZoNjNxscqiArUPncwL42W5KrDpOGhINrN1aRN4uabbQcWtMvl7_01tM75oqS8RCqVDU2QqoKDtCCueHCNiTQyUR56S71-F-Cpzgr4IzsJW9UrJzqwm4N7dr950PysjpW7kzy5bmn8fAAvTr6eH3u3m-Y8wnruB-vOQIZ3QtwqlA/w197-h46/kobimtv.PNG" group-title="ULUSAL",KOBiM TV ᴴᴰ
-http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -74,7 +64,7 @@ http://195.142.1.211:4022/udp/224.2.2.44:10001
 http://31.3.91.134:12005/udp/224.0.0.1:36516
 
 #EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="ULUSAL",MELTEM TV ᵁᴴᴰ⁺
-#https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8  
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8  
 
 #EXTINF:0  tvg-id="tivi6.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d3abe0c9-c8ba-4e03-a7fd-52e3ff523e2e.png" group-title="ULUSAL", TİVİ 6 ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
@@ -110,13 +100,40 @@ https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 https://live.cache-stream.workers.dev/stream/56MllGbeFME/live.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/090de54f-27dc-4a7e-9b78-fd979dc77777.png" group-title= "ULUSAL",TV 48 ᴴᴰ
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined    
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
 #EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0a63a891-c19e-48d4-b6c6-90a1700b1bd8.png"group-title="ULUSAL" ,TVO ᴴᴰ
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 
 #EXTINF:0 tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN KADIN TVᴴᴰ
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=" TR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="ULUSAL",LİDER TV
+http://195.142.1.211:4022/udp/224.2.2.13:10001
+
+#EXTINF:-1 group-title="ULUSAL" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53 /CLCTV.PNG", CLC MEDYA TV HD
+https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ElMiOp764LMIpiUE51sMa8-f0NG6R5cufW9wLUGCn71hY6G-E689Rzck1WnYr0JE9_6Ee-BzefqvavpkxKB6y6yzjqwsoz7Meil6uvSbWhihR3vz8cgHEWYzWXMnVF_hqbo0IutWmVSTvaBFWeb4y6zHQmnvRLmWnfFdazEzFjX7uNtxN34q-opzEw/w150-h53/oktayatasoybeyaz.jpg", OA TV HD
+https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", ÖZEL FiLM TV
+https://film.ozelip.com:3344/stream/play.m3u8
+
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER TV 
+https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER ON 
+https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
+#https://streaming.netdirekt.com.tr:443/35757/teleontv/teleonmediagroup_showtimeapp_4kultrahd_/chunks.m3u8
+
+#EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d3292420-de0e-40a6-bbc6-9caedde337ad.png" group-title="ULUSAL",CİNE5 ᴴᴰ
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+
+#EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPDyY5d5IpLzUjPPiZoNjNxscqiArUPncwL42W5KrDpOGhINrN1aRN4uabbQcWtMvl7_01tM75oqS8RCqVDU2QqoKDtCCueHCNiTQyUR56S71-F-Cpzgr4IzsJW9UrJzqwm4N7dr950PysjpW7kzy5bmn8fAAvTr6eH3u3m-Y8wnruB-vOQIZ3QtwqlA/w197-h46/kobimtv.PNG" group-title="ULUSAL",KOBiM TV ᴴᴰ
+http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGRh2rAXlRVDJ1Y81_Wnz2bSc-kzOzXZ5PWpN7VDvWsqm3771XEr98GerfS9RYYU2Cys2sZPp6fOlo-3ohTNbgK6eMAIfW7uX8ksgii5DDbI7phg0OS9vyCuMB_07VXjezaI0XnClPyizSTxehWHwRXchViNtABUigqEV8SSuVNw1mTeDUek0n4XPAgA/w111-h111/COZUM.png", COZUM YAPI TV HD
 http://70.34.214.187:3496/stream/play.m3u8
@@ -213,7 +230,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber HD TR" tvg-logo="https://picon-13398.kxcdn.com/tgrthabertr.jpg" group-title="HABER",TGRT HABER ᵁᴴᴰ⁺
-https://is.gd/Ydh7Jd/tgrt_haber.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Turk TR" tvg-logo="https://picon-13398.kxcdn.com/haberturktr.jpg" group-title="HABER",HABER TURK ᵁᴴᴰ⁺
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
@@ -276,7 +293,7 @@ http://185.236.229.31:9981/play/a04a
 https://muzkurd.com:443/Medya/live15/chunklist_w994833781.m3u8
 
 #EXTINF:-1 tvg-id="CemTV.tr" tvg-name="Cem TV TR" tvg-logo="https://picon-13398.kxcdn.com/cemtvtr.jpg" group-title="HABER",CEM TV ᴴᴰ
-#http://195.142.152.86:5858/CEMTV/index.m3u8|User-Agent=Lavf53.32.100 
+http://95.0.226.197:8000/play/a027
 
 #EXTINF:-1 tvg-id="YolTV.tr" tvg-logo="http://img.canlitvlive.io/logo/yol-tv.png" group-title="HABER",YOL TV ᴴᴰ
 https://stream.yol.tv:9443/medialive/yol.m3u8
@@ -303,7 +320,7 @@ https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8
 https://vdo.digitalbox.xyz:3652/stream/play.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6db76241-1eb4-479f-9241-6fbe261f3a79.png" group-title="HABER",World Türkᴴᴰ
-https://waw3.artiyerelmedya.net/worldturk/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf6b95a5-b675-49b3-9b79-62a1818d662a.png" group-title="HABER",Hür TVᴴᴰ
 #https://cors.deno.dev/http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/hurturktv|User-Agent=Lavf53.32.100 
@@ -327,22 +344,22 @@ http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
 #http://yerelmedya.tv:1935/bltturk/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OgbLRWN.png" group-title="HABER",MEDYA 24ᴴᴰ
-#https://yayin2.medya24.com:1947/medya24/live/chunklist_w738076911.m3u8|User-Agent=Lavf53.32.100 
+#https://yayin2.medya24.com:1947/medya24/live/chunklist_w738076911.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PKk57fA.png" group-title="HABER",HABER 61 TVᴴᴰ
-https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8|User-Agent=Lavf53.32.100 
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w5TQCHE.png" group-title="HABER",TV 264ᴴᴰ
-https://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8|User-Agent=Lavf53.32.100 
+https://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ON TV TR" tvg-logo="http://www.onmedya.com.tr/Resimler/Logo.png" group-title="HABER",ON TVᴴᴰ
-https://tv.digitalbox.xyz:19360/marmaratv/marmaratv.m3u8|User-Agent=Lavf53.32.100 
+https://tv.digitalbox.xyz:19360/marmaratv/marmaratv.m3u8
 
 #EXTINF:-1 tvg-name="ON6 TV" tvg-id="" tvg-logo="https://i.imgur.com/IruLSB4.png" group-title="HABER",ON6 TVᴴᴰ
-https://h92.artiyerelmedya.net/kanal16/bant1/chunks.m3u8|User-Agent=Lavf53.32.100 
+https://h92.artiyerelmedya.net/kanal16/bant1/chunks.m3u8
 
 #EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/LVTXSQE.jpg"group-title="HABER", Bursa HABER TV
-https://5be5d840359c6.streamlock.net/bursahabertv/bursahabertv/playlist.m3u8|User-Agent=Lavf53.32.100       
+https://5be5d840359c6.streamlock.net/bursahabertv/bursahabertv/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" tvg-logo="https://i.imgur.com/hb8QM53.png", Beykent TV
 https://yayin30.haber100.com/live/beykenttv/chunklist_w589627931.m3u8
@@ -2856,6 +2873,510 @@ http://play.max2022.cf:8080/selimbey/Selim36512/6161
 http://play.max2022.cf:8080/selimbey/Selim36512/6162
 #EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 10 HD" tvg-logo="http://atesiptv.xyz/tv-tum-dunya-logolar/logolar/BeonLogolar/salonhd/salon10hd.png" group-title="TR✦ Salon Sinema ",|TR| SALON 10 HD
 http://play.max2022.cf:8080/selimbey/Selim36512/6163
+
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Sinema Salon 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Sinema Salon 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/193281
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Sinema Salon 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Sinema Salon 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/193282
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Sinema Salon 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Sinema Salon 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/193283
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Sinema Salon 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Sinema Salon 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/193290
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Sinema Salon 5" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Sinema Salon 5
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/193289
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Sinema Salon 6" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Sinema Salon 6
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/193288
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Sinema Salon 7" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Sinema Salon 7
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/193287
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Sinema Salon 8" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Sinema Salon 8
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/193286
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Sinema Salon 9" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Sinema Salon 9
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/193285
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Sinema Salon 10" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Sinema Salon 10
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/193284
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Pantereu Vizyon 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Pantereu Vizyon 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12609
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Pantereu Vizyon 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Pantereu Vizyon 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12610
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Pantereu Vizyon 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Pantereu Vizyon 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12611
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Pantereu Vizyon 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Pantereu Vizyon 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12612
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Pantereu Vizyon 5" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Pantereu Vizyon 5
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12613
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Pantereu Vizyon 6" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Pantereu Vizyon 6
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12614
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Pantereu Vizyon 7" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Pantereu Vizyon 7
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12615
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Pantereu Vizyon 8" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Pantereu Vizyon 8
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12616
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Pantereu Vizyon 9" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Pantereu Vizyon 9
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12617
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Pantereu Vizyon 10" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Pantereu Vizyon 10
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12618
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Aksiyon 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Aksiyon 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12574
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Premier " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Premier 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12575
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Aksiyon 2 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Aksiyon 2 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12576
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Vizyon 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Vizyon 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12577
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Vizyon 2 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Vizyon 2 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12578
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Vizyon 3 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Vizyon 3 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12579
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Vizyon 4 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Vizyon 4 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12580
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Turk " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Turk 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12581
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Gold " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Gold 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12582
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Plus " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Plus 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12583
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max 007 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max 007 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12584
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Hint Filimleri" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Hint Filimleri
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12585
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Orjinal " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Orjinal 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12586
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Star Wars " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Max Star Wars 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12587
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunus Turk" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunus Turk
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12588
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12589
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12590
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12591
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12592
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 5" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 5
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12593
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 6" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 6
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12594
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 7" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 7
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12595
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 8" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 8
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12596
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 9" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 9
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12597
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 10" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 10
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12598
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 11" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 11
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12599
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 12" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 12
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12600
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 13" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 13
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12601
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 14" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 14
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12602
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 15" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 15
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12603
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 16" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 16
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12604
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 17" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 17
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12605
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 18" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 18
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12606
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 19" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 19
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12607
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonus Sinema 20" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonus Sinema 20
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12608
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox 4K" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox 4K
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12619
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Turk " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Turk 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12620
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Nostalji " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Nostalji 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12621
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Festival " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Festival 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12622
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinebox Stars " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Sinebox Stars 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12623
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Premier " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Premier 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12624
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Gold " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Gold 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12625
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Nextbox Cinema Turk" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Nextbox Cinema Turk
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12626
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Nextbox Cinema Vizyon" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Nextbox Cinema Vizyon
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12627
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Nextbox Cinema Stars" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Nextbox Cinema Stars
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12628
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Nextbox Scary" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Nextbox Scary
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12629
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Nextbox Subtitle" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Nextbox Subtitle
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12630
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 1 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 1 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12631
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 2 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 2 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12632
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 3 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 3 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12633
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 4 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 4 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12634
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 5 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 5 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12635
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 6 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 6 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12636
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 7 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 7 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12637
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 8 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 8 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12638
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 9 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 9 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12639
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 10 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 10 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12640
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 11 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 11 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12641
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 12 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 12 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12642
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 13 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 13 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12643
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 14 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 14 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12644
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 15 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 15 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12645
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 16 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 16 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12646
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 17 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 17 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12647
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 18 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 18 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12648
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 19 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 19 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12649
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bonunusbox Yerli 20 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Bonunusbox Yerli 20 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12650
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12651
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12652
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12653
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12654
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 5" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 5
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12655
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 6" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 6
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12656
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 7" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 7
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12657
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 8" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 8
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12658
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 9" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 9
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12659
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 10" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 10
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12660
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 11" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 11
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12661
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 12" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 12
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12662
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 13" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 13
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12663
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 14" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 14
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12664
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 15" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 15
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12665
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 16" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 16
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12666
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 17" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 17
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12667
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 18" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 18
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12668
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 19" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 19
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12669
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Filmbox Office 20" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Filmbox Office 20
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12670
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Redbox Actie 1 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Redbox Actie 1 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12672
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Redbox Korku 1 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Redbox Korku 1 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12673
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Redbox Mix 1 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Redbox Mix 1 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12674
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Redbox Bilimkurgu 1 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Redbox Bilimkurgu 1 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12675
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Redbox Vizyon 1 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Redbox Vizyon 1 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12676
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Redbox Vizyon 2 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Redbox Vizyon 2 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12677
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Redbox Sinema Turk 1 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Redbox Sinema Turk 1 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12678
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Redbox Sinema Turk 2 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Redbox Sinema Turk 2 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12679
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Redbox Drama " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Redbox Drama 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12680
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Redbox Premiere" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Redbox Premiere
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12681
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon Turk 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Sinevizyon Turk 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12682
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon Turk 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Sinevizyon Turk 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12683
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon Turk 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Sinevizyon Turk 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12684
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon Turk 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Sinevizyon Turk 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12685
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon Turk 5" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Sinevizyon Turk 5
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12686
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon Turk 6" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Sinevizyon Turk 6
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12687
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon Turk 7" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Sinevizyon Turk 7
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12688
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon Turk 8" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Sinevizyon Turk 8
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12689
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon Turk 9" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Sinevizyon Turk 9
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12690
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon Turk 10" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] Sinevizyon Turk 10
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12691
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Sinema Mix 1 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] U&S Sinema Mix 1 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12692
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Sinema Mix 2 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] U&S Sinema Mix 2 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12693
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Sinema Mix 3 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] U&S Sinema Mix 3 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12694
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Sinema Mix 4 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] U&S Sinema Mix 4 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12695
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Sinema Mix 5 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] U&S Sinema Mix 5 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12696
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Sinema Mix 6 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] U&S Sinema Mix 6 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12697
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Sinema Mix 7 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] U&S Sinema Mix 7 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12698
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Sinema Mix 8 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] U&S Sinema Mix 8 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12699
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Sinema Mix 9 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] U&S Sinema Mix 9 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12700
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Sinema Mix 10 " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_514.png" group-title="[TR] Sinema Salon",[TR] U&S Sinema Mix 10 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12701
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Mix" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Mix
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12566
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Macera" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Macera
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12568
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Fantastik" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Fantastik
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12569
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Animasyon" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Animasyon
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12570
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Korku" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Korku
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12571
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Turk" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Turk
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12572
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Galaxy Sinema" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_336.png" group-title="[TR] Sinema Salon",[TR] Galaxy Sinema
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12573
+#EXTINF:-1 tvg-id="" tvg-name="ⓊⓈ ⓊⓈ 7/24 YESILCAM ⓊⓈ ⓊⓈ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",ⓊⓈ ⓊⓈ 7/24 YESILCAM ⓊⓈ ⓊⓈ
+https://cors.zimjs.com/http://res73.uslive.site:8080/useupanel232/Ds22Cssc.2/566
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Hababam Sinifi " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] U&S Hababam Sinifi 
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135903
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Yesilcam Tv 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] U&S Yesilcam Tv 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135907
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Yesilcam Tv 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] U&S Yesilcam Tv 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135908
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Galaxy Hülya Kocyigit" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Galaxy Hülya Kocyigit
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135912
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Galaxy Kadir Inanir" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Galaxy Kadir Inanir
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135913
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Galaxy Orhan Gencebay" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Galaxy Orhan Gencebay
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135914
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Galaxy Ibrahim Tatlises" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Galaxy Ibrahim Tatlises
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135915
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Galaxy Yesillcam 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Galaxy Yesillcam 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135916
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Galaxy Yesilcam 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Galaxy Yesilcam 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135919
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Galaxy Zeki & Metin" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Galaxy Zeki & Metin
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135920
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Bonustv Kemal Sunal 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Bonustv Kemal Sunal 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135934
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Bonustv Kemal Sunal 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Bonustv Kemal Sunal 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135935
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Bonustv Kemal Sunal 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Bonustv Kemal Sunal 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135936
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Galaxy Şener Şen Tv" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Galaxy Şener Şen Tv
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135937
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Semboltv Kemal Sunal 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Semboltv Kemal Sunal 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135938
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Semboltv Kemal Sunal 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Semboltv Kemal Sunal 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135939
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Semboltv Kemal Sunal 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Semboltv Kemal Sunal 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135940
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Semboltv Kemal Sunal 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Semboltv Kemal Sunal 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135941
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Semboltv Yesilcam 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Semboltv Yesilcam 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135942
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Semboltv Yesilcam 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Semboltv Yesilcam 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135943
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Semboltv Yesilcam 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Semboltv Yesilcam 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135944
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Semboltv Yesilcam 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Semboltv Yesilcam 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135945
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Semboltv Yesilcam 5" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Semboltv Yesilcam 5
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135946
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Semboltv Yesilcam 6" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Semboltv Yesilcam 6
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135947
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Semboltv Yesilcam 7" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Semboltv Yesilcam 7
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135948
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Bonustv Yesilcam 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Bonustv Yesilcam 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135949
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Bonustv Yesilcam 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Bonustv Yesilcam 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135950
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Bonustv Yesilcam 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Bonustv Yesilcam 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135951
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 7/24 Bonustv Yesilcam 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_522.png" group-title="[TR] 7/24 Yesilcam",[TR] 7/24 Bonustv Yesilcam 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135952
+#EXTINF:-1 tvg-id="" tvg-name="ⓊⓈ ⓊⓈ DIGITAL TV ⓊⓈ ⓊⓈ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",ⓊⓈ ⓊⓈ DIGITAL TV ⓊⓈ ⓊⓈ
+https://cors.zimjs.com/http://res73.uslive.site:8080/useupanel232/Ds22Cssc.2/1051
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Yerli 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Yerli 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1052
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Yerli 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Yerli 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1053
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Yerli 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Yerli 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1054
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Yerli 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Yerli 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1055
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Yerli 5" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Yerli 5
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1056
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Yerli 6" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Yerli 6
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1057
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Yerli 7" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Yerli 7
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1058
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Yerli 8" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Yerli 8
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1059
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Yerli 9" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Yerli 9
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1060
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Yerli 10" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Yerli 10
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1061
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Korku 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Korku 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1062
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Korku 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Korku 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1063
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Korku 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Korku 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1064
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Korku 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Korku 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1065
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Korku 5" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Korku 5
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1066
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Savas 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Savas 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1067
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Savas 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Savas 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1068
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Savas 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Savas 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1069
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Savas 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Savas 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1070
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Savas 5" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Savas 5
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1071
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Suç ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Suç ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12493
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Dram ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Dram ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12494
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Korku ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Korku ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12495
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Gizem ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Gizem ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12496
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Gerilim ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Gerilim ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12497
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Macera ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Macera ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12498
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Komedi ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Komedi ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12499
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Aksiyon ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Aksiyon ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12500
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Fantastik ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Fantastik ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12501
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Romantik ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Romantik ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12502
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Animasyon ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Animasyon ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12503
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix Bilimkurgu ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix Bilimkurgu ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12504
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix 1 ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix 1 ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12505
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix 2 ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix 2 ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12506
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix 3 ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix 3 ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12507
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix 4 ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix 4 ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12508
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netflix 5 ʜᴅ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_523.png" group-title="[TR] Digital Platform",[TR] Netflix 5 ʜᴅ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12509
+#EXTINF:-1 tvg-id="" tvg-name="ⓊⓈ ⓊⓈ ANIMASYON TV ⓊⓈ ⓊⓈ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",ⓊⓈ ⓊⓈ ANIMASYON TV ⓊⓈ ⓊⓈ
+https://cors.zimjs.com/http://res73.uslive.site:8080/useupanel232/Ds22Cssc.2/566
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TurkaSat Animasyon 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] TurkaSat Animasyon 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/862
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TurkaSat Animasyon 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] TurkaSat Animasyon 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/863
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MaGicBoX Animasyon 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] MaGicBoX Animasyon 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/864
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MaGicBoX Animasyon" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] MaGicBoX Animasyon
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/865
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Blue Animasyon 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] Blue Animasyon 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/875
+#EXTINF:-1 tvg-id="" tvg-name="[TR] U&S Animasyon 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] U&S Animasyon 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/883
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Full Tv Animasyon 5 pokemon" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] Full Tv Animasyon 5 pokemon
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/884
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Panter Tv Animasyon 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] Panter Tv Animasyon 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/885
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Panter Tv Animasyon 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] Panter Tv Animasyon 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/886
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Panter Animasyon 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] Panter Animasyon 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/887
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Panter Animasyon 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] Panter Animasyon 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/889
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Fast Animasyon" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] Fast Animasyon
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/853
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Ultra Animasyon" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] Ultra Animasyon
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/859
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Dream Animasyon" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] Dream Animasyon
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/860
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Vip Loca Sinema Animasyon" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] Vip Loca Sinema Animasyon
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/12567
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Netserver Animasyon 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_519.png" group-title="[TR] Animasyon Sinema",[TR] Netserver Animasyon 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/846
+#EXTINF:-1 tvg-id="" tvg-name="Super Kahramanlar Birliği (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8M6bA5t2q5u1nWDTEIXuGDwvboW.jpg" group-title="[TR FILM] Animasyon Filmler",Super Kahramanlar Birliği (2023)
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/movie/Vist38382023/gDhecpFUzhFJ/138127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ⓊⓈ ⓊⓈ RELAX TV  ⓊⓈ ⓊⓈ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_525.png" group-title="[TR] Screensaver",ⓊⓈ ⓊⓈ RELAX TV  ⓊⓈ ⓊⓈ
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1614
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 1
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1615
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 2
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1616
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 3
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1617
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 4
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1618
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 5" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 5
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1619
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 6" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 6
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1620
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 7" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 7
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1621
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 8" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 8
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1622
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 9" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 9
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1623
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 10" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 10
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1624
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 11" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 11
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1625
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 12" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 12
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1626
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 13" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 13
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1627
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 14" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 14
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1628
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 15" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 15
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1631
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 16" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 16
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1632
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 17" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 17
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1633
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 18" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 18
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1634
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 19" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 19
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1635
+#EXTINF:-1 tvg-id="" tvg-name="Relax Movie 90'lar" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_524.png" group-title="[TR] Screensaver",Relax Movie 90'lar
+https://cors.zimjs.com/http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/1636
+
 
 
 
