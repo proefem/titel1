@@ -1,11 +1,11 @@
 #EXTM3U 
-#x-tvg-url="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml,https://i.mjh.nz/SamsungTVPlus/de.xml.gz,https://i.mjh.nz/PlutoTV/de.xml.gz,https://iptvx.site/epg_lite.xml.gz,,,,"
+#x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml,https://i.mjh.nz/SamsungTVPlus/de.xml.gz,https://i.mjh.nz/PlutoTV/de.xml.gz,https://iptvx.site/epg_lite.xml.gz,,,,"
 #refresh="86400" cache=500
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Turkey_flag.png" group-title="Live: Turkey",▬ Turkey [TR]  ▬
-#https://proxy.rssblue.com?url=
+#https://proxy.rssblue.com?url=|User-Agent=Lavf53.32.100 
 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
-http://135.125.234.9:8081/trt1/index.m3u8
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
 http://195.142.1.211:4022/udp/224.2.2.19:10001
@@ -68,10 +68,10 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/teve-63-canli-izle.png" tvg-id2="MzA=" group-title="ULUSAL",TEVE 63 
-#https://arajans.ozelip.com:3234/live/arajanslive.m3u8|User-Agent=Lavf53.32.100 
+#https://arajans.ozelip.com:3234/live/arajanslive.m3u8
 
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",TV35 ᴴᴰ⁺
-#https://cors.deno.dev/https://stream01.tv35.com.tr/hls2/tv35izmir.m3u8|User-Agent=Lavf53.32.100 
+#https://cors.deno.dev/https://stream01.tv35.com.tr/hls2/tv35izmir.m3u8
 
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",birtv ᴴᴰ⁺
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
@@ -273,7 +273,7 @@ https://live.cache-stream.workers.dev/stream/ZiIa__0VjF8/live.m3u8
 #EXTINF:-1 tvg-id="tv100Ekonomi.tr"tvg-logo="https://yerelmedya.tv/logosTV/bultentv.png"group-title="HABER",BÜLTEN TV ANKARA
 https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/chunklist_w177972703_b1996000.m3u8
 
-#EXTINF:-1 tvg-id="tv100Ekonomi.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/04d8881d-f0cb-4a27-92c2-94230402fd92.png"group-title="HABER",TV100 eko ᴴᴰ⁺
+#EXTINF:-1 tvg-id="tv100Ekonomi.tr" tvg-language="Turkish" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN_Xu8UX1lGKDGDf5DyHx-iVN4PAvIMyAyfUlZPflwl4AQD3-FCa8rXdTvXG0d4mzCY23JCWpbF6iq4CxeziImQluq-WZ4MFQJ3wk1R2yBJcZsQ6nIXQS6bv9cOsKqijj6n0fzq1qfbM_5QpZ_pwNn7NEinQS0YtKyjINjEJjIubwoE0Ot4MnZKXhR6g/w200-h142/tv100-ekonomi.png"group-title="HABER",TV100 eko ᴴᴰ⁺
 https://live.cache-stream.workers.dev/stream/UCndsdUW_oPLqpQJY9J8oIRg/live.m3u8
 
 #EXTINF:-1 tvg-id="Finansturk.tr" tvg-logo="https://finansturktv.com/images/logo.png" group-title="HABER",FINANSTURK ᴴᴰ
@@ -383,13 +383,13 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
 
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2.tr" tvg-logo="https://picon-13398.kxcdn.com/trt2tr.jpg" group-title="ULUSAL-int" ,TRT 2 ᴴᴰ
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+http://135.125.234.9:8081/trt2/index.m3u8
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRTAvaz.tr" tvg-logo="https://picon-13398.kxcdn.com/trtavaztr.jpg" group-title="ULUSAL-int",TRT AVAZ ᴴᴰ
-http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+http://135.125.234.9:8081/trtavaz/index.m3u8
 
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk TR" tvg-logo="https://picon-13398.kxcdn.com/trtturk.jpg" group-title="ULUSAL-int",TRT Türk TR
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
+http://135.125.234.9:8081/trtturk/index.m3u8
 
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa TR" tvg-logo="https://i.imgur.com/8t5aAVx.png"  group-title="ULUSAL-int",ATV AVRUPA ᴴᴰ
 http://62.182.82.104/atv_turk/index.m3u8?token=test
@@ -410,7 +410,7 @@ http://95.0.226.197:8000/play/a037
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRT EU TR" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url=""aspect-ratio="16:9"  group-title="ULUSAL-int",TGRT EU  
-https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+http://31.3.91.134:12005/udp/224.0.0.1:36516
     
 #EXTINF:-1 tvg-id="KanalAvrupa.tr"tvg-name="Kanal Avrupa TR"   tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_avrupa.png" group-title="ULUSAL-int",KANAL AVRUPA ᴴᴰ
 http://51.15.2.151/hls/kanalavrupa.m3u8
