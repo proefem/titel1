@@ -1,6 +1,7 @@
 #EXTM3U 
 #x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml,https://i.mjh.nz/SamsungTVPlus/de.xml.gz,https://i.mjh.nz/PlutoTV/de.xml.gz,https://iptvx.site/epg_lite.xml.gz,,,,"
 #refresh="86400" cache=500
+
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Turkey_flag.png" group-title="Live: Turkey",▬ Turkey [TR]  ▬
 #https://proxy.rssblue.com?url=|User-Agent=Lavf53.32.100 
 
@@ -29,16 +30,16 @@ http://195.142.1.211:4022/udp/224.2.2.34:10001
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+http://135.125.234.9:8081/foxtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1tvg-id="Teve2.tr"tvg-name="Teve2.tr"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᵁᴴᴰ⁺
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="ULUSAL",360 TV ᵁᴴᴰ⁺
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv4-logo.png" group-title="ULUSAL",TV 4 ᵁᴴᴰ⁺
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="ULUSAL",A2 ᵁᴴᴰ⁺
 http://185.234.217.146:8080/a2_red_K_TV/index.m3u8
@@ -55,7 +56,7 @@ http://195.142.1.211:4022/udp/224.2.2.41:10001
 #EXTINF:1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/benguturk.png"group-title="ULUSAL",BENGUTURK TV ᵁᴴᴰ⁺
 http://195.142.1.211:4022/udp/224.2.2.44:10001
 
-#EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU  
+#EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU ᴴᴰ 
 http://31.3.91.134:12005/udp/224.0.0.1:36516
 
 #EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="ULUSAL",MELTEM TV ᵁᴴᴰ⁺
@@ -67,11 +68,11 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://kanallogo2.com/images/ulusal/tv-em.png" aspect-ratio="16:9" group-title="ULUSAL",TVEM ᴴᴰ
 https://cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/teve-63-canli-izle.png" tvg-id2="MzA=" group-title="ULUSAL",TEVE 63 
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/teve-63-canli-izle.png" tvg-id2="MzA=" group-title="ULUSAL",TEVE 63 ᴴᴰ
 #https://arajans.ozelip.com:3234/live/arajanslive.m3u8
 
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",TV35 ᴴᴰ⁺
-#https://cors.deno.dev/https://stream01.tv35.com.tr/hls2/tv35izmir.m3u8
+#https://stream01.tv35.com.tr/hls2/tv35izmir.m3u8
 
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",birtv ᴴᴰ⁺
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
@@ -79,20 +80,20 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://1.bp.blogspot.com/-wF5eNKY01xg/X6rpBQckirI/AAAAAAAAPp0/DV08ZjdaWlECc4-XCNqa6ATJJoy6moLKgCLcBGAsYHQ/s320/denizposta.png"  group-title="ULUSAL",DENİZ POSTASI ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WYhTpIm.png" group-title="ULUSAL" , KANAL 34 iSTANBUL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WYhTpIm.png" group-title="ULUSAL" , KANAL 34 iSTANBULᴴᴰ
 https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/NPgSgYm.png" group-title="ULUSAL", KANAL iSTANBUL ᴴᴰ
 http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ta44cGT.png" group-title="ULUSAL",ISTANBUL TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ta44cGT.png" group-title="ULUSAL",ISTANBUL TV ᴴᴰ
 http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 
 #EXTINF:-1 tvg-id="KanalB.tr" tvg-name="KANAL B TR" tvg-logo="https://picon-13398.kxcdn.com/kanalbtr.jpg" aspect-ratio="16:9" group-title="ULUSAL",KANAL B ᴴᴰ
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 
 #EXTINF:-1 tvg-id="TV5.tr" tvg-name="TV 5 TR" tvg-logo="https://picon-13398.kxcdn.com/tv5tr.jpg" group-title="ULUSAL",TV 5 ᴴᴰ
-https://live.cache-stream.workers.dev/stream/56MllGbeFME/live.m3u8
+https://live.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/090de54f-27dc-4a7e-9b78-fd979dc77777.png" group-title= "ULUSAL",TV 48 ᴴᴰ
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
@@ -103,12 +104,23 @@ https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 #EXTINF:0 tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN KADIN TVᴴᴰ
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" TR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="ULUSAL",LİDER TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="ULUSAL",LİDER TV
 http://195.142.1.211:4022/udp/224.2.2.13:10001
+
+#EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0a63a891-c19e-48d4-b6c6-90a1700b1bd8.png"group-title="ULUSAL" ,SAM TV ᴴᴰ
+https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8  
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="	https://yt3.ggpht.com/oJQArCbC3NDhMxcGlDTQ-FWWSdjVFyjuBY8QEkH4sG6o3DG6ZlWlfTZHKK-olfAD3ITw9P770UQ" group-title="ULUSAL",Kemal Sunal Filmleri ᴴᴰ
+https://ythls.onrender.com/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMRhxahpwJAMnxyuinE-u2lFMovt8zhGjHOkPQ4" group-title="ULUSAL",CENNET MAHALLESİ ᴴᴰ
+https://ythls.onrender.com/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqOdrtJjtFQg2XWDdKq8vN7Tnl7YvkFhafCaKzic" group-title="ULUSAL",ÇOCUKLAR DUYMASIN ᴴᴰ
+https://ythls.onrender.com/channel/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8.m3u8		
 
 #EXTINF:-1 tvg-id="TVEm.tr" tvg-logo="https://www.yilmaztv.ru/logo/nth-yesilcam.png" group-title="ULUSAL",NTN YEŞİLÇAM
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
-
 
 #EXTINF:-1 group-title="ULUSAL" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53 /CLCTV.PNG", CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
@@ -119,11 +131,26 @@ https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", ÖZEL FiLM TV
 https://film.ozelip.com:3344/stream/play.m3u8
 
-#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER TV 
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://i.imgur.com/VTeSkWA.png",DİZİ MAX
+https://live.cache-stream.workers.dev/stream/UCsRzd5DMZQqe00m_SM6BKzw/live.m3u8
+
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://i.imgur.com/VTeSkWA.png",KANAL D DRAMA HD 
+http://212.224.84.202:2200/ALB-EX/KanalD_Drama_AL-alb/tracks-v1a1/mono.m3u8?token=null|User-Agent=Rediptv Plus 2.0.17
+
+#EXTINF:-1 tvg-id="lD.tr"tvg-name="Kanal D HD"  tvg-logo="https://i.imgur.com/OJynDDJ.png" group-title="ULUSAL",Timeless Dizi Channel
+http://91.233.47.254:8887/udp/224.200.202.113
+
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER 1 
 https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
 
-#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER ON 
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER 2 
 https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER TV 3
+https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
+
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER ON 4
+https://ssh101.bozztv.com/ssh101/teber4/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
 #https://streaming.netdirekt.com.tr:443/35757/teleontv/teleonmediagroup_showtimeapp_4kultrahd_/chunks.m3u8
@@ -220,7 +247,7 @@ http://195.142.1.211:4022/udp/224.2.2.45:10001
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 
 #EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV HD" tvg-logo="https://picon-13398.kxcdn.com/24tvtr.jpg" group-title="HABER",24 TV ᵁᴴᴰ⁺
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
 #EXTINF:-1 tvg-id="TVNet.tr" tvg-name="TV Net TR" tvg-logo="https://picon-13398.kxcdn.com/tvnettr.jpg" group-title="HABER",TV NET ᴴᴰ⁺
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
@@ -243,6 +270,9 @@ http://195.142.1.211:4022/udp/224.2.2.13:10001
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="https://picon-13398.kxcdn.com/ulsalkanaltr.jpg" group-title="HABER",ULUSAL KANAL ᴴᴰ
 https://mn-nl.mncdn.com:443/blutv_ulusalkanal/blutv_ulusalkanal.smil/chunklist_b2096000.m3u8   
 
+#EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEii8xR5n8XeIJ5hszOs_uCsSwhAhtDo5aO_rIqY1k9t4DbzJkIyg10TEFdtc4ZGwuLspWzD8M6F3c-uK50GuU5AUgCnNFpQi8oa2sWakYh6Qfxid6OEfZB-G_XvNZMzzcFrOD6ByzOkOB9gVjau00AOXiQRHxFVeaIghXYfXpcIIxJGbnr1PI3SmfFfNA=w153-h86"group-title="HABER" , SOZCU TV
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+
 #EXTINF:-1 tvg-id="FlashTV.tr"tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="HABER",FLASH TV ᴴᴰ
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 
@@ -254,9 +284,6 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="HABER",KRT TV ᵁᴴᴰ⁺
 https://krt.blutv.com/blutv_krt_live/live.m3u8
-
-#EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEii8xR5n8XeIJ5hszOs_uCsSwhAhtDo5aO_rIqY1k9t4DbzJkIyg10TEFdtc4ZGwuLspWzD8M6F3c-uK50GuU5AUgCnNFpQi8oa2sWakYh6Qfxid6OEfZB-G_XvNZMzzcFrOD6ByzOkOB9gVjau00AOXiQRHxFVeaIghXYfXpcIIxJGbnr1PI3SmfFfNA=w153-h86"group-title="HABER" , SOZCU TV
-https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
 
 #EXTINF:-1 tvg-id="caddetv.tr" tvg-name="CADDE TV HD" tvg-logo="https://caddetv.com.tr/content/ankara/images/logo.png" group-title="HABER",CADDE TV
 http://95.0.226.197:8000/play/a03q
@@ -300,11 +327,11 @@ https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:-1 tvg-id="CanTV.tr" tvg-logo="https://picon-13398.kxcdn.com/cantvkrd.jpg"  group-title="HABER",CAN TV ᴴᴰ
 http://canbroadcast.com:7000/canlican/tv.m3u8
 
-#EXTINF: -1 tvg-id="SamanyoluTV.tr" tvg-logo="http://i.hizliresim.com/43r1sl4.png" group-title="HABER", SAMANYOLU TV
-http://cdn.jwplayer.com/manifests/u3f6Dexv.m3u8
-
-#EXTINF:-1 tvg-id="McEu.us" tvg-name="McEu.us" tvg-logo="https://picon-13398.kxcdn.com/mceutr.jpg" group-title="HABER",MC EU TV ᴴᴰ
+#EXTINF:-1 tvg-id="McEu.us" tvg-name="McEu.us" tvg-logo="https://picon-13398.kxcdn.com/mceutr.jpg" group-title="HABER",MC EU TV ᴴᴰ (FETÖCÜLERİN)
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+
+#EXTINF: -1 tvg-id="SamanyoluTV.tr" tvg-logo="http://i.hizliresim.com/43r1sl4.png" group-title="HABER", SAMANYOLU TV
+#http://cdn.jwplayer.com/manifests/u3f6Dexv.m3u8
 
 #EXTINF:-1 tvg-id="McEu.us" tvg-name="McEu.us" tvg-logo="https://picon-13398.kxcdn.com/mceutr.jpg" group-title="HABER",ALESTA TV ᴴᴰ
 #https://n2.cdn.jetstre.am/session/49d4e96a9b6f2bb9b2f199b313947bab/sz/mceutv/wowza4/live/mc2/playlist.m3u8?token=JOIJuiYoDddye9kvg-Wm2g&time=1667659022
@@ -342,43 +369,44 @@ http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1"  tvg-logo="https://www.akratek.com/wp-content/uploads/2019/11/Akratek-BLTTURK-3.png"group-title="HABER", BLT TURKᴴᴰ
 #http://yerelmedya.tv:1935/bltturk/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OgbLRWN.png" group-title="HABER",MEDYA 24ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OgbLRWN.png" group-title="HABER",MEDYA 24 ᴴᴰ
 #https://yayin2.medya24.com:1947/medya24/live/chunklist_w738076911.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PKk57fA.png" group-title="HABER",HABER 61 TVᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PKk57fA.png" group-title="HABER",HABER 61 TV ᴴᴰ
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w5TQCHE.png" group-title="HABER",TV 264ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w5TQCHE.png" group-title="HABER",TV 264 ᴴᴰ
 https://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ON TV TR" tvg-logo="http://www.onmedya.com.tr/Resimler/Logo.png" group-title="HABER",ON TVᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="ON TV TR" tvg-logo="http://www.onmedya.com.tr/Resimler/Logo.png" group-title="HABER",ON TV ᴴᴰ
 #https://yayin1.canlitv.day/canlitv/marmaratv.stream/playlist.m3u8?hash=f10d9cb7c591ba33847565b1ec5a082d
 #https://tv.digitalbox.xyz:19360/marmaratv/marmaratv.m3u8
 
-#EXTINF:-1 tvg-name="ON6 TV" tvg-id="" tvg-logo="https://i.imgur.com/IruLSB4.png" group-title="HABER",ON6 TVᴴᴰ
+#EXTINF:-1 tvg-name="ON6 TV" tvg-id="" tvg-logo="https://i.imgur.com/IruLSB4.png" group-title="HABER",ON6 TV ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
 
-#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/LVTXSQE.jpg"group-title="HABER", Bursa HABER TV
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/LVTXSQE.jpg"group-title="HABER", Bursa HABER TV ᴴᴰ
 #https://5be5d840359c6.streamlock.net/bursahabertv/bursahabertv/playlist.m3u8
 
-#EXTINF:-1 group-title="HABER" tvg-logo="https://i.imgur.com/hb8QM53.png", Beykent TV
+#EXTINF:-1 group-title="HABER" tvg-logo="https://i.imgur.com/hb8QM53.png", Beykent TV ᴴᴰ
 https://yayin30.haber100.com/live/beykenttv/chunklist_w589627931.m3u8
 
 #EXTINF:-1 tvg-id="TRTMeclis.tr" tvg-name="TRT Meclis HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbmm_tv.png" group-title="HABER",TBMM - MECLiS TVᴴᴰ
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdnassets.aa.com.tr/assets/newVersion/images/logo1_b_yan_100.png"  group-title="HABER_NEWS",ANADOLU AJANS Live  Haber Ajansı 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdnassets.aa.com.tr/assets/newVersion/images/logo1_b_yan_100.png"  group-title="HABER_NEWS",1 ANADOLU AJANS Live  Haber Ajansı 
 https://mtulqxgomrllive3.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0e060623.smil/chunklist_b200000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdnassets.aa.com.tr/assets/newVersion/images/logo1_b_yan_100.png"  group-title="HABER_NEWS",ANADOLU AJANS Live  Haber Ajansı 2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdnassets.aa.com.tr/assets/newVersion/images/logo1_b_yan_100.png"  group-title="HABER_NEWS",2 ANADOLU AJANS Live  Haber Ajansı 
 https://mtulqxgomrllive3.mediatriple.net/mtulqxgomrllive/broadcast_59f9c12387f12.smil/chunklist_b200000.m3u8
 
 #EXTINF:0 type="stream" group="HABER_NEWS" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/234dd0da-3246-40cd-a249-947178ae6269.jpeg",Albayrak Ajans
 https://cdn10-albayrakajans.yayin.com.tr/albayrakajans/albayrakajans/playlist.m3u8
 
-#EXTINF:-1 group-title="HABER_NEWS" tvg-logo="https://i.imgur.com/pSvhSP2.png", DHA Canlı 1
+#EXTINF:-1 group-title="HABER_NEWS" tvg-logo="https://i.imgur.com/pSvhSP2.png", 1DHA Canlı 1
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
-#EXTINF:-1 group-title="HABER_NEWS" tvg-logo="https://i.imgur.com/pSvhSP2.png", DHA Canlı 2
+
+#EXTINF:-1 group-title="HABER_NEWS" tvg-logo="https://i.imgur.com/pSvhSP2.png", 2DHA Canlı 2
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
 
 
@@ -4624,6 +4652,7 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0408f060-b0bc-4eaa-9547-55fd5a3a7da0.png" group-title="Dini",Lalegül TV
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:1 tvg-id="VavTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3f0ca807-b823-40b7-9056-3f42e6e852b6.png" group-title="Dini",Vav TV
+https://ythls.onrender.com/channel/channel/UCmMPdW0rtbEI_XyIsMlMnqg.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001305/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001305&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #EXTINF:-1 tvg-id="" tvg-name="ISLAM- Mecca" tvg-logo="https://e7.pngegg.com/pngimages/902/411/png-clipart-saudi-arabia-quran-television-channel-on-e-saudi-team-television-text.png" group-title="Dini",ISLAM- Mecca
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
@@ -4670,9 +4699,11 @@ http://135.125.234.9:8081/tv5/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/092210f7-9e1a-42d6-b061-62f7d7f4ea98.png" group-title="Dini",Bursa İl Müftülüğü
 https://5be5d840359c6.streamlock.net/pm-medya/pm-medya/chunklist_w1329339153.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e1959611-4639-4f5e-8d78-71762b8e5176.png" group-title="Dini",MPL TV
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCTr00Butm_gEZmbUz_KI9gg
+https://live.cache-stream.workers.dev/stream/UCTr00Butm_gEZmbUz_KI9gg/live.m3u8
+
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a1e26fbf-851a-4aeb-a3e6-8294132be486.png" group-title="Dini",Nur TV
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCW9SRQR959QnMXEWDKNYHeg/live
+https://live.cache-stream.workers.dev/stream/UCW9SRQR959QnMXEWDKNYHeg/live.m3u8
+
 #EXTINF:1 tvg-id="QuranTV.sa" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/081083b4-62b6-43b1-b9c2-10035c60ad90.png" group-title="Dini",Al Quran Al Kareem TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:1 tvg-id="SunnaTV.sa" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a03f8315-fa11-4d3c-b73b-cf5fcac6ea8c.png" group-title="Dini",Al Sunnah Al Nabawiyah
@@ -8513,7 +8544,434 @@ http://tanix-hnx.xyz:8080/Laurentiu2/x2111x/222045
 #EXTINF:-1,ABENTEUER UND SCHATZSUCHE 24/7
 http://tanix-hnx.xyz:8080/Laurentiu2/x2111x/222046
 
+#EXTINF:-1group-title="mol-SKY",=DE= DEUTSCHLAND =DE=
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58141&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE | DAS ERSTE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231072&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| ZDF
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58143&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| ZDF HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58144&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| RTL HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58145&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| RTL II
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58146&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| RTL ZWEI FULL HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58142&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| PRO 7 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58150&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| SAT 1 GOLD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58152&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| VOX HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58154&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| PRO 7 MAXX
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58155&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| KABEL 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58156&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| TELE 5 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58157&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| MAX PREMIERE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58161&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| ARTE HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58162&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| NDR HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58163&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| N-TV HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58167&extension=ts
 
+#EXTINF:-1group-title="mol-SKY",DE| TLC HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58177&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| KABEL EINS DOKU
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58180&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| KABEL 1 CLASSIC HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58181&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| WELT DER WUNDER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58183&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| ZDF NEO
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58186&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| ONE HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58187&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| ANIXE HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58191&extension=ts
+
+#EXTINF:-1group-title="mol-SKY",DE | 3SAT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231071&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE | SAT 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231070&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE | SIXX
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231069&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE | WDR HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231067&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE | SWR
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231066&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE | SRF 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231062&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE | ATV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231061&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE | PHOENIX
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231058&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE | PRO7 FUN
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231055&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE | PRO7 MAXX
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231054&extension=ts
+
+#EXTINF:-1group-title="mol-SKY",DE | UNIVERSAL CHANNEL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231037&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE | CLASSICA
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231030&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| SERVUS TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58196&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",=DE= SKY SKI CINEMA =DE=
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58202&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY CINEMA HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58203&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY CINEMA +1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58204&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY CINEMA +24 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58205&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58206&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY CINEMA HITS
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58207&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY ACTION HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58208&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY COMEDY
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58209&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY CINEMA FAMILY
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58210&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY KINOWELT TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58212&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE | SKY ONE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231219&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE | SKY CINEMA PREMIEREN
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231218&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE | SKY CINEMA PREMIEREN 24
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231217&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE | SKY CINEMA BEST OF
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231214&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE | SKY KRIMI
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231211&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE | SKY ATLANTIC
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231210&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE | EAGLE CINEMA THRILLER
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231181&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE |  SONY
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231000&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE | TNT FILM
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231220&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| 13TH STREET HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58214&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| SKY FOX
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58216&extension=ts
+
+#EXTINF:-1group-title="mol-SKY",DE| AXN HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58222&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| RTL CRIME
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58224&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| RTL LIVING
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58225&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| UNIVERSAL HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58226&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| RTL PASSION
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58227&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| ROMANCE TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58228&extension=ts
+
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY ATLANTIC HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58221&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY CINEMA SPECIAL HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58240&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY TNT SERIE HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58230&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SPIEGEL TV WISSEN HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58231&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| SKY SYFY HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58232&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| TNT COMEDY HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58234&extension=ts
+#EXTINF:-1group-title="mol-SKY CINEMA",DE| Crime +Investigation
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58235&extension=ts
+#EXTINF:-1group-title="mol-SKY SELECT",DE | SKY SELECT PREMIERE 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231198&extension=ts
+#EXTINF:-1group-title="mol-SKY SELECT",DE| SKY SELECT HD 1 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58296&extension=ts
+#EXTINF:-1group-title="mol-SKY SELECT",DE| SKY SELECT HD 2 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58297&extension=ts
+#EXTINF:-1group-title="mol-SKY SELECT",DE| SKY SELECT HD 3 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58298&extension=ts
+#EXTINF:-1group-title="mol-SKY SELECT",DE | SKY SELECT PREMIERE 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231195&extension=ts
+#EXTINF:-1group-title="mol-SKY SELECT",DE | SKY SELECT PREMIERE 5
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231194&extension=ts
+#EXTINF:-1group-title="mol-SKY SELECT",DE| SKY SELECT HD 6 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58303&extension=ts
+#EXTINF:-1group-title="mol-SKY SELECT",DE| SKY SELECT HD 7 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58304&extension=ts
+#EXTINF:-1group-title="mol-SKY SELECT",DE | SKY SELECT PREMIERE 8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231191&extension=ts
+#EXTINF:-1group-title="mol-KIND",DE| DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58237&extension=ts
+#EXTINF:-1group-title="mol-KIND",DE| JUNIOR
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58238&extension=ts
+#EXTINF:-1group-title="mol-KIND",DE| BOOMERANG
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58239&extension=ts
+#EXTINF:-1group-title="mol-KIND",DE| CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58241&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| DELUX MUSIC HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58168&extension=ts
+#EXTINF:-1group-title="mol-SKY",DE| XITE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58170&extension=ts
+#EXTINF:-1group-title="mol-KIND",DE| KIKA-HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58172&extension=ts
+#EXTINF:-1group-title="mol-KIND",DE| NICKELODEON
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58174&extension=ts
+#EXTINF:-1group-title="mol-KIND",DE | NICKTOONS
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231049&extension=ts
+#EXTINF:-1group-title="mol-KULTUR",DE | PLANET
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231041&extension=ts
+#EXTINF:-1group-title="mol-KULTUR",DE| DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58218&extension=ts
+#EXTINF:-1group-title="mol-KULTUR",DE| NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58219&extension=ts
+#EXTINF:-1group-title="mol-KULTUR",DE| NATIONAL GEO HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58220&extension=ts
+#EXTINF:-1group-title="mol-KULTUR",DE| HISTORY CHANNEL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58229&extension=ts
+#EXTINF:-1group-title="mol-KULTUR",DE| SPIEGEL GESCHICHTE HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58175&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",=DE= SPORT =DE=
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58242&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE | SPORTDIGITAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231230&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE | DAZN SPORT 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=231228&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT NEWS HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58243&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 1 HD (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58244&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 2 HD (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58245&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 4 HD (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58247&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 5 HD (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58248&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 6 HD (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58249&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 7 HD (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58250&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 8 HD (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58251&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 9 HD (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58252&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 10 HD (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58253&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 1 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58254&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 2 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58255&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 4 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58257&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 5 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58258&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 6 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58259&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 7 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58260&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 8 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58261&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY BUNDESLIGA 10 (Match Time)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58263&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58264&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58265&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58266&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 4 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58267&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 5 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58268&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 6 HD  Krest0 вор
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58269&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 7 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58270&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 8 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58271&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58275&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58276&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58277&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58278&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 5
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58279&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 6
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58280&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 7
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58281&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT 8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58282&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SKY SPORT AUSTRIA HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58286&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| EUROSPORT 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58287&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| EUROSPORT 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58288&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| EUROSPORT 2 HD XTRA ( BULI )
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58289&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58291&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| SPORT 1 PLUS
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58292&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| FC BAYERN TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58294&extension=ts
+#EXTINF:-1group-title="mol-SKY SPORT",DE| MOTORVISION TV   Krest0 вор
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58295&extension=ts
+#EXTINF:-1group-title="mol-SKY SELECT",=DE= SKY SELECT LIVE =DE=
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:CB:FF&stream=58301&extension=ts
 
 
 
