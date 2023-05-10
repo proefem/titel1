@@ -174,7 +174,7 @@ https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
 http://31.223.85.34:9999/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-id="trtbelgesel.tr"tvg-name="TGRT Belgesel TR"  tvg-logo="https://picon-13398.kxcdn.com/tgrtbelgeseltr.jpg" aspect-ratio="16:9"  group-title="ULUSAL",TGRT BELGESEL  
-http://31.3.91.134:12005/udp/224.0.0.1:36517/index.m3u8
+http://31.3.91.134:12005/udp/224.0.0.1:36517
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
@@ -284,7 +284,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="HABER",NTV ᵁᴴᴰ⁺
 http://195.142.1.211:4002/udp/224.2.2.2:10001
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.liderhaberajansi.com/wp-content/uploads/2022/02/lider-haber-ajansi-logo.png" group-title="HABER",LİDER HABER ᵁᴴᴰ⁺
+#EXTINF:-1 tvg-id="" tvg-name=" TR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="HABER",LİDER HABER
 http://195.142.1.211:4002/udp/224.2.2.13:10001
 
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="https://picon-13398.kxcdn.com/ulsalkanaltr.jpg" group-title="HABER",ULUSAL KANAL ᴴᴰ
@@ -488,202 +488,202 @@ http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 
 #EXTINF:0 group-title="Germany" tvg-id="4480" tvg-logo="http://epg.it999.ru/img/4480.png" tvg-rec="0",Das Erste HD DE
 http://195.142.152.86:5858/DasErsteHD/index.m3u8
-#EXTINF:0,(DE) Ard Das Erste 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Ard Das Erste 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4461&extension=ts
-#EXTINF:0,(DE) ZDF 4K+
+#EXTINF:0 group-title="Germany" ,(DE) ZDF 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4460&extension=ts
-#EXTINF:0,(DE) RTL 4K+
+#EXTINF:0 group-title="Germany" ,(DE) RTL 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4459&extension=ts
-#EXTINF:0,(DE) Sat 1 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Sat 1 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4458&extension=ts
-#EXTINF:0,(DE) Prosieben 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Prosieben 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4457&extension=ts
-#EXTINF:0,(DE) Vox 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Vox 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4455&extension=ts
-#EXTINF:0,(DE) Kabel 1 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Kabel 1 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4454&extension=ts
-#EXTINF:0,(DE) RTL 2 4K+
+#EXTINF:0 group-title="Germany" ,(DE) RTL 2 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4456&extension=ts
-#EXTINF:0,(DE) 3 Sat 4K+
+#EXTINF:0 group-title="Germany" ,(DE) 3 Sat 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4446&extension=ts
-#EXTINF:0,(DE) Arte 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Arte 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4445&extension=ts
-#EXTINF:0,(DE) One 4K+
+#EXTINF:0 group-title="Germany" ,(DE) One 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=60636&extension=ts
-#EXTINF:0,(DE) ZDF Info 4K+
+#EXTINF:0 group-title="Germany" ,(DE) ZDF Info 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4444&extension=ts
-#EXTINF:0,(DE) ZDF Neo 4K+
+#EXTINF:0 group-title="Germany" ,(DE) ZDF Neo 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4443&extension=ts
-#EXTINF:0,(DE) Sixx 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Sixx 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4453&extension=ts
-#EXTINF:0,(DE) Mdr 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Mdr 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4439&extension=ts
-#EXTINF:0,(DE) Tele 5 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Tele 5 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4452&extension=ts
-#EXTINF:0,(DE) Sat 1 Gold 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Sat 1 Gold 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4449&extension=ts
-#EXTINF:0,(DE) ProSieben Maxx 4K+
+#EXTINF:0 group-title="Germany" ,(DE) ProSieben Maxx 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4450&extension=ts
-#EXTINF:0,(DE) Anixe+ 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Anixe+ 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=89867&extension=ts
-#EXTINF:0,(DE) Nitro 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Nitro 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4451&extension=ts
-#EXTINF:0,(DE) Super RTL 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Super RTL 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4469&extension=ts
-#EXTINF:0,(DE) ARD Alpha 4K+
+#EXTINF:0 group-title="Germany" ,(DE) ARD Alpha 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=89868&extension=ts
-#EXTINF:0,(DE) RBB Berlin 4K+
+#EXTINF:0 group-title="Germany" ,(DE) RBB Berlin 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=95041&extension=ts
-#EXTINF:0,(DE) BR 4K+
+#EXTINF:0 group-title="Germany" ,(DE) BR 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4442&extension=ts
-#EXTINF:0,(DE) HR 4K+
+#EXTINF:0 group-title="Germany" ,(DE) HR 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4441&extension=ts
-#EXTINF:0,(DE) SR 4K+
+#EXTINF:0 group-title="Germany" ,(DE) SR 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4437&extension=ts
-#EXTINF:0,(DE) N24 DOKU
+#EXTINF:0 group-title="Germany" ,(DE) N24 DOKU
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3386&extension=ts
-#EXTINF:0,(DE) Welt 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Welt 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=32692&extension=ts
-#EXTINF:0,(DE) N-TV 4K+
+#EXTINF:0 group-title="Germany" ,(DE) N-TV 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=35768&extension=ts
-#EXTINF:0,(DE) ProSieben MAXX HD
+#EXTINF:0 group-title="Germany" ,(DE) ProSieben MAXX HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49112&extension=ts
-#EXTINF:0,(DE) Phoenix HD
+#EXTINF:0 group-title="Germany" ,(DE) Phoenix HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=50189&extension=ts
-#EXTINF:0,(DE) 1-2-3.tv 4K+
+#EXTINF:0 group-title="Germany" ,(DE) 1-2-3.tv 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=38916&extension=ts
-#EXTINF:0,(DE) RTL UP 4K+
+#EXTINF:0 group-title="Germany" ,(DE) RTL UP 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=128150&extension=ts
-#EXTINF:0,(DE) VOX UP 4K+
+#EXTINF:0 group-title="Germany" ,(DE) VOX UP 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=128151&extension=ts
-#EXTINF:0,(DE) Tagesschau 24 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Tagesschau 24 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=35767&extension=ts
-#EXTINF:0,(DE) Swr 4K+
+#EXTINF:0 group-title="Germany" ,(DE) Swr 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3273&extension=ts
-#EXTINF:0,(DE) QVC 4K+
+#EXTINF:0 group-title="Germany" ,(DE) QVC 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=122572&extension=ts
-#EXTINF:0,??? DEUTSCHLAND HD???
+#EXTINF:0 group-title="Germany" ,??? DEUTSCHLAND HD???
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7245&extension=ts
-#EXTINF:0,(DE) Ard Das Erste HD
+#EXTINF:0 group-title="Germany" ,(DE) Ard Das Erste HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49100&extension=ts
-#EXTINF:0,(DE) ZDF HD
+#EXTINF:0 group-title="Germany" ,(DE) ZDF HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49101&extension=ts
-#EXTINF:0,(DE) RTL HD
+#EXTINF:0 group-title="Germany" ,(DE) RTL HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49103&extension=ts
-#EXTINF:0,(DE) Sat.1 HD
+#EXTINF:0 group-title="Germany" ,(DE) Sat.1 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49102&extension=ts
-#EXTINF:0,(DE) ProSieben HD
+#EXTINF:0 group-title="Germany" ,(DE) ProSieben HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49104&extension=ts
-#EXTINF:0,(DE) Kabel Eins HD
+#EXTINF:0 group-title="Germany" ,(DE) Kabel Eins HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49107&extension=ts
-#EXTINF:0,(DE) Vox HD
+#EXTINF:0 group-title="Germany" ,(DE) Vox HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49106&extension=ts
-#EXTINF:0,(DE) RTL 2 HD
+#EXTINF:0 group-title="Germany" ,(DE) RTL 2 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49105&extension=ts
-#EXTINF:0,(DE) Sat.1 Gold HD
+#EXTINF:0 group-title="Germany" ,(DE) Sat.1 Gold HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49109&extension=ts
-#EXTINF:0,(DE) Sat 1 Emotions HD
+#EXTINF:0 group-title="Germany" ,(DE) Sat 1 Emotions HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=131808&extension=ts
-#EXTINF:0,(DE) Anixe HD
+#EXTINF:0 group-title="Germany" ,(DE) Anixe HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=127794&extension=ts
-#EXTINF:0,(DE) RTL Plus
+#EXTINF:0 group-title="Germany" ,(DE) RTL Plus
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=51485&extension=ts
-#EXTINF:0,(DE) Super RTL HD
+#EXTINF:0 group-title="Germany" ,(DE) Super RTL HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49108&extension=ts
-#EXTINF:0,(DE) RTL Nitro HD
+#EXTINF:0 group-title="Germany" ,(DE) RTL Nitro HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49113&extension=ts
-#EXTINF:0,(DE) RTL Crime HD
+#EXTINF:0 group-title="Germany" ,(DE) RTL Crime HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=61335&extension=ts
-#EXTINF:0,(DE) RTL Living HD
+#EXTINF:0 group-title="Germany" ,(DE) RTL Living HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3357&extension=ts
-#EXTINF:0,(DE) RTL Passion HD
+#EXTINF:0 group-title="Germany" ,(DE) RTL Passion HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3353&extension=ts
-#EXTINF:0,(DE) Welt HD
+#EXTINF:0 group-title="Germany" ,(DE) Welt HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=127795&extension=ts
-#EXTINF:0,(DE) N-TV HD
+#EXTINF:0 group-title="Germany" ,(DE) N-TV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=127797&extension=ts
-#EXTINF:0,(DE) Tele 5 HD
+#EXTINF:0 group-title="Germany" ,(DE) Tele 5 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49111&extension=ts
-#EXTINF:0,(DE) Hg TV HD
+#EXTINF:0 group-title="Germany" ,(DE) Hg TV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4448&extension=ts
-#EXTINF:0,(DE) 3 sat HD
+#EXTINF:0 group-title="Germany" ,(DE) 3 sat HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49114&extension=ts
-#EXTINF:0,(DE) Sixx HD
+#EXTINF:0 group-title="Germany" ,(DE) Sixx HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49110&extension=ts
-#EXTINF:0,(DE) Wdr HD
+#EXTINF:0 group-title="Germany" ,(DE) Wdr HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4440&extension=ts
-#EXTINF:0,(DE) Ndr HD
+#EXTINF:0 group-title="Germany" ,(DE) Ndr HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3379&extension=ts
-#EXTINF:0,(DE) ServusTV HD
+#EXTINF:0 group-title="Germany" ,(DE) ServusTV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=3346&extension=ts
-#EXTINF:0,(DE) Welt der Wunder HD
+#EXTINF:0 group-title="Germany" ,(DE) Welt der Wunder HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=89862&extension=ts
-#EXTINF:0,(DE) Qvc Style Deutschland
+#EXTINF:0 group-title="Germany" ,(DE) Qvc Style Deutschland
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=89865&extension=ts
 #EXTINF:0,(DE) Nicer Dicer TV
