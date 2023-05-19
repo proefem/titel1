@@ -2,6 +2,9 @@
 #x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml,https://i.mjh.nz/SamsungTVPlus/de.xml.gz,https://i.mjh.nz/PlutoTV/de.xml.gz,https://iptvx.site/epg_lite.xml.gz,,,,"
 #refresh="86400" cache=500
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Turkey_flag.png" group-title="ULUSAL",▬ Turkey [TR]  ▬
 https://proxy.rssblue.com?url=|User-Agent=Lavf53.32.100 
 
@@ -45,7 +48,13 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 http://185.234.217.146:8080/a2_red_K_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
-http://46.19.226.152:4000/play/a06l
+http://live.exodus-1.rocks:8080/play/live.php?mac=00:1A:79:5B:10:51&stream=1151176&extension=ts&play_token=vNrlyn4Ybp
+
+#EXTINF:0 type="stream" channelId="-1"  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38"group-title="ULUSAL", MMN TURK TV FHD
+http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
+#https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisanslı_4kultrahd_/chunks.m3u8?
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -66,7 +75,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://kanallogo2.com/images/ulusal/tv-em.png" aspect-ratio="16:9" group-title="ULUSAL",TVEM ᴴᴰ
-https://cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8
+https://cdntv.online/high/tduasck869/1275.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/teve-63-canli-izle.png" tvg-id2="MzA=" group-title="ULUSAL",TEVE 63 ᴴᴰ
 #https://arajans.ozelip.com:3234/live/arajanslive.m3u8
@@ -134,7 +143,14 @@ https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", ÖZEL FiLM TV
 https://film.ozelip.com:3344/stream/play.m3u8
 
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",blutv PLAY 1
+https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",blutv PLAY 2
+https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
+
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://i.imgur.com/VTeSkWA.png",DİZİ MAX
+http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
 https://live.cache-stream.workers.dev/stream/UCsRzd5DMZQqe00m_SM6BKzw/live.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://i.imgur.com/VTeSkWA.png",KANAL D DRAMA HD 
@@ -142,6 +158,9 @@ http://212.224.84.202:2200/ALB-EX/KanalD_Drama_AL-alb/tracks-v1a1/mono.m3u8?toke
 
 #EXTINF:-1 tvg-id="lD.tr"tvg-name="Kanal D HD"  tvg-logo="https://i.imgur.com/OJynDDJ.png" group-title="ULUSAL",Timeless Dizi Channel
 http://91.233.47.254:8887/udp/224.200.202.113
+
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",SÜPER TÜRK
+http://95.179.215.242:3923/stream/play.m3u8
 
 #EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER 1 
 https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
@@ -252,7 +271,7 @@ https://live.cache-stream.workers.dev/stream/UC-2KSeUU5SMCX6XLRD-AEvw/live.m3u8
 
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber HD TR" tvg-logo="https://picon-13398.kxcdn.com/trthaberhdtr.jpg"tvg-url="" group-title="HABER",TRT HABER  ᴴᴰ⁺
-https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
+https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="HABER",A HABER ᵁᴴᴰ⁺
 http://195.142.1.211:4002/udp/224.2.2.20:10001
@@ -306,7 +325,7 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 
 #EXTINF:-1 tvg-id="caddetv.tr" tvg-name="CADDE TV HD" tvg-logo="https://caddetv.com.tr/content/ankara/images/logo.png" group-title="HABER",CADDE TV
-http://95.0.226.197:8000/play/a03q
+http://45.91.195.132:8000/play/a03p
 
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT TR" tvg-logo="https://picon-13398.kxcdn.com/bloomberg.jpg" group-title="HABER",BLOOMBERG HT ᵁᴴᴰ⁺
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
@@ -485,6 +504,50 @@ http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
  
 #EXTINF:-1 group-title="ULUSAL-int" tvg-logo="https://i.imgur.com/XQz5zAO.png", TV ADİGE
 #http://91.134.203.253:30124/tvadige/tvadige/playlist.m3u8|User-Agent=Lavf53.32.100 
+
+
+#EXTINF:-1 group-title="Germany",Das Erste HD DE
+https://cdntv.online/high/tduasck869/1066.m3u8
+#EXTINF:-1 group-title="Germany",ZDF HD DE
+https://cdntv.online/high/tduasck869/1067.m3u8
+#EXTINF:-1 group-title="Germany",ProSieben HD DE
+https://cdntv.online/high/tduasck869/1068.m3u8
+#EXTINF:-1 group-title="Germany",RTL HD DE
+https://cdntv.online/high/tduasck869/1069.m3u8
+#EXTINF:-1 group-title="Germany",RTL2 HD DE
+https://cdntv.online/high/tduasck869/1070.m3u8
+#EXTINF:-1 group-title="Germany",VOX HD DE
+https://cdntv.online/high/tduasck869/1012.m3u8
+#EXTINF:-1 group-title="Germany",Sat. 1 HD DE
+https://cdntv.online/high/tduasck869/1013.m3u8
+#EXTINF:-1 group-title="Germany",Sat. 1 Gold HD DE
+https://cdntv.online/high/tduasck869/1014.m3u8
+#EXTINF:-1 group-title="Germany",Kabel Eins HD DE
+https://cdntv.online/high/tduasck869/1016.m3u8
+#EXTINF:-1 group-title="Germany",N-TV HD DE
+https://cdntv.online/high/tduasck869/1017.m3u8
+#EXTINF:-1 group-title="Germany",Welt HD
+https://cdntv.online/high/tduasck869/1060.m3u8
+#EXTINF:-1 group-title="Germany",Super RTL HD DE
+https://cdntv.online/high/tduasck869/1071.m3u8
+#EXTINF:-1 group-title="Germany",Sport 1 HD DE
+https://cdntv.online/high/tduasck869/1015.m3u8
+#EXTINF:-1 group-title="Germany",Sky Sport 1 HD DE
+https://cdntv.online/high/tduasck869/1072.m3u8
+#EXTINF:-1 group-title="Germany",Sky Sport 2 HD DE
+https://cdntv.online/high/tduasck869/1073.m3u8
+#EXTINF:-1 group-title="Germany",Sky Sport Bundesliga 1 HD DE
+https://cdntv.online/high/tduasck869/1074.m3u8
+#EXTINF:-1 group-title="Germany",Sky Cinema +24 HD
+https://cdntv.online/high/tduasck869/1075.m3u8
+#EXTINF:-1 group-title="Germany",Sky Cinema Action HD DE
+https://cdntv.online/high/tduasck869/1076.m3u8
+#EXTINF:-1 group-title="Germany",Sky Cinema Best HD DE
+https://cdntv.online/high/tduasck869/1077.m3u8
+#EXTINF:-1 group-title="Germany",Sky Cinema Family HD DE
+https://cdntv.online/high/tduasck869/1078.m3u8
+#EXTINF:-1 group-title="Germany",Sky Cinema Premieren HD DE
+https://cdntv.online/high/tduasck869/1079.m3u8
 
 #EXTINF:0 group-title="Germany" tvg-id="4480" tvg-logo="http://epg.it999.ru/img/4480.png" tvg-rec="0",Das Erste HD DE
 http://195.142.152.86:5858/DasErsteHD/index.m3u8
@@ -4197,10 +4260,6 @@ http://sun66.xyz:54381/DVLT.96/250l920I1/46829
 http://sun66.xyz:54381/DVLT.96/250l920I1/46452
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Sinema",blutv PLAY 1
-https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Sinema",blutv PLAY 2
-https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Premium 2" tvg-logo="http://atesiptv.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_premium_2.png" group-title="TR✦ D-Smart Sinema",|TR| Moviesmart Premium 2
 http://play.max2022.cf:8080/selimbey/Selim36512/6182
 #EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Premium 1" tvg-logo="http://atesiptv.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_premium.png" group-title="TR✦ D-Smart Sinema",|TR| Moviesmart Premium 1
@@ -4763,7 +4822,254 @@ http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/169393
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: Vizioon Festival" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/vizioon_festival.png" group-title="TR | SINEMA TIVIBU",TR: Vizioon Festival
 http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/121516
 
-
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO TURK 1" tvg-logo="https://i.ibb.co/NKhPwyd/enoturk.png" group-title="Sinema Kanalları",TR: ENO TURK 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1760
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO TURK 2" tvg-logo="https://i.ibb.co/NKhPwyd/enoturk.png" group-title="Sinema Kanalları",TR: ENO TURK 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1761
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO TURK 3" tvg-logo="https://i.ibb.co/NKhPwyd/enoturk.png" group-title="Sinema Kanalları",TR: ENO TURK 3
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1762
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO TURK 4" tvg-logo="https://i.ibb.co/NKhPwyd/enoturk.png" group-title="Sinema Kanalları",TR: ENO TURK 4
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1763
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO TURK 5" tvg-logo="https://i.ibb.co/NKhPwyd/enoturk.png" group-title="Sinema Kanalları",TR: ENO TURK 5
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1764
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO AKSİYON 1" tvg-logo="https://i.ibb.co/v1Sv7N9/enoaksiyon.png" group-title="Sinema Kanalları",TR: ENO AKSİYON 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1739
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO AKSİYON 2" tvg-logo="https://i.ibb.co/v1Sv7N9/enoaksiyon.png" group-title="Sinema Kanalları",TR: ENO AKSİYON 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1740
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO AKSİYON 3" tvg-logo="https://i.ibb.co/v1Sv7N9/enoaksiyon.png" group-title="Sinema Kanalları",TR: ENO AKSİYON 3
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1741
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO MACERA 1" tvg-logo="https://i.ibb.co/F4r4DYd/enomacera.png" group-title="Sinema Kanalları",TR: ENO MACERA 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1750
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO MACERA 2" tvg-logo="https://i.ibb.co/F4r4DYd/enomacera.png" group-title="Sinema Kanalları",TR: ENO MACERA 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1751
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO MACERA 3" tvg-logo="https://i.ibb.co/F4r4DYd/enomacera.png" group-title="Sinema Kanalları",TR: ENO MACERA 3
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1752
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO BILIM KURGU 1" tvg-logo="https://i.ibb.co/QfkwhZJ/enobilimkurgu.png" group-title="Sinema Kanalları",TR: ENO BILIM KURGU 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1742
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO BILIM KURGU 2" tvg-logo="https://i.ibb.co/QfkwhZJ/enobilimkurgu.png" group-title="Sinema Kanalları",TR: ENO BILIM KURGU 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1743
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENOFLIX 1" tvg-logo="https://i.ibb.co/s2Qc3RD/enoflix.png" group-title="Sinema Kanalları",TR: ENOFLIX 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1753
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENOFLIX 2" tvg-logo="https://i.ibb.co/s2Qc3RD/enoflix.png" group-title="Sinema Kanalları",TR: ENOFLIX 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1754
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO NETFLIX 1" tvg-logo="https://i.ibb.co/hdL95zd/netflix.png" group-title="Sinema Kanalları",TR: ENO NETFLIX 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1755
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO NETFLIX 2" tvg-logo="https://i.ibb.co/hdL95zd/netflix.png" group-title="Sinema Kanalları",TR: ENO NETFLIX 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1756
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO NETFLIX 3" tvg-logo="https://i.ibb.co/hdL95zd/netflix.png" group-title="Sinema Kanalları",TR: ENO NETFLIX 3
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1757
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO WESTERN 1" tvg-logo="https://i.ibb.co/sskLzMm/enowestern.png" group-title="Sinema Kanalları",TR: ENO WESTERN 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1765
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO AİLE 1" tvg-logo="https://i.ibb.co/m6nDSp9/enoaile.png" group-title="Sinema Kanalları",TR: ENO AİLE 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1737
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO AİLE 2" tvg-logo="https://i.ibb.co/m6nDSp9/enoaile.png" group-title="Sinema Kanalları",TR: ENO AİLE 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1738
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO COCUK 1" tvg-logo="https://i.ibb.co/PtXrVbP/cocuk.png" group-title="Sinema Kanalları",TR: ENO COCUK 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1744
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO COCUK 2" tvg-logo="https://i.ibb.co/PtXrVbP/cocuk.png" group-title="Sinema Kanalları",TR: ENO COCUK 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1745
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO COCUK 3" tvg-logo="https://i.ibb.co/PtXrVbP/cocuk.png" group-title="Sinema Kanalları",TR: ENO COCUK 3
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1746
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO KUKULi" tvg-logo="https://i.ibb.co/Q9HBq9D/enokukuli.png" group-title="Sinema Kanalları",TR: ENO KUKULi
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1749
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO NiLOYA" tvg-logo="https://i.ibb.co/WtY1qDQ/enoniloya.png" group-title="Sinema Kanalları",TR: ENO NiLOYA
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1758
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO TAYO" tvg-logo="https://i.ibb.co/dJ8shyn/enotayo.png" group-title="Sinema Kanalları",TR: ENO TAYO
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1759
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO HINT 1" tvg-logo="https://i.ibb.co/51jrK80/enohint.png" group-title="Sinema Kanalları",TR: ENO HINT 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1747
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO HINT 2" tvg-logo="https://i.ibb.co/51jrK80/enohint.png" group-title="Sinema Kanalları",TR: ENO HINT 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1748
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO YESILCAM 1" tvg-logo="https://i.ibb.co/fXJqM5m/yesilcam.png" group-title="Sinema Kanalları",TR: ENO YESILCAM 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1766
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO YESILCAM 2" tvg-logo="https://i.ibb.co/fXJqM5m/yesilcam.png" group-title="Sinema Kanalları",TR: ENO YESILCAM 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1767
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO YESILCAM 3" tvg-logo="https://i.ibb.co/fXJqM5m/yesilcam.png" group-title="Sinema Kanalları",TR: ENO YESILCAM 3
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1768
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 1" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1769
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 2" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1770
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 3" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO ViZYON 3
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1771
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 4" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 4
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1772
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 5" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 5
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1773
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 6" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 6
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1774
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 7" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 7
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1775
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 8" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 8
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1776
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 9" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 9
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1777
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 10" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 10
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1778
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 11" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 11
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1779
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 12" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 12
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1780
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 13" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 13
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1781
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 14" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 14
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1782
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 15" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 15
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1783
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 16" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 16
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1784
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 17" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 17
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1785
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 18" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 18
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1786
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 19" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 19
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1787
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO VIZYON 20" tvg-logo="https://i.ibb.co/PGGWJmk/enovizyon.png" group-title="Sinema Kanalları",TR: ENO VIZYON 20
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1788
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON TV 1" tvg-logo="https://i.ibb.co/G72CzQ0/vizyon.png" group-title="Sinema Kanalları",TR: VIZYON TV 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1789
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON TV 2" tvg-logo="https://i.ibb.co/G72CzQ0/vizyon.png" group-title="Sinema Kanalları",TR: VIZYON TV 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1790
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON TV 3" tvg-logo="https://i.ibb.co/G72CzQ0/vizyon.png" group-title="Sinema Kanalları",TR: VIZYON TV 3
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1791
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON TV 4" tvg-logo="https://i.ibb.co/G72CzQ0/vizyon.png" group-title="Sinema Kanalları",TR: VIZYON TV 4
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1792
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON TV 5" tvg-logo="https://i.ibb.co/G72CzQ0/vizyon.png" group-title="Sinema Kanalları",TR: VIZYON TV 5
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1793
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON ANIMASYON 1" tvg-logo="https://i.ibb.co/G72CzQ0/vizyon.png" group-title="Sinema Kanalları",TR: VIZYON ANIMASYON 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1794
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON ANIMASYON 2" tvg-logo="https://i.ibb.co/G72CzQ0/vizyon.png" group-title="Sinema Kanalları",TR: VIZYON ANIMASYON 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1795
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 1" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS MOVIES 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1815
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 2" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS MOVIES 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1816
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 3" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS MOVIES 3
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1817
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 4" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS MOVIES 4
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1818
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 5" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS MOVIES 5
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1819
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 6" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS MOVIES 6
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1820
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 7" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS MOVIES 7
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1821
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 8" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS MOVIES 8
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1822
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 9" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS MOVIES 9
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1823
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS MOVIES 10" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS MOVIES 10
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1824
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS KEMAL SUNAL 1" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS KEMAL SUNAL 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1812
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS KEMAL SUNAL 2" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS KEMAL SUNAL 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1813
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS YESILCAM" tvg-logo="https://i.ibb.co/NrQZhgy/boss.png" group-title="Sinema Kanalları",TR: BOSS YESILCAM
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1814
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 1" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON TURK 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1847
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 2" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON TURK 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1848
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 3" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON TURK 3
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1849
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 4" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON TURK 4
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1850
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 5" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON TURK 5
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1851
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 6" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON TURK 6
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1852
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 7" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON TURK 7
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1853
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 8" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON TURK 8
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1854
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 9" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON TURK 9
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1855
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 10" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON TURK 10
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1856
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON NOSTALJI 1" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON NOSTALJI 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1845
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON NOSTALJI 2" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON NOSTALJI 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1846
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 1" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1825
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 2" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1826
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 3" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 3
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1827
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 4" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 4
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1828
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 5" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 5
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1829
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 6" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 6
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1830
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 7" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 7
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1831
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 8" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 8
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1832
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 9" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 9
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1833
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 10" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 10
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1834
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 11" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 11
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1835
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 12" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 12
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1836
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 13" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 13
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1837
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 14" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 14
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1838
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 15" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 15
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1839
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 16" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 16
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1840
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 17" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 17
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1841
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 18" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 18
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1842
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 19" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 19
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1843
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON 20" tvg-logo="https://i.ibb.co/PQsSBq9/sinevizyon.png" group-title="Sinema Kanalları",TR: SINEVIZYON 20
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1844
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 1" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 1
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1857
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 2" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 2
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1858
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 3" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 3
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1859
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 4" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 4
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1860
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 5" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 5
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1861
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 6" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 6
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1862
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 7" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 7
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1863
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 8" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 8
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1864
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 9" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 9
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1865
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 10" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 10
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1866
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 11" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 11
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1867
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 12" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 12
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1868
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 13" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 13
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1869
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 14" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 14
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1870
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 15" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 15
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1871
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 16" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 16
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1872
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 17" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 17
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1873
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 18" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 18
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1874
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 19" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 19
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1875
+#EXTINF:-1 tvg-id="" tvg-name="TR: MULTIVIZYON 20" tvg-logo="https://i.ibb.co/h2dG4hG/multivizyon.png" group-title="Sinema Kanalları",TR: MULTIVIZYON 20
+http://panel.atlaspremium6.com:8080/sinemaeno23ed/FMM0iPq1KK/1876
 
 
 
