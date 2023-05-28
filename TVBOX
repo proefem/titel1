@@ -18,10 +18,10 @@ http://195.142.1.211:4002/udp/224.2.2.19:10001
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺
-http://135.125.234.9:8081/startv/tracks-v1a1/mono.m3u8
+http://135.125.234.9:8081/startv/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺
-http://135.125.234.9:8081/kanald/tracks-v1a1/mono.m3u8
+http://135.125.234.9:8081/kanald/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
@@ -33,7 +33,7 @@ http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺
-http://135.125.234.9:8081/foxtv/tracks-v1a1/mono.m3u8
+http://135.125.234.9:8081/foxtv/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1tvg-id="Teve2.tr"tvg-name="Teve2.tr"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᵁᴴᴰ⁺
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
@@ -107,7 +107,7 @@ https://live.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/090de54f-27dc-4a7e-9b78-fd979dc77777.png" group-title= "ULUSAL",TV 48 ᴴᴰ
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
-#EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0a63a891-c19e-48d4-b6c6-90a1700b1bd8.png"group-title="ULUSAL" ,TVO ᴴᴰ
+#EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="http://kar-beyaz.access.ly:54381/images/33f7685d729ff996fc7ef0862e24d0af.png"group-title="ULUSAL" ,TVO ᴴᴰ
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 
 #EXTINF:0 tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN KADIN TVᴴᴰ
@@ -403,7 +403,7 @@ https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
 https://edge1.socialsmart.tv:443/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish"tvg-logo="" group-title="HABER",postatv ON
-http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
+https://win4.yayin.com.tr:443/postatv/postatv/chunklist_w1454716354.m3u8?_=1
 
 #EXTINF:0 type="stream" channelId="-1"  tvg-logo="https://www.akratek.com/wp-content/uploads/2019/11/Akratek-BLTTURK-3.png"group-title="HABER", BLT TURKᴴᴰ
 #http://yerelmedya.tv:1935/bltturk/bant1/playlist.m3u8
