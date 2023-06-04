@@ -42,7 +42,7 @@ https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 #https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/37ba3d56-b268-41e4-8577-1a5012848d55/0.m3u8
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
-https://corsproxy.plentygram.com/http://edge02.smart.az/o8/atv/playlist.m3u8|User-Agent=Lavf53.32.100
+http://edge02.smart.az/o8/atv/playlist.m3u8|User-Agent=Lavf53.32.100
 #https://corsproxy.plentygram.com/http://edge02.odtv.az/o8/atv/playlist.m3u8|User-Agent=Lavf53.32.100
 #https://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #http://66.160.192.241:80/atvturk/tracks-v1a1/playlist.m3u8?_=1&hls=native
@@ -64,16 +64,15 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001199/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001199&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺™
-http://195.142.1.211:4002/udp/224.2.2.1:10001
+http://135.125.234.9:8081/startv/tracks-v1a1/playlist.m3u8?_=1
+#https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#http://195.142.1.211:4002/udp/224.2.2.1:10001
 #https://corsproxy.plentygram.com/http://edge02.odtv.az/o2/startv/playlist.m3u8|User-Agent=Lavf53.32.100 
 #https://corsproxy.plentygram.com/https://edge02.smart.az/o2/startv/playlist.m3u8|User-Agent=Lavf53.32.100 
 #https://proxy.rssblue.com?url=https://edge02.smart.az/o2/startv/playlist.m3u8|User-Agent=Lavf53.32.100 
 http://canli.haber365.com.tr/tr/startv/index.m3u8
 #https://startv.blutv.com/blutv_startv_live/live.m3u8
 #http://195.155.98.170:5858/play/a09z
-#http://31.223.85.34:9999/play/a05r/index.m3u8
-#https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#http://195.142.1.211:4002/udp/224.2.2.1:10001
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001226/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001226&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺™
@@ -91,8 +90,8 @@ http://135.125.234.9:8081/kanald/tracks-v1a1/playlist.m3u8?_=1
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001208/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001208&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺™
-http://node01.nntv.az:8136/ch1/ch1.hi.m3u8?st=d4WyQub2T1dRf2VWiiXSWw&e
 http://node01.nntv.az:8136/ch1/ch1.hi.m3u8
+#http://node01.nntv.az:8136/ch1/ch1.hi.m3u8?st=d4WyQub2T1dRf2VWiiXSWw&e
 #http://195.142.1.211:4002/udp/224.2.2.33:10001
 #https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
@@ -118,30 +117,25 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᴴᴰ⁺™
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#http://49.12.123.148:8989/2/hls/playlist.m3u8
-#https://corsproxy.plentygram.com/http://edge02.odtv.az/o3/foxturk/playlist.m3u8|User-Agent=Lavf53.32.100  
-#http://185.234.217.146:8080/fox_tv_O_B/index.m3u8
+#http://edge02.odtv.az/o3/foxturk/playlist.m3u8
 #http://ru01.spr24.net/17585/mpegts?token=Vvm5ue4rWtVQ8k
 #https://live.cache-stream.workers.dev/stream/UF9KvTnZdic/live.m3u8
 #http://195.142.1.211:4002/udp/224.2.2.25:10001
 #https://m.ozbeceriksizler.org/fox2.php
-#http://176.9.48.60:23055/play/a0ji
-#https://59c7ea6bec1c6.streamlock.net/filboxlive/foxtv.stream/playlist.m3u8| User-Agent=Lavf53.32.100 
-#http://185.234.217.19:8038/play/a02r
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001043/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001043&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1tvg-id="Teve2.tr"tvg-name="Teve2.tr"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᵁᴴᴰ⁺™
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-#https://corsproxy.plentygram.com/https://edge02.smart.az/o7/tv2/playlist.m3u8| User-Agent=Lavf53.32.100 
+#https://corsproxy.plentygram.com/https://edge02.smart.az/o7/tv2/playlist.m3u8|User-Agent=Lavf53.32.100 
 #https://live.cache-stream.workers.dev/stream/YLYXoXL-5fc/live.m3u8
 #http://195.142.1.211:4002/udp/224.2.2.11:10001/index.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001244/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001244&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="ULUSAL",360 TV ᵁᴴᴰ⁺™
-https://ythls.onrender.com/channel/UCfqRQZ40fwEdaDWPuR7tvcw.m3u8?sd=10&rebase=on
+https://live.cache-stream.workers.dev/stream/UCfqRQZ40fwEdaDWPuR7tvcw.m3u8?sd=10&rebase=on
 #https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#http://195.142.1.211:4002/udp/224.2.2.58:10001/index.m3u8
-#http://mn-nl.mncdn.com:80/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8| User-Agent=Lavf53.32.100 
+#http://195.142.1.211:4002/udp/224.2.2.58:10001
+#http://mn-nl.mncdn.com:80/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8|User-Agent=Lavf53.32.100 
 #https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001341/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001341&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
@@ -153,11 +147,8 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8?_=1
 
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="ULUSAL",A2 ᵁᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3067&extension=ts
-https://corsproxy.plentygram.com/http://streamer1.ruslanatv.ru/turkey/a2tv_2023/playlist.m3u8
+#https://corsproxy.plentygram.com/http://streamer1.ruslanatv.ru/turkey/a2tv_2023/playlist.m3u8
 #https://corsproxy.plentygram.com/https://edge02.smart.az/o8/a2/playlist.m3u8|User-Agent=Lavf53.32.100  
-#http://185.234.217.146:8080/a2_red_K_TV/index.m3u8
-http://149.62.183.207:4000/play/a03q/index.m3u8
-#http://176.9.48.60:23055/play/a0jl
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001020/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001020&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
@@ -165,11 +156,7 @@ http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=48899&extensio
 #http://live.exodus-1.rocks:8080/play/live.php?mac=00:1A:79:5B:10:51&stream=1151176&extension=ts
 #http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=912460&extension=ts&play_token=vNrlyn4Ybp
 #http://176.9.1.143:8000/live?channelId=589&uid=10525&deviceMac=00:1A:79:9C:10:21
-#http://46.19.226.152:4000/play/a06l
-#http://84.22.33.121:8002/play/s12
-#http://95.0.226.197:8000/play/a014
 #https://live.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8
-#http://31.223.85.34:9999/play/a06d/index.m3u8
 #https://live.cache-stream.workers.dev/stream/streaming-ip=http://showmax.com.tr/canliyayin&quality=720p
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.volotv.com/karar-tv/
 http://showmax.com.tr/canliyayin&quality=720p
@@ -203,11 +190,9 @@ https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg"aspect-ratio="16:9"   group-title="ULUSAL",AKILLI TV 
 http://vipavrasya.tv:15000/pyZzeBda/1Vfaeh9KZU/14861
-#http://31.223.85.34:9999/play/a09k/index.m3u8
 #https://stream41.radyotelekom.com.tr/stream/m3u8/a5a7e883a71429fe9e605bb5d25d6185/chunklist_w895929071.m3u8
-#http://213.172.73.170:8081/nimble_live/1024__Akilli_TV/playlist.m3u8|User-Agent=Lavf53.32.100  
+#http://213.172.73.170:8081/nimble_live/1024__Akilli_TV/playlist.m3u8
 #http://ig8npqfb.rostelekom.xyz/iptv/4YEMG19JQ5/6782/index.m3u8
-#https://epg.pw/stream/c8d8ab2572f102b532ed05dbdc1e6e9bcc99db36f7045cebc6607162db650ce4.ctv
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺™
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -245,7 +230,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 https://live.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="https://1.bp.blogspot.com/-r0fiC5ccbiA/XtEXUkhrxzI/AAAAAAAANio/4ntG-zo5BKwlaLyrfBIqXqkR0NNBVCrVACLcBGAsYHQ/s200/mugla%2Bturk.png", AY TURK TV
-https://vdo.digitalbox.xyz:3243/hybrid/play.m3u8
+#https://vdo.digitalbox.xyz:3243/hybrid/play.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="https://1.bp.blogspot.com/-r0fiC5ccbiA/XtEXUkhrxzI/AAAAAAAANio/4ntG-zo5BKwlaLyrfBIqXqkR0NNBVCrVACLcBGAsYHQ/s200/mugla%2Bturk.png", M TURK TV
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8?_=1
@@ -303,13 +288,13 @@ https://live.cache-stream.workers.dev/stream/UCVebw64Db0yhrPkVk-D8F6w/live.m3u8?
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/090de54f-27dc-4a7e-9b78-fd979dc77777.png" group-title= "ULUSAL",TV 48 ᴴᴰ
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
-#EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="http://kar-beyaz.access.ly:54381/images/33f7685d729ff996fc7ef0862e24d0af.png"group-title="ULUSAL" ,TVO ᴴᴰ
+#EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="http://kar-beyaz.access.ly:54381/images/33f7685d729ff996fc7ef0862e24d0af.png"group-title="ULUSAL" ,ANTALYA TV ᴴᴰ
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8?_=1
 
 #EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0a63a891-c19e-48d4-b6c6-90a1700b1bd8.png"group-title="ULUSAL" ,SAM TV ᴴᴰ
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8?_=1 
 
-#EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0a63a891-c19e-48d4-b6c6-90a1700b1bd8.png"group-title="ULUSAL" ,yasamtv ᴴᴰ
+#EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0a63a891-c19e-48d4-b6c6-90a1700b1bd8.png"group-title="ULUSAL" ,YAŞAM TV ᴴᴰ
 https://yayin30.haber100.com/live/yasamtv/chunklist.m3u8 
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV
@@ -338,6 +323,7 @@ https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks
 #EXTINF:-1 group-title="ULUSAL",YANSİNEMA TV S
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 #https://live-server-2.splitstream.io/224c48a8-f430-43ca-bc4e-9f7bbe8cd240/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="ULUSAL",YANSIMA CLASSİC S
 https://ssh101.bozztv.com/ssh101/ymclassictv/chunks.m3u8
 #https://live-server-1.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
@@ -648,20 +634,17 @@ http://168.121.46.90:8000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber HD TR" tvg-logo="https://picon-13398.kxcdn.com/trthaberhdtr.jpg"tvg-url="" group-title="HABER",TRT HABER  ᵁᴴᴰ⁺™
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
-#https://corsproxy.plentygram.com/https://edge02.odtv.az/o5/trthaber/playlist.m3u8|User-Agent=Lavf53.32.100  
-#https://corsproxy.plentygram.com/https://edge02.smart.az/o5/trthaber/playlist.m3u8|User-Agent=Lavf53.32.100  
 #http://streamer1.ruslanatv.ru/turkey/trt_haber_hd_stream_sd_2023/chunks.m3u8
-#http://84.22.33.121:8013/play/s168
-#http://185.234.217.146:8080/trt_haber_red_Tv_red/index.m3u8
 #https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
 #https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #https://live.cache-stream.workers.dev/stream/UCBgTP2LOFVPmq15W-RH-WXA/live.m3u8
-#http://31.223.85.34:9999/play/a08z/index.m3u8
+#https://corsproxy.plentygram.com/https://edge02.odtv.az/o5/trthaber/playlist.m3u8|User-Agent=Lavf53.32.100  
+#https://corsproxy.plentygram.com/https://edge02.smart.az/o5/trthaber/playlist.m3u8|User-Agent=Lavf53.32.100  
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001252/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001252&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="HABER",A HABER ᵁᴴᴰ⁺™
 https://live.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8?sd=10&rebase=on
-http://195.142.1.211:4002/udp/224.2.2.20:10001
+#http://195.142.1.211:4002/udp/224.2.2.20:10001
 #https://corsproxy.plentygram.com/https://edge02.odtv.az/o7/ahaber/playlist.m3u8|User-Agent=Lavf53.32.100  
 #https://corsproxy.plentygram.com/https://edge02.smart.az/o7/ahaber/playlist.m3u8|User-Agent=Lavf53.32.100  
 #http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
@@ -679,7 +662,7 @@ https://live.cache-stream.workers.dev/stream/UCV6zcRug6Hqp1UX_FdyUeBg/live.m3u8?
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="HABER",HABER GLOBAL ᵁᴴᴰ⁺™
 https://live.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8?sd=10&rebase=on
-http://195.142.1.211:4002/udp/224.2.2.45:10001&quality=1080p
+#http://195.142.1.211:4002/udp/224.2.2.45:10001&quality=1080p
 #https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
 #http://135.125.234.9:8081/haberglobal/tracks-v1a1/playlist.m3u8
 #https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
@@ -741,9 +724,9 @@ http://213.172.73.133:8081/nimble_live/9066_NTV_HD/playlist.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001215/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001215&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="" tvg-name=" TR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="HABER",LİDER HABER
-http://195.142.1.211:4002/udp/224.2.2.13:10001
+http://145.239.58.133:28008/lidertv/lidertv/playlist.m3u8
+#http://195.142.1.211:4002/udp/224.2.2.13:10001
 #http://95.0.226.197:5557/lider
-#http://145.239.58.133:28008/lidertv/lidertv/playlist.m3u8
 #https://lidertv.radyotelekom.com.tr:443/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/chunklist_w426803003.m3u8
 
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="https://picon-13398.kxcdn.com/ulsalkanaltr.jpg" group-title="HABER",ULUSAL KANAL ᵁᴴᴰ⁺™
@@ -762,7 +745,6 @@ https://live.cache-stream.workers.dev/stream/UCOulx_rep5O4i9y6AyDqVvw/live.m3u8?
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="HABER",KRT TV ᵁᴴᴰ⁺™
 https://live.cache-stream.workers.dev/stream/UCT1QJrOPtGWYyWkXry8uT4w/live.m3u8?sd=10&rebase=on
 #http://135.125.234.9:8081/krttv/tracks-v1a1/playlist.m3u8
-#http://185.234.217.146:8080/krt_tv_karaden/index.m3u8
 #https://krt.blutv.com/blutv_krt_live/live.m3u8 
 
 #EXTINF:-1 tvg-id="FlashTV.tr"tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="HABER",FLASH TV ᵁᴴᴰ⁺™
@@ -797,8 +779,6 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
 #EXTINF:-1 tvg-id="APara.tr" tvg-name="A Para FHD TR" tvg-logo="https://picon-13398.kxcdn.com/aparatr.jpg" group-title="HABER",A PARA ᵁᴴᴰ⁺™
 https://live.cache-stream.workers.dev/stream/UCzrGg6iyRDuUSnO0cQ5oLcA/live.m3u8?sd=10&rebase=on
-#http://31.177.62.182:8004/play/s12
-#http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA/live
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001018/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001018&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #http://135.125.234.9:8081/apara/tracks-v1a1/mono.m3u8|User-Agent=Lavf53.32.100     
 
@@ -818,8 +798,7 @@ https://live.cache-stream.workers.dev/stream/UCndsdUW_oPLqpQJY9J8oIRg/live.m3u8?
 https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8 
 
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekoturk.tr" tvg-logo="https://picon-13398.kxcdn.com/ekoturktr.jpg"  group-title="HABER",EKOTURK ᵁᴴᴰ⁺™
-http://185.234.217.146:8080/eko_turk/index.m3u8
-#https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8|User-Agent=Lavf53.32.100  
+https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 #https://live.cache-stream.workers.dev/stream/UCAGVKxpAKwXMWdmcHbrvcwQ/live.m3u8?sd=10&rebase=on
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001401/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001401&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
@@ -832,7 +811,6 @@ https://live.cache-stream.workers.dev/stream/UCqq-1-YntK4Gq53Ka9PaVlg/live.m3u8?
 #EXTINF:-1 tvg-id="ARTITV.de" tvg-name="ARTI 1 TR" tvg-logo="https://picon-13398.kxcdn.com/artikrd.jpg" group-title="HABER",ARTI TV ᵁᴴᴰ⁺™
 https://live.cache-stream.workers.dev/stream/UCxVicskgBc8OD66iLKc7Uaw/live.m3u8?sd=10&rebase=on
 http://185.236.229.31:9981/play/a04a
-#https://live.cache-stream.workers.dev/stream/xpoetRCJKqY/live.m3u8
 #http://i6sdr5wi.megogo.xyz/iptv/WE6F64UP9PFA5M/6748/index.m3u8
 #https://cors.deno.dev/http://he11o.akadatel.com/iptv/WE6F64UP9PFA5M/6748/index.m3u8
 #http://74391be3.amazzin.pw/iptv/ZA9N4BRQTKCS9V/6748/index.m3u8
@@ -841,7 +819,6 @@ http://185.236.229.31:9981/play/a04a
 
 #EXTINF:-1 tvg-id="Medya Haber KRD"tvg-name="Medya Haber KRD"  tvg-logo="https://picon-13398.kxcdn.com/medyahaberkrd.jpg" group-title="HABER",MEDYA HABER ᵁᴴᴰ⁺™
 https://muzkurd.com:443/Medya/live15/chunklist_w994833781.m3u8
-channel/UC_KlNwS1QQ9QMPRg9dGNHNw
 #https://live.cache-stream.workers.dev/stream/UC_KlNwS1QQ9QMPRg9dGNHNw/live.m3u8
 #http://176.10.117.18:8000/play/a01j
 #http://185.236.229.31:9981/play/a05f
@@ -909,7 +886,6 @@ https://edge1.socialsmart.tv:443/turkhaber/bant1/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish"tvg-logo="" group-title="HABER",postatv ON
 https://win4.yayin.com.tr:443/postatv/postatv/chunklist_w1454716354.m3u8?_=1
 
-
 #EXTINF:0 type="stream" channelId="-1"  tvg-logo="https://www.akratek.com/wp-content/uploads/2019/11/Akratek-BLTTURK-3.png"group-title="HABER", BLT TURKᴴᴰ
 #http://yerelmedya.tv:1935/bltturk/bant1/playlist.m3u8
 #https://waw1.artiyerelmedya.net/bltturk/bant1/playlist.m3u8
@@ -942,6 +918,7 @@ https://yayin30.haber100.com/live/beykenttv/chunklist_w589627931.m3u8
 
 #EXTINF:-1 tvg-id="TRTMeclis.tr" tvg-name="TRT Meclis HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbmm_tv.png" group-title="HABER",TBMM - MECLiS TVᴴᴰ
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+
 
 
 
