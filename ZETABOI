@@ -111,7 +111,7 @@ https://corsproxy.plentygram.com/http://edge02.odtv.az/o3/tv85hd/playlist.m3u8|U
 
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺™
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#http://195.142.1.211:4002/udp/224.2.2.73:10001/index.m3u8
+#http://195.142.1.211:4002/udp/224.2.2.73:10001
 #https://cors.deno.dev/https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001177/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001177&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
@@ -128,7 +128,7 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #https://corsproxy.plentygram.com/https://edge02.smart.az/o7/tv2/playlist.m3u8|User-Agent=Lavf53.32.100 
 #https://live.cache-stream.workers.dev/stream/YLYXoXL-5fc/live.m3u8
-#http://195.142.1.211:4002/udp/224.2.2.11:10001/index.m3u8
+#http://195.142.1.211:4002/udp/224.2.2.11:10001
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001244/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001244&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="ULUSAL",360 TV ᵁᴴᴰ⁺™
@@ -182,8 +182,11 @@ http://bit.ly/3hfFvAW?/chunklist.m3u8
 #EXTINF:0 tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN KADIN TVᴴᴰ
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="ULUSAL",SuperTurk TV
+http://34.107.124.147:3942/stream/play.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGRh2rAXlRVDJ1Y81_Wnz2bSc-kzOzXZ5PWpN7VDvWsqm3771XEr98GerfS9RYYU2Cys2sZPp6fOlo-3ohTNbgK6eMAIfW7uX8ksgii5DDbI7phg0OS9vyCuMB_07VXjezaI0XnClPyizSTxehWHwRXchViNtABUigqEV8SSuVNw1mTeDUek0n4XPAgA/w111-h111/COZUM.png", COZUM YAPI TV HD
-#http://70.34.214.187:3496/stream/play.m3u8
+http://34.107.124.147:3778/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://i.imgur.com/ve4p5te.png"aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV ᴴᴰ
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8   
@@ -763,6 +766,10 @@ https://live.cache-stream.workers.dev/stream/UCoHnRpOS5rL62jTmSDO5Npw/live.m3u8?
 #http://135.125.234.9:8081/tele1/tracks-v1a1/playlist.m3u8
 #https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",T24 BİRGÜN TV 
+https://host.onlineradyotv.net:8081/birguntv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="CADDE TV.TR" tvg-name=" HD TR" tvg-logo="https://caddetv.com.tr/content/ankara/images/logo.png" group-title="HABER",CADDE TVᵁᴴᴰ⁺™
 https://live.cache-stream.workers.dev/stream/UCPTF3NxWzcBD8rNnJuGQOSA/live.m3u8?sd=10&rebase=on
 #http://45.91.195.132:8000/play/a03p
@@ -1034,7 +1041,8 @@ https://streaming.meteonews.net/hls/stream.m3u8
 http://65.108.87.116:8000/play/1/index.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2.tr" tvg-logo="https://picon-13398.kxcdn.com/trt2tr.jpg" group-title="ULUSAL-int" ,TRT 2 ᴴᴰ
-http://167.114.115.233:8080/trt2fhd/index.m3u8
+http://stream.suboroiptv.tv/TRT2/playlist.m3u8
+#http://167.114.115.233:8080/trt2fhd/index.m3u8
 #http://135.125.234.9:8081/trt2/index.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001248/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001248&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRTAvaz.tr" tvg-logo="https://picon-13398.kxcdn.com/trtavaztr.jpg" group-title="ULUSAL-int",TRT AVAZ ᴴᴰ
