@@ -1,7 +1,6 @@
 #EXTM3U 
 #x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml,https://i.mjh.nz/SamsungTVPlus/de.xml.gz,https://i.mjh.nz/PlutoTV/de.xml.gz,https://iptvx.site/epg_lite.xml.gz,,,,"
-#refresh="86400" cache=500
-#####EXTGRP:▬ Turkey [TR]  ▬
+#refresh="86400" cache=500#####EXTGRP:▬ Turkey [TR]  ▬
 
 
 
@@ -12,7 +11,7 @@
 https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
-http://node01.nntv.az:8136/ch2/ch2.hi.m3u8|User-Agent=Lavf53.32.100 
+http://node01.nntv.az:8136/ch2/ch2.hi.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
 #EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᵁᴴᴰ⁺
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -24,10 +23,10 @@ http://135.125.234.9:8081/startv/tracks-v1a1/playlist.m3u8
 http://135.125.234.9:8081/kanald/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
-http://node01.nntv.az:8136/ch1/ch1.hi.m3u8|User-Agent=Lavf53.32.100 
+http://node01.nntv.az:8136/ch1/ch1.hi.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
-http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -45,7 +44,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="ULUSAL",A2 ᵁᴴᴰ⁺
-http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3067&extension=ts
+http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3067&extension=ts?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=48899&extension=ts&play_token=vNrlyn4Ybp
@@ -335,6 +334,10 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="HABER",KRT TV ᵁᴴᴰ⁺
 https://krt.blutv.com/blutv_krt_live/live.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="HABER",T24 BİRGÜN TV 
+https://host.onlineradyotv.net:8081/birguntv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="caddetv.tr" tvg-name="CADDE TV HD" tvg-logo="https://caddetv.com.tr/content/ankara/images/logo.png" group-title="HABER",CADDE TV
 http://45.91.195.132:8000/play/a03p
