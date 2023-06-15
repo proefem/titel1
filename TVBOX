@@ -8,10 +8,11 @@
 #https://proxy.rssblue.com?url=|User-Agent=Lavf53.32.100 
 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
-https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+http://stream.suboroiptv.tv/TRT1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
-http://node01.nntv.az:8136/ch2/ch2.hi.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+http://edge02.smart.az/o8/atv/playlist.m3u8|User-Agent=Lavf53.32.100
+#?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
 #EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᵁᴴᴰ⁺
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -20,10 +21,10 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 http://135.125.234.9:8081/startv/tracks-v1a1/playlist.m3u8?_=1
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺
-http://195.142.1.211:4002/udp/224.2.2.9:10001
+http://135.125.234.9:8081/kanald/tracks-v1a1/playlist.m3u8?_=1
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
-http://node01.nntv.az:8136/ch1/ch1.hi.m3u8
+http://135.125.234.9:8081/tv8/tracks-v1a1/playlist.m3u8?_=1
 
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
 http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
@@ -59,10 +60,10 @@ https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultr
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="AkitTV.tr" tvg-logo="https://picon-13398.kxcdn.com/akittvtr.jpg" group-title="ULUSAL",AKIT TV ᵁᴴᴰ⁺
-http://195.142.1.211:4002/udp/224.2.2.41:10001
+http://135.125.234.9:8081/akittv/tracks-v1a1/playlist.m3u8?_=1
 
 #EXTINF:1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/benguturk.png"group-title="ULUSAL",BENGUTURK TV ᵁᴴᴰ⁺
-http://195.142.1.211:4002/udp/224.2.2.44:10001
+https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 
 #EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU ᴴᴰ 
 http://31.3.91.134:12005/udp/224.0.0.1:36516
@@ -484,7 +485,7 @@ https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 https://kdlive.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 Int TR"  tvg-logo="https://picon-13398.kxcdn.com/tv8inltr.jpg" group-title="ULUSAL-int",TV8 INT ᴴᴰ
-http://95.0.226.197:8000/play/a037
+http://149.62.183.207:4000/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="KANAL 7 Avrupa TR"   tvg-logo="https://picon-13398.kxcdn.com/kanal7avrupatr.jpg" group-title="ULUSAL-int",KANAL 7 AVRUPA ᴴᴰ
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
@@ -547,6 +548,30 @@ http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4454&extension=ts
 #EXTINF:0 group-title="Germany" ,(DE) RTL 2 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4456&extension=ts
+#EXTINF:0 group-title="Germany" ,(DE) Nitro 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4451&extension=ts
+#EXTINF:0 group-title="Germany" ,(DE) Sixx 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4453&extension=ts
+#EXTINF:0 group-title="Germany" ,(DE) Tele 5 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4452&extension=ts
+#EXTINF:0 group-title="Germany" ,(DE) Sat 1 Gold 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4449&extension=ts
+#EXTINF:0 group-title="Germany" ,(DE) ProSieben Maxx 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4450&extension=ts
+#EXTINF:0 group-title="Germany" ,(DE) ProSieben MAXX HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49112&extension=ts
+#EXTINF:0 group-title="Germany" ,(DE) RTL UP 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=128150&extension=ts
+#EXTINF:0 group-title="Germany" ,(DE) VOX UP 4K+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=128151&extension=ts
 #EXTINF:0 group-title="Germany" ,(DE) 3 Sat 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4446&extension=ts
@@ -562,27 +587,15 @@ http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4444&extension=ts
 #EXTINF:0 group-title="Germany" ,(DE) ZDF Neo 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4443&extension=ts
-#EXTINF:0 group-title="Germany" ,(DE) Sixx 4K+
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4453&extension=ts
+
 #EXTINF:0 group-title="Germany" ,(DE) Mdr 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4439&extension=ts
-#EXTINF:0 group-title="Germany" ,(DE) Tele 5 4K+
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4452&extension=ts
-#EXTINF:0 group-title="Germany" ,(DE) Sat 1 Gold 4K+
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4449&extension=ts
-#EXTINF:0 group-title="Germany" ,(DE) ProSieben Maxx 4K+
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4450&extension=ts
+
 #EXTINF:0 group-title="Germany" ,(DE) Anixe+ 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=89867&extension=ts
-#EXTINF:0 group-title="Germany" ,(DE) Nitro 4K+
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4451&extension=ts
+
 #EXTINF:0 group-title="Germany" ,(DE) Super RTL 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=4469&extension=ts
@@ -610,21 +623,14 @@ http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=32692&extension=ts
 #EXTINF:0 group-title="Germany" ,(DE) N-TV 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=35768&extension=ts
-#EXTINF:0 group-title="Germany" ,(DE) ProSieben MAXX HD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=49112&extension=ts
+
 #EXTINF:0 group-title="Germany" ,(DE) Phoenix HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=50189&extension=ts
 #EXTINF:0 group-title="Germany" ,(DE) 1-2-3.tv 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=38916&extension=ts
-#EXTINF:0 group-title="Germany" ,(DE) RTL UP 4K+
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=128150&extension=ts
-#EXTINF:0 group-title="Germany" ,(DE) VOX UP 4K+
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=128151&extension=ts
+
 #EXTINF:0 group-title="Germany" ,(DE) Tagesschau 24 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=35767&extension=ts

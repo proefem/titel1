@@ -36,10 +36,10 @@
 #https://epg.pw/stream/bd587bba969a412d13aff6735933ccf591f44d4048c66a135fc9c31a23107ffd.ts
 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
-http://135.125.234.9:8081/trt1/tracks-v1a1/playlist.m3u8
+http://stream.suboroiptv.tv/TRT1/playlist.m3u8
+#http://135.125.234.9:8081/trt1/tracks-v1a1/playlist.m3u8
 #https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 #https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#http://stream.suboroiptv.tv/TRT1/playlist.m3u8
 #https://corsproxy.plentygram.com/https://edge02.odtv.az/o2/trt1/playlist.m3u8|User-Agent=Lavf53.32.100 
 #https://corsproxy.plentygram.com/https://edge02.smart.az/o2/trt1/playlist.m3u8
 #https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/37ba3d56-b268-41e4-8577-1a5012848d55/0.m3u8
@@ -94,12 +94,11 @@ http://195.142.1.211:4002/udp/224.2.2.9:10001
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001208/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001208&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺™
-http://node01.nntv.az:8136/ch1/ch1.hi.m3u8
+http://135.125.234.9:8081/tv8/tracks-v1a1/playlist.m3u8?_=1
 #http://node01.nntv.az:8136/ch1/ch1.hi.m3u8?st=d4WyQub2T1dRf2VWiiXSWw&e&&&?token=undefined&subscriberId=undefined&subscriberCode=undefined
 #http://195.142.1.211:4002/udp/224.2.2.33:10001
 #https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
-#http://135.125.234.9:8081/tv8/index.m3u8
 #https://corsproxy.plentygram.com/http://edge02.odtv.az/o3/tv8/playlist.m3u8|User-Agent=Lavf53.32.100  
 #https://corsproxy.plentygram.com/https://edge02.smart.az/o3/tv8/playlist.m3u8|User-Agent=Lavf53.32.100  
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.tv8.com.tr/canli-yayin&m3u8
@@ -275,8 +274,8 @@ https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8?_=1
 http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8?_=1
 
 #EXTINF:-1 tvg-id="KanalB.tr" tvg-name="KANAL B TR" tvg-logo="https://picon-13398.kxcdn.com/kanalbtr.jpg"aspect-ratio="16:9" group-title="ULUSAL",KANAL B ᴴᴰ⁺
-http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
-#https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
+https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
+#http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 
 #EXTINF:0 tvg-id="Kanal5.tr tvg-name="KANAL 5 TR" tvg-logo="https://i.imgur.com/otRfbDM.png"group-title="ULUSAL", KANAL 5 ANKARA ᴴᴰ⁺
 https://live.cache-stream.workers.dev/stream/UCVebw64Db0yhrPkVk-D8F6w/live.m3u8?sd=10&rebase=on
