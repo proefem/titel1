@@ -133,6 +133,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᴴᴰ⁺™
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#http://135.125.234.9:8081/foxtv/tracks-v1a1/playlist.m3u8?_=1
 #https://nimplus6eu1.bozztv.com/turkfoxtv/turkfoxtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIzIDg6Mjk6MzAgUE0maGFzaF92YWx1ZT1PblVBMnZPYWo3OVhicXR5RXZDNndnPT0mdmFsaWRtaW51dGVzPTI4ODA=
 #http://edge02.odtv.az/o3/foxturk/playlist.m3u8
 #http://ru01.spr24.net/17585/mpegts?token=Vvm5ue4rWtVQ8k
@@ -165,7 +166,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8?_=1
 #https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001851/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001851&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=4&s=64832626&IASHttpSessionId=
 
-#EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="ULUSAL",A2 ᵁᴴᴰ⁺™
+#EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg"aspect-ratio="16:9"    group-title="ULUSAL",A2 ᵁᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3067&extension=m3u8
 #https://corsproxy.plentygram.com/http://streamer1.ruslanatv.ru/turkey/a2tv_2023/playlist.m3u8
 #https://corsproxy.plentygram.com/https://edge02.odtv.az/o8/a2/playlist.m3u8|User-Agent=Lavf53.32.100  
@@ -198,7 +199,7 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8?_=1
 #EXTINF:1 tvg-id="kobımTV.tr" tvg-language="Turkish" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPDyY5d5IpLzUjPPiZoNjNxscqiArUPncwL42W5KrDpOGhINrN1aRN4uabbQcWtMvl7_01tM75oqS8RCqVDU2QqoKDtCCueHCNiTQyUR56S71-F-Cpzgr4IzsJW9UrJzqwm4N7dr950PysjpW7kzy5bmn8fAAvTr6eH3u3m-Y8wnruB-vOQIZ3QtwqlA/w197-h46/kobimtv.PNG" group-title="ULUSAL",KOBiM TV ᴴᴰ
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 
-#EXTINF:0  tvg-id="kobımTV.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",İNTİSAD TV 
+#EXTINF:0  tvg-id="intisadtv.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",İNTİSAD TV 
 http://host.onlineradyotv.net:8080/intisadtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:1  tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130"group-title="ULUSAL" , DEGiSiM TVᴴᴰ
@@ -207,13 +208,15 @@ http://host.onlineradyotv.net:8080/intisadtv/tracks-v1a1/mono.m3u8
 #EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN KADIN TVᴴᴰ
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",TV MOR
+#EXTINF:-1 tvg-id="tvmor.tr"tvg-url="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" aspect-ratio="16:9"    group-title="ULUSAL",TV MOR
 https://vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8
 
 #EXTINF:0  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png"  tvg-id="" group-title="ULUSAL",SuperTurk TV
+http://34.16.130.141:3942/hybrid/play.m3u8
 http://34.107.124.147:3942/stream/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGRh2rAXlRVDJ1Y81_Wnz2bSc-kzOzXZ5PWpN7VDvWsqm3771XEr98GerfS9RYYU2Cys2sZPp6fOlo-3ohTNbgK6eMAIfW7uX8ksgii5DDbI7phg0OS9vyCuMB_07VXjezaI0XnClPyizSTxehWHwRXchViNtABUigqEV8SSuVNw1mTeDUek0n4XPAgA/w111-h111/COZUM.png", COZUM YAPI TV HD
+http://34.16.130.141:3778/hybrid/play.m3u8
 http://34.107.124.147:3778/hybrid/play.m3u8
 
 #EXTINF:-1  tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://i.imgur.com/ve4p5te.png"aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV ᴴᴰ
@@ -239,6 +242,7 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 
 #EXTINF:1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png"group-title="ULUSAL",BENGUTURK TV ᵁᴴᴰ⁺™
 https://nimplus6eu1.bozztv.com/bengu_turk/bengu_turk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIzIDg6Mjg6MjMgUE0maGFzaF92YWx1ZT03V0tIckVDS0Z3ZHEySU9QZXl0UzhBPT0mdmFsaWRtaW51dGVzPTI4ODA=
+#https://live.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
 #https://canli.haber365.com.tr/tr/benguturk/index.m3u8
 #http://195.142.1.211:4002/udp/224.2.2.44:10001
 #https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8| User-Agent=Lavf53.32.100 
