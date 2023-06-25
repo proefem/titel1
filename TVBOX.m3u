@@ -87,7 +87,7 @@ https://cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",TV35 ᴴᴰ⁺
 #https://stream01.tv35.com.tr/hls2/tv35izmir.m3u8
 
-#EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",BİR TV ᴴᴰ⁺
+#EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR TV ᴴᴰ⁺
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/aSKwxSY.png"  group-title="ULUSAL",DENİZ POSTASI ᴴᴰ
@@ -166,10 +166,10 @@ https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u
 #EXTINF:0  tvg-id="" type="stream" channelId="-1" group-title="ULUSAL" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", ÖZEL FiLM TV
 https://film.ozelip.com:3344/stream/play.m3u8
 
-#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", FD SİNEMA TV
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", FD TV SİNEMA 
 https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
 
-#EXTINF:0  tvg-id=""  tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", FD YEŞİLÇAM TV
+#EXTINF:0  tvg-id=""  tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", FD TV YEŞİLÇAM 
 https://ssh101.bozztv.com/ssh101/fdtvyesilcam/chunks.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",SuperTurk TV
@@ -196,7 +196,6 @@ http://212.224.84.202:2200/ALB-EX/KanalD_Drama_AL-alb/tracks-v1a1/mono.m3u8?toke
 
 #EXTINF:-1 tvg-id="lD.tr"tvg-name="Kanal D HD"  tvg-logo="https://i.imgur.com/OJynDDJ.png" group-title="ULUSAL",Timeless Dizi Channel
 http://91.233.47.254:8887/udp/224.200.202.113
-
 
 #EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER 1 
 https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
@@ -6050,69 +6049,114 @@ http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/123260.m3u8
 
 
 
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk HD TR" tvg-logo="https://picon-13398.kxcdn.com/trtcocuktr.jpg" group-title="COCUK",DİYANET Cocuk HD TR
+http://livestream.zazerconer.workers.dev/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk HD TR" tvg-logo="https://picon-13398.kxcdn.com/trtcocuktr.jpg" group-title="COCUK",TRT Diyanet Çocuk  
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk HD TR" tvg-logo="https://picon-13398.kxcdn.com/trtcocuktr.jpg" group-title="COCUK",TRT Cocuk HD TR
-#http://212.224.84.217:2200/TR-N/TRT_COCUK_HD-tr/index.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 https://mn-nl.mncdn.com/blutv_trtcocuk_2/trtcocuk.smil/playlist.m3u8
 #http://5.254.16.186:80/TRTCocuk/mono.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001258/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001258&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR:SMART COCUK HD" tvg-logo="" group-title="COCUK",TR:SMART COCUK HD
-#http://212.224.84.217:2200/TR-N/COCUKSMART_HD-tr/index.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-name="Minika Çocuk" tvg-logo="https://picon-13398.kxcdn.com/minikacocuktr.jpg" group-title="COCUK",Minika Çocuk
-http://195.142.1.211:4002/udp/224.2.2.17:10001
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001212/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001212&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="minikaGO" tvg-logo="https://picon-13398.kxcdn.com/minikagotr.jpg" group-title="COCUK",Minika GO
-http://195.142.1.211:4002/udp/224.2.2.18:10001
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001211/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001211&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="Cartoon Network TR" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="COCUK",Cartoon Network 
-#http://212.224.84.217:2200/TR/cartoonnetwork-tr/index.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
-https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_cartoonnetwork/live.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001202/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001202&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-1 tvg-id="disneyjunior.tr" tvg-name="Disney JR TR" tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="COCUK",Disney Junior TR
-#http://212.224.84.217:2200/TR-N/DISNEY_JUNIOR_HD-tr/index.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="Baby TV TR" tvg-name="Baby TV TR" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="COCUK",Baby TV TR
-#http://212.224.84.217:2200/TR-N/Baby_TV_HD-tr/index.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="boomerang.tr" tvg-name="Boomerang HD TR" group-title="COCUK" tvg-logo="https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",Boomerang
-#http://212.224.84.217:2200/TR-N/Boomerang_HD-tr/index.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165|User-agent=REDLINECLIENT
-https://mn-nl.mncdn.com/blutv_boomerang/live.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001179/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001179&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-1 tvg-id="DaVinciLearning.tr" tvg-name="Da Vinci Learning HD TR" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" group-title="COCUK",Da Vinci Learning HD TR  DA VINCI KIDS
-#http://212.224.84.217:2200/TR-N/DaVinci_HD-tr/index.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="CBeebies.tr" tvg-name="CBeebies HD TR" tvg-logo="https://picon-13398.kxcdn.com/cbeebies.jpg" group-title="COCUK",CBeebies HD TR
-#http://212.224.84.217:2200/EX/CBeebies_HD-tr/index.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
-
-
-#EXTINF:-1 tvg-id="nickjr.tr" tvg-name="Nick Jr. TR" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="COCUK",Nick Jr. TR
-
-#EXTINF:-1 tvg-id="DisneyChannel.tr" tvg-name="Disney Channel TR" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="COCUK",Disney Channel
-
-#EXTINF:-1 tvg-id="DuckTVHD.sk" tvg-name="DuckTVHD.sk" tvg-logo="https://www.lyngsat.com/logo/tv/dd/duck_tv_sk_sd.png" group-title="COCUK",DUCK TV
-http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeonhd.tr" tvg-name="Nickelodeon TR"  tvg-logo="http://epg.it999.ru/img/3903.png"group-title="COCUK", Nicktoons TR
-#https://mn-nl.mncdn.com/blutv_nickelodeon/live.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001214/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001214&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="COCUK",KIDS TURK
-#https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Big Buck Bunny HD TR" group-title="COCUK",Big Buck Bunny HD
-https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Том & Jerry HD TR"tvg-logo="https://static.onlinemultfilmy.ru/img/tom-i-dzherri-motor.jpg" group-title="COCUK",Том & Jerry_24/7
-https://4k3u.short.gy/live/tom&jerry_24/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Том & Jerry HD TR"tvg-logo="https://static.onlinemultfilmy.ru/img/tom-i-dzherri-motor.jpg" group-title="COCUK",Том & Jerry HD
-#http://195.154.176.18:8020?utcstart=943082199926&version=2
-
-
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk HD TR" tvg-logo="https://picon-13398.kxcdn.com/trtcocuktr.jpg" group-title="COCUK",Kukuli Cocuk HD TR
+https://ythls.onrender.com/channel/UCF5IUvgXe_3sHBuKpEz7Btw.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk HD TR" tvg-logo="https://picon-13398.kxcdn.com/trtcocuktr.jpg" group-title="COCUK",TRT Cocuk HD TR 4K
+#EXTVLCOPT:cache=9255
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913124&extension=ts&play_token=gL5Ztdr6vd
+#EXTINF:-1 tvg-id="boomerang.tr" tvg-name="Boomerang HD TR" group-title="COCUK" tvg-logo="https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",Boomerang 4K
+#EXTVLCOPT:cache=9256
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913123&extension=ts&play_token=8BgiLExDu4
+#EXTINF:-1 tvg-id="nickelodeonhd.tr" tvg-name="Nickelodeon TR"  tvg-logo="http://epg.it999.ru/img/3903.png"group-title="COCUK", Nicktoons TR 4K
+#EXTVLCOPT:cache=9257
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913122&extension=ts&play_token=pNIM60Zv70
+#EXTINF:-1 tvg-id="nickjr.tr" tvg-name="Nick Jr. TR" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="COCUK",Nick Jr. TR 4K
+#EXTVLCOPT:cache=9258
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913121&extension=ts&play_token=2RqLZgNSWK
+#EXTINF:-1 tvg-id="DisneyChannel.tr" tvg-name="Disney Channel TR" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="COCUK",Disney Channel 4K
+#EXTVLCOPT:cache=9259
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913120&extension=ts&play_token=Vy0wxIll8G
+#EXTINF:-1 tvg-id="DisneyChannel.tr" tvg-name="Disney Channel TR" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="COCUK",Disney Channel4K
+#EXTVLCOPT:cache=9260
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913119&extension=ts&play_token=768tqHWhDy
+#EXTINF:-1 tvg-id="CBeebies.tr" tvg-name="CBeebies HD TR" tvg-logo="https://picon-13398.kxcdn.com/cbeebies.jpg" group-title="COCUK",CBeebies HD TR 4K
+#EXTVLCOPT:cache=9261
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913118&extension=ts&play_token=DOLTYUQcje
+#EXTINF:-1 tvg-id="DaVinciLearning.tr" tvg-name="Da Vinci Learning HD TR" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" group-title="COCUK",Da Vinci Learning HD TR  DA VINCI KIDS 4K
+#EXTVLCOPT:cache=9262
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913117&extension=ts&play_token=eJR4Xm6DZP
+#EXTINF:-1 tvg-id="Baby TV TR" tvg-name="Baby TV TR" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="COCUK",Baby TV TR 4K
+#EXTVLCOPT:cache=9263
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913116&extension=ts&play_token=ER5fzflPzc
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="Cartoon Network TR" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="COCUK",Cartoon Network  4K
+#EXTVLCOPT:cache=9264
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913115&extension=ts&play_token=v8UpjLFe70
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="minikaGO" tvg-logo="https://picon-13398.kxcdn.com/minikagotr.jpg" group-title="COCUK",Minika GO 4K
+#EXTVLCOPT:cache=9265
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913114&extension=ts&play_token=OC5NNMRV1b
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-name="Minika Çocuk" tvg-logo="https://picon-13398.kxcdn.com/minikacocuktr.jpg" group-title="COCUK",Minika Çocuk 4K
+#EXTVLCOPT:cache=9266
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913113&extension=ts&play_token=tRg5ekmGFV
+#EXTINF: -1 tvg-id="CF.tr" tvg-name="" tvg-logo="" group-title="COCUK", TR| METROPOL NİLOYA 4K
+#EXTVLCOPT:cache=9267
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913112&extension=ts&play_token=LGVUXNENmv
+#EXTINF: -1 tvg-id="CF.tr" tvg-name="" tvg-logo="" group-title="COCUK", TR| METROPOL SIRINLER
+#EXTVLCOPT:cache=9179
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=912785&extension=ts&play_token=Dg9sPzBf5c
+#EXTINF: -1 tvg-id="CF.tr" tvg-name="" tvg-logo="" group-title="COCUK", TR| METROPOL RAFADAN TAYFA
+#EXTVLCOPT:cache=9180
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=912784&extension=ts&play_token=dopwxwBqWl
+#EXTINF: -1 tvg-id="CF.tr" tvg-name="" tvg-logo="" group-title="COCUK", TR| METROPOL PEPE TV
+#EXTVLCOPT:cache=9181
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=912783&extension=ts&play_token=lBs0Cot8vk
+#EXTINF: -1 tvg-id="CF.tr" tvg-name="" tvg-logo="" group-title="COCUK", TR| METROPOL MASA ILE KOCA AYI
+#EXTVLCOPT:cache=9182
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=912782&extension=ts&play_token=JvqHiyGqaM
+#EXTINF: -1 tvg-id="CF.tr" tvg-name="" tvg-logo="" group-title="COCUK", TR| METROPOL KUKILI
+#EXTVLCOPT:cache=9183
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=912781&extension=ts&play_token=dFxYO12n9O
+#EXTINF: -1 tvg-id="CF.tr" tvg-name="" tvg-logo="" group-title="COCUK", TR| METROPOL KRAL SAKIR
+#EXTVLCOPT:cache=9184
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=912780&extension=ts&play_token=KdJNKYQ6ZD
+#EXTINF: -1 tvg-id="CF.tr" tvg-name="" tvg-logo="" group-title="COCUK", TR| METROPOL KONUSAN TOM
+#EXTVLCOPT:cache=9185
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=912779&extension=ts&play_token=hRwLFwduZE
+#EXTINF: -1 tvg-id="CF.tr" tvg-name="" tvg-logo="" group-title="COCUK", TR| METROPOL HAPSUU
+#EXTVLCOPT:cache=9186
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=912777&extension=ts&play_token=5RKKZ8ZpX9
+#EXTINF: -1 tvg-id="CF.tr" tvg-name="" tvg-logo="" group-title="COCUK", TR| METROPOL ELIFIN DUSLERI
+#EXTVLCOPT:cache=9187
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=912776&extension=ts&play_token=s3nggnMVQb
+#EXTINF: -1 tvg-id="CF.tr" tvg-name="" tvg-logo="" group-title="COCUK", TR| METROPOL EGE ILE GAGA
+#EXTVLCOPT:cache=9188
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=912775&extension=ts&play_token=YgKPIwVCC0
+#EXTINF: -1 tvg-id="CF.tr" tvg-name="" tvg-logo="" group-title="COCUK", TR| METROPOL BOOBA
+#EXTVLCOPT:cache=9189
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=912774&extension=ts&play_token=xRpDqTSkHM
 
 
 
