@@ -51,8 +51,8 @@ https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 #https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #https://live.cache-stream.workers.dev/stream/UCvFudBDDILdDljN4VIZ4Msw/live.m3u8?sd=10&rebase=on
 #https://nimplus3eu1.bozztv.com/trt1eu/trt1eu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIzIDg6NTc6MzEgUE0maGFzaF92YWx1ZT0xQ0hTYUVCQjNKT1Exc1N4Si9zWFFRPT0mdmFsaWRtaW51dGVzPTI4ODA=
-#https://corsproxy.plentygram.com/https://edge02.odtv.az/o2/trt1/playlist.m3u8|User-Agent=Lavf53.32.100 
-#https://corsproxy.plentygram.com/https://edge02.smart.az/o2/trt1/playlist.m3u8
+#https://edge02.odtv.az/o2/trt1/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#https://edge02.smart.az/o2/trt1/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/37ba3d56-b268-41e4-8577-1a5012848d55/0.m3u8
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
@@ -386,23 +386,29 @@ https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u
 http://46.45.158.8:8096/bysid/51202
 #http://95.0.226.197:8000/play/a03o
 
+#EXTINF:0 tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",STAR1 TV
+https://ssh101.bozztv.com/ssh101/star1/chunks.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",STAR2 TV
+https://ssh101.bozztv.com/ssh101/star2/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="ULUSAL", YEŞİLÇAM sinevizyon1
-https://nimplus4eu1.bozztv.com/trsinevizyon1/trsinevizyon1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjMgMTI6MzQ6MjAgUE0maGFzaF92YWx1ZT1vQllPQ2NJVkZ1OXcwUkY4bWNlczFnPT0mdmFsaWRtaW51dGVzPTI4ODA=
+https://nimplus4eu1.bozztv.com/trsinevizyon1/trsinevizyon1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjMgOToxNzoxNSBQTSZoYXNoX3ZhbHVlPWgvaEdNNVB0RDZIS2JJTHhXWkVwZlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1218.jpg" group-title="ULUSAL", YEŞİLÇAM sinevizyon2
-https://nimplus4eu1.bozztv.com/trsinevizyon2/trsinevizyon2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjMgMTI6MzQ6MjAgUE0maGFzaF92YWx1ZT1vQllPQ2NJVkZ1OXcwUkY4bWNlczFnPT0mdmFsaWRtaW51dGVzPTI4ODA=
+https://nimplus4eu1.bozztv.com/trsinevizyon2/trsinevizyon2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjMgOToxNzoxNSBQTSZoYXNoX3ZhbHVlPWgvaEdNNVB0RDZIS2JJTHhXWkVwZlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1219.jpg" group-title="ULUSAL", YEŞİLÇAM sinevizyon3
-https://nimplus4eu1.bozztv.com/trsinevizyon3/trsinevizyon3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjMgMTI6MzQ6MjAgUE0maGFzaF92YWx1ZT1vQllPQ2NJVkZ1OXcwUkY4bWNlczFnPT0mdmFsaWRtaW51dGVzPTI4ODA=
+https://nimplus4eu1.bozztv.com/trsinevizyon3/trsinevizyon3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjMgOToxNzoxNSBQTSZoYXNoX3ZhbHVlPWgvaEdNNVB0RDZIS2JJTHhXWkVwZlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/207.png" group-title="ULUSAL", YEŞİLÇAM 1
-https://nimplus3.bozztv.com/yumrcaktv/yumrcaktv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjMgMTI6MzQ6MjAgUE0maGFzaF92YWx1ZT1vQllPQ2NJVkZ1OXcwUkY4bWNlczFnPT0mdmFsaWRtaW51dGVzPTI4ODA=
+https://nimplus3.bozztv.com/yumrcaktv/yumrcaktv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjMgOToxNzoxNSBQTSZoYXNoX3ZhbHVlPWgvaEdNNVB0RDZIS2JJTHhXWkVwZlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1215.png" group-title="ULUSAL", YEŞİLÇAM 2
-https://nimplus4eu1.bozztv.com/yesilcam2/yesilcam2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjMgMTI6MzQ6MjAgUE0maGFzaF92YWx1ZT1vQllPQ2NJVkZ1OXcwUkY4bWNlczFnPT0mdmFsaWRtaW51dGVzPTI4ODA=
+https://nimplus4eu1.bozztv.com/yesilcam2/yesilcam2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjMgOToxNzoxNSBQTSZoYXNoX3ZhbHVlPWgvaEdNNVB0RDZIS2JJTHhXWkVwZlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1216.png" group-title="ULUSAL", YEŞİLÇAM 3
-https://nimplus4eu1.bozztv.com/yesilcam3/yesilcam3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjMgMTI6MzQ6MjAgUE0maGFzaF92YWx1ZT1vQllPQ2NJVkZ1OXcwUkY4bWNlczFnPT0mdmFsaWRtaW51dGVzPTI4ODA=
+https://nimplus4eu1.bozztv.com/yesilcam3/yesilcam3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjMgOToxNzoxNSBQTSZoYXNoX3ZhbHVlPWgvaEdNNVB0RDZIS2JJTHhXWkVwZlE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MA==
 
 #EXTINF:0 tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",DÜZGÜN TV
 http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/supersatforumplaylist.m3u8
