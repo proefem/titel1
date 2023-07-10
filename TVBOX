@@ -67,8 +67,11 @@ https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU ᴴᴰ 
 https://ensonhaber-live.ercdn.net/tgrteu/tgrteu.m3u8
 
-#EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo=""  ,GUNAYDIN TV
+#EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo="https://gunaydintv.com/public/uploads/gunaydintv-ana-sayfa-logo-6262.jpg"  ,GUNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR TV ᴴᴰ⁺
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8?_=1
 
 #EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo="https://canlitv.center/channels/life-tv.png"  ,LIFE TV	
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
@@ -90,9 +93,6 @@ https://cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8
 
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",TV35 ᴴᴰ⁺
 #https://stream01.tv35.com.tr/hls2/tv35izmir.m3u8
-
-#EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",BİR TV ᴴᴰ⁺
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/aSKwxSY.png"  group-title="ULUSAL",DENİZ POSTASI ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
@@ -727,6 +727,14 @@ http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
  
 #EXTINF:-1 group-title="ULUSAL-int" tvg-logo="https://i.imgur.com/XQz5zAO.png", TV ADİGE
 #http://91.134.203.253:30124/tvadige/tvadige/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="Munakasa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="VoD ✦ SHOW-EGLENCE",Munakasa
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/11345.mkv
+#EXTINF:-1 tvg-name="Dogu Demirkol Yilbasi Ozel Standup" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="VoD ✦ SHOW-EGLENCE",Dogu Demirkol Yilbasi Ozel Standup
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/11346.mkv
+#EXTINF:-1 tvg-name="Cem Ylmaz Diamond Elite Platinum Plus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="VoD ✦ SHOW-EGLENCE",Cem Ylmaz Diamond Elite Platinum Plus
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/11347.mkv
 
 
 
@@ -1756,7 +1764,250 @@ http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7523&extension=ts
 http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7524&extension=ts
 #EXTINF:0,(DE) Spiegel Geschichte 4K+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7525&extension=ts
+http://darktv.eu/play/live.php?mac=00:1A:79:61:4F:18&stream=7525&extension=t
+
+#EXTINF:-1 tvg-name="INFO SKY SELECT HD MAi 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="VoD ✦ SELECT DE",INFO SKY SELECT HD MAi 2023
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/16255.mkv
+#EXTINF:-1 tvg-name="01.SKY SELECT HD MAI-23 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmD0NVdhiRiCu64YKem5GK5PSfy.jpg" group-title="VoD ✦ SELECT DE",01.SKY SELECT HD MAI-23 (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/16256.mkv
+#EXTINF:-1 tvg-name="02.SKY SELECT HD MAI-23 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rl0bdO5k1gKAhvqPf91KqQp64c.jpg" group-title="VoD ✦ SELECT DE",02.SKY SELECT HD MAI-23 (2021)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/16257.mkv
+#EXTINF:-1 tvg-name="03.SKY SELECT HD MAI-23 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpLe5dXDlLqE5WAk8w8PKmleYG4.jpg" group-title="VoD ✦ SELECT DE",03.SKY SELECT HD MAI-23 (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/16258.mkv
+#EXTINF:-1 tvg-name="04.SKY SELECT HD MAI-23 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7iEPyRAvHMQstKfv4Udua4Q5gz.jpg" group-title="VoD ✦ SELECT DE",04.SKY SELECT HD MAI-23 (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/16264.mkv
+#EXTINF:-1 tvg-name="05.SKY SELECT HD MAI-23 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5gc5j1pJ32GrJBOy0nSziU0tt8.jpg" group-title="VoD ✦ SELECT DE",05.SKY SELECT HD MAI-23 (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/16259.mkv
+#EXTINF:-1 tvg-name="06.SKY SELECT HD MAI-23 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0Zh14HIaa6AFiO7MRyHH6nsNub.jpg" group-title="VoD ✦ SELECT DE",06.SKY SELECT HD MAI-23 (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/16260.mkv
+#EXTINF:-1 tvg-name="07.SKY SELECT HD MAI-23 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2G4SaLZ09QojCaOROyXAMNtdoL.jpg" group-title="VoD ✦ SELECT DE",07.SKY SELECT HD MAI-23 (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/16261.mkv
+#EXTINF:-1 tvg-name="08.SKY SELECT HD MAI-23 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJEdo4o3oVAhzyUhcZ47Ar9Rcg0.jpg" group-title="VoD ✦ SELECT DE",08.SKY SELECT HD MAI-23 (2023)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/16262.mkv
+#EXTINF:-1 tvg-name="09.SKY SELECT HD MAI-23 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXqzUpimSGuXltt1pKnuag7NFhY.jpg" group-title="VoD ✦ SELECT DE",09.SKY SELECT HD MAI-23 (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/16265.mkv
+#EXTINF:-1 tvg-name="10.SKY SELECT HD MAI-23 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztYN6xo5meeEHLH3bXU6jej3Tad.jpg" group-title="VoD ✦ SELECT DE",10.SKY SELECT HD MAI-23 (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/16263.mkv
+#EXTINF:-1 tvg-name="INFO SKY SELECT APRIL-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztYN6xo5meeEHLH3bXU6jej3Tad.jpg" group-title="VoD ✦ SELECT DE",INFO SKY SELECT APRIL-23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14879.mkv
+#EXTINF:-1 tvg-name="01.SKY SELECT HD APRIL-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj6YmTAU7Jvn3w6d2NfjQzpX7Pw.jpg" group-title="VoD ✦ SELECT DE",01.SKY SELECT HD APRIL-23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14880.mkv
+#EXTINF:-1 tvg-name="02.SKY SELECT HD APRIL-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTcPj4N6Jr6NnXXbjd3f9wgIz0j.jpg" group-title="VoD ✦ SELECT DE",02.SKY SELECT HD APRIL-23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14881.mkv
+#EXTINF:-1 tvg-name="03.SKY SELECT HD APRIL-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVKfVxoHE34nUUoehs0shNzpEVe.jpg" group-title="VoD ✦ SELECT DE",03.SKY SELECT HD APRIL-23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14882.mkv
+#EXTINF:-1 tvg-name="04.SKY SELECT HD APRIL-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acYsFI7hPv9KfQcOVt5of8WuI7I.jpg" group-title="VoD ✦ SELECT DE",04.SKY SELECT HD APRIL-23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14883.mkv
+#EXTINF:-1 tvg-name="05.SKY SELECT HD APRIL-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o94UbqpshNsyCj0NukDGl1JNOS0.jpg" group-title="VoD ✦ SELECT DE",05.SKY SELECT HD APRIL-23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14884.mkv
+#EXTINF:-1 tvg-name="06.SKY SELECT HD APRIL-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csDWPsAFquWcUznEszQPzQJIOe4.jpg" group-title="VoD ✦ SELECT DE",06.SKY SELECT HD APRIL-23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14885.mkv
+#EXTINF:-1 tvg-name="07.SKY SELECT HD APRIL-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOZbQNQde98nkt55ylAZyO0k7.jpg" group-title="VoD ✦ SELECT DE",07.SKY SELECT HD APRIL-23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14886.mkv
+#EXTINF:-1 tvg-name="08.SKY SELECT HD APRIL-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zY6HkACxBbHkNKUtd2yS0Jjv7ud.jpg" group-title="VoD ✦ SELECT DE",08.SKY SELECT HD APRIL-23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14887.mkv
+#EXTINF:-1 tvg-name="09.SKY SELECT HD APRIL-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSkoCDqezydp9ekzXKQQvLEBHTK.jpg" group-title="VoD ✦ SELECT DE",09.SKY SELECT HD APRIL-23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14888.mkv
+#EXTINF:-1 tvg-name="10.SKY SELECT HD APRIL-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",10.SKY SELECT HD APRIL-23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14889.mkv
+#EXTINF:-1 tvg-name="INFO SKY SELECT HD MAERZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",INFO SKY SELECT HD MAERZ
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14000.mkv
+#EXTINF:-1 tvg-name="01.SKY SELECT HD MAERZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",01.SKY SELECT HD MAERZ
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14010.mkv
+#EXTINF:-1 tvg-name="02.SKY SELECT HD MAERZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",02.SKY SELECT HD MAERZ
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14009.mkv
+#EXTINF:-1 tvg-name="03.SKY SELECT HD MAERZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",03.SKY SELECT HD MAERZ
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14001.mkv
+#EXTINF:-1 tvg-name="04.SKY SELECT HD MAERZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",04.SKY SELECT HD MAERZ
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14002.mkv
+#EXTINF:-1 tvg-name="05.SKY SELECT HD MAERZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",05.SKY SELECT HD MAERZ
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14003.mp4
+#EXTINF:-1 tvg-name="06.SKY SELECT HD MAERZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",06.SKY SELECT HD MAERZ
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14004.mkv
+#EXTINF:-1 tvg-name="07.SKY SELECT HD MAERZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",07.SKY SELECT HD MAERZ
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14005.mkv
+#EXTINF:-1 tvg-name="08.SKY SELECT HD MAERZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",08.SKY SELECT HD MAERZ
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14006.mkv
+#EXTINF:-1 tvg-name="09.SKY SELECT HD MAERZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",09.SKY SELECT HD MAERZ
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14007.mkv
+#EXTINF:-1 tvg-name="10.SKY SELECT HD MAERZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",10.SKY SELECT HD MAERZ
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14008.mkv
+#EXTINF:-1 tvg-name="INFO.SKY SELECT 02.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",INFO.SKY SELECT 02.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8206.mkv
+#EXTINF:-1 tvg-name="01.SKY SELECT 02.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",01.SKY SELECT 02.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8205.mkv
+#EXTINF:-1 tvg-name="02.SKY SELECT 02.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",02.SKY SELECT 02.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8204.mkv
+#EXTINF:-1 tvg-name="03.SKY SELECT 02.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",03.SKY SELECT 02.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8203.mp4
+#EXTINF:-1 tvg-name="04.SKY SELECT 02.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",04.SKY SELECT 02.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8202.mkv
+#EXTINF:-1 tvg-name="05.SKY SELECT 02.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",05.SKY SELECT 02.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8209.mkv
+#EXTINF:-1 tvg-name="06.SKY SELECT 02.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",06.SKY SELECT 02.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8208.mp4
+#EXTINF:-1 tvg-name="07.SKY SELECT 02.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",07.SKY SELECT 02.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8207.mkv
+#EXTINF:-1 tvg-name="08.SKY SELECT 02.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",08.SKY SELECT 02.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8201.mkv
+#EXTINF:-1 tvg-name="09.SKY SELECT 02.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",09.SKY SELECT 02.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8200.mp4
+#EXTINF:-1 tvg-name="10.SKY SELECT 02.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",10.SKY SELECT 02.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8199.mkv
+#EXTINF:-1 tvg-name="INFO.SKY SELECT 01.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",INFO.SKY SELECT 01.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13282.mkv
+#EXTINF:-1 tvg-name="01.SKY SELECT 01.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",01.SKY SELECT 01.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13286.mkv
+#EXTINF:-1 tvg-name="02.SKY SELECT 01.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",02.SKY SELECT 01.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13285.mkv
+#EXTINF:-1 tvg-name="03.SKY SELECT 01.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",03.SKY SELECT 01.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13280.mkv
+#EXTINF:-1 tvg-name="04.SKY SELECT 01.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",04.SKY SELECT 01.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13287.mkv
+#EXTINF:-1 tvg-name="05.SKY SELECT 01.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",05.SKY SELECT 01.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13284.mkv
+#EXTINF:-1 tvg-name="06.SKY SELECT 01.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",06.SKY SELECT 01.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13281.mp4
+#EXTINF:-1 tvg-name="07.SKY SELECT 01.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",07.SKY SELECT 01.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13289.mkv
+#EXTINF:-1 tvg-name="08.SKY SELECT 01.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",08.SKY SELECT 01.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13288.mp4
+#EXTINF:-1 tvg-name="09.SKY SELECT 01.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",09.SKY SELECT 01.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13306.mp4
+#EXTINF:-1 tvg-name="10.SKY SELECT 01.23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",10.SKY SELECT 01.23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13283.mkv
+#EXTINF:-1 tvg-name="INFO SKY SELECT JUNI-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",INFO SKY SELECT JUNI-23
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17166.mkv
+#EXTINF:-1 tvg-name="01.SKY SELECT HD JUN 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",01.SKY SELECT HD JUN 2023
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17167.mkv
+#EXTINF:-1 tvg-name="02.SKY SELECT HD JUN 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",02.SKY SELECT HD JUN 2023
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17168.mkv
+#EXTINF:-1 tvg-name="03.SKY SELECT HD JUN 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",03.SKY SELECT HD JUN 2023
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17169.mkv
+#EXTINF:-1 tvg-name="04.SKY SELECT HD JUN 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",04.SKY SELECT HD JUN 2023
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17170.mkv
+#EXTINF:-1 tvg-name="05.SKY SELECT HD JUN 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",05.SKY SELECT HD JUN 2023
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17171.mkv
+#EXTINF:-1 tvg-name="06.SKY SELECT HD JUN 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",06.SKY SELECT HD JUN 2023
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17172.mkv
+#EXTINF:-1 tvg-name="07.SKY SELECT HD JUN 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",07.SKY SELECT HD JUN 2023
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17173.mkv
+#EXTINF:-1 tvg-name="08.SKY SELECT HD JUN 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",08.SKY SELECT HD JUN 2023
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17174.mkv
+#EXTINF:-1 tvg-name="09.SKY SELECT HD JUN 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",09.SKY SELECT HD JUN 2023
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17175.mkv
+#EXTINF:-1 tvg-name="10.SKY SELECT HD JUN 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VoD ✦ SELECT DE",10.SKY SELECT HD JUN 2023
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17176.mkv
+
+#EXTINF:-1 tvg-name="Extraction 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Extraction 2 (2023)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17478.mkv
+#EXTINF:-1 tvg-name="The Wonder Weeks (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/at2D9VBuZoZU6SDLt7ZMqoDggfY.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",The Wonder Weeks (2023)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17150.mkv
+#EXTINF:-1 tvg-name="Kan ve Altın (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhdFqGA31wzMjOQpCdwy4n1lSeP.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Kan ve Altın (2023)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17064.mkv
+#EXTINF:-1 tvg-name="Tin ve Tina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Tin ve Tina (2023)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17065.mkv
+#EXTINF:-1 tvg-name="Sadakat Yalanı (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKcmp0l5kpvzEogOVZij4dSdLNJ.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Sadakat Yalanı (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17051.mkv
+#EXTINF:-1 tvg-name="Fanatik (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qgkVtpVabAzjQaJTgx3Vmqnmyj.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Fanatik (2023)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17052.mkv
+#EXTINF:-1 tvg-name="Zor Duygular (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3k7lTigzxb21bQdEw3oD4pxySH.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Zor Duygular (2023)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17053.mkv
+#EXTINF:-1 tvg-name="Anneler Günü (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svHMccX1rWtttqV0tEeK5tXGUe1.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Anneler Günü (2023)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17054.mkv
+#EXTINF:-1 tvg-name="The Menu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",The Menu (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13145.mkv
+#EXTINF:-1 tvg-name="Under Wraps 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y37QvulwOJ1uv0onnDB4ocWEQZn.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Under Wraps 2 (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13148.mkv
+#EXTINF:-1 tvg-name="The Great American Tag Sale with Martha Stewart (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPLJvtcL5KxTIGSCrIiUkPALMYR.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",The Great American Tag Sale with Martha Stewart (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13149.mkv
+#EXTINF:-1 tvg-name="Just Short of Perfect (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glFwaNYHhzUa1pao25O2o2aFkxj.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Just Short of Perfect (2021)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13150.mkv
+#EXTINF:-1 tvg-name="7 Women and a Murder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iz2tpJJgSDBS646VYhmNkUmot4l.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",7 Women and a Murder (2021)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13151.mkv
+#EXTINF:-1 tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Guillermo del Toro's Pinocchio (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13152.mkv
+#EXTINF:-1 tvg-name="A Night at the Kindergarten (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6tDFLtLzlzkm27OOOsdjlK58wD.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",A Night at the Kindergarten (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13153.mkv
+#EXTINF:-1 tvg-name="Noel'e Teslim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6tDFLtLzlzkm27OOOsdjlK58wD.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Noel'e Teslim
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13154.mkv
+#EXTINF:-1 tvg-name="Christmas with You (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLeteDMox6dYGC-cqjTdczh6b60zHrbrzChf9GVZd7W0c.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Christmas with You (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10145.mkv
+#EXTINF:-1 tvg-name="The Swimmers (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBWZx0m9CGbdfxQkBz_XXaeJtGY4rnt7oYGp5E0MUweA.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",The Swimmers (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10146.mkv
+#EXTINF:-1 tvg-name="Christmas on Mistletoe Farm (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLexPAn6jSLq9LNCZWGtj9lQZLwMcqSybBNPDq58BeNJA.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Christmas on Mistletoe Farm (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10147.mkv
+#EXTINF:-1 tvg-name="The Noel Diary (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLE_JIBx0BAL-QO7F60tmeKyuqtdBobSiaWZM_p4SHGOU.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",The Noel Diary (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10148.mkv
+#EXTINF:-1 tvg-name="The Wonder (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-qbIJkgzRGyd2zheGJ4sJZUjZ7XQp0DT5LYDsE3A6DA.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",The Wonder (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10149.mkv
+#EXTINF:-1 tvg-name="The Lost Patient (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrK_QlXPITYUFJW0iadq3igFovTmuOwa9C4c_XwgzPS0.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",The Lost Patient (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10150.mkv
+#EXTINF:-1 tvg-name="Lesson Plan (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRm39uyGs2u-g1mky74FFlVLFLRByQ1ngIoj800poWIU.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Lesson Plan (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10151.mkv
+#EXTINF:-1 tvg-name="Kal (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLsb1gbKyyADUujXyRGIIOvxB7ApvI_dkiJi6Lw-kPJXk.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Kal (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9286.mkv
+#EXTINF:-1 tvg-name="Lost Bullet 2 (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLx2Dkow0MT019WBHCSjhfIxnRVtZHNNDet5bp4LXGgc0.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Lost Bullet 2 (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9285.mkv
+#EXTINF:-1 tvg-name="Falling for Christmas (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfrQZ96VgUIHj9MyI4SJobkc9OJVa1_umr98HMC5JXJk.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Falling for Christmas (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9284.mkv
+#EXTINF:-1 tvg-name="Medieval (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLwzsPJg8AQk958vXrReXHh4HQOBS9gpGWTD3cF5YB2ck.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Medieval (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9069.mkv
+#EXTINF:-1 tvg-name="The Takeover (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLAIFCM0OOmu3QypQErYj0fPpNZP1NmChwWgs9qYVo0ok.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",The Takeover (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8841.mkv
+#EXTINF:-1 tvg-name="20th Century Girl (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfFdaxLIf2NYjllQXBOF_oZLTEPjMzC7WMS6oGp2pwqs.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",20th Century Girl (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8842.mkv
+#EXTINF:-1 tvg-name="Cici (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLAa0vGxvMZQUSWgAtLL0SxdzLoqUiFjkcp0_rEJgMp0E.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Cici (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8843.mkv
+#EXTINF:-1 tvg-name="All Quiet on the Western Front (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLk1KWM0vgIwl68ems48AVsefhhOcfb0_OOvo1A1RsSwc.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",All Quiet on the Western Front (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8844.mkv
+#EXTINF:-1 tvg-name="Hellhole (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLVWXd9zhpZ9Vj5bkho4o9vFvwtM2gszayS-ZgeTTcGGA.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Hellhole (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8845.mkv
+#EXTINF:-1 tvg-name="Robbing Mussolini (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdgG4PY_syEMjMY9FwbgjrswLzONf1I8LksSxs0CEfS8.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Robbing Mussolini (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8847.mkv
+#EXTINF:-1 tvg-name="The Curse of Bridge Hollow (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzXr7Zv_ZRrznrvv8nhJ_tG7nkP-UEHi7tx7Qy1jmZc4.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",The Curse of Bridge Hollow (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8848.mkv
+#EXTINF:-1 tvg-name="The Good Nurse (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLlhsIztqEVH9RiCR9Jx1My_cV_lKo60I0pP4IpIdTj0c.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",The Good Nurse (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8850.mkv
+#EXTINF:-1 tvg-name="All Quiet on the Western Front (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLk1KWM0vgIwl68ems48AVsefhhOcfb0_OOvo1A1RsSwc.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",All Quiet on the Western Front (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8851.mkv
+#EXTINF:-1 tvg-name="Someone Borrowed (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkccyirCtM31mVUKLQBwNBewAPxNuTseyaNscs8aS-ls.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Someone Borrowed (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8852.mkv
+#EXTINF:-1 tvg-name="The King (2019)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLw9R7NbqUCysdv1Qo3U-DZOWoZZ3LteV_IassiYaId1k.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",The King (2019)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8846.mkv
+#EXTINF:-1 tvg-name="Luckiest Girl Alive (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnQ_u7ZMnQGql1wZ9tWYF0X_efRBPwc2T_RdgOk7BwYg.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Luckiest Girl Alive (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8856.mkv
+#EXTINF:-1 tvg-name="Mr. Harrigan's Phone (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLs3eE1ZjiXkuAxEsrm-rOgJHfQNr3anWFahVPRcoaZ4k.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Mr. Harrigan's Phone (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8857.mkv
+#EXTINF:-1 tvg-name="Old People (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBewcRPiEu-S6y9Vs9Co1O7YyfGT4thJRHpyAVf5ABRE.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Old People (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8858.mkv
+#EXTINF:-1 tvg-name="Jumping from High Places (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLS8CiaURFqx54tzowOhbTZjC2XFICQnJCYFm-roZaVSI.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Jumping from High Places (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8854.mkv
+#EXTINF:-1 tvg-name="Valley of the Dead (2020)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfYpjvP5tNccO_5Hu547aQplDrItyTW3cjqb-w7YN68Y.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Valley of the Dead (2020)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9075.mkv
+#EXTINF:-1 tvg-name="Purple Hearts (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL50mpZC3uHM7aX-D9pIugk2JfNgnOb0_XhSvOTeQAMEk.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Purple Hearts (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9076.mkv
+#EXTINF:-1 tvg-name="No Limit (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLL2mXDGp6xfREt8MH2r31hfTbfHWnkxOMEF0pmzoYq6E.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",No Limit (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9078.mkv
+#EXTINF:-1 tvg-name="Dangerous Liaisons (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnPsaqtgi7M9vKcnmeWVxnwakGBTd0mwEM_u6foGLtME.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Dangerous Liaisons (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9079.mkv
+#EXTINF:-1 tvg-name="Royalteen (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCqp-9atkU5cYQ3SmQFmLDD9f3lw2vvqyCc8MpGESfoA.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Royalteen (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9081.mkv
+#EXTINF:-1 tvg-name="Broad Peak (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLAyabv1F5Nc-VBMqySDkdjrKyXe_DKSXsxdzpTkzK5WA.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Broad Peak (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9082.mkv
+#EXTINF:-1 tvg-name="End of the Road (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYQNxC67Ic9MNcCfGtxmU2zbdAu9JvlPgpkszeYX6538.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",End of the Road (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9080.mkv
+#EXTINF:-1 tvg-name="Look Both Ways (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLqLMU6f79j5qhhuh2wP6UJpzF-aI-1DCktE0MxgpuiI.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Look Both Ways (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9077.mkv
+#EXTINF:-1 tvg-name="My Name Is Vendetta (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL1GNsmbu0OJXGctalcN1VVTvXuq_uD9qv-R0-WKD3pZ8.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",My Name Is Vendetta (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10828.mkv
+#EXTINF:-1 tvg-name="Un hombre de accion (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLbgqKajj0UdqxikFOk932ynfAqkNcZ87WfToAP6s_YIs.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Un hombre de accion (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10829.mkv
+#EXTINF:-1 tvg-name="Christmas Full of Grace (2022)" tvg-logo="http://my-media.ddns.me:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPAiph81EicyV1vl-SI53gjQDSGC5cU5Vqwnzr-2L-sU.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Christmas Full of Grace (2022)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10830.mkv
+#EXTINF:-1 tvg-name="Yedi Kral Ölmeli (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Yedi Kral Ölmeli (2023)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/15009.mkv
+
 
 
 #EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="======== >SPOR<========" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/football.jpg" group-title="TR | Spor",======== >SPOR<========

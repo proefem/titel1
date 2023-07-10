@@ -298,8 +298,11 @@ http://31.3.91.134:12005/udp/224.0.0.1:36517
 #https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8|User-Agent=Lavf53.32.100     
 #http://195.142.1.211:4022/udp/224.2.2.83:10001/index.m3u8
 
-#EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo=""  ,GUNAYDIN TV
+#EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo="https://gunaydintv.com/public/uploads/gunaydintv-ana-sayfa-logo-6262.jpg"  ,GUNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR TV ᴴᴰ⁺
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8?_=1
 
 #EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo="https://canlitv.center/channels/life-tv.png"  ,LIFE TV	
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
@@ -340,9 +343,6 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",TV35 ᴴᴰ⁺
 #https://stream01.tv35.com.tr/hls2/tv35izmir.m3u8
-
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR TV ᴴᴰ⁺
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8?_=1
 
 #EXTINF:-1 tvg-id="kanal34.tr" tvg-logo="https://i.imgur.com/WYhTpIm.png"group-title="ULUSAL" , KANAL 34 iSTANBULᴴᴰ⁺
 https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8?_=1
@@ -1450,9 +1450,7 @@ http://213.239.195.222/azerbaijan/arb_stream_sd_2023/playlist.m3u8
 #EXTINF:1 group-title="ULUSAL-int"  tvg-id""tvg-logo="http://epg.it999.ru/img/2637.png",Idman Azerbaycan TV
 http://213.239.195.222/azerbaijan/idman_stream_sd_2023/playlist.m3u8
 
-https://yayin1.canlitv.day/canlitv/art.stream/playlist.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
-https://www.canlitv.day/hls/10973/10973.playlist.m3u8
- 
+
 #EXTINF:-1 group-title="ULUSAL-int" tvg-logo="https://i.imgur.com/XQz5zAO.png", TV ADİGE
 #http://91.134.203.253:30124/tvadige/tvadige/playlist.m3u8
 #EXTINF:-1 tvg-id="TuranTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turan-tv.png" group-title="ULUSAL-int",Turan TV1 ᵁᴴᴰ⁺
@@ -1461,7 +1459,101 @@ https://www.canlitv.day/hls/10973/10973.playlist.m3u8
 #EXTINF:-1 tvg-id="TuranTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turan-tv.png" group-title="ULUSAL-int",FTVᵁᴴᴰ⁺
 #https://cdn3.wowza.com/1/dURtUDdsMndrZ1ZR/K2Q5dUk0/hls/live/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Munakasa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="VoD ✦ SHOW-EGLENCE",Munakasa
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/11345.mkv
+#EXTINF:-1 tvg-name="Dogu Demirkol Yilbasi Ozel Standup" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="VoD ✦ SHOW-EGLENCE",Dogu Demirkol Yilbasi Ozel Standup
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/11346.mkv
+#EXTINF:-1 tvg-name="Cem Ylmaz Diamond Elite Platinum Plus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="VoD ✦ SHOW-EGLENCE",Cem Ylmaz Diamond Elite Platinum Plus
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/11347.mkv
 
+#EXTINF:-1 tvg-name="Teskilat -TRT-1-( SON BLM )" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3Av5kBw3qhwR6rRbKPzgkTelY8-_DyiiPKp_vNhI_xnz.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Teskilat -TRT-1-( SON BLM )
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8881.mp4
+#EXTINF:-1 tvg-name="Guldur Guldur show (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3GTlP7A4tM66nJT4nT51S9ADUEOhBsbk5pnsSsp6XL24.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Guldur Guldur show (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8882.mp4
+#EXTINF:-1 tvg-name="Alparslan: Büyük Selçuklu -TRT1" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3KVbiYrMcGP7nRs68xEAToKQc7-zmU1PdvF22Dy5l1Jz.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Alparslan: Büyük Selçuklu -TRT1
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8883.mp4
+#EXTINF:-1 tvg-name="Gonul Dagi-TRT1-Son Blm" tvg-logo="http://my-media.ddns.me:52381/images/ZXB-eYaXTVWD5l_vzgmogZ5oVxhxISQy55u0GbQYUWLx2iePVm2-tsTsSwjubR8G6invPDaCZyiI5YAy1wXirKwRDSxc3iDQRPakKu2RWV8.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Gonul Dagi-TRT1-Son Blm
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8885.mkv
+#EXTINF:-1 tvg-name="Alsancak-TRT 1 (Son Blm) (2023)" tvg-logo="http://foto.fotodepo.fr/images/alsancak.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Alsancak-TRT 1 (Son Blm) (2023)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8886.mkv
+#EXTINF:-1 tvg-name="Yürek Çıkmazı-TRT1-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6Tz0_amD4oGl4x6kmt9WvIb.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yürek Çıkmazı-TRT1-(Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8888.mp4
+#EXTINF:-1 tvg-name="Kızılcık Şerbeti-SHOW (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/Z7I-PbJwp-zu9fQhKg8aLStuEcTuZn1hFoPGGavaT8lM0YLxlUJl-6YP9T56YQpfuqSQlqRUxVkRUMpaaFYf1w.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kızılcık Şerbeti-SHOW (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8890.mp4
+#EXTINF:-1 tvg-name="Yalı Çapkını-STAR (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6RrcAbLHDNVJp5oQN_SCMHV.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yalı Çapkını-STAR (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8894.mp4
+#EXTINF:-1 tvg-name="Uvey Anne -ATV (Son Blm)" tvg-logo="https://i.ibb.co/0nmRcK9/uveyanne.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Uvey Anne -ATV (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8896.mp4
+#EXTINF:-1 tvg-name="Gecenin Ucunda-Star-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6RjGScDYxd9KoAO8hxPx500.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Gecenin Ucunda-Star-(Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8898.mp4
+#EXTINF:-1 tvg-name="Kardeslerim-ATV (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ZXB-eYaXTVWD5l_vzgmogZ5oVxhxISQy55u0GbQYUWLACDe6Qhbt9OhwXwpmHuknzTZ8-t2Lflwz3OPRzzMOK7gMDTLq4q1kiS1J3mE2DqI.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kardeslerim-ATV (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8899.mp4
+#EXTINF:-1 tvg-name="Ömer-Star (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/omer2023.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ömer-Star (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8900.mp4
+#EXTINF:-1 tvg-name="Doğu Demirkol ile Alelade-STAR TV" tvg-logo="http://my-media.ddns.me:52381/images/ZXB-eYaXTVWD5l_vzgmogZ5oVxhxISQy55u0GbQYUWIbL2HLXBkjHQz3Gg7otoAkjmNJHplNwILs31M1IEcPt00yKt5pO5zUWpWE_j2CrIo.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Doğu Demirkol ile Alelade-STAR TV
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8901.mp4
+#EXTINF:-1 tvg-name="Ben Bu Cihana Sığmazam -ATV-(Son blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3KVbiYrMcGP7nRs68xEAToKA3D2QPBqOP01oTKCGP45_.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ben Bu Cihana Sığmazam -ATV-(Son blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8902.mp4
+#EXTINF:-1 tvg-name="Veda Mektubu-Kanal D (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/mv5bngvpv.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Veda Mektubu-Kanal D (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8903.mp4
+#EXTINF:-1 tvg-name="Üç Kız Kardeş-KANAL D (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6R9ZrBIMVSKFlZaMCVN71pR.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Üç Kız Kardeş-KANAL D (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8905.mp4
+#EXTINF:-1 tvg-name="Ateş Kuşları-ATV (Son.Blm.)" tvg-logo="http://foto.fotodepo.fr/images/ateskuslar.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ateş Kuşları-ATV (Son.Blm.)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8907.mp4
+#EXTINF:-1 tvg-name="Yargı-Kanal D (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3ANjAOhSIQxapVLY16IqJRgwHT1OpFlQ5iOKL3Sw89UV.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yargı-Kanal D (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8908.mp4
+#EXTINF:-1 tvg-name="Benim Güzel Ailem-TRT- (SonBlm)" tvg-logo="http://foto.fotodepo.fr/images/benimgdvd.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Benim Güzel Ailem-TRT- (SonBlm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8909.mkv
+#EXTINF:-1 tvg-name="CAMDAKİ KIZ-KANAL D-(Son Blm.)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3JCdVs9Gm9t7dgESYEr0Gt20yYhemDxyZhNi7jeS9Oy1.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",CAMDAKİ KIZ-KANAL D-(Son Blm.)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8910.mp4
+#EXTINF:-1 tvg-name="Arka Sokaklar-Kanal D (SON BLM)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3JCdVs9Gm9t7dgESYEr0Gt3wzz0Wl5c_ZGgiFn_H5_XI.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Arka Sokaklar-Kanal D (SON BLM)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8911.mp4
+#EXTINF:-1 tvg-name="Cok Güzel Hareketler Bunlar-2.Kusak" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3F84clMhh7DtJTtEbPacXgyjWFvhZb7ohTeP61km0q_B.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Cok Güzel Hareketler Bunlar-2.Kusak
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8912.mp4
+#EXTINF:-1 tvg-name="YASAK ELMA - Fox (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3NAug7BGdyE7IDnpIwzgaLmewDUEUe1giKAhFBmwxrQC.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",YASAK ELMA - Fox (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8914.mp4
+#EXTINF:-1 tvg-name="Tetikçinin Oğlu-Fox -(Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/tetikcinin.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Tetikçinin Oğlu-Fox -(Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8915.mp4
+#EXTINF:-1 tvg-name="Taçsız Prenses-FOX (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/prenseeee.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Taçsız Prenses-FOX (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8917.mp4
+#EXTINF:-1 tvg-name="Aldatmak -ATV (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3JKqAwkYjybDCFOaqT936pKypacg0ZaQOmUClMDN7123.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Aldatmak -ATV (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8897.mp4
+#EXTINF:-1 tvg-name="Kısmet- FOX (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/r202369231.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kısmet- FOX (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8913.mp4
+#EXTINF:-1 tvg-name="Kurulus Osman-ATV-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3EgfC4Q4bw0SpRxVSyP2p0iW0miIqLLIPq4vGAnZcc8Y.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kurulus Osman-ATV-(Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8906.mp4
+#EXTINF:-1 tvg-name="Güzel Günler-Show-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3HpW7NLz18Bh5Qm2fBhNljIcUB0Iv9aWC5jP9d6sWSNo.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Güzel Günler-Show-(Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8884.mp4
+#EXTINF:-1 tvg-name="Sarkılar Bizi Soyler - Kanal D - (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/etnlzaOTdP5UfEZZyRjSIuEq7VLC_qaBxI5_SbOCE_a68xNwA7bMATHaszH5XgEzL2yVe2U3KQKs0XApkb7AsZJKLUJhQXZ7nISH-xurnDE.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Sarkılar Bizi Soyler - Kanal D - (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10172.mp4
+#EXTINF:-1 tvg-name="Çöp Adam-Star-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6SSFofddh_iWc61iU3bI6pb.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Çöp Adam-Star-(Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10827.mp4
+#EXTINF:-1 tvg-name="Hayatımın Şansı - FOX - (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LTPPGfbLts__8-BJyQb_CLq3lpXkJTXes7GVz1XxrSe.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Hayatımın Şansı - FOX - (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12199.mp4
+#EXTINF:-1 tvg-name="Barbaros Hayreddin: Sultanın Fermanı -TRT- (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LBBTBeQtAHbvQKOjKwji3gqDV1bM8ECZcfOTdaFD6ov.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Barbaros Hayreddin: Sultanın Fermanı -TRT- (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12479.mp4
+#EXTINF:-1 tvg-name="Adım Farah-Fox-(Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/1025xautof.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Adım Farah-Fox-(Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13883.mp4
+#EXTINF:-1 tvg-name="Aile - Show tv -(Son Blm)" tvg-logo="https://1001dizi.net/images2/dizi/yeni/aile.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Aile - Show tv -(Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13993.mp4
+#EXTINF:-1 tvg-name="Yüz Yıllık Mucize- Star-(Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/yc3bczyc4b.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yüz Yıllık Mucize- Star-(Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14147.mkv
+#EXTINF:-1 tvg-name="Gülcemal - fox-(Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/gulcemal16.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Gülcemal - fox-(Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14901.mp4
+#EXTINF:-1 tvg-name="Maviye Sürgün Show-tv (son blm)" tvg-logo="http://foto.fotodepo.fr/images/3588874f23.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Maviye Sürgün Show-tv (son blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17187.mp4
+#EXTINF:-1 tvg-name="Vermem Seni Ellere-Son Blm" tvg-logo="http://foto.fotodepo.fr/images/mv5byjawyz.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Vermem Seni Ellere-Son Blm
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17503.mp4
+#EXTINF:-1 tvg-name="Kendi Düşen Ağlamaz-TRT-Son Blm." tvg-logo="http://foto.fotodepo.fr/images/fypenuwx0a.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kendi Düşen Ağlamaz-TRT-Son Blm.
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/18424.mp4
+#EXTINF:-1 tvg-name="Ya Çok Seversen-Kanal D (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/fzot9svxsa.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ya Çok Seversen-Kanal D (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22245.mp4
+#EXTINF:-1 tvg-name="Dönence: Kanal D (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/fyfes3xxga.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Dönence: Kanal D (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22246.mp4
+#EXTINF:-1 tvg-name="Yaz Şarkısı: Fox (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/yazarks.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yaz Şarkısı: Fox (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22247.mp4
+#EXTINF:-1 tvg-name="Hayatımın Neşesi: TRT (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/2023070223.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Hayatımın Neşesi: TRT (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22248.mp4
 
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: ALPARSLAN BÜYÜK SELÇUKLU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXnP3YEN3saxyncRLz7kxc6TvjX.jpg" group-title="DIZI PAZARTESI",Dizi: ALPARSLAN BÜYÜK SELÇUKLU
 http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/186298.mkv

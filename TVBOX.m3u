@@ -71,7 +71,10 @@ https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU ᴴᴰ 
 https://ensonhaber-live.ercdn.net/tgrteu/tgrteu.m3u8
 
-#EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo=""  ,GUNAYDIN TV
+#EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR TV ᴴᴰ⁺
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+
+#EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo="https://gunaydintv.com/public/uploads/gunaydintv-ana-sayfa-logo-6262.jpg"  ,GUNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
 
 #EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo="https://canlitv.center/channels/life-tv.png"  ,LIFE TV	
@@ -79,7 +82,6 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="aktueltv.tr"tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL"    ,AKTUEL TV	
 https://cdn-aktueltv.yayin.com.tr/aktueltv/aktueltv/chunklist_w1976272754.m3u8
-
 
 #EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="ULUSAL",MELTEM TV ᵁᴴᴰ⁺
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8  
@@ -95,9 +97,6 @@ https://cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8
 
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",TV35 ᴴᴰ⁺
 #https://stream01.tv35.com.tr/hls2/tv35izmir.m3u8
-
-#EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR TV ᴴᴰ⁺
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/aSKwxSY.png"  group-title="ULUSAL",DENİZ POSTASI ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
@@ -732,6 +731,34 @@ http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 #http://91.134.203.253:30124/tvadige/tvadige/playlist.m3u8
 
 
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="İZMIR RADYO KANALLARI  | TV",----------İZMIR RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?izmir
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-donusum.jpg" group-title="İZMIR RADYO KANALLARI  | TV",Radyo Dönüşüm | Karışık
+http://89.252.129.203:7684/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-pause.png" group-title="İZMIR RADYO KANALLARI  | TV",Radyo Pause | Pop
+http://live5.radyotvonline.com:8010/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-35.png" group-title="İZMIR RADYO KANALLARI  | TV",Radyo 35 | Pop
+http://stream01.radyo35.com.tr/radyo35
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sky-radyo.png" group-title="İZMIR RADYO KANALLARI  | TV",Sky Radyo | Pop
+http://skyradyo.org:8300/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-romantik-turk.jpg" group-title="İZMIR RADYO KANALLARI  | TV",Radyo Romantik Türk | Pop
+http://radyo.yayin.com.tr:6042/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/odemis-radyo-remix.png" group-title="İZMIR RADYO KANALLARI  | TV",Ödemiş Radyo Remix | Pop
+http://radyoremix.canliyayinda.com:8304/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kordon-fm.png" group-title="İZMIR RADYO KANALLARI  | TV",Kordon FM | Pop
+http://allergo.serverroom.us:8147/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/imbat-fm.png" group-title="İZMIR RADYO KANALLARI  | TV",İmbat FM | Arabesk
+http://allergo.serverroom.us:8127/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/damarturk-fm.png" group-title="İZMIR RADYO KANALLARI  | TV",Damartürk FM | Arabesk
+http://185.9.37.59:7966/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/can-radyo.png" group-title="İZMIR RADYO KANALLARI  | TV",Can Radyo | Yöresel
+http://yayin1.yayindakiler.com:3124/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bati-radyo.png" group-title="İZMIR RADYO KANALLARI  | TV",Bati Radyo | Yöresel
+http://live5.radyotvonline.com:8050/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-izmir-fm.png" group-title="İZMIR RADYO KANALLARI  | TV",Radyo İzmir FM  | Slow
+http://usa4.fastcast4u.com:5414/mp3stream/;?type=mp3??hash=0.1920135512543366
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-kordelya.png" group-title="İZMIR RADYO KANALLARI  | TV",Radyo Kordelya | Tsm
+http://allergo.serverroom.us:8137/;?type=mp3?
 
 #EXTINF:0 group-title="Germany" tvg-id="4480" tvg-logo="http://epg.it999.ru/img/4480.png" tvg-rec="0",Das Erste HD DE
 http://195.142.152.86:5858/DasErsteHD/index.m3u8
