@@ -28,6 +28,7 @@ https://www.bevy.be/bevyfiles/cyprus.xml
 #https://epg.pw/xmltv/epg_DE.xml
 #http://epg.kodibg.org/dl.php
 #http://bilgin_tv_iyi_seyirler_diler@m3u.ch/pl/d7517be3f9202a6af85b0960d38e6d23-cfbf279ca8b4ef433570c035ef702ce0.m3u
+#http://bilgin_tv_iyi_seyirler_diler@m3u.ch/pl/d7517be3f9202a6af85b0960d38e6d23-cfbf279ca8b4ef433570c035ef702ce0.m3u
 #http://bilgin_tv_iyi_seyirler_diler@m3u.in/pl/d7517be3f9202a6af85b0960d38e6d23-cfbf279ca8b4ef433570c035ef702ce0.m3u
 #https://github.com/KRAL-TURK2/Kral-Turk/raw/main/TURK_TV.m3u_plus
 #https://raw.githubusercontent.com/hayatiptv/iptv/master/index.m3u
@@ -155,7 +156,7 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #https://nimplus6eu1.bozztv.com/turkfoxtv/turkfoxtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIzIDg6Mjk6MzAgUE0maGFzaF92YWx1ZT1PblVBMnZPYWo3OVhicXR5RXZDNndnPT0mdmFsaWRtaW51dGVzPTI4ODA=
 #http://edge02.odtv.az/o3/foxturk/playlist.m3u8
 #http://ru01.spr24.net/17585/mpegts?token=Vvm5ue4rWtVQ8k
-#https://live.cache-stream.workers.dev/stream/UF9KvTnZdic/live.m3u8
+https://live.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
 #http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=24641&extension=ts
 #http://195.142.1.211:4002/udp/224.2.2.25:10001
 #https://m.ozbeceriksizler.org/fox2.php
@@ -232,14 +233,17 @@ https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:-1 tvg-id="tvmor.tr"tvg-url="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" aspect-ratio="16:9"    group-title="ULUSAL",TV MOR
 https://vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8
 
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",TV 70 
+https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
+
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",TV 90 
+https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",SuperTurk TV
 https://raw.githubusercontent.com/kuzeymax/github-pages-with-jekyll/main/superturktvhd.m3u8
-
 #EXTINF:0  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png"  tvg-id="" group-title="ULUSAL",SuperTurk TV
 #http://34.16.130.141:3942/hybrid/play.m3u8
 #http://34.107.124.147:3942/stream/play.m3u8
-
 #EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title= "ULUSAL",SÜPER TÜRK
 #http://95.179.215.242:3923/stream/play.m3u8
 
@@ -381,6 +385,12 @@ https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberI
 
 #EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="http://kar-beyaz.access.ly:54381/images/33f7685d729ff996fc7ef0862e24d0af.png"group-title="ULUSAL" ,ANTALYA TV ᴴᴰ
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8?_=1
+
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", ADA NET TV  HD
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", KANAL ADA TV
+http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
 
 #EXTINF:0  tvg-id="365tv.tr" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0a63a891-c19e-48d4-b6c6-90a1700b1bd8.png"group-title="ULUSAL" ,SAM TV ᴴᴰ
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8?_=1 
@@ -538,7 +548,6 @@ https://live.cache-stream.workers.dev/stream/Li3Dvqlo5uE/live.m3u8
 #EXTINF:-1 tvg-id="localnow_Drone TV" group-title="ULUSAL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png", ➾ 🌎 LIVE: THE WORLD LIVE ITALY 
 https://live.cache-stream.workers.dev/stream/UC9xLSF0SZDbVa70iTpghQBw/live.m3u8
 
-
 #EXTINF:-1 tvg-id="localnow_Drone TV" group-title="ULUSAL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png", ➾ 🌎 LIVE: THE WORLD LIVE around the World
 https://live.cache-stream.workers.dev/stream/8KGXSjtS5pk/live.m3u8
 
@@ -574,6 +583,11 @@ https://live.cache-stream.workers.dev/stream/fjbfzbu8-Ic/live.m3u8
 
 #EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",FLYING OVER PARADISE  4K
 https://live.cache-stream.workers.dev/stream/rw7bxTqkYYs/live.m3u8
+
+#EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",relaxing 1HD
+https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
+#EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",relaxing 2 HD
+https://ssh101.bozztv.com/ssh101/relaxtv/playlist.m3u8
 
 #EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",RELAX 4K
 https://live.cache-stream.workers.dev/stream/UC80oBMhAYgvV5bCWXs-xCUA/live.m3u8
