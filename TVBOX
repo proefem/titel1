@@ -19,7 +19,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 http://135.125.234.9:8081/startv/tracks-v1a1/playlist.m3u8?_=1
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8?_=1
+http://195.142.1.211:4002/udp/224.2.2.9:10001
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
 http://135.125.234.9:8081/tv8/tracks-v1a1/playlist.m3u8?_=1
@@ -139,11 +139,9 @@ https://ythls.onrender.com/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 https://ythls.onrender.com/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",STAR1 TV
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/bulut/chunklist_w110952983.m3u8
 https://ssh101.bozztv.com/ssh101/star1/chunks.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",STAR2 TV
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3u8
 https://ssh101.bozztv.com/ssh101/star2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="ULUSAL", YEŞİLÇAM sinevizyon1
@@ -220,7 +218,7 @@ https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
 https://ssh101.bozztv.com/ssh101/teber4/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
-#https://streaming.netdirekt.com.tr:443/35757/teleontv/teleonmediagroup_showtimeapp_4kultrahd_/chunks.m3u8
+https://streaming.netdirekt.com.tr:443/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
 
 #EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d3292420-de0e-40a6-bbc6-9caedde337ad.png" group-title="ULUSAL",CİNE5 ᴴᴰ
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
@@ -418,23 +416,6 @@ https://live.cache-stream.workers.dev/stream/xCDKxvzYy8U.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-language="" tvg-logo="https://yt3.ggpht.com/1_nT38b9tNemMwiAkv5Xz6gTOIDFze9orfXgfDWiw86XgM_m9kjFLnpNS-JqpYtzcKflOAn8PA", Peaceful 3 Relaxation 4K
 https://live.cache-stream.workers.dev/stream/pfa0p1Z_M2w.m3u8
 
-#EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",FLYING OVER TURKEY 1  4K
-#https://live.cache-stream.workers.dev/stream/7FNsNxpY8RE/live.m3u8
-
-#EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",FLYING OVER TURKEY 2  4K
-#https://live.cache-stream.workers.dev/stream/aBs890b_Z30/live.m3u8
-
-#EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",FLYING OVER TURKEY 3  4K
-#https://live.cache-stream.workers.dev/stream/9RdDYNeH7D8/live.m3u8
-
-#EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",FLYING OVER  EGYPT 4K
-#https://live.cache-stream.workers.dev/stream/Ac-DmPpf1Vc/live.m3u8
-
-#EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",FLYING OVER  EGYPT 2 4K
-#https://live.cache-stream.workers.dev/stream/exNVxCZsgDk/live.m3u8
-
-#EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",FLYING OVER ASIA  4K
-#https://live.cache-stream.workers.dev/stream/q6ZgulADyNw/live.m3u8
 
 #EXTINF:0 group-title="ULUSAL" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",FLYING OVER JAPAN  4K
 https://live.cache-stream.workers.dev/stream/19L1Y6DNBNw/live.m3u8
