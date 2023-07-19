@@ -92,10 +92,10 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://kanallogo2.com/images/ulusal/tv-em.png" aspect-ratio="16:9" group-title="ULUSAL",TVEM ᴴᴰ
 https://cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8
 
-#EXTINF:-1 tvg-id="TVEM.tr" tvg-logo="https://m.yilmaztv.cc/logo4/teve-63-canli-izle.png" group-title="ULUSAL",TEVE 63 ᴴᴰ
+#EXTINF:-1 tvg-id="TV63.tr" tvg-logo="https://m.yilmaztv.cc/logo4/teve-63-canli-izle.png" group-title="ULUSAL",TEVE 63 ᴴᴰ
 #https://arajans.ozelip.com:3234/live/arajanslive.m3u8
 
-#EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",TV35 ᴴᴰ⁺
+#EXTINF:1 tvg-id="TV35.tr" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",TV35 ᴴᴰ⁺
 #https://stream01.tv35.com.tr/hls2/tv35izmir.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/aSKwxSY.png"  group-title="ULUSAL",DENİZ POSTASI ᴴᴰ
@@ -104,14 +104,14 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 #EXTINF:-1 tvg-id="TVEM.tr" tvg-logo="https://i.imgur.com/WYhTpIm.png" group-title="ULUSAL" , KANAL 34 iSTANBULᴴᴰ
 https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
 
-#EXTINF:0 tvg-id="TVEM.tr" tvg-logo="https://i.imgur.com/NPgSgYm.png" group-title="ULUSAL", KANAL iSTANBUL ᴴᴰ
+#EXTINF:0 tvg-id="TV.tr" tvg-logo="https://i.imgur.com/NPgSgYm.png" group-title="ULUSAL", KANAL iSTANBUL ᴴᴰ
 #http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ta44cGT.png" group-title="ULUSAL",ISTANBUL TV ᴴᴰ
 https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8?_=1
 
 #EXTINF:-1 tvg-id="KanalB.tr" tvg-name="KANAL B TR" tvg-logo="https://picon-13398.kxcdn.com/kanalbtr.jpg" aspect-ratio="16:9" group-title="ULUSAL",KANAL B ᴴᴰ
-https://yayin1.canlitv.day/live1/out-kanalb.stream/playlist.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
+https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 
 #EXTINF:-1 tvg-id="TV5.tr" tvg-name="TV 5 TR" tvg-logo="https://picon-13398.kxcdn.com/tv5tr.jpg" group-title="ULUSAL",TV 5 ᴴᴰ
 https://live.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
@@ -132,7 +132,7 @@ https://live.cache-stream.workers.dev/stream/W7ds0IFbMhQ/live.m3u8?sd=10&rebase=
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8  
 
 #EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0a63a891-c19e-48d4-b6c6-90a1700b1bd8.png"group-title="ULUSAL" ,YAŞAM TV ᴴᴰ
-https://yayin30.haber100.com/live/yasamtv/chunklist.m3u8
+#https://yayin30.haber100.com/live/yasamtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="	https://yt3.ggpht.com/oJQArCbC3NDhMxcGlDTQ-FWWSdjVFyjuBY8QEkH4sG6o3DG6ZlWlfTZHKK-olfAD3ITw9P770UQ" group-title="ULUSAL",Kemal Sunal Filmleri ᴴᴰ
 https://ythls.onrender.com/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
@@ -193,10 +193,10 @@ https://ssh101.bozztv.com/ssh101/fdtvyesilcam/chunks.m3u8
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",SuperTurk TV
 https://raw.githubusercontent.com/kuzeymax/github-pages-with-jekyll/main/superturktvhd.m3u8
 
-#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",SÜPER TÜRK
-#http://95.179.215.242:3923/stream/play.m3u8
+#EXTINF:0  tvg-id="TV 70.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",TV 70 
+https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
 
-#EXTINF:0 tvg-id=""  tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",TV 90 
+#EXTINF:0  tvg-id="TV 90.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",TV 90 
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",blutv PLAY 1
@@ -208,24 +208,6 @@ https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 #EXTINF:-1 tvg-id=""  group-title="ULUSAL" tvg-logo="https://i.imgur.com/VTeSkWA.png",DİZİ MAX
 http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
 #https://live.cache-stream.workers.dev/stream/UCsRzd5DMZQqe00m_SM6BKzw/live.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ULUSAL" tvg-logo="https://i.imgur.com/VTeSkWA.png",KANAL D DRAMA HD 
-http://212.224.84.202:2200/ALB-EX/KanalD_Drama_AL-alb/tracks-v1a1/mono.m3u8?token=null|User-Agent=Rediptv Plus 2.0.17
-
-#EXTINF:-1 tvg-id="lD.tr"tvg-name="Kanal D HD"  tvg-logo="https://i.imgur.com/OJynDDJ.png" group-title="ULUSAL",Timeless Dizi Channel
-http://91.233.47.254:8887/udp/224.200.202.113
-
-#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER 1 
-https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
-
-#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER 2 
-https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
-
-#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER  3
-https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
-
-#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "ULUSAL",TEBER  4
-https://ssh101.bozztv.com/ssh101/teber4/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
 https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd_/chunks.m3u8
@@ -651,7 +633,7 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
 
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2.tr" tvg-logo="https://picon-13398.kxcdn.com/trt2tr.jpg" group-title="ULUSAL-int" ,TRT 2 ᴴᴰ
-http://135.125.234.9:8081/trt2/index.m3u8
+http://135.125.234.9:8081/trt2/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRTAvaz.tr" tvg-logo="https://picon-13398.kxcdn.com/trtavaztr.jpg" group-title="ULUSAL-int",TRT AVAZ ᴴᴰ
 http://135.125.234.9:8081/trtavaz/tracks-v1a1/playlist.m3u8
@@ -663,13 +645,13 @@ http://135.125.234.9:8081/trtturk/tracks-v1a1/playlist.m3u8
 http://62.182.82.104/atv_turk/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="ShowTurk.tr"tvg-name="Show Turk TR"  tvg-logo="https://i.imgur.com/UsMsmA7.png"  group-title="ULUSAL-int",SHOW TURK ᴴᴰ
-https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+http://135.125.234.9:8081/showturk/tracks-v1a1/playlist.m3u8
    
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="EuroStar TR" tvg-logo="https://picon-13398.kxcdn.com/eurostartr.jpg"   group-title="ULUSAL-int",EURO STAR ᴴᴰ
-https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
+http://135.125.234.9:8081/eurostar/tracks-v1a1/playlist.m3u8
    
 #EXTINF:-1 tvg-id="EuroD.tr"tvg-name="Euro D TR"   tvg-logo="https://i.imgur.com/4cr2gol.png"  group-title="ULUSAL-int",EURO D ᴴᴰ
-https://kdlive.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+http://135.125.234.9:8081/eurod/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 Int TR"  tvg-logo="https://picon-13398.kxcdn.com/tv8inltr.jpg" group-title="ULUSAL-int",TV8 INT ᴴᴰ
 http://149.62.183.207:4000/play/a03u/index.m3u8
