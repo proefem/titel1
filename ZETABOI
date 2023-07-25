@@ -250,7 +250,8 @@ http://34.16.130.141:3778/hybrid/play.m3u8
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8   
 
 #EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg"aspect-ratio="16:9"   group-title="ULUSAL",AKILLI TV 
-http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/6782/index.m3u8
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=259900&extension=ts&play_token=R3eOInhkji
+#http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/6782/index.m3u8
 #http://vipavrasya.tv:15000/live/pyZzeBda/1Vfaeh9KZU/14861.m3u8
 #https://pro35.canlitvplayer.com/178.162.228.139:/live_sd/akillitv/chunks.m3u8?nimblesessionid=6985114&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDQ6NTA6MzEgUE0maGFzaF92YWx1ZT1PeXFva29WSTJSbDFNeTFkK1dlZXBnPT0mdmFsaWRtaW51dGVzPTEw
 #https://178.162.228.139:/live_sd/akillitv/chunks.m3u8?nimblesessionid=6985114&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDQ6NTA6MzEgUE0maGFzaF92YWx1ZT1PeXFva29WSTJSbDFNeTFkK1dlZXBnPT0mdmFsaWRtaW51dGVzPTEw
@@ -2389,13 +2390,18 @@ http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=27&extens
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=434&extension=ts
 #EXTINF:-1 group-title="Tvplus", S SPORT
-
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=37&extension=ts
+#EXTINF:-1 group-title="Tvplus", S SPORT
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=683162&extension=ts&play_token=WUIvNTv626
 #EXTINF:-1 group-title="Tvplus", S SPORT 2
-
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=38&extension=ts
+#EXTINF:-1 group-title="Tvplus", S SPORT 2
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=683163&extension=ts&play_token=WUIvNTv626
 #EXTINF:-1 group-title="Tvplus",S SPORT + PLUS 1 HD
 #EXTVLCOPT:cache=252
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=430060&extension=ts
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=37&extension=ts
 #EXTINF:-1 group-title="Tvplus",S SPORT + PLUS 2 HD
 #EXTVLCOPT:cache=253
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -2503,6 +2509,219 @@ http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=87&extens
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=86&extension=ts
 
+
+
+#EXTINF:-1 group-title="plussport",TR - TRT SPORT 2 UHD
+#EXTVLCOPT:cache=17704
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260094&extension=ts&play_token=KajCHaKKsP
+#EXTINF:-1 group-title="plussport",TR - TRT SPOR FHD
+#EXTVLCOPT:cache=17702
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260092&extension=ts&play_token=hkRQuKpxwc
+#EXTINF:-1 group-title="plussport",TR - TRT SPOR UHD
+#EXTVLCOPT:cache=17703
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260093&extension=ts&play_token=hyHP5ipIPz
+
+#EXTINF:-1 group-title="plussport",TR - A SPOR FHD
+#EXTVLCOPT:cache=17705
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260095&extension=ts&play_token=z7PIrkDd7C
+#EXTINF:-1 group-title="plussport",TR - A SPOR UHD
+#EXTVLCOPT:cache=17706
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260096&extension=ts&play_token=DZWgUl5Ic5
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORTS HABER HD
+#EXTVLCOPT:cache=17664
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=686359&extension=ts&play_token=9ewCUHiVz5
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 1 FHD
+#EXTVLCOPT:cache=17682
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260072&extension=ts&play_token=rESSJdNOGS
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 1 UHD HEVC
+#EXTVLCOPT:cache=17683
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260073&extension=ts&play_token=8GaEAMHZBV
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 2 UHD HEVC
+#EXTVLCOPT:cache=17684
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260074&extension=ts&play_token=QUvzhtAKqu
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 2 UHD+
+#EXTVLCOPT:cache=17685
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260075&extension=ts&play_token=Bes8SSx3IY
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 3 FHD
+#EXTVLCOPT:cache=17686
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260076&extension=ts&play_token=2GBao30sfE
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 3 UHD HEVC
+#EXTVLCOPT:cache=17687
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260077&extension=ts&play_token=LMMxnoBo0L
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 4 FHD
+#EXTVLCOPT:cache=17688
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260078&extension=ts&play_token=XcR6Y9Hx45
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 4 UHD HEVC
+#EXTVLCOPT:cache=17689
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260079&extension=ts&play_token=W0PtYfyJPi
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 1 UHD
+#EXTVLCOPT:cache=17690
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260080&extension=ts&play_token=KBjsnYiYTs
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 2 UHD
+#EXTVLCOPT:cache=17691
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260081&extension=ts&play_token=G6ICpYYq0E
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 3 UHD
+#EXTVLCOPT:cache=17692
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260082&extension=ts&play_token=MzR9XQ0pT1
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 4 UHD
+#EXTVLCOPT:cache=17693
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260083&extension=ts&play_token=1kw1x9jEaR
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT MAX 1 FHD
+#EXTVLCOPT:cache=17694
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260084&extension=ts&play_token=FZGA1wFOqU
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT MAX 2 FHD
+#EXTVLCOPT:cache=17695
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260085&extension=ts&play_token=rKRKxuDfj3
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 1 HD
+#EXTVLCOPT:cache=17665
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=686360&extension=ts&play_token=lksxKbGYSK
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 2 HD
+#EXTVLCOPT:cache=17666
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=686363&extension=ts&play_token=TZa3TLtR9y
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 3 HD
+#EXTVLCOPT:cache=17667
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=686364&extension=ts&play_token=wmHi2okk10
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT 4 HD
+#EXTVLCOPT:cache=17668
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=686365&extension=ts&play_token=lmXNCiRAqE
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT MAX 1 HD
+#EXTVLCOPT:cache=17669
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=686439&extension=ts&play_token=onjXPyKbXo
+#EXTINF:-1 group-title="plussport",TR - BEIN SPORT MAX 2 HD
+#EXTVLCOPT:cache=17670
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=686503&extension=ts&play_token=VLvzWE3Z3z
+
+
+#EXTINF:-1 group-title="plussport",TR - SMART SPORT UHD+
+#EXTVLCOPT:cache=17696
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260086&extension=ts&play_token=uBw4rwYwKr
+#EXTINF:-1 group-title="plussport",TR - SMART SPORT UHD
+#EXTVLCOPT:cache=17697
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260087&extension=ts&play_token=NwC4GrvhRJ
+#EXTINF:-1 group-title="plussport",TR - TIVIBU SPORT 1 UHD+
+#EXTVLCOPT:cache=17698
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260088&extension=ts&play_token=dKRthKH67o
+#EXTINF:-1 group-title="plussport",TR - TIVIBU SPORT 1 UHD
+#EXTVLCOPT:cache=17699
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260089&extension=ts&play_token=gYbAP9dFv4
+#EXTINF:-1 group-title="plussport",TR - TIVIBU SPORT 2 UHD+
+#EXTVLCOPT:cache=17700
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260090&extension=ts&play_token=ubCxTKQHYA
+#EXTINF:-1 group-title="plussport",TR - TIVIBU SPORT 2 UHD
+#EXTVLCOPT:cache=17701
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260091&extension=ts&play_token=xs7iTKi7Jy
+
+#EXTINF:-1 group-title="plussport",TR - TIVIBU SPORT 3 UHD
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=437&extension=ts
+
+#EXTINF:-1 group-title="plussport",TR - TIVIBU SPORT 4 UHD
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=389&extension=ts
+#EXTINF:-1 group-title="plussport",TR - S SPORT 1
+#EXTVLCOPT:cache=17707
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=683162&extension=ts&play_token=WUIvNTv626
+#EXTINF:-1 group-title="plussport",TR - S SPORT 2
+#EXTVLCOPT:cache=17709
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=683163&extension=ts&play_token=9A3UHituA7
+#EXTINF:-1 tvg-id="Eurosport1.tr" tvg-name="Euro Sport [1]" tvg-logo="https://i.hizliresim.com/n1ius1z.png" group-title="plussport",EUROSPORT 1 UHD
+#EXTVLCOPT:cache=17708
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260097&extension=ts&play_token=fccolMYPqG
+
+#EXTINF:-1 tvg-id="Eurosport2.tr" tvg-name="Euro Sport [2]" tvg-logo="https://i.hizliresim.com/mncw7b5.png" group-title="plussport",EUROSPORT 2 UHD
+#EXTVLCOPT:cache=17710
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260098&extension=ts&play_token=kk7uDpTR8B
+#EXTINF:-1 group-title="plussport",TR - GALATASARAY TV UHD
+#EXTVLCOPT:cache=17711
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260099&extension=ts&play_token=KMmFkjQcpg
+#EXTINF:-1 group-title="plussport",TR - FENERBAHÇE TV UHD
+#EXTVLCOPT:cache=17713
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260100&extension=ts&play_token=BXGbkHjIhl
+#EXTINF:-1 group-title="plussport",TR - TJK TV
+#EXTVLCOPT:cache=17714
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260103&extension=ts&play_token=bkCxJkBQGH
+
+#EXTINF:-1,#####. EXXEN SPORTS. #####
+#EXTVLCOPT:cache=17671
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=686505&extension=ts&play_token=qlHKXCRKzW
+#EXTINF:-1 group-title="plussport",TR - EXXEN SPORT 1 HD
+#EXTVLCOPT:cache=17672
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=686504&extension=ts&play_token=V8y4AKc0Cz
+#EXTINF:-1 group-title="plussport",TR - EXXEN SPORT 2 HD
+#EXTVLCOPT:cache=17673
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=686506&extension=ts&play_token=auArcyq4M2
+#EXTINF:-1 group-title="plussport",TR - EXXEN SPORT 3 HD
+#EXTVLCOPT:cache=17674
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=686507&extension=ts&play_token=tODcLVSG3V
+#EXTINF:-1,##### SPORT #####
+#EXTVLCOPT:cache=17675
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260071&extension=ts&play_token=sMKNBLgzHD
+#EXTINF:-1 group-title="plussport",TR - EXXEN SPORT 1 HD
+#EXTVLCOPT:cache=17676
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=618910&extension=ts&play_token=V1ufnnTvc2
+#EXTINF:-1 group-title="plussport",TR - EXXEN SPORT 2 HD
+#EXTVLCOPT:cache=17677
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=618909&extension=ts&play_token=dYDWjU45Vk
+#EXTINF:-1 group-title="plussport",TR - EXXEN SPORT 3 HD
+#EXTVLCOPT:cache=17678
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=618908&extension=ts&play_token=xPdVRDt5v0
+#EXTINF:-1 group-title="plussport",D-TR - EXXEN SPOR 1 FHD
+#EXTVLCOPT:cache=17679
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=618907&extension=ts&play_token=NvSEDmwtZc
+#EXTINF:-1 group-title="plussport",D-TR - EXXEN SPOR 2 FHD
+#EXTVLCOPT:cache=17680
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=618906&extension=ts&play_token=eCSzHVfR83
+#EXTINF:-1 group-title="plussport",D-TR - EXXEN SPOR 3 FHD
+#EXTVLCOPT:cache=17681
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=618905&extension=ts&play_token=JABX8GgOfy
 
 
 
@@ -2933,184 +3152,7 @@ http://45.12.1.14:80/live/85sPX8orEAPV4215/xTXMFNUSM2YP3780/113761.m3u8
 
 
 
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="----- (TR) SPOR KANALLARI-----" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | SPOR",----- (TR) SPOR KANALLARI-----
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/2714
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT SPOR FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_SPOR_HD.png" group-title="TR | SPOR",TR: TRT SPOR FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/29
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A SPOR FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ASPOR_HD.png" group-title="TR | SPOR",TR: A SPOR FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/74021
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts HABER HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEIN_SPORT_HABER_SD.png" group-title="TR | SPOR",TR: b**N Sp*rts HABER HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/17725
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts 1 SD (TR OZEL)" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_1_2.png" group-title="TR | SPOR",TR: b**N Sp*rts 1 SD (TR OZEL)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/110939
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts SD 1 (TR OZEL)" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_1_2.png" group-title="TR | SPOR",TR: b**N Sp*rts SD 1 (TR OZEL)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/81176
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts HD 1 (TR OZEL)" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_1_2.png" group-title="TR | SPOR",TR: b**N Sp*rts HD 1 (TR OZEL)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/81177
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts HD 1" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_1_2.png" group-title="TR | SPOR",TR: b**N Sp*rts HD 1
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/11814
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts  FHD 1 (AVRUPA)" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_1_2.png" group-title="TR | SPOR",TR: b**N Sp*rts  FHD 1 (AVRUPA)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/123965
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts 1 FHD (AVRUPA)" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_1_2.png" group-title="TR | SPOR",TR: b**N Sp*rts 1 FHD (AVRUPA)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/33273
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts HD 1 (H265)" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_1_2.png" group-title="TR | SPOR",TR: b**N Sp*rts HD 1 (H265)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/39705
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts 2 SD (TR OZEL)" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_2_2.png" group-title="TR | SPOR",TR: b**N Sp*rts 2 SD (TR OZEL)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/110940
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts HD 2" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_2_2.png" group-title="TR | SPOR",TR: b**N Sp*rts HD 2
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5913
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts 2 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_2_2.png" group-title="TR | SPOR",TR: b**N Sp*rts 2 FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/11815
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts 3 Sd" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_3_2.png" group-title="TR | SPOR",TR: b**N Sp*rts 3 Sd
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/6960
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts HD 3" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_3_2.png" group-title="TR | SPOR",TR: b**N Sp*rts HD 3
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5914
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts 3 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_3_2.png" group-title="TR | SPOR",TR: b**N Sp*rts 3 FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/11816
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts HD 4" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_4_2.png" group-title="TR | SPOR",TR: b**N Sp*rts HD 4
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5915
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts HD 5" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="TR | SPOR",TR: b**N Sp*rts HD 5
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/233374
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts MAX 1 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_max_1_2.png" group-title="TR | SPOR",TR: b**N Sp*rts MAX 1 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5916
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Sp*rts MAX 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_max_2_2.png" group-title="TR | SPOR",TR: b**N Sp*rts MAX 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5917
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N CONNECT HD 1 (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/74e2zmn.png" group-title="TR | SPOR",TR: b**N CONNECT HD 1 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/110619
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N CONNECT HD 2 (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/ac1j3fw.png" group-title="TR | SPOR",TR: b**N CONNECT HD 2 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/129167
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N CONNECT HD 3 (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/71in4qh.png" group-title="TR | SPOR",TR: b**N CONNECT HD 3 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/129168
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N CONNECT HD 4 (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/a7uekah.png" group-title="TR | SPOR",TR: b**N CONNECT HD 4 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/129169
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N CONNECT HD 5 (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/81z0oar.png" group-title="TR | SPOR",TR: b**N CONNECT HD 5 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/129170
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N CONNECT HD 6 (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/iql37fe.png" group-title="TR | SPOR",TR: b**N CONNECT HD 6 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/129171
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N CONNECT HD 7 (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/mjg37wj.png" group-title="TR | SPOR",TR: b**N CONNECT HD 7 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/228630
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N CONNECT HD 8 (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/qql75wg.png" group-title="TR | SPOR",TR: b**N CONNECT HD 8 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/228629
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N CONNECT HD 9 (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/sd1kkj7.png" group-title="TR | SPOR",TR: b**N CONNECT HD 9 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/228628
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N CONNECT HD 10 (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/lk5n0od.png" group-title="TR | SPOR",TR: b**N CONNECT HD 10 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/228625
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N CONNECT HD 11 (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/ff4swxv.png" group-title="TR | SPOR",TR: b**N CONNECT HD 11 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/228627
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N CONNECT HD 12 (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/2jum6pm.png" group-title="TR | SPOR",TR: b**N CONNECT HD 12 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/228626
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EXXEN Vip Sports 1 SD (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/aaja19b.png" group-title="TR | SPOR",TR: EXXEN Vip Sports 1 SD (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/170971
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EXXEN Vip Sports 1 HD (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/aaja19b.png" group-title="TR | SPOR",TR: EXXEN Vip Sports 1 HD (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/170972
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EXXEN Vip Sports 1 FHD (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/aaja19b.png" group-title="TR | SPOR",TR: EXXEN Vip Sports 1 FHD (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/181162
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EXXEN Vip Sports 2 HD (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/9ae40ud.png" group-title="TR | SPOR",TR: EXXEN Vip Sports 2 HD (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/177650
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EXXEN Vip Sports 3 HD (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/4erc921.png" group-title="TR | SPOR",TR: EXXEN Vip Sports 3 HD (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/177651
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EXXEN Vip Sports 4 HD (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/hbk854a.png" group-title="TR | SPOR",TR: EXXEN Vip Sports 4 HD (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/180872
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EXXEN Vip Sports 5 HD (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/48n6d2e.png" group-title="TR | SPOR",TR: EXXEN Vip Sports 5 HD (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/180873
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EXXEN Vip Sports 6 HD (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/3phv4z3.png" group-title="TR | SPOR",TR: EXXEN Vip Sports 6 HD (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/180874
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EXXEN Vip Sports 7 HD (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/2oty24b.png" group-title="TR | SPOR",TR: EXXEN Vip Sports 7 HD (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/180883
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EXXEN Vip Sports 8 HD (MAC ZAMANI)" tvg-logo="https://i.hizliresim.com/phtd7uo.png" group-title="TR | SPOR",TR: EXXEN Vip Sports 8 HD (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/180884
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: S SPORT HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/S_SPORT.png" group-title="TR | SPOR",TR: S SPORT HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5932
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: S SPORT FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/S_SPORT.png" group-title="TR | SPOR",TR: S SPORT FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/95341
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: S SPORT 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/s_spor_2.png" group-title="TR | SPOR",TR: S SPORT 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/68290
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: S SPORT 2 FHD (RAW)" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/s_spor_2.png" group-title="TR | SPOR",TR: S SPORT 2 FHD (RAW)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/122256
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: S SPORT+ PLUS (MAC ZAMANI)" tvg-logo="https://i.imgur.com/B2W8Nv1.png" group-title="TR | SPOR",TR: S SPORT+ PLUS (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/184987
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: S SPORT+ PLUS 2 (MAC ZAMANI)" tvg-logo="https://i.imgur.com/B2W8Nv1.png" group-title="TR | SPOR",TR: S SPORT+ PLUS 2 (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192677
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: S SPORT+ PLUS 3  (MAC ZAMANI)" tvg-logo="https://i.imgur.com/B2W8Nv1.png" group-title="TR | SPOR",TR: S SPORT+ PLUS 3  (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192678
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: S SPORT+ PLUS 4  (MAC ZAMANI)" tvg-logo="https://i.imgur.com/B2W8Nv1.png" group-title="TR | SPOR",TR: S SPORT+ PLUS 4  (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192679
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: S SPORT+ PLUS 5  (MAC ZAMANI)" tvg-logo="https://i.imgur.com/B2W8Nv1.png" group-title="TR | SPOR",TR: S SPORT+ PLUS 5  (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192680
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: S SPORT+ PLUS 6  (MAC ZAMANI)" tvg-logo="https://i.imgur.com/B2W8Nv1.png" group-title="TR | SPOR",TR: S SPORT+ PLUS 6  (MAC ZAMANI)
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/248298
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: spor SMART SD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/spor_smart_2.png" group-title="TR | SPOR",TR: spor SMART SD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/32410
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: spor SMART HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/spor_smart_2.png" group-title="TR | SPOR",TR: spor SMART HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/113531
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: spor SMART FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/spor_smart_2.png" group-title="TR | SPOR",TR: spor SMART FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/13074
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: spor SMART 2 SD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/spor_smart2.png" group-title="TR | SPOR",TR: spor SMART 2 SD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/225604
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: spor SMART 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/spor_smart2.png" group-title="TR | SPOR",TR: spor SMART 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/103045
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: spor SMART 2 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/spor_smart2.png" group-title="TR | SPOR",TR: spor SMART 2 FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/120884
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: tivibu SPOR HD" tvg-logo="https://i.imgur.com/wqgHS4w.png" group-title="TR | SPOR",TR: tivibu SPOR HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/3237
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: tivibu SPOR FHD" tvg-logo="https://i.imgur.com/wqgHS4w.png" group-title="TR | SPOR",TR: tivibu SPOR FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/225605
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: tivibu SPOR 1 HD" tvg-logo="https://i.imgur.com/z1bHou9.png" group-title="TR | SPOR",TR: tivibu SPOR 1 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/40653
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: tivibu SPOR 1 FHD" tvg-logo="https://i.imgur.com/z1bHou9.png" group-title="TR | SPOR",TR: tivibu SPOR 1 FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/225607
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: tivibu SPOR 2 HD" tvg-logo="https://i.imgur.com/FXHFhNr.png" group-title="TR | SPOR",TR: tivibu SPOR 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/3239
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: tivibu SPOR 2 FHD" tvg-logo="https://i.imgur.com/FXHFhNr.png" group-title="TR | SPOR",TR: tivibu SPOR 2 FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/245940
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: Tivibu SPOR 3 HD" tvg-logo="https://i.imgur.com/pzlTGRi.png" group-title="TR | SPOR",TR: Tivibu SPOR 3 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/123572
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: Tivibu SPOR 3 FHD" tvg-logo="https://i.imgur.com/pzlTGRi.png" group-title="TR | SPOR",TR: Tivibu SPOR 3 FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/245941
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: Tivibu SPOR 4 HD" tvg-logo="https://i.imgur.com/1F73ZeD.png" group-title="TR | SPOR",TR: Tivibu SPOR 4 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/219260
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: Tivibu SPOR 4 FHD" tvg-logo="https://i.imgur.com/1F73ZeD.png" group-title="TR | SPOR",TR: Tivibu SPOR 4 FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/245942
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/EUROSPORT1_DE.png" group-title="TR | SPOR",TR: EUROSPORT 1 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5930
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EUROSPORT 1 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/EUROSPORT1_DE.png" group-title="TR | SPOR",TR: EUROSPORT 1 FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/170950
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EUROSPORT2_HD.png" group-title="TR | SPOR",TR: EUROSPORT 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5929
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EUROSPORT 2 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EUROSPORT2_HD.png" group-title="TR | SPOR",TR: EUROSPORT 2 FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/170951
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NBA TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/nba_tv_us.png" group-title="TR | SPOR",TR: NBA TV HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/18093
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT SPOR HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_SPOR_SD.png" group-title="TR | SPOR",TR: TRT SPOR HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/90648
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT SPOR FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_SPOR_HD.png" group-title="TR | SPOR",TR: TRT SPOR FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/29
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/trtspor2.png" group-title="TR | SPOR",TR: TRT SPOR YILDIZ HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/90649
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT SPOR YILDIZ FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/trtspor2.png" group-title="TR | SPOR",TR: TRT SPOR YILDIZ FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/78941
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A SPOR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ASPOR_SD.png" group-title="TR | SPOR",TR: A SPOR
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/11208
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A SPOR FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ASPOR_HD.png" group-title="TR | SPOR",TR: A SPOR FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/74021
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FB TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/FB_TV_SD-1.png" group-title="TR | SPOR",TR: FB TV HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5935
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: GS TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/GS_TV_SD.png" group-title="TR | SPOR",TR: GS TV HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5933
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SPORTS TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports_tv_tr.png" group-title="TR | SPOR",TR: SPORTS TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/17846
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TJK TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/tjk_tv.png" group-title="TR | SPOR",TR: TJK TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/1676
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TJK TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/tjk_tv.png" group-title="TR | SPOR",TR: TJK TV HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/225608
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TAY TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TAY_TV_SD.png" group-title="TR | SPOR",TR: TAY TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/155940
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FIGHT NETWORK" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/fight_network_picon.png" group-title="TR | SPOR",TR: FIGHT NETWORK
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/95664
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FIGHT BOX" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/fightbox.png" group-title="TR | SPOR",TR: FIGHT BOX
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/90543
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: UFC Fight PASS" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/ufc.png" group-title="TR | SPOR",TR: UFC Fight PASS
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/95663
+
 
 
 #EXTINF:-1 group-title="ULUSAL_SPOR",======== >SPOR<========
@@ -4344,62 +4386,6 @@ http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=24615&extensio
 
 
 
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="----- (TR) BELGESEL KANALLARI-----" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | BELGESEL",----- (TR) BELGESEL KANALLARI-----
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/1421
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT BELGESEL HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_BELGESEL_SD.png" group-title="TR | BELGESEL",TR: TRT BELGESEL HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/48
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT BELGESEL FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/trt_belgesel_2.png" group-title="TR | BELGESEL",TR: TRT BELGESEL FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/74024
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TLC HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/23/Image/50x50_tlc.png" group-title="TR | BELGESEL",TR: TLC HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5967
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DMAX HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/dmax.png" group-title="TR | BELGESEL",TR: DMAX HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/8902
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: HISTORY HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/HISTORY_HD_DE.png" group-title="TR | BELGESEL",TR: HISTORY HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5943
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/DISCOVERY_CHANNEL_SD.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5944
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DISCOVERY SCIENCE HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/DISCOVERY_SCI_HD.png" group-title="TR | BELGESEL",TR: DISCOVERY SCIENCE HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/8323
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DISCOVERY ID HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/IDX_DISCOVERY_SD.png" group-title="TR | BELGESEL",TR: DISCOVERY ID HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/122263
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NATION_GEOGRAPHIC_SD.png" group-title="TR | BELGESEL",TR: NATIONAL GEOGRAPHIC HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5941
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NAT GEO WILD HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/national_geo.png" group-title="TR | BELGESEL",TR: NAT GEO WILD HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5942
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ANIMAL PLANET HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ANIMAL_PLANET_HD.png" group-title="TR | BELGESEL",TR: ANIMAL PLANET HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/8324
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BBC EARTH HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/BBC_EART_HD.png" group-title="TR | BELGESEL",TR: BBC EARTH HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/1835
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIASAT HISTORY" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/viasat_history.png" group-title="TR | BELGESEL",TR: VIASAT HISTORY
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/59127
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIASAT EXPLORE" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/viasat_exploar_picon.jpg" group-title="TR | BELGESEL",TR: VIASAT EXPLORE
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/90545
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIASAT NATURE/HISTORY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/viasat_nature.png" group-title="TR | BELGESEL",TR: VIASAT NATURE/HISTORY
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/205928
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: LOVE NATURE" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/love_nature.png" group-title="TR | BELGESEL",TR: LOVE NATURE
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/92969
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ANIMAUX" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/Animaux-logo.png" group-title="TR | BELGESEL",TR: ANIMAUX
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/90580
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CHASSE PECHE" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/chasse_peche.png" group-title="TR | BELGESEL",TR: CHASSE PECHE
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/90582
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N IZ HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEIN_IZ.png" group-title="TR | BELGESEL",TR: b**N IZ HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5945
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: Habitat TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/habitat-tr.png" group-title="TR | BELGESEL",TR: Habitat TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/149757
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TARIH TV" tvg-logo="https://itv224218.tmp.tivibu.com.tr:6430/images/poster//20220830748551.png" group-title="TR | BELGESEL",TR: TARIH TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/237627
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DOCUBOX" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/docubox.png" group-title="TR | BELGESEL",TR: DOCUBOX
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/90584
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: INSIGHT TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/INSIGHT_TV_HD.png" group-title="TR | BELGESEL",TR: INSIGHT TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/94760
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: YABAN TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/yaban_tv.png" group-title="TR | BELGESEL",TR: YABAN TV HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/1148
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TGRT BELGESEL" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TGRT_BELGESEL_SD.png" group-title="TR | BELGESEL",TR: TGRT BELGESEL
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/59191
-
-
-
-
 
 
 #EXTINF:-1 group-title="ULUSAL_BELGESEL",======== Belgesel ========
@@ -4757,280 +4743,7 @@ http://hsn.eurobest4k.xyz:8080/Marius0681-2/Marius0681-222/96904
 
 
 
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX TURK HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_turk.png" group-title="TR | SINEMA VIP",TR: MAX TURK HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192331
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX AKSION HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_aksiyon.png" group-title="TR | SINEMA VIP",TR: MAX AKSION HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192319
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX AKSIYON 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_aksiyon2.png" group-title="TR | SINEMA VIP",TR: MAX AKSIYON 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192320
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX PREMIER HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_premier.png" group-title="TR | SINEMA VIP",TR: MAX PREMIER HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/225609
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX GOLD HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_gold.png" group-title="TR | SINEMA VIP",TR: MAX GOLD HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192328
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX KINO COLLECTION HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_plus.png" group-title="TR | SINEMA VIP",TR: MAX KINO COLLECTION HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192321
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX 007 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_007.png" group-title="TR | SINEMA VIP",TR: MAX 007 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/206666
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX STAR WARS HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_star_wars.png" group-title="TR | SINEMA VIP",TR: MAX STAR WARS HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192329
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX WESTERN HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_western.png" group-title="TR | SINEMA VIP",TR: MAX WESTERN HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192330
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX ORJINAL HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_plus.png" group-title="TR | SINEMA VIP",TR: MAX ORJINAL HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/218892
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX VIZYON 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_vizyon.png" group-title="TR | SINEMA VIP",TR: MAX VIZYON 1 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192322
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX VIZYON 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_vizyon2.png" group-title="TR | SINEMA VIP",TR: MAX VIZYON 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192323
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX VIZYON 3 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_vizyon3.png" group-title="TR | SINEMA VIP",TR: MAX VIZYON 3 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192324
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX VIZYON 4 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_vizyon4.png" group-title="TR | SINEMA VIP",TR: MAX VIZYON 4 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192325
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX ANIMASYON 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_animasyon.png" group-title="TR | SINEMA VIP",TR: MAX ANIMASYON 1 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192326
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAX ANIMASYON 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/max_animasyon2.png" group-title="TR | SINEMA VIP",TR: MAX ANIMASYON 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/192327
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX ACTION" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX ACTION
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101092
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX COMEDY" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX COMEDY
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101094
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX FAMILY" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX FAMILY
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101097
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX DRAMA" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX DRAMA
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101096
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX FANTASTIC" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX FANTASTIC
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101098
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX SCI-FI" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX SCI-FI
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101093
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX KORKU" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX KORKU
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/240900
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX YERLI" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX YERLI
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101105
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX YESILCAM" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX YESILCAM
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101106
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX KEMAL SUNAL TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX KEMAL SUNAL TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101102
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX SENER SEN TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX SENER SEN TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101103
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX ZEKI & METIN TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX ZEKI & METIN TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101107
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX CUNEYT ARKIN TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX CUNEYT ARKIN TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101095
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX KADIR INANIR TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX KADIR INANIR TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101101
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX ILYAS SALMAN TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX ILYAS SALMAN TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101100
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX TARIK AKAN TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/filmbox_vip.png" group-title="TR | SINEMA VIP",TR: FILMBOX TARIK AKAN TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101104
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIP CINEMA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/04/bruce-wayne-batman.jpg" group-title="TR | SINEMA VIP",TR: VIP CINEMA
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/121519
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIP WESTERN" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/04/bruce-wayne-batman.jpg" group-title="TR | SINEMA VIP",TR: VIP WESTERN
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/161573
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIP NOSTALJI" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/04/bruce-wayne-batman.jpg" group-title="TR | SINEMA VIP",TR: VIP NOSTALJI
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/227794
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIP CUNEYT ARKIN TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/cuneyt-arkin.jpg" group-title="TR | SINEMA VIP",TR: VIP CUNEYT ARKIN TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/138615
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIP SENER SEN TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sener-sen.jpg" group-title="TR | SINEMA VIP",TR: VIP SENER SEN TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/121535
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIP SABAN TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sabantv.png" group-title="TR | SINEMA VIP",TR: VIP SABAN TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/121528
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIP SUNAL TV" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/slsinemakemalsunal.png" group-title="TR | SINEMA VIP",TR: VIP SUNAL TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/240596
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KEMAL SUNAL TV 1" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/kemalsunal-e1594384272601.jpg" group-title="TR | SINEMA VIP",TR: KEMAL SUNAL TV 1
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/240597
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KEMAL SUNAL TV 2" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/kemalsunal-e1594384272601.jpg" group-title="TR | SINEMA VIP",TR: KEMAL SUNAL TV 2
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/225610
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KEMAL SUNAL TV 3" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/kemalsunal-e1594384272601.jpg" group-title="TR | SINEMA VIP",TR: KEMAL SUNAL TV 3
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/225611
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KEMAL SUNAL TV 4" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/kemalsunal-e1594384272601.jpg" group-title="TR | SINEMA VIP",TR: KEMAL SUNAL TV 4
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/240598
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: YESILCAM 1 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/yesilcam.jpg" group-title="TR | SINEMA VIP",TR: YESILCAM 1 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/240927
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: YESILCAM 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/yesilcam.jpg" group-title="TR | SINEMA VIP",TR: YESILCAM 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/240928
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: YESILCAM 3 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/yesilcam.jpg" group-title="TR | SINEMA VIP",TR: YESILCAM 3 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/240929
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: YESILCAM classics" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/yesilcam.jpg" group-title="TR | SINEMA VIP",TR: YESILCAM classics
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/138612
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX TURK" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX TURK
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/241726
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX AILE" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX AILE
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/241730
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX COMEDY" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX COMEDY
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/206690
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX ACTION" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX ACTION
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/241727
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX FANTASTIK" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX FANTASTIK
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/206687
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX BILIM KURGU" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX BILIM KURGU
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/241731
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX GERILIM" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX GERILIM
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/241732
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX KORKU" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX KORKU
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/206688
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX DRAMA" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX DRAMA
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/206691
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX ROMANTIK" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX ROMANTIK
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/241737
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX SAVAS" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX SAVAS
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/241733
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX GOLD" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX GOLD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/206686
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX IMDB TOP" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX IMDB TOP
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/241734
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX DISNEY" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX DISNEY
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/241735
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMAX ANIMATION" tvg-logo="https://i.imgur.com/KMYdvsB.png" group-title="TR | SINEMA VIP",TR: FILMAX ANIMATION
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/241736
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BLUTV PLAY 1" tvg-logo="https://i.ibb.co/99cdT3d/Blu-TV-Play-1-HD.png" group-title="TR | SINEMA VIP",TR: BLUTV PLAY 1
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/254590
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BLUTV PLAY 2" tvg-logo="https://i.ibb.co/LDw4pgZ/Blu-TV-Play-2-HD.png" group-title="TR | SINEMA VIP",TR: BLUTV PLAY 2
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/254591
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CINE5 TV" tvg-logo="https://www.cine5tv.com/wp-content/uploads/2022/03/cine5logo.png" group-title="TR | SINEMA VIP",TR: CINE5 TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/254882
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="----- (TR) SiNEViZYON KANALLAR-----" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | SINEMA VIZYON",----- (TR) SiNEViZYON KANALLAR-----
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/140972
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON  INFO" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON  INFO
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101108
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 1" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 1
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101109
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 2" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 2
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101110
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 3" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 3
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101111
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 4" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 4
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101112
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 5" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 5
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101113
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 6" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 6
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101114
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 7" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 7
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101115
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 8" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 8
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101116
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 9" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 9
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101117
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 10" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 10
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101118
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 11" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 11
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101119
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 12" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 12
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101120
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 13" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 13
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101121
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 14" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 14
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101122
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 15" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 15
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101123
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 16" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 16
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101124
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 17" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 17
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101125
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 18" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 18
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101126
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 19" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 19
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101127
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SINEVIZYON 20" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinevizyon.jpg" group-title="TR | SINEMA VIZYON",TR: SINEVIZYON 20
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101128
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="----- (TR) DIGITURK KANALLAR-----" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | SINEMA DIGITURK",----- (TR) DIGITURK KANALLAR-----
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101131
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w_bein_hd.png" group-title="TR | SINEMA DIGITURK",TR: b**N HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/217858
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N BOX OFFICE" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_box_office.png" group-title="TR | SINEMA DIGITURK",TR: b**N BOX OFFICE
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/94296
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N BOX OFFICE 2" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_box_office.png" group-title="TR | SINEMA DIGITURK",TR: b**N BOX OFFICE 2
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/95225
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N BOX OFFICE 3" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_box_office.png" group-title="TR | SINEMA DIGITURK",TR: b**N BOX OFFICE 3
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/94686
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Movies PREMIERE HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_movies_premiere_1.png" group-title="TR | SINEMA DIGITURK",TR: b**N Movies PREMIERE HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/8838
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Movies PREMIERE 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_movies_premire_2.png" group-title="TR | SINEMA DIGITURK",TR: b**N Movies PREMIERE 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/17298
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Movies TURK HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_movies_turk.png" group-title="TR | SINEMA DIGITURK",TR: b**N Movies TURK HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/5939
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Movies STARS HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_movies_stars.png" group-title="TR | SINEMA DIGITURK",TR: b**N Movies STARS HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/94269
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Movies ACTION+" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_movies_action.png" group-title="TR | SINEMA DIGITURK",TR: b**N Movies ACTION+
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/94262
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Series 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-1-turkiye-qa-tr.png" group-title="TR | SINEMA DIGITURK",TR: b**N Series 1 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/95229
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Series 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-2-turkiye-qa-tr.png" group-title="TR | SINEMA DIGITURK",TR: b**N Series 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/21458
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Series 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-3-turkiye-qa-tr.png" group-title="TR | SINEMA DIGITURK",TR: b**N Series 3 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/11809
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: b**N Series 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-4-turkiye-qa-tr.png" group-title="TR | SINEMA DIGITURK",TR: b**N Series 4 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/95228
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="----- (TR) DSMART KANALLAR-----" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | SINEMA DSMART",----- (TR) DSMART KANALLAR-----
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101132
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: movie SMART Turk HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/moviesmartturk.png" group-title="TR | SINEMA DSMART",TR: movie SMART Turk HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/17832
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: movie SMART Classic HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/moviesmartclassic.png" group-title="TR | SINEMA DSMART",TR: movie SMART Classic HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/19698
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: dizi SMART Max HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/dizismart_max.png" group-title="TR | SINEMA DSMART",TR: dizi SMART Max HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/140568
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: dizi SMART Premium HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/dizismart_premium.png" group-title="TR | SINEMA DSMART",TR: dizi SMART Premium HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/17833
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FX HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/fx.png" group-title="TR | SINEMA DSMART",TR: FX HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/33197
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FX FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/fx.png" group-title="TR | SINEMA DSMART",TR: FX FHD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/160718
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FILMBOX HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/filmbox_hd_picon.png" group-title="TR | SINEMA DSMART",TR: FILMBOX HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/21455
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DS SINEMA TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_tv.png" group-title="TR | SINEMA DSMART",TR: DS SINEMA TV HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/138844
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DS SINEMA TV 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_tv_2.png" group-title="TR | SINEMA DSMART",TR: DS SINEMA TV 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/138845
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DS SINEMA TV AKSIYON HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aksiyon.png" group-title="TR | SINEMA DSMART",TR: DS SINEMA TV AKSIYON HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/138848
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DS SINEMA TV AKSIYON 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aksiyon2.png" group-title="TR | SINEMA DSMART",TR: DS SINEMA TV AKSIYON 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/138849
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DS SINEMA TV AILE HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aile.png" group-title="TR | SINEMA DSMART",TR: DS SINEMA TV AILE HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/138846
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DS SINEMA TV AILE 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aile2.png" group-title="TR | SINEMA DSMART",TR: DS SINEMA TV AILE 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/138847
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DS SINEMA TV KOMEDI HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="TR | SINEMA DSMART",TR: DS SINEMA TV KOMEDI HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/138850
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DS SINEMA TV KOMEDI 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" group-title="TR | SINEMA DSMART",TR: DS SINEMA TV KOMEDI 2 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/138851
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DS SINEMA TV 1001 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_1001.png" group-title="TR | SINEMA DSMART",TR: DS SINEMA TV 1001 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/138852
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DS SINEMA TV 1002 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_1002.png" group-title="TR | SINEMA DSMART",TR: DS SINEMA TV 1002 HD
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/138853
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="----- (TR) TIVIBU KANALLAR-----" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | SINEMA TIVIBU",----- (TR) TIVIBU KANALLAR-----
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/101133
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_tv.png" group-title="TR | SINEMA TIVIBU",TR: SiNEMA TV
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/109034
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA TV 2" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_tv_2.png" group-title="TR | SINEMA TIVIBU",TR: SiNEMA TV 2
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/121520
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA AKSiYON" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aksiyon.png" group-title="TR | SINEMA TIVIBU",TR: SiNEMA AKSiYON
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/109039
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA AKSiYON 2" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aksiyon2.png" group-title="TR | SINEMA TIVIBU",TR: SiNEMA AKSiYON 2
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/121526
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA KOMEDi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="TR | SINEMA TIVIBU",TR: SiNEMA KOMEDi
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/109038
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA KOMEDi 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" group-title="TR | SINEMA TIVIBU",TR: SiNEMA KOMEDi 2
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/169396
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA AiLE" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aile.png" group-title="TR | SINEMA TIVIBU",TR: SiNEMA AiLE
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/90542
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA AiLE 2" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aile2.png" group-title="TR | SINEMA TIVIBU",TR: SiNEMA AiLE 2
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/169395
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA YERLi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title="TR | SINEMA TIVIBU",TR: SiNEMA YERLi
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/109037
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA YERLi 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png" group-title="TR | SINEMA TIVIBU",TR: SiNEMA YERLi 2
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/218893
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA 1001" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_1001.png" group-title="TR | SINEMA TIVIBU",TR: SiNEMA 1001
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/109036
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA 1002" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_1002.png" group-title="TR | SINEMA TIVIBU",TR: SiNEMA 1002
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/121524
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: Vizioon Premiere" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/vizioon_premier.png" group-title="TR | SINEMA TIVIBU",TR: Vizioon Premiere
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/121515
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: Vizioon Premiere 2" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/vizioon_premier2.png" group-title="TR | SINEMA TIVIBU",TR: Vizioon Premiere 2
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/121514
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: Vizioon Aile" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/vizioon_aile.png" group-title="TR | SINEMA TIVIBU",TR: Vizioon Aile
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/121518
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: Vizioon Aile 2" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/vizioon_aile.png" group-title="TR | SINEMA TIVIBU",TR: Vizioon Aile 2
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/169393
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: Vizioon Festival" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/vizioon_festival.png" group-title="TR | SINEMA TIVIBU",TR: Vizioon Festival
-http://de.caneriptv.com:8080/rufi02/GmDPzKBA6k/121516
+
 
 
 #EXTINF:-1 group-title="ULUSAL_SİNEMA",======== Sinema ========
