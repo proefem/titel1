@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/turkey.xml,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epg.pw/xmltv/epg_DE.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml,https://iptv-org.github.io/epg/guides/tr.xml,http://epg.it999.ru/epg.xml.gz,https://i.mjh.nz/SamsungTVPlus/de.xml.gz,https://i.mjh.nz/PlutoTV/de.xml.gz,,https://iptvx.site/epg_lite.xml.gz,"
 #refresh="86400" cache=500
-http://appel-hh.de/index.php?dir=apk/TiviMate/
-https://pixeldrain.com/u/c5GBPTq6
+#http://appel-hh.de/index.php?dir=apk/TiviMate/
+#https://pixeldrain.com/u/c5GBPTq6
 
 
 #https://guide.tvnow.best
@@ -43,7 +43,7 @@ https://www.bevy.be/bevyfiles/cyprus.xml
 #https://proxy.rssblue.com?url=
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="ULUSAL",▬ Turkey [TR]  ▬
 #https://proxy.rssblue.com?url=
-#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-4k-tr.png" group-title="ULUSAL",TRT ⁴ᴷ⁺™
+#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="https://ia801404.us.archive.org/6/items/tvlogopack/trt4k.jpg" group-title="ULUSAL",TRT ⁴ᴷ⁺™
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=543368&extension=ts
 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
@@ -333,6 +333,7 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8?_=1
 
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://kanallogo2.com/images/ulusal/tv-em.png" aspect-ratio="16:9"   group-title="ULUSAL",TVEM ᴴᴰ⁺™
 https://cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8
+#http://cdn-tvem.yayin.com.tr/TVEM/TV...583799478.m3u8
 #https://nimplus6.bozztv.com/emtv1/emtv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIzIDg6NDM6MDIgUE0maGFzaF92YWx1ZT1WQzFyVUM3dm9kTzNEem9lVEQ5YWt3PT0mdmFsaWRtaW51dGVzPTI4ODA=
 #https://cdntv.online/high/tduasck869/1275.m3u8
 #https://cdntv.online/high/tduasck869/playlist.m3u8
@@ -546,10 +547,16 @@ https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks
 #EXTINF:-1 group-title="ULUSAL",TİMUR MEDYA TV 
 #https://5e06e5e8c2e27.streamlock.net:1936/videonow/timurmedyatvs/chunklist_w471215078.m3u8
 
-#EXTINF:-1 group-title="ULUSAL" tvg-language="Turkish"  tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9DRVMJs5Xb-XqTuyqO9TEqyJdHQo-vt1FTiE4PYQ", Nat Geo WILDᵁᴴᴰ⁺™
+#EXTINF: -1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="Discovery Channel Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/discoveryhd_2.png" group-title="ULUSAL", Discovery Channel ᴴᴰ
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXTINF:-1 ,animelPlanet
+https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
+#EXTINF:-1 ,Animal Planet
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-language="Turkish"  tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9DRVMJs5Xb-XqTuyqO9TEqyJdHQo-vt1FTiE4PYQ", Nat Geo WILD ᴴᴰ
 https://live.cache-stream.workers.dev/stream/UCDPk9MG2RexnOMGTD-YnSnA/live.m3u8
 
-#EXTINF:-1 group-title="ULUSAL" tvg-language="Turkish"  tvg-logo="https://yt3.ggpht.com/13FpK4FfJb_I-aTMNRQTmaxLO2vjEi_NzWm1KxOzr-vjYLX7QmfHwn6XC3PfEf4Oay5WjP0CXw", National Geographicᵁᴴᴰ⁺™
+#EXTINF:-1 group-title="ULUSAL" tvg-language="Turkish"  tvg-logo="https://yt3.ggpht.com/13FpK4FfJb_I-aTMNRQTmaxLO2vjEi_NzWm1KxOzr-vjYLX7QmfHwn6XC3PfEf4Oay5WjP0CXw", National Geographic ᴴᴰ
 https://live.cache-stream.workers.dev/stream/UCpVm7bg6pXKo1Pr6k5kxG9A/live.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Drone TV" group-title="ULUSAL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png", ➾ Drone TVᵁᴴᴰ⁺™
@@ -569,6 +576,9 @@ https://d3thiix3tzne5u.cloudfront.net:443/playlist1080p_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/ultra-nature.png" group-title="ULUSAL",ULTRA NATURE TV 4K
 http://185.236.229.31:9981/play/a01d
+
+#EXTINF:-1 group-title="ULUSAL" tvg-language="" tvg-logo="https://yt3.ggpht.com/ruhanJh77ZSaMRbtgqUIQkRMFVws45qdLKwcx39G8gVPs-qkFIPwyeWmvULYzRAqPChKTPWe2Q", 4K Relaxing -Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" tvg-language="" tvg-logo="https://yt3.ggpht.com/ruhanJh77ZSaMRbtgqUIQkRMFVws45qdLKwcx39G8gVPs-qkFIPwyeWmvULYzRAqPChKTPWe2Q", 4K Relaxing - Wild Animals
 https://live.cache-stream.workers.dev/stream/UCqY4QL6bgWeKLN0MOmJIcUg/live.m3u8
@@ -819,6 +829,7 @@ https://live.cache-stream.workers.dev/stream/UCwuMGwU6kX_lvkrYoVQWBGw/live.m3u8
 #
 
 #EXTINF:-1 tvg-id="TLCTurkiye.tr" tvg-name="TLC HD TR" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="ULUSAL",TLC ᴴᴰ⁺™
+http://anka@195.142.1.211:4002/udp/224.2.2.7:10001|User-Agent=perfectplayer1.6.0.1
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #http://212.224.84.217:2200/TR-N/TLC_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
@@ -826,64 +837,82 @@ https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
 #http://212.224.84.217:2200/TR-N/DMAX_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="dt.305" tvg-name="Da Vinci Hd" tvg-logo="http://files.rednetcontent.com/chlogo2/Turkish/da-vinci-de.png" tvg-language="Türkçe" group-title="ULUSAL", Da Vinci ᴴᴰ⁺™
-#https://epg.pw/stream/371289b20d9aa2bb6f3e313d0ea3e07eb11c9c8e91a6eb6aefe2a8d8c73cd5b8.ctv
+#EXTINF: -1 tvg-id="24KitchenTurkey.tr" tvg-name="24 Kitchen Hd" tvg-logo="https://picon-13398.kxcdn.com/24kitchen.jpg" group-title="ULUSAL", 24 Kitchen ᴴᴰ⁺™
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260064&extension=ts&play_token=7HuxkMAtL0
+#http://212.224.84.217:2200/TR-N/24_KITCHEN_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
+
+
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="beIN GURME TR" tvg-logo="https://picon-13398.kxcdn.com/beingourmet.jpg" group-title="ULUSAL",BEIN GURME UHD
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260053&extension=ts&play_token=FBOPg3YCB8
+
+#EXTINF:-1 tvg-id="beINiz.tr" tvg-name="beIN İZ TR" tvg-logo="https://picon-13398.kxcdn.com/beiniz.jpg" group-title="ULUSAL", beIN iz ᴴᴰ⁺™
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=141&extension=ts
+#http://31.172.87.53:2200/EX/beIN_IZ_FHD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
+
+
+#EXTINF: -1 tvg-id="dt.305" tvg-name="Da Vinci Hd" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" tvg-language="Türkçe" group-title="ULUSAL", Da Vinci ᴴᴰ⁺™
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=132&extension=ts
 #http://212.224.84.217:2200/TR-N/DaVinci_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="BBCEarthTurkey.tr" tvg-name="BBC EARTH Hd" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png"tvg-language="Türkçe"  group-title="ULUSAL", BBC EARTH ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="BBCEarthTurkey.tr" tvg-name="BBC EARTH Hd" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" tvg-language="Türkçe"  group-title="ULUSAL", BBC EARTH ᴴᴰ⁺™
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260051&extension=ts&play_token=A8D1Fd3THm
 #http://212.224.84.217:2200/TR-N/BBC_EARTH_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="ViasatHistoryTurkey.tr" tvg-name="Viasat Histoy Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/viasathistoryhd_2.png"tvg-language="Türkçe"  group-title="ULUSAL", Viasat History ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="ViasatHistoryTurkey.tr" tvg-name="Viasat Histoy Hd" tvg-logo="https://picon-13398.kxcdn.com/viasathistory.jpg" tvg-language="Türkçe"  group-title="ULUSAL", Viasat History ᴴᴰ⁺™
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260066&extension=ts&play_token=55mqGg5MVE
 #https://edge02.odtv.az/o5/viasathistory/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #http://212.224.84.217:2200/TR-N/VIASAT_HISTORY_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="ViasatExploreTurkey.tr" tvg-name="viasatexporer Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/viasathistoryhd_2.png"tvg-language="Türkçe"  group-title="ULUSAL", VIASAT EXPLORE ru ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="ViasatExploreTurkey.tr" tvg-name="viasatexporer Hd" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg"tvg-language="Türkçe"  group-title="ULUSAL", VIASAT EXPLORE  ᴴᴰ⁺™
 #https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 
-#EXTINF: -1 tvg-id="ViasatNatureTurkey.tr" tvg-name="Viasat Histoy Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/viasathistoryhd_2.png"tvg-language="Türkçe"  group-title="ULUSAL", VIASAT NATURE ru ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="ViasatNatureTurkey.tr" tvg-name="Viasat Histoy Hd" tvg-logo="https://picon-13398.kxcdn.com/viasatnaturehd.jpg"tvg-language="Türkçe"  group-title="ULUSAL", VIASAT NATURE  ᴴᴰ⁺™
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260067&extension=ts&play_token=2ERN0m86in
 #https://edge02.odtv.az/o5/viasatnature/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 
-#EXTINF: -1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="Nat Geo Wild Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/natgeowildhd_2.png" tvg-language="Türkçe" group-title="ULUSAL", Nat Geo Wild ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="Nat Geo Wild Hd" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" tvg-language="Türkçe" group-title="ULUSAL", Nat Geo Wild ᴴᴰ⁺™
 https://edge02.odtv.az/o3/natgeowild/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #https://st.mynowmynowmynow.mom/encrypted/nwild/stream.m3u8
 #http://212.224.84.217:2200/TR-N/NAT_GEO_WILD_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="NationalGeographicTurkey.tr" tvg-name="National Geographic Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/natgeoturkeyhd_2.png"tvg-language="Türkçe"  group-title="ULUSAL", National Geographic ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="NationalGeographicTurkey.tr" tvg-name="National Geographic Hd" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg"tvg-language="Türkçe"  group-title="ULUSAL", National Geographic ᴴᴰ⁺™
 https://edge02.odtv.az/o3/natgeo/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #https://st.mynowmynowmynow.mom/encrypted/natgeo/stream.m3u8
 #http://212.224.84.217:2200/TR-N/NAT_GEO_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="Discovery Channel Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/discoveryhd_2.png" group-title="ULUSAL", Discovery Channel ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="Discovery Channel Hd" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="ULUSAL", Discovery Channel ᴴᴰ⁺™
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260055&extension=ts&play_token=BaxyqBLyxY
 #https://edge02.odtv.az/o5/discovery/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #https://st.mynowmynowmynow.mom/encrypted/diss/stream.m3u8
 #http://212.224.84.217:2200/TR-N/DISCOVERY_CHANNEL_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="DiscoveryScienceTurkey.tr" tvg-name="Discovery Science Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/discoverysciencehd_2.png" group-title="ULUSAL", Discovery Science ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="DiscoveryScienceTurkey.tr" tvg-name="Discovery Science Hd" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="ULUSAL", Discovery Science ᴴᴰ⁺™
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260058&extension=ts&play_token=8zzs1gJnn8
 #https://edge02.odtv.az/o3/discoveryscience/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #https://st.mynowmynowmynow.mom/encrypted/dscience/stream.m3u8
 #http://212.224.84.217:2200/TR-N/DISCOVERY_SCIENCE_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="24KitchenTurkey.tr" tvg-name="24 Kitchen Hd" tvg-logo="https://i.hizliresim.com/j9utse4.png" group-title="ULUSAL", 24 Kitchen ᴴᴰ⁺™
-#http://212.224.84.217:2200/TR-N/24_KITCHEN_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="dt.305" tvg-name="Docu Box Hd" tvg-logo="https://i.hizliresim.com/3w76ml9.jpg" group-title="ULUSAL", Docu Box ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="dt.305" tvg-name="Docu Box Hd" tvg-logo="https://picon-13398.kxcdn.com/docuboxhd.jpg" group-title="ULUSAL", Docu Box ᴴᴰ⁺™
 #http://212.224.84.217:2200/TR-N/DOCUBOX_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="dt.305" tvg-name="beIN iz Hd" tvg-logo="https://i.hizliresim.com/ntkja9t.jpg" group-title="ULUSAL", beIN iz ᴴᴰ⁺™
-#http://31.172.87.53:2200/EX/beIN_IZ_FHD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
-
-#EXTINF: -1 tvg-id="dt.305" tvg-name="History Channel Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/historyhd.png" group-title="ULUSAL", History Channel 1
+#EXTINF: -1 tvg-id="dt.305" tvg-name="History Channel Hd" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="ULUSAL", History Channel 
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260065&extension=ts&play_token=PC6ArWwXfU
 #http://168.121.46.90:8000/play/a005/index.m3u8
 #http://212.224.84.217:2200/TR-N/History_Channel_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="dt.305" tvg-name="History Channel Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/historyhd.png" group-title="ULUSAL", History Channel 2
+#EXTINF: -1 tvg-id="dt.305" tvg-name="History Channel Hd" tvg-logo="https://picon-13398.kxcdn.com/h2.jpg" group-title="ULUSAL", History Channel 2
 #http://168.121.46.90:8000/play/a063/index.m3u8
 #http://212.224.84.217:2200/TR-N/History_Channel_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="dt.305" tvg-name="investigation Discovery Hd" tvg-logo="https://i.hizliresim.com/cn17x20.jpg" group-title="ULUSAL", investigation Discovery ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="dt.305" tvg-name="investigation Discovery Hd" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscovery.jpg" group-title="ULUSAL", investigation Discovery ᴴᴰ⁺™
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260054&extension=ts&play_token=1Fea0pw233
 #http://212.224.84.217:2200/EX/Investigation_Discovery_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="dt.305" tvg-name="Animaux Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/animaux.png" group-title="ULUSAL", Animaux ᴴᴰ⁺™
+#EXTINF:-1 tvg-id="AnimalPlanet.tr" tvg-name="Animal Planet UK" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="ULUSAL",Animal Planet 
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260050&extension=ts&play_token=LzujM47r6M
+
+#EXTINF: -1 tvg-id="dt.305" tvg-name="Animaux Hd" tvg-logo="https://picon-13398.kxcdn.com/animaux.jpg" group-title="ULUSAL", Animaux ᴴᴰ⁺™
 #http://212.224.84.217:2200/EX/Animaux-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 #http://212.224.84.217:2200/TR-N/Animaux-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 #egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmfXFofXZmeg==REDLINECLIENT
@@ -909,54 +938,9 @@ https://inwild-samsung-uk.amagi.tv:443/playlist720-p.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #http://212.224.84.217:2200/TR-N/LOVE_NATURE_HD-ar/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="ULUSAL",SET HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="ULUSAL",Sony SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="ULUSAL",Sony PAL
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="ULUSAL",Sony YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="ULUSAL",Sony Marathi
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="ULUSAL",Sony AATH
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="ULUSAL",Sony MAX HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="ULUSAL",Sony MAX
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="ULUSAL",Sony WAH
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="ULUSAL",Sony MAX2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="ULUSAL",Sony PIX HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="ULUSAL",Sony BBC Earth HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-https://lin-gd-001-cf.slivcdn.com:443/out/v1/25027865fc9548f4928ca62a36dda585/master_2.m3u8?hdntl=exp=1689998137~acl=*~hmac=f10ba4bddd7c7e89621c9abe404751d3c760193ea27100ab62f2d0bda3892dde&originpath=/linear/hls/pa/event/6bVWYIKGS0CIa-cOpZZJPQ/stream/83dbe6c8-2634-44f9-b9c1-c0235be80f2f:BRU/variant/1935630644426d9a280ce210c38129c2/bandwidth/4705500.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="ULUSAL",Sony TEN 1
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="ULUSAL",Sony TEN 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="ULUSAL",Sony TEN 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="ULUSAL",Sony TEN 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="ULUSAL",Sony TEN 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="ULUSAL",Sony TEN 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="ULUSAL",Sony  TEN 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="ULUSAL",Sony TEN 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="ULUSAL",Sony TEN 4 HD
-https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="ULUSAL",Sony TEN 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="ULUSAL",Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8#_/masterR720P.m3u8 
+
 
 
 
@@ -1088,10 +1072,10 @@ https://anka@edge02.odtv.az/o5/ntvtur/playlist.m3u8|User-Agent=ExoPlayer2/2.37
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001215/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001215&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="LiderTV.tr" tvg-name="LiderTV.tr" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="HABER",LİDER HABER
+http://anka@195.142.1.211:4002/udp/224.2.2.13:10001|User-Agent=ExoPlayer2/2.37   
 https://live.cache-stream.workers.dev/stream/UCgH3Vo5DVMsrbDSUoSecm0Q/live.m3u8?_=1
 #https://ythls.onrender.com/channel/UCgH3Vo5DVMsrbDSUoSecm0Q.m3u8
 #EXTINF:-1 tvg-id="LiderTV.tr" tvg-name="LiderTV.tr" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="HABER",LİDER HABER
-#http://anka@195.142.1.211:4002/udp/224.2.2.13:10001|User-Agent=ExoPlayer2/2.37   
 #http://145.239.58.133:28008/lidertv/lidertv/playlist.m3u8
 #https://59cba4d34b678.streamlock.net/live2/000-lidertv.stream/playlist.m3u8
 #http://95.0.226.197:5557/lider
@@ -1706,90 +1690,37 @@ http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mov
 #EXTINF:-1 tvg-name="Hayatımın Neşesi: TRT (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/2023070223.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Hayatımın Neşesi: TRT (Son Blm)
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22248.mp4
 
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: ALPARSLAN BÜYÜK SELÇUKLU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXnP3YEN3saxyncRLz7kxc6TvjX.jpg" group-title="DIZI PAZARTESI",Dizi: ALPARSLAN BÜYÜK SELÇUKLU
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/186298.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: BIR KÜÇÜK GÜN ISIGI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xFxOrjDeJtoP6OUGpacorxRPVV.jpg" group-title="DIZI PAZARTESI",Dizi: BIR KÜÇÜK GÜN ISIGI
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/229735.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: ÖMER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2DVddf9ZXKJtNOYCcdnJwzuokd.jpg" group-title="DIZI PAZARTESI",Dizi: ÖMER
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/245868.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: VEDA MEKTUBU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot23tFNRBMYnFHPS96WWX0tPUFH.jpg" group-title="DIZI PAZARTESI",Dizi: VEDA MEKTUBU
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/248321.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: YASAK ELMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE4xFYu3sAUcMVZjNUEKrJI9yK.jpg" group-title="DIZI PAZARTESI",Dizi: YASAK ELMA
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/21525.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: AILE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJDBplHLMOYnUUart4JkS0MqMCI.jpg" group-title="DIZI SALI",Dizi: AILE
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/249392.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: BEN BU CIHANA SIGMAZAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coV7lnv9A0eExfKh5rWcxiG52zZ.jpg" group-title="DIZI SALI",Dizi: BEN BU CIHANA SIGMAZAM
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/229737.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: GECENIN UCUNDA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UJqCUK2xOqJfSGO95kUy1PfU1r.jpg" group-title="DIZI SALI",Dizi: GECENIN UCUNDA
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/234666.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: TAÇSIZ PRENSES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eP5Y3gQz0zdWZ96IhhwUHfXd6AV.jpg" group-title="DIZI SALI",Dizi: TAÇSIZ PRENSES
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/245901.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: TETIKÇININ OGLU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyIXM0t6698NSSDkgagMZwoK4g4.jpg" group-title="DIZI SALI",Dizi: TETIKÇININ OGLU
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/253660.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: ÜÇ KIZ KARDES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a46cKxbo0CnQO1aK0FhpHB1yTeG.jpg" group-title="DIZI SALI",Dizi: ÜÇ KIZ KARDES
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/209676.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: YÜREK ÇIKMAZI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkoT6b4d1m0TAHxIllnDEhOtVi2.jpg" group-title="DIZI SALI",Dizi: YÜREK ÇIKMAZI
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/238193.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: ADIM FARAH" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8Gk5vUEsgYVKQNxLhARwhPd6F1.jpg" group-title="DIZI CARSAMBA",Dizi: ADIM FARAH
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/248383.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: ÇÖP ADAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIaMSsrhOdFh2KUtAsrptG3msgw.jpg" group-title="DIZI CARSAMBA",Dizi: ÇÖP ADAM
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/240563.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: KRALIÇE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7U50lkVkJ2a27QkWNu3jL41nwU8.jpg" group-title="DIZI CARSAMBA",Dizi: KRALIÇE
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/251159.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: KURULUS OSMAN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" group-title="DIZI CARSAMBA",Dizi: KURULUS OSMAN
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/59658.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: AL SANCAK" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41FZgSnjfBFFYiivQaarUQlUoeK.jpg" group-title="DIZI PERSEMBE",Dizi: AL SANCAK
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/246676.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: ALDATMAK" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL6RAg9IQU97wmHyS2uKL6gStf.jpg" group-title="DIZI PERSEMBE",Dizi: ALDATMAK
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/229736.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: CAMDAKI KIZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kH9OsQMcbMyEEjjW8jCUafYVQ63.jpg" group-title="DIZI PERSEMBE",Dizi: CAMDAKI KIZ
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/154649.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: GELSIN HAYAT BILDIGI GIBI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSmqe1UjVVa0Ku7xvqL0gH5ajKW.jpg" group-title="DIZI PERSEMBE",Dizi: GELSIN HAYAT BILDIGI GIBI
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/226089.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: GÜLCEMAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lK55aBNoDDcOQ8Et25739YYyjRI.jpg" group-title="DIZI PERSEMBE",Dizi: GÜLCEMAL
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/252704.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: YÜZ YILLIK MUCIZE" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVmYjRhNDMtN2RhZS00YTliLTlhMGYtNzdjZGM4N2MyZjU3XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_QL75_UY266_CR3,0,180,266_.jpg" group-title="DIZI PERSEMBE",Dizi: YÜZ YILLIK MUCIZE
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/251306.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: ARKA SOKAKLAR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Lh8xbSr43ZVl3cI5Lu0hdW2ckW.jpg" group-title="DIZI CUMA",Dizi: ARKA SOKAKLAR
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/18192.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: ATES KUSLARI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dna9YzzCgb18g41vh4tBAMRBgz.jpg" group-title="DIZI CUMA",Dizi: ATES KUSLARI
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/246429.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: BARBAROS HAYREDDIN SULTANIN FERMANI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chy6pnCcLPEFLBzTOgwMzVPxHu5.jpg" group-title="DIZI CUMA",Dizi: BARBAROS HAYREDDIN SULTANIN FERMANI
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/242790.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: KIZILCIK SERBETI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="DIZI CUMA",Dizi: KIZILCIK SERBETI
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/238077.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: TUZAK" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nq6Tp3HTPwNiVuRwhHHHFpORuPI.jpg" group-title="DIZI CUMA",Dizi: TUZAK
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/236114.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: YALI ÇAPKINI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnNhlrOdgVsgNEcyKkCqv4EI1t.jpg" group-title="DIZI CUMA",Dizi: YALI ÇAPKINI
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/232953.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: GÖNÜL DAGI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="DIZI CUMARTESI",Dizi: GÖNÜL DAGI
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/122573.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: KARDESLERIM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOtWDDHnI7Btudpa5i579fxZMfh.jpg" group-title="DIZI CUMARTESI",Dizi: KARDESLERIM
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/131316.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: EGO (ERKEGE GÜVEN OLMAZ)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hk86GMBPDsK2IQ9auElTYxJDAX.jpg" group-title="DIZI PAZAR",Dizi: EGO (ERKEGE GÜVEN OLMAZ)
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/247863.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: GÜZEL GÜNLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abnTcKRQfxrBiBRTRx4DPpeJclz.jpg" group-title="DIZI PAZAR",Dizi: GÜZEL GÜNLER
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/238894.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: TESKILAT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fV7UwkvyxpNFeFe9HQqjY7Idzj.jpg" group-title="DIZI PAZAR",Dizi: TESKILAT
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/63740.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: TOZKOPARAN ISKENDER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1QxafIMhZHQrUC9HDUyOPKIF43.jpg" group-title="DIZI PAZAR",Dizi: TOZKOPARAN ISKENDER
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/155641.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Dizi: YARGI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUb3TjQim6m6dFKryqiyrj9DPpL.jpg" group-title="DIZI PAZAR",Dizi: YARGI
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/181313.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Tv Show: COK GUZEL HAREKETLER 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" group-title="TV SHOW",Tv Show: COK GUZEL HAREKETLER 2
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/18197.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Tv Show: DOGU DEMIRKOL ILE ALELADE SHOW" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ae6QZTvfjdDneT3lMUmzMnlpx4A.jpg" group-title="TV SHOW",Tv Show: DOGU DEMIRKOL ILE ALELADE SHOW
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/233029.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Tv Show: ESRA EROL'DA" tvg-logo="https://iaatv.tmgrup.com.tr/945da9/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2022/08/30/500x268/1661870199776.jpg" group-title="TV SHOW",Tv Show: ESRA EROL'DA
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/244403.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Tv Show: GULDUR GULDUR SHOW" tvg-logo="https://im.showtv.com.tr/2021/09/20/ver1632133756/3196968_400x400.jpg" group-title="TV SHOW",Tv Show: GULDUR GULDUR SHOW
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/18308.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Tv Show: IBO SHOW" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzYTY0YzMtZGE3ZC00MjJmLTkzMGItNDhiMDk4MTRiOGY4XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_QL75_UX190_CR0,11,190,281_.jpg" group-title="TV SHOW",Tv Show: IBO SHOW
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/131096.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Tv Show: MÜGE ANLI ILE TATLI SERT" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bb/M%C3%BCge_Anl%C4%B1_ile_Tatl%C4%B1_Sert.PNG" group-title="TV SHOW",Tv Show: MÜGE ANLI ILE TATLI SERT
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/244404.mkv
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="Tv Show: SARKILAR BIZI SÖYLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQxODYxYjgtOTdhYi00MTBiLWFlZTQtODNlNGYxMTUzNzMwXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_UY268_CR16,0,182,268_AL_.jpg" group-title="TV SHOW",Tv Show: SARKILAR BIZI SÖYLER
-http://de.caneriptv.com:8080/movie/rufi02/GmDPzKBA6k/154995.mkv
+
+
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS HABER HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="Live: beIN Media Group",beIN SPORTS HABER HD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/17896
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/15719
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 FHD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/17739
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 2 HD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/15943
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 2 FHD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/17740
+#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="beIN SPORTS 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 3 HD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/6414
+#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="beIN SPORTS 3 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 3 FHD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/17741
+#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="beIN SPORTS 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 4 HD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/15722
+#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="beIN SPORTS 4 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 4 FHD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/19038
+#EXTINF:-1 tvg-id="beINSports5.tr" tvg-name="beIN SPORTS 5 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Live: beIN Media Group",beIN SPORTS 5 HD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/115205
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="beIN SPORTS MAX 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 1 HD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/15723
+#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="beIN SPORTS MAX 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 2 HD TR
+http://45.12.1.14:80/7JvIck488/meAqNw5218/29048
+
+
+
+
+
 
 
 
@@ -2305,208 +2236,152 @@ http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913383&extensi
 
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="Tvplus",▬ Turkey [TR]  ▬
 https://proxy.rssblue.com?url=
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS HABER HD
-#EXTVLCOPT:cache=274
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="TRT Spor 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="Tvplus",TRT Spor 2 FHD TR
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=35&extension=ts
+
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="Tvplus",TRT Spor FHD TR
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=505722&extension=ts
+
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="Tvplus",A Spor FHD TR
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=505723&extension=ts
+
+#EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="Tvplus",TV8'5 ᴴᴰ
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=316&extension=ts
+
+#EXTINF:-1 tvg-id="BeinSports.tr" tvg-name="beIN SPORTS HABER HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg"  group-title="Tvplus",beIN SPORTS HABER HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=421&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS 1 FEED 4K
-#EXTVLCOPT:cache=275
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Tvplus",beIN SPORTS 1 FEED 4K
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=489781&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS 1 FHD
-#EXTVLCOPT:cache=276
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Tvplus",beIN SPORTS 1 FHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=564724&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS 1 HD
-#EXTVLCOPT:cache=277
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Tvplus",beIN SPORTS 1 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=488313&extension=ts
-#EXTINF:-1 group-title="Tvplus",FX+ SPORTS FEED
-#EXTVLCOPT:cache=280
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="Tvplus",FX+ SPORTS FEED
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=630666&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXTRASPORT  [50FPS] ✦ FEED
-#EXTVLCOPT:cache=281
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="Tvplus",EXTRASPORT ✦ FEED
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=630665&extension=ts
-#EXTINF:-1 group-title="Tvplus",SHARE2BOX SPORT FEED 01
-#EXTVLCOPT:cache=282
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://i.imgur.com/bULxcl4.png" group-title="Tvplus",SHARE2BOX SPORT FEED 01
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=630667&extension=ts
-#EXTINF:-1 group-title="Tvplus",SHARE2BOX SPORT FEED 02
-#EXTVLCOPT:cache=283
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://i.imgur.com/bULxcl4.png" group-title="Tvplus",SHARE2BOX SPORT FEED 02
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=615340&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS 1 SD
-#EXTVLCOPT:cache=278
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Tvplus",beIN SPORTS 1 SD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=432674&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS 1
-#EXTVLCOPT:cache=279
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Tvplus",beIN SPORTS 1 FHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=69&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS 2 HD
-#EXTVLCOPT:cache=284
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Tvplus",beIN SPORTS 2 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=425&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS 2
-#EXTVLCOPT:cache=285
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Tvplus",beIN SPORTS 2 FHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=70&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS 3 HD
-#EXTVLCOPT:cache=286
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="BeinSports3.tr" tvg-name="beIN SPORTS 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Tvplus",beIN SPORTS 3 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=426&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS 3
-#EXTVLCOPT:cache=287
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="BeinSports3.tr" tvg-name="beIN SPORTS 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Tvplus",beIN SPORTS 3 FHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=71&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS 4 HD
-#EXTVLCOPT:cache=288
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="beIN SPORTS 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Tvplus",beIN SPORTS 4 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=427&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS 4
-#EXTVLCOPT:cache=289
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="beIN SPORTS 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Tvplus",beIN SPORTS 4 FHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=72&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS 5 HD
-#EXTVLCOPT:cache=290
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="beINSports5.tr" tvg-name="beIN SPORTS 5 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Tvplus",beIN SPORTS 5 HDhttps://picon-13398.kxcdn.com/beinsport5.jpg
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=495997&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS MAX 1HD
-#EXTVLCOPT:cache=291
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="beIN SPORTS MAX HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Tvplus",beIN SPORTS MAX 1HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=428&extension=ts
-#EXTINF:-1 group-title="Tvplus",beIN SPORTS MAX 2 HD
-#EXTVLCOPT:cache=292
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="beIN SPORTS MAX HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Tvplus",beIN SPORTS MAX 2 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=429&extension=ts
-#EXTINF:-1 group-title="Tvplus",SPOR SMART 1 QHD
-#EXTVLCOPT:cache=221
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+
+#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="TivibuSpor1 TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="Tvplus",TIVIBU SPOR 1 FHD
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=435&extension=ts
+#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="TivibuSpor1 TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="Tvplus",TIVIBU SPOR 1 FHD
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=291&extension=ts
+
+#EXTINF:-1 tvg-id="TivibuSpor2.tr"tvg-name="TivibuSpor2 TR" " tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="Tvplus",TIVIBU SPOR 2 FHD
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=436&extension=ts
+#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="TivibuSpor2 TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="Tvplus",TIVIBU SPOR 2 FHD
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=292&extension=ts
+
+#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="TivibuSpor3 TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="Tvplus",TIVIBU SPOR 3 FHD
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=437&extension=ts
+#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="TivibuSpor3 TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="Tvplus",TIVIBU SPOR 3 FHD
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=293&extension=ts
+#EXTINF:-1 tvg-id="TivibuSpor4.tr" tvg-name="TivibuSpor4 TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr4.jpg" group-title="Tvplus",TIVIBU SPOR 4 FHD
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=389&extension=ts
+
+#EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="SmartSpor TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotvhd.jpg" group-title="Tvplus",SPOR SMART 1 QHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=27&extension=ts
-#EXTINF:-1 group-title="Tvplus",SPOR SMART 2 QHD
-#EXTVLCOPT:cache=222
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="SmartSpor2.tr" tvg-name="SmartSpor TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotvhd.jpg" group-title="Tvplus",SPOR SMART 2 QHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=434&extension=ts
-#EXTINF:-1 group-title="Tvplus", S SPORT
+#EXTINF:-1 tvg-id="SSport1.tr" tvg-name="SSport TR" tvg-logo="https://ia601904.us.archive.org/31/items/tvlogopack/ssport1.png" group-title="Tvplus", S SPORT
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=37&extension=ts
-#EXTINF:-1 group-title="Tvplus", S SPORT
+#EXTINF:-1 tvg-id="SSport1.tr" tvg-name="SSport TR" tvg-logo="https://ia601904.us.archive.org/31/items/tvlogopack/ssport1.png" group-title="Tvplus", S SPORT
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=683162&extension=ts&play_token=WUIvNTv626
-#EXTINF:-1 group-title="Tvplus", S SPORT 2
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="SSport2 TR" tvg-logo="https://ia601904.us.archive.org/31/items/tvlogopack/ssport2.png" group-title="Tvplus", S SPORT 2
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=38&extension=ts
-#EXTINF:-1 group-title="Tvplus", S SPORT 2
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="SSport2 TR" tvg-logo="https://ia601904.us.archive.org/31/items/tvlogopack/ssport2.png" group-title="Tvplus", S SPORT 2
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=683163&extension=ts&play_token=WUIvNTv626
-#EXTINF:-1 group-title="Tvplus",S SPORT + PLUS 1 HD
-#EXTVLCOPT:cache=252
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="SSport TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="Tvplus",S SPORT + PLUS 1 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=430060&extension=ts
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=37&extension=ts
-#EXTINF:-1 group-title="Tvplus",S SPORT + PLUS 2 HD
-#EXTVLCOPT:cache=253
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="SSport TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="Tvplus",S SPORT + PLUS 2 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=430061&extension=ts
-#EXTINF:-1 group-title="Tvplus",S SPORT + PLUS 3 HD
-#EXTVLCOPT:cache=254
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="SSport TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="Tvplus",S SPORT + PLUS 3 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=430062&extension=ts
-#EXTINF:-1 group-title="Tvplus",S SPORT + PLUS 4 HD
-#EXTVLCOPT:cache=255
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="SSport TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="Tvplus",S SPORT + PLUS 4 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=430063&extension=ts
-#EXTINF:-1 group-title="Tvplus",S SPORT + PLUS 5 HD
-#EXTVLCOPT:cache=256
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="SSport TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="Tvplus",S SPORT + PLUS 5 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=430064&extension=ts
-#EXTINF:-1 group-title="Tvplus",S SPORT + PLUS 6 HD
-#EXTVLCOPT:cache=257
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="SSport TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="Tvplus",S SPORT + PLUS 6 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=432663&extension=ts
 
-#EXTINF:-1 group-title="Tvplus",EXXEN SPOR 1 HD
-#EXTVLCOPT:cache=258
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPOR 1 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=426989&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPOR 1
-#EXTVLCOPT:cache=259
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPOR 1
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=418297&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPOR 2 HD
-#EXTVLCOPT:cache=260
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPOR 2 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=418298&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPOR 2
-#EXTVLCOPT:cache=261
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPOR 2
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=491752&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPOR 3 HD
-#EXTVLCOPT:cache=262
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPOR 3 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=418299&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPOR 3
-#EXTVLCOPT:cache=263
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPOR 3
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=491753&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPORT 4 HD
-#EXTVLCOPT:cache=264
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPORT 4 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=426510&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPORT 4
-#EXTVLCOPT:cache=265
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPORT 4
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=491754&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPORT 5 HD
-#EXTVLCOPT:cache=266
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPORT 5 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=426511&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPORT 5
-#EXTVLCOPT:cache=267
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPORT 5
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=491755&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPORT 6 HD
-#EXTVLCOPT:cache=268
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPORT 6 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=426512&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPORT 6
-#EXTVLCOPT:cache=269
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPORT 6
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=491756&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPORT 7 HD
-#EXTVLCOPT:cache=270
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPORT 7 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=432675&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPORT 7
-#EXTVLCOPT:cache=271
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPORT 7
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=491757&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPORT 8 HD
-#EXTVLCOPT:cache=272
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPORT 8 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=432676&extension=ts
-#EXTINF:-1 group-title="Tvplus",EXXEN SPORT 8
-#EXTVLCOPT:cache=273
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPORT 8
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=491758&extension=ts
 
-#EXTINF:-1 tvg-id="Eurosport1.tr" tvg-name="Euro Sport [1]" tvg-logo="https://i.hizliresim.com/n1ius1z.png" group-title="Tvplus",[TR] Euro Sport [1]
+#EXTINF:-1 tvg-id="Eurosport1.tr" tvg-name="Euro Sport" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Tvplus",Euro Sport [1]
 http://mn-nl.mncdn.com:80/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport2.tr" tvg-name="Euro Sport [2]" tvg-logo="https://i.hizliresim.com/mncw7b5.png" group-title="Tvplus",[TR] Euro Sport [2]
+#EXTINF:-1 tvg-id="Eurosport2.tr" tvg-name="Euro Sport" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Tvplus",Euro Sport [2]
 http://mn-nl.mncdn.com:80/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
 
-#EXTINF:-1 group-title="Tvplus", SPORTS TV HD
-
-#EXTINF:-1 group-title="Tvplus", NBA TV HD
-
-#EXTINF:-1 group-title="Tvplus", EDGE SPORT HD
-
-#EXTINF:-1 group-title="Tvplus",GS TV HD
-#EXTVLCOPT:cache=236
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="SportsTV.tr" tvg-logo="https://picon-13398.kxcdn.com/sportstvtr.jpg" group-title="Tvplus", SPORTS TV HD
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.tr" tvg-name="NBATV.tr" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="Tvplus", NBA TV HD
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=505718&extension=ts
+#EXTINF:-1 tvg-id="NBATV.tr" tvg-name="NBATV.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Tvplus", EDGE SPORT HD
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBATV.tr" tvg-name="NBATV.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Tvplus",EDGE Sportstribal (1080p)
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GSTV.tr" tvg-name="GSTV.tr" tvg-logo="https://picon-13398.kxcdn.com/gstvtr.jpg" group-title="Tvplus",GS TV HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=87&extension=ts
-#EXTINF:-1 group-title="Tvplus",FB TV HD
-#EXTVLCOPT:cache=237
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="FBTV.tr.tr" tvg-name="FBTV.tr.tr" tvg-logo="https://picon-13398.kxcdn.com/fbtvtr.jpg" group-title="Tvplus",FB TV HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=86&extension=ts
 
 
@@ -3445,6 +3320,96 @@ http://1985h.pw:80/live/sefa/123456/811.ts
 http://1985h.pw:80/live/sefa/123456/810.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 4 HD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/t-4-logo-RGB-01.png" group-title="Tivibu Spor",Tivibu Spor 4 HD
 http://1985h.pw:80/live/sefa/123456/129749.ts
+
+
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"- - - - - TURKIYE SPOR - - - - -\" tvg-logo=\"\" group-title=\"TURKIYE\",- - - - - TURKIYE SPOR - - - - -
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/725
+
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"- - - - - TURKIYE  BEINSPORT - - - - -\" tvg-logo=\"\" group-title=\"TURKIYE\",- - - - - TURKIYE  BEINSPORT - - - - -
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/5913
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: TRT SPOR HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: TRT SPOR HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/697
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: A SPOR HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: A SPOR HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/692
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: BEIN SPORTS 1 SD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS 1 SD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6022
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: BEIN SPORTS SD 1 (FEED)\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS SD 1 (FEED)
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6016
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: BEINSPORT 1 HD 50fps\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEINSPORT 1 HD 50fps
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/14794
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: BEIN SPORTS 4K (REAL 4K)\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS 4K (REAL 4K)
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/14795
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: BEIN SPORTS 2 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS 2 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6021
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: BEIN SPORTS 2 SD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS 2 SD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6015
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: BEIN SPORTS 3 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS 3 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6020
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: BEIN SPORTS 3 SD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS 3 SD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6014
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: BEIN SPORTS 4 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS 4 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6019
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: BEIN SPORTS 4 SD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS 4 SD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6013
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: BEIN SPORT 1 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORT 1 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/10683
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: BEIN SPORTS MAX 1 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS MAX 1 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6018
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: BEIN SPORTS MAX 1 SD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS MAX 1 SD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6012
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: BEIN SPORTS MAX 2 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS MAX 2 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6017
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: BEIN SPORTS MAX 2 SD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS MAX 2 SD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6011
+#EXTINF:-1 tvg-id=\"100nltv.nl\" tvg-name=\"TR: BEiN SPORT HABER HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEiN SPORT HABER HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6430
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: BEIN SPORTS 5 SD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS 5 SD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/81544
+
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: TIVIBU SPOR 1 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: TIVIBU SPOR 1 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/709
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: TIVIBU SPOR 2 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: TIVIBU SPOR 2 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/708
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: TIVIBU SPOR 3 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: TIVIBU SPOR 3 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/707
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: SMARTSPOR 1 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: SMARTSPOR 1 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/701
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: S SPORT HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: S SPORT HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/700
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: S SPORT 2\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: S SPORT 2
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/81289
+
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: SPORTS TV HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: SPORTS TV HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/696
+
+#EXTINF:-1 tvg-id=\"Sky Sports Main Event HD\" tvg-name=\"TR: A SPOR SD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: A SPOR SD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/6296
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: FB TV HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: FB TV HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/690
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: GS TV HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: GS TV HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/689
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: NBA TV HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: NBA TV HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/687
+#EXTINF:-1 tvg-id=\"TRT SPOR\" tvg-name=\"TR: TRT SPOR Yildiz\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: TRT SPOR Yildiz
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/16955
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: EUROSPORT 1 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: EUROSPORT 1 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/19181
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: EUROSPORT 2 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: EUROSPORT 2 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/19182
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: EXXEN SPORT 1 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: EXXEN SPORT 1 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/67559
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: EXXEN SPORT 2 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: EXXEN SPORT 2 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/67560
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: EXXEN SPORT 3 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: EXXEN SPORT 3 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/67561
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: EXXEN SPORT 4 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: EXXEN SPORT 4 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/81358
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: EXXEN SPORT 5 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: EXXEN SPORT 5 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/81359
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: BEIN SPORTS 5 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: BEIN SPORTS 5 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/81543
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TR: S SPORT PLUS 1 HD\" tvg-logo=\"\" group-title=\"TURKIYE\",TR: S SPORT PLUS 1 HD
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/81545
 
 
 
