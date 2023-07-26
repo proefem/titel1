@@ -961,7 +961,7 @@ https://anka@edge02.odtv.az/o5/trthaber/playlist.m3u8|User-Agent=ExoPlayer2/2.37
 https://anka@edge02.odtv.az/o7/ahaber/playlist.m3u8|User-Agent=ExoPlayer2/2.37   
 #https://live.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8?_=1
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="HABER",A HABER ᵁᴴᴰ⁺™
-#http://anka@195.142.1.211:4002/udp/224.2.2.20:10001
+#http://anka@195.142.1.211:4002/udp/224.2.2.20:10001|User-Agent=ExoPlayer2/2.37   
 #https://nimplus3.bozztv.com/ahaber/ahaber/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIzIDg6NDI6MjcgUE0maGFzaF92YWx1ZT03T0txVXdtOFhpdERKQnl1Q0x3b0R3PT0mdmFsaWRtaW51dGVzPTI4ODA=
 #https://edge02.smart.az/o7/ahaber/playlist.m3u8|User-Agent=ExoPlayer2/2.37   
 #http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
@@ -1692,7 +1692,7 @@ http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mov
 
 
 
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS HABER HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="Live: beIN Media Group",beIN SPORTS HABER HD TR
+#EXTINF:-1 tvg-id="BeinSports3.tr" tvg-name="beIN SPORTS HABER HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="Live: beIN Media Group",beIN SPORTS HABER HD TR
 http://45.12.1.14:80/7JvIck488/meAqNw5218/17896
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
 http://45.12.1.14:80/7JvIck488/meAqNw5218/15719
@@ -1718,410 +1718,201 @@ http://45.12.1.14:80/7JvIck488/meAqNw5218/15723
 http://45.12.1.14:80/7JvIck488/meAqNw5218/29048
 
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="mac_Spor (Sport),✦ ✦ ✦ TR SPOR HD ✦ ✦ ✦
-#EXTVLCOPT:cache=429
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=1449&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Trt Spor Yildiz 4K+
-#EXTVLCOPT:cache=411
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=129198&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Trt Spor 2 4K+
-#EXTVLCOPT:cache=409
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=45485&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) A Spor 4K+
-#EXTVLCOPT:cache=407
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3069&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) A Spor HD
-#EXTVLCOPT:cache=431
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=137441&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Trt Spor 4K+
-#EXTVLCOPT:cache=408
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2824&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Trt Spor 3 4K+
-#EXTVLCOPT:cache=410
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=77263&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports Haber 4K
-#EXTVLCOPT:cache=477
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3027&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 4K++
-#EXTVLCOPT:cache=478
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=34936&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 1 4K
-#EXTVLCOPT:cache=479
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3033&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 1 HD
-#EXTVLCOPT:cache=484
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=35701&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports Yedek 1
-#EXTVLCOPT:cache=489
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=52636&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 1 (low)
-#EXTVLCOPT:cache=492
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=39470&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 2 4K
-#EXTVLCOPT:cache=480
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=34937&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 2 HD
-#EXTVLCOPT:cache=485
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3032&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports Yedek 2
-#EXTVLCOPT:cache=490
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3024&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 2 (low)
-#EXTVLCOPT:cache=493
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3023&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 3 4K
-#EXTVLCOPT:cache=481
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=34938&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 3 HD
-#EXTVLCOPT:cache=486
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3022&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports Yedek 3
-#EXTVLCOPT:cache=491
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=119875&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 3 (low)
-#EXTVLCOPT:cache=494
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3031&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 4 4K
-#EXTVLCOPT:cache=482
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3030&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 4 HD
-#EXTVLCOPT:cache=487
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3028&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 4 (low)
-#EXTVLCOPT:cache=495
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3021&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 5 4K
-#EXTVLCOPT:cache=483
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=136248&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports 5 HD
-#EXTVLCOPT:cache=488
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=136249&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports Max 1 4K
-#EXTVLCOPT:cache=496
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=7555&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Bein Sports Max 2 4K
-#EXTVLCOPT:cache=497
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=7556&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Smart Spor 4K+
-#EXTVLCOPT:cache=412
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2860&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Smart Spor HD
-#EXTVLCOPT:cache=430
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=114630&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Saran Sport 1 4K+
-#EXTVLCOPT:cache=415
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2881&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) S Sport 1 4K+
-#EXTVLCOPT:cache=413
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=80320&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Saran Sport 2 4K+
-#EXTVLCOPT:cache=432
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2880&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Saran Sport 2 4K+
-#EXTVLCOPT:cache=416
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=52533&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) S Sport 2 4K+
-#EXTVLCOPT:cache=414
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=80321&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) S Sport+ 1 4K+
-#EXTVLCOPT:cache=417
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135190&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) S Sport+ 2 4K+
-#EXTVLCOPT:cache=418
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135189&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) S Sport+ 3 4K+
-#EXTVLCOPT:cache=419
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135188&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) S Sport+ 4 4K+
-#EXTVLCOPT:cache=420
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135187&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) S Sport+ 5 4K+
-#EXTVLCOPT:cache=421
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135186&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) S Sport+ 6 4K+
-#EXTVLCOPT:cache=422
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135185&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Tivibu Spor 1 4K+
-#EXTVLCOPT:cache=426
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2845&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Tivibu Spor 1 4K+
-#EXTVLCOPT:cache=423
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=39472&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Tivibu Spor 1 HD
-#EXTVLCOPT:cache=433
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=7559&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Tivibu Spor 2 4K+
-#EXTVLCOPT:cache=424
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2844&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Tivibu Spor 2 HD
-#EXTVLCOPT:cache=434
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=7561&extension=ts
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Tivibu Spor 3 4K+
-#EXTVLCOPT:cache=425
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2843&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Tivibu Spor 3 HD
-#EXTVLCOPT:cache=434
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=7561&extension=ts
-
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Nba Tv 4K+
-#EXTVLCOPT:cache=427
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=7427&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Tay Tv 4K+
-#EXTVLCOPT:cache=428
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2853&extension=ts
-
-
-
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) EuroSport 1 HD
-#EXTVLCOPT:cache=435
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2989&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) EuroSport 2 HD
-#EXTVLCOPT:cache=436
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2988&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Sports TV
-#EXTVLCOPT:cache=438
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2857&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Trt Spor HD
-#EXTVLCOPT:cache=437
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2825&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Trt Spor
-#EXTVLCOPT:cache=439
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2826&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Galatasaray Mix
-#EXTVLCOPT:cache=440
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=139742&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Gs TV
-#EXTVLCOPT:cache=441
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2972&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Fb TV
-#EXTVLCOPT:cache=442
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2985&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Tjk TV
-#EXTVLCOPT:cache=443
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=2841&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Exxen 1 4K+
-#EXTVLCOPT:cache=444
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=117576&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Exxen 2 4K+
-#EXTVLCOPT:cache=445
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=117577&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Exxen 3 4K+
-#EXTVLCOPT:cache=446
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=117578&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Exxen 4 4K+
-#EXTVLCOPT:cache=447
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=118876&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Exxen 5 4K+
-#EXTVLCOPT:cache=448
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=118877&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Exxen 6 4K+
-#EXTVLCOPT:cache=449
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=118878&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Exxen 1 HD+
-#EXTVLCOPT:cache=450
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=137813&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Exxen 2 HD+
-#EXTVLCOPT:cache=451
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=137814&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Exxen 3 HD+
-#EXTVLCOPT:cache=452
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=137815&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Exxen 4 HD+
-#EXTVLCOPT:cache=453
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=137816&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Exxen 5 HD+
-#EXTVLCOPT:cache=454
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=137817&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Exxen 6 HD+
-#EXTVLCOPT:cache=455
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=137818&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),Fuchs Sports 1 4k+ (Mac Saati)
-#EXTVLCOPT:cache=456
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=150194&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),Fuchs Sports 2 4k+ (Mac Saati)
-#EXTVLCOPT:cache=457
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=150195&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),Fuchs Sports 3 4k+ (Mac Saati)
-#EXTVLCOPT:cache=458
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=150196&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),Fuchs Sports 4 4k+ (Mac Saati)
-#EXTVLCOPT:cache=459
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=150197&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),Fuchs Sports 5 4k+ (Mac Saati)
-#EXTVLCOPT:cache=460
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=150198&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),(TR) Glory Kickboxing
-#EXTVLCOPT:cache=461
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=118310&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 1
-#EXTVLCOPT:cache=462
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135457&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 2
-#EXTVLCOPT:cache=463
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135456&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 3
-#EXTVLCOPT:cache=464
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135455&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 4
-#EXTVLCOPT:cache=465
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135454&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 5
-#EXTVLCOPT:cache=466
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135453&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 6
-#EXTVLCOPT:cache=467
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135452&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 7
-#EXTVLCOPT:cache=468
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135451&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 8
-#EXTVLCOPT:cache=469
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135450&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 9
-#EXTVLCOPT:cache=470
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135449&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 10
-#EXTVLCOPT:cache=471
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135448&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 11
-#EXTVLCOPT:cache=472
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135447&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 12
-#EXTVLCOPT:cache=473
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135446&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 13
-#EXTVLCOPT:cache=474
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135445&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 14
-#EXTVLCOPT:cache=475
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135444&extension=ts
 #EXTINF:-1 group-title="mac_Spor (Sport),UFC Event 15
-#EXTVLCOPT:cache=476
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=135443&extension=ts
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TRT Sport 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="smariptv",TRT SPOR 2 HD
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT Sport 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="smariptv",TRT SPOR 2 HD
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913382&extension=ts&play_token=hm9Hcf1eXU
-#EXTINF:-1 tvg-id="" tvg-name="TRT Spor TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="smariptv",TRT SPOR HD
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="smariptv",TRT SPOR HD
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913402&extension=ts&play_token=6kHUQqVw5Q
-#EXTINF:-1 tvg-id="" tvg-name="A Sport TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="smariptv",A SPOR HD
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Sport TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="smariptv",A SPOR HD
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913404&extension=ts&play_token=w98b1YvmHY
-#EXTINF:-1 tvg-id="BeinSports.tr" tvg-name="beIN SPORTS HABER HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="smariptv",beIN SPORTS HABER HD TR
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="smariptv",beIN SPORTS HABER HD TR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913461&extension=ts&play_token=sSD0KF4BCN
 #EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="smariptv",beIN SPORTS 1 UHD TR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913448&extension=ts&play_token=8rb3xUgGEp
@@ -2159,7 +1950,6 @@ http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=1091501&extens
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913452&extension=ts&play_token=GO1ymQEBel
 #EXTINF:-1 tvg-id="BeinSportsMax2.tr" tvg-name="beIN SPORTS MAX 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="smariptv",beIN SPORTS MAX 2 HD TR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913451&extension=ts&play_token=ArMRBpbp70
-
 #EXTINF:-1 tvg-id="BeinSportsMax1.tr" tvg-name="beIN SPORTS MAX 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="smariptv",beIN SPORTS MAX 1 FHD TR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913442&extension=ts&play_token=YHDbFKNuzC
 #EXTINF:-1 tvg-id="BeinSportsMax2.tr" tvg-name="beIN SPORTS MAX 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="smariptv",beIN SPORTS MAX 2 FHD TR
@@ -2168,7 +1958,7 @@ http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913441&extensi
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913381&extension=ts&play_token=Sm7KHjnSI5
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="smariptv",S Sport 4k TR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913369&extension=ts&play_token=JWzUjTohNg
-#EXTINF:-1 tvg-id="" tvg-name="S Sport 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/ssport2tr.jpg" group-title="smariptv",S Sport 2 FHD TR
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/ssport2tr.jpg" group-title="smariptv",S Sport 2 FHD TR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913380&extension=ts&play_token=tBD0Or78mT
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="smariptv",S Sport + TR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913379&extension=ts&play_token=LHEMYvDUx6
@@ -2180,7 +1970,7 @@ http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913377&extensi
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913370&extension=ts&play_token=DWNlnPake6
 #EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="Smart Spor TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="smariptv",Smart Spor1 4kTR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913376&extension=ts&play_token=YDwHlKeTdM
-#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="Smart Spor TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="smariptv",Smart Spor2 4k TR
+#EXTINF:-1 tvg-id="SmartSpor2.tr" tvg-name="Smart Spor TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="smariptv",Smart Spor2 4k TR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913375&extension=ts&play_token=Zgu9Bj6S8K
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="Sports TV TR" tvg-logo="https://picon-13398.kxcdn.com/sportstvtr.jpg" group-title="smariptv",Sports TV TR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913374&extension=ts&play_token=W6d0KfL5tJ
@@ -2193,7 +1983,7 @@ http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913371&extensi
 
 #EXTINF:-1 tvg-id="NBATV.tr" tvg-name="NBA TV TR" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="smariptv",NBA TV TR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913368&extension=ts&play_token=ch5dPJMg4n
-#EXTINF:-1 tvg-id="" tvg-name="Tay Tv HD" tvg-logo="http://logo.apk-red.com/logo/d_tay_tv.png" group-title="smariptv",TJK Tv HD
+#EXTINF:-1 tvg-id="GSTV.tr" tvg-name="Tay Tv HD" tvg-logo="http://logo.apk-red.com/logo/d_tay_tv.png" group-title="smariptv",TJK Tv HD
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913367&extension=ts&play_token=J7FY0tnlKq
 #EXTINF:-1 tvg-id="GSTV.tr" tvg-name="GS TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/gstvtr.jpg" group-title="smariptv",GS TV TR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913366&extension=ts&play_token=RXU1zMKvJm
@@ -2234,22 +2024,19 @@ http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913384&extensi
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="smariptv",Exxen Sport 8 FHD TR
 http://smariptv.xyz:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913383&extension=ts&play_token=cLRXhFkyN4
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="Tvplus",▬ Turkey [TR]  ▬
 https://proxy.rssblue.com?url=
-
 #EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="TRT Spor 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="Tvplus",TRT Spor 2 FHD TR
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=35&extension=ts
-
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="Tvplus",TRT Spor FHD TR
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=505722&extension=ts
-
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="Tvplus",A Spor FHD TR
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=505723&extension=ts
-
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="Tvplus",TV8'5 ᴴᴰ
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=316&extension=ts
-
-#EXTINF:-1 tvg-id="BeinSports.tr" tvg-name="beIN SPORTS HABER HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg"  group-title="Tvplus",beIN SPORTS HABER HD
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg"  group-title="Tvplus",beIN SPORTS HABER HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=421&extension=ts
 #EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Tvplus",beIN SPORTS 1 FEED 4K
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=489781&extension=ts
@@ -2287,25 +2074,20 @@ http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=495997&ex
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=428&extension=ts
 #EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="beIN SPORTS MAX HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Tvplus",beIN SPORTS MAX 2 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=429&extension=ts
-
-
 #EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="TivibuSpor1 TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="Tvplus",TIVIBU SPOR 1 FHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=435&extension=ts
 #EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="TivibuSpor1 TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="Tvplus",TIVIBU SPOR 1 FHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=291&extension=ts
-
 #EXTINF:-1 tvg-id="TivibuSpor2.tr"tvg-name="TivibuSpor2 TR" " tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="Tvplus",TIVIBU SPOR 2 FHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=436&extension=ts
 #EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="TivibuSpor2 TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="Tvplus",TIVIBU SPOR 2 FHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=292&extension=ts
-
 #EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="TivibuSpor3 TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="Tvplus",TIVIBU SPOR 3 FHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=437&extension=ts
 #EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="TivibuSpor3 TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="Tvplus",TIVIBU SPOR 3 FHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=293&extension=ts
 #EXTINF:-1 tvg-id="TivibuSpor4.tr" tvg-name="TivibuSpor4 TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr4.jpg" group-title="Tvplus",TIVIBU SPOR 4 FHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=389&extension=ts
-
 #EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="SmartSpor TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotvhd.jpg" group-title="Tvplus",SPOR SMART 1 QHD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=27&extension=ts
 #EXTINF:-1 tvg-id="SmartSpor2.tr" tvg-name="SmartSpor TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotvhd.jpg" group-title="Tvplus",SPOR SMART 2 QHD
@@ -2331,7 +2113,6 @@ http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=430063&ex
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=430064&extension=ts
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="SSport TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="Tvplus",S SPORT + PLUS 6 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=432663&extension=ts
-
 #EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPOR 1 HD
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=426989&extension=ts
 #EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPOR 1
@@ -2364,13 +2145,10 @@ http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=491757&ex
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=432676&extension=ts
 #EXTINF:-1 tvg-id="Exxen Sport.tr" tvg-name="Exxen Sport HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Tvplus",EXXEN SPORT 8
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=491758&extension=ts
-
 #EXTINF:-1 tvg-id="Eurosport1.tr" tvg-name="Euro Sport" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Tvplus",Euro Sport [1]
 http://mn-nl.mncdn.com:80/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
-
 #EXTINF:-1 tvg-id="Eurosport2.tr" tvg-name="Euro Sport" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Tvplus",Euro Sport [2]
 http://mn-nl.mncdn.com:80/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
-
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="SportsTV.tr" tvg-logo="https://picon-13398.kxcdn.com/sportstvtr.jpg" group-title="Tvplus", SPORTS TV HD
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.tr" tvg-name="NBATV.tr" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="Tvplus", NBA TV HD
