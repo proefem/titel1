@@ -160,14 +160,17 @@ https://nimplus4.bozztv.com/trsinevizyon2/trsinevizyon2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1219.jpg" group-title="ULUSAL", YEŞİLÇAM sinevizyon3
 https://nimplus4.bozztv.com/trsinevizyon3/trsinevizyon3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/207.png" group-title="ULUSAL", YEŞİLÇAM 
+https://nimplus3.bozztv.com:443/yumrcaktv/yumrcaktv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/207.png" group-title="ULUSAL", YEŞİLÇAM 1
-https://nimplus4.bozztv.com/yumrcaktv/yumrcaktv/playlist.m3u8
+https://nimplus4.bozztv.com:443/amcmusic/amcmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1215.png" group-title="ULUSAL", YEŞİLÇAM 2
-https://nimplus4.bozztv.com/yesilcam2/yesilcam2/playlist.m3u8
+https://nimplus4.bozztv.com:443/yesilcam2/yesilcam2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1216.png" group-title="ULUSAL", YEŞİLÇAM 3
-https://nimplus4.bozztv.com/yesilcam3/yesilcam3/playlist.m3u8
+https://nimplus4.bozztv.com:443/yesilcam3/yesilcam3/chunks.m3u8
 
 #EXTINF:0 tvg-id="TVEM.tr" tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",DÜZGÜN TV
 http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/supersatforumplaylist.m3u8
@@ -215,6 +218,10 @@ https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultr
 #EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d3292420-de0e-40a6-bbc6-9caedde337ad.png" group-title="ULUSAL",CİNE5 ᴴᴰ
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",4TÜRK TV ᴴᴰ
+http://195.230.27.108:8004/play/a02k/index.m3u8
+
+
 #EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPDyY5d5IpLzUjPPiZoNjNxscqiArUPncwL42W5KrDpOGhINrN1aRN4uabbQcWtMvl7_01tM75oqS8RCqVDU2QqoKDtCCueHCNiTQyUR56S71-F-Cpzgr4IzsJW9UrJzqwm4N7dr950PysjpW7kzy5bmn8fAAvTr6eH3u3m-Y8wnruB-vOQIZ3QtwqlA/w197-h46/kobimtv.PNG" group-title="ULUSAL",KOBiM TV ᴴᴰ
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 
@@ -243,7 +250,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="HABER",CNN TURK ᵁᴴᴰ⁺
-http://135.125.234.9:8081/cnnturk/tracks-v1a1/playlist.m3u8
+http://anka@51.195.5.44:80/cnnturk/tracks-v1a1/playlist.m3u8?_=1
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="HABER",HABER GLOBAL ᵁᴴᴰ⁺
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
@@ -293,7 +300,7 @@ https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="HABER",T24 BİRGÜN TV 
 #https://host.onlineradyotv.net:8081/birguntv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="caddetv.tr" tvg-name="CADDE TV HD" tvg-logo="https://caddetv.com.tr/content/ankara/images/logo.png" group-title="HABER",CADDE TV
+#EXTINF:-1 tvg-id="CADDE TV.TR" tvg-name=" HD TR" tvg-logo="https://canlitv.center/channels/cadde-tv.png" group-title="HABER",CADDE TVᵁᴴᴰ⁺™
 http://45.91.195.132:8000/play/a03p
 
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT TR" tvg-logo="https://picon-13398.kxcdn.com/bloomberg.jpg" group-title="HABER",BLOOMBERG HT ᵁᴴᴰ⁺
