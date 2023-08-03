@@ -277,13 +277,13 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" TR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="HABER",LİDER HABER
-https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/9217b6e91d17c38f7d171eb2b3670349.m3u8|Referer=https://www.liderhaber.com.tr/
+https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/9217b6e91d17c38f7d171eb2b3670349.m3u8|Referer=https://www.liderhaber.com.tr/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="https://picon-13398.kxcdn.com/ulsalkanaltr.jpg" group-title="HABER",ULUSAL KANAL ᴴᴰ
 https://mn-nl.mncdn.com:443/blutv_ulusalkanal/blutv_ulusalkanal.smil/chunklist_b2096000.m3u8   
 
 #EXTINF:-1 tvg-id="SözcüTV.tr" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEii8xR5n8XeIJ5hszOs_uCsSwhAhtDo5aO_rIqY1k9t4DbzJkIyg10TEFdtc4ZGwuLspWzD8M6F3c-uK50GuU5AUgCnNFpQi8oa2sWakYh6Qfxid6OEfZB-G_XvNZMzzcFrOD6ByzOkOB9gVjau00AOXiQRHxFVeaIghXYfXpcIIxJGbnr1PI3SmfFfNA=w153-h86"group-title="HABER" , SÖZCÜ TV ᴴᴰ
-https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/szctv/szctv.m3u8
 
 #EXTINF:-1 tvg-id="FlashTV.tr"tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="HABER",FLASH TV ᴴᴰ
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
@@ -440,7 +440,7 @@ https://nimplus3.bozztv.com/atvavrupa/atvavrupa/playlist.m3u8
 http://135.125.234.9:8081/showturk/tracks-v1a1/playlist.m3u8
    
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="EuroStar TR" tvg-logo="https://picon-13398.kxcdn.com/eurostartr.jpg"   group-title="ULUSAL-int",EURO STAR ᴴᴰ
-http://135.125.234.9:8081/eurostar/tracks-v1a1/playlist.m3u8
+https://nimplus3.bozztv.com/eurostar/eurostar/playlist.m3u8
    
 #EXTINF:-1 tvg-id="EuroD.tr"tvg-name="Euro D TR"   tvg-logo="https://i.imgur.com/4cr2gol.png"  group-title="ULUSAL-int",EURO D ᴴᴰ
 http://135.125.234.9:8081/eurod/tracks-v1a1/playlist.m3u8
@@ -498,6 +498,10 @@ http://radyo.yayin.com.tr:6042/;?type=mp3?
 http://radyoremix.canliyayinda.com:8304/;?type=mp3?
 #EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kordon-fm.png" group-title="İZMIR RADYO KANALLARI  | TV",Kordon FM | Pop
 http://allergo.serverroom.us:8147/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-izmir-fm.png" group-title="İZMIR RADYO KANALLARI  | TV",Radyo İzmir FM  | Slow
+http://usa4.fastcast4u.com:5414/mp3stream/;?type=mp3??hash=0.1920135512543366
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-kordelya.png" group-title="İZMIR RADYO KANALLARI  | TV",Radyo Kordelya | Tsm
+http://allergo.serverroom.us:8137/;?type=mp3?
 #EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/imbat-fm.png" group-title="İZMIR RADYO KANALLARI  | TV",İmbat FM | Arabesk
 http://allergo.serverroom.us:8127/;?type=mp3?
 #EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/damarturk-fm.png" group-title="İZMIR RADYO KANALLARI  | TV",Damartürk FM | Arabesk
@@ -506,10 +510,7 @@ http://185.9.37.59:7966/;?type=mp3?
 http://yayin1.yayindakiler.com:3124/;?type=mp3?
 #EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bati-radyo.png" group-title="İZMIR RADYO KANALLARI  | TV",Bati Radyo | Yöresel
 http://live5.radyotvonline.com:8050/;?type=mp3?
-#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-izmir-fm.png" group-title="İZMIR RADYO KANALLARI  | TV",Radyo İzmir FM  | Slow
-http://usa4.fastcast4u.com:5414/mp3stream/;?type=mp3??hash=0.1920135512543366
-#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-kordelya.png" group-title="İZMIR RADYO KANALLARI  | TV",Radyo Kordelya | Tsm
-http://allergo.serverroom.us:8137/;?type=mp3?
+
 
 
 

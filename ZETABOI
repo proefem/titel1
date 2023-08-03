@@ -37,7 +37,7 @@ https://www.bevy.be/bevyfiles/cyprus.xml
 #https://raw.githubusercontent.com/pendy99/iptv-epg/main/iptv_channels_germany.m3u  x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"https://epg.pw/xmltv/epg_DE.xml
 #1⃣2⃣3⃣4⃣5⃣6⃣7⃣8⃣9⃣🔟0⃣༶Ⓔ༶®༶Ⓗ༶Ⓐ༶Ⓝ༶   Ⓤ ⒺⓍⓅⒺⓅⒼ🔄 🛜🎶🎼 🅾️  ⤵️⤵️⤵️⤵️ᵛⁱᵖ ᶠʰᵈ 🛰🛰📡🌎🅾️🔴ᵁᴴᴰ⁺™ᴴᴰ⁺👀👀@🛰ⒻⒺ®®ⓊⒽⒶⓃⓉⒻⒾⓆ ⓄⓂⒺⓉⒾⓃ®ⒹⓂⒾⓊⓉ ⓁⓈⓅⒼⒸⒼⓈⓎ☣☢♻☑✔✳♨️🇹🇷🌎🔴https://corsproxy.plentygram.com/
 
-|Referer=https://www.liderhaber.com.tr/
+|Referer=https://www.liderhaber.com.tr/&e=.m3u8/&user-agent=Android
 |Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="ULUSAL",▬ Turkey [TR]  ▬
@@ -79,6 +79,7 @@ http://anka@51.195.5.44:80/atv/tracks-v1a1/playlist.m3u8?_=1&hls=native
 #EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᵁᴴᴰ⁺™
 https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #https://nimplus3.bozztv.com/show-tv/show-tv/playlist.m3u8
+http://anka@51.195.5.44:80/showtv/tracks-v1a1/playlist.m3u8?_=1
 #https://ythls.onrender.com/channel/eVVlKAUlSNQ.m3u8
 #https://new.cache-stream.workers.dev/stream/eVVlKAUlSNQ/live.m3u8
 #http://213.239.195.222/turkey/showtv_stream_sd_2023/chunks.m3u8
@@ -1030,6 +1031,7 @@ https://anka@edge02.odtv.az/o7/ahaber/playlist.m3u8|User-Agent=ExoPlayer2/2.37
 #http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
 #http://135.125.234.9:8081/ahaber/tracks-v1a1/playlist.m3u8
 #https://bozztv.com/inim03/live1/ahaber/chunks.m3u8
+#https://nimplus3.bozztv.com/ahaber/ahaber/playlist.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001016/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001016&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="HABER",CNN TURK ᵁᴴᴰ⁺™
@@ -1140,10 +1142,12 @@ https://new.cache-stream.workers.dev/stream/UCgH3Vo5DVMsrbDSUoSecm0Q/live.m3u8?_
 #https://ythls.onrender.com/channel/UCgH3Vo5DVMsrbDSUoSecm0Q.m3u8
 #http://anka@195.142.1.211:4002/udp/224.2.2.13:10001|User-Agent=ExoPlayer2/2.37   
 #EXTINF:-1 tvg-id="LiderTV.tr" tvg-name="LiderTV.tr" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="HABER",LİDER HABER
-https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/9217b6e91d17c38f7d171eb2b3670349.m3u8|Referer=https://www.liderhaber.com.tr/
 #EXTVLCOPT:http-referrer=https://www.liderhaber.com.tr/
 #EXTVLCOPT:http-user-agent=NetSurf/2.0 (RISC OS; armv3l)
-#https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/9217b6e91d17c38f7d171eb2b3670349.m3u8|Referer=https://www.liderhaber.com.tr/User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/9217b6e91d17c38f7d171eb2b3670349.m3u8|Referer=https://www.liderhaber.com.tr/&e=.m3u8/&user-agent=Android
+#EXTVLCOPT:http-referrer=https://www.liderhaber.com.tr/
+#EXTVLCOPT:http-user-agent=NetSurf/2.0 (RISC OS; armv3l)
+https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/9217b6e91d17c38f7d171eb2b3670349.m3u8|Referer=https://www.liderhaber.com.tr/&e=.m3u8/&user-agent=Android
 #http://145.239.58.133:28008/lidertv/lidertv/playlist.m3u8
 #https://59cba4d34b678.streamlock.net/live2/000-lidertv.stream/playlist.m3u8
 #http://95.0.226.197:5557/lider
@@ -1198,7 +1202,7 @@ https://anka@halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #https://new.cache-stream.workers.dev/stream/UCf_ResXZzE-o18zACUEmyvQ/live.m3u8?_=1
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001945/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001945&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=4&s=64832626&IASHttpSessionId=
 #https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
-#https://canlitv.center/channels/cadde-tv.png
+
 #https://caddetv.com.tr/content/ankara/images/logo.png
 #EXTINF:-1 tvg-id="CADDE TV.TR" tvg-name=" HD TR" tvg-logo="https://canlitv.center/channels/cadde-tv.png" group-title="HABER",CADDE TVᵁᴴᴰ⁺™
 https://new.cache-stream.workers.dev/stream/UCPTF3NxWzcBD8rNnJuGQOSA/live.m3u8?_=1
@@ -1458,7 +1462,7 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001192/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001192&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="https://picon-13398.kxcdn.com/cnbceurope.jpg" group-title="HABER_NEWS",CNBC ᴴᴰ⁺ LİVE
-#http://103.145.48.58:9300/hls/live/CNBC.m3u8
+#
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001204/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001204&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DW Deutsch DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="HABER_NEWS",DW ᴴᴰ⁺ LİVE
@@ -1466,11 +1470,10 @@ http://103.145.48.58:9300/hls/live/DW.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001134/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001134&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="EuroNews.de" tvg-name="Euronews DE" tvg-logo="https://picon-13398.kxcdn.com/euronews.jpg" group-title="HABER_NEWS",EURO NEWS  ᴴᴰ⁺ LİVE 
-#http://103.145.48.58:9300/hls/live/Euro News.m3u8
 http://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8?ads.wurl_channel=545&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-name="Euronews EN" tvg-id="2708" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415222143362947_72.png" group-title="HABER_NEWS",[HD]euronews türkçe
-#https://epg.pw/stream/edefbf7461f0e8909442e182c615ee3ef4dee0cc04b196bb03c1ce46139b14ea.m3u8
+#
 
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/france24.jpg" group-title="HABER_NEWS",FRANCE24 ᴴᴰ⁺ LİVE
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001167/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001167&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
@@ -1590,7 +1593,7 @@ http://135.125.234.9:8081/trtturk/tracks-v1a1/playlist.m3u8?_=1
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa TR" tvg-logo="https://i.imgur.com/8t5aAVx.png"  group-title="ULUSAL-int",ATV AVRUPA ʜᴅ
 https://nimplus3.bozztv.com/atvavrupa/atvavrupa/playlist.m3u8
 http://62.182.82.104/atv_turk/index.m3u8?token=test
-#https://nimplus3eu1.bozztv.com/atvavrupa/atvavrupa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIzIDg6MzE6MDEgUE0maGFzaF92YWx1ZT1PNmFKcXo2ZWgzcDM4eEhOdHJtWStRPT0mdmFsaWRtaW51dGVzPTI4ODA=
+#https://nimplus3.bozztv.com/atvavrupa/atvavrupa/playlist.m3u8?
 #http://185.85.152.220:8787/play/a06g/index.m3u8
 #https://epg.pw/stream/e9fb6618dfac7bf987f00093dccf5f879819c21f7baf6c77cf11cb8b7cd5623f.m3u8
 #http://213.239.195.222/turkey/atv_turk_stream_sd_2023/chunks.m3u8
@@ -1600,18 +1603,17 @@ http://62.182.82.104/atv_turk/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="ShowTurk.tr"tvg-name="Show Turk TR"  tvg-logo="https://i.imgur.com/UsMsmA7.png"  group-title="ULUSAL-int",SHOW TURK ʜᴅ
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
-#https://nimplus3eu1.bozztv.com/showtvturk/showtvturk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIzIDg6NTY6MDkgUE0maGFzaF92YWx1ZT1DRVFKNHlibjlTVDBEdDByYytFODdBPT0mdmFsaWRtaW51dGVzPTI4ODA=
+#https://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8?
 #http://streamer1.ruslanatv.ru/turkey/showtv_stream_sd_2023/chunks.m3u8
 #https://epg.pw/stream/d6a57373cdd4c2d9550370f4eef997df187b878dd0428c391c9780d47276b67b.m3u8    
 
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="EuroStar TR" tvg-logo="https://picon-13398.kxcdn.com/eurostartr.jpg"   group-title="ULUSAL-int",EURO STAR ʜᴅ
-https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
-#https://nimplus3eu1.bozztv.com/eurostar/eurostar/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIzIDg6NTY6NDkgUE0maGFzaF92YWx1ZT0rNnlNdEZPTW15VERPOVB1ZU50RU5RPT0mdmFsaWRtaW51dGVzPTI4ODA=
+https://nimplus3.bozztv.com/eurostar/eurostar/playlist.m3u8
 #http://135.125.234.9:8081/eurostar/tracks-v1a1/playlist.m3u8?_=1
 
 #EXTINF:-1 tvg-id="EuroD.tr"tvg-name="Euro D TR"   tvg-logo="https://i.imgur.com/4cr2gol.png"  group-title="ULUSAL-int",EURO D ʜᴅ
 https://kdlive.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#https://nimplus6eu1.bozztv.com/eurod/eurod/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIzIDg6NTc6MjcgUE0maGFzaF92YWx1ZT12enVXai9sc3JkVmlLOTltc0hoZVJRPT0mdmFsaWRtaW51dGVzPTI4ODA=
+#https://nimplus6.bozztv.com/eurod/eurod/playlist.m3u8
 #http://135.125.234.9:8081/eurod/tracks-v1a1/playlist.m3u8?_=1
 #https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #https://cors.deno.dev/http://he11o.akadatel.com/iptv/WE6F64UP9PFA5M/6892/index.m3u8
@@ -3510,18 +3512,22 @@ http://195.142.1.211:4002/udp/224.2.2.49:10001===?token=CXtoCQYVe3FncwIUNwFpcgEU
 https://new.cache-stream.workers.dev/stream/MZ5D6NK5Qqo/live.m3u8
 
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports Turkiye 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium62/index.m3u8|Referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports Turkiye 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium63/index.m3u8|Referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports Turkiye 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium64/index.m3u8|Referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports Turkiye 4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium67/index.m3u8|Referer=https://widevine.licenses4.me/
 
@@ -3551,169 +3557,302 @@ https://nimplus6.bozztv.com/fbtv1/fbtv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 http://213.239.195.222/azerbaijan/cbc_sport_stream_hd_2023/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://i.postimg.cc/prtD9pTL/20220927-063743.png" group-title="Spor Kanalları",NBA TV US
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium404/index.m3u8|Referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Astro Supersport 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium123/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Astro Supersport 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium124/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Astro Supersport 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium1255/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Astro Supersport 4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium126/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Astro Supersport 5
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,TNT1⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium31/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,TNT2⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium32/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,TNT3⚽️⚽️
 https://webudit.cdnhks.lol/lb/premium33/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,TNT4⚽️⚽️
 https://webudit.cdnhks.lol/lb/premium34/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,SKY1⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium35/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,SKY2⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium36/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,SKY3⚽️⚽️
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Sport tv 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium49/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Sport tv 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium74/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Sport tv 3
 https://webudit.cdnhks.lol/lb/premium288/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Viaplay Sports 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium451/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Viaplay Sports 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium550/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,PolsatSport tv 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium50/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,FOX S1⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium54/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,FOX S2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium758/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Diema Sport 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium465/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Diema Sport 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium466/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Diema Sport 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium467/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,DAZN F1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium537/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,DAZN 1 DE
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium426/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,DAZN 2 DE
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium427/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium130/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Sky Sports Football
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium35/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium38/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Sky Sports Action
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium37/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium70/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium449/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Sky Sports F1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium60/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Sky Sports Arena
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium36/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium65/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,BT Sport 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium31/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,BT Sport 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium32/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,BT Sport 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium33/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,BT Sport 4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium34/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Arena Sport 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium429/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Arena Sport 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium433/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Arena Sport 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium434/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Arena Premium 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium134/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Arena Premium 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium135/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Arena Premium 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium139/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,SK1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium101/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,SK2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium102/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,SK3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium103/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,SK4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium104/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,TSN 1⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium111/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,TSN 2⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium112/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,TSN 3⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium113/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,TSN 4⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium114/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,TSN 5⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium115/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,beın sport
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium116/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,ASSP 1⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium123/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,ASSP 2⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium124/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,ASSP 3⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium125/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,ASSP 4⚽️⚽️
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium126/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Eleven 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium455/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Eleven 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium456/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,Eleven 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium457/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,NOVASPORT
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium468/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,EUROSPORT1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium469/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,EUROSPORT2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium470/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,RING
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium471/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,MFXSPORT1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium472/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,MFXSPORT2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium473/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,MFXSPORT3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium474/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wst.tv/apple-touch-icon.png"group-title="Spor Kanalları" ,MFXSPORT4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium475/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 
