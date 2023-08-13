@@ -8,19 +8,19 @@
 #https://anka@proxy.rssblue.com?url=|User-Agent=Lavf53.32.100 
 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
-https://anka@tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+https://anka@tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8|User-Agent=Android
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
-https://filboxhemen.com.tr:443/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/8.m3u8
+http://anka@51.195.5.44:80/atv/tracks-v1a1/playlist.m3u8?_=1
 
 #EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᵁᴴᴰ⁺
-https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8|User-Agent=Android
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺
 http://anka@135.125.234.9:8081/startv/tracks-v1a1/playlist.m3u8?_=1
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺
-https://anka@kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+https://anka@kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8|User-Agent=Android
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
 http://anka@135.125.234.9:8081/tv8/tracks-v1a1/playlist.m3u8?_=1
@@ -29,10 +29,10 @@ http://anka@135.125.234.9:8081/tv8/tracks-v1a1/playlist.m3u8?_=1
 http://anka@amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺
-https://anka@beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+https://anka@beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Android
 
 #EXTINF:-1 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺
-https://anka@filboxhemen.com.tr:443/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/20.m3u8
+http://anka@135.125.234.9:8081/foxtv/tracks-v1a1/playlist.m3u8?_=1
 
 #EXTINF:-1tvg-id="Teve2.tr"tvg-name="Teve2.tr"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᵁᴴᴰ⁺
 http://anka@135.125.234.9:8081/teve2/tracks-v1a1/playlist.m3u8?_=1
@@ -44,28 +44,28 @@ https://anka@turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8?_=1
 https://anka@turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8?_=1
 
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg"aspect-ratio="16:9"    group-title="ULUSAL",A2 ᵁᴴᴰ⁺
-https://filboxhemen.com.tr:443/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/36.m3u8
+http://anka@149.13.0.73:5001/a2hd
 
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
-https://filboxhemen.com.tr:443/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/38.m3u8
+https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38"group-title="ULUSAL", MMN TURK TV FHD
 http://anka@mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist.m3u8?_=1
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
-https://anka@streaming.netdirekt.com.tr:443/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8?_=1
+https://anka@streaming.netdirekt.com.tr:443/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8|User-Agent=Android
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
-https://anka@kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+https://anka@kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8|User-Agent=Android
 
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="AkitTV.tr" tvg-logo="https://picon-13398.kxcdn.com/akittvtr.jpg" group-title="ULUSAL",AKIT TV ᵁᴴᴰ⁺
-https://anka@akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+https://anka@akittv-live.ercdn.net/akittv/akittv_720p.m3u8|User-Agent=Android
 
 #EXTINF:1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/benguturk.png"group-title="ULUSAL",BENGUTURK TV ᵁᴴᴰ⁺
-https://anka@ensonhaber-live.ercdn.net/benguturk/benguturk_720p.m3u8
+https://canli.haber365.com.tr/tr/benguturk/index.m3u8
 
 #EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU ᴴᴰ 
-https://anka@ensonhaber-live.ercdn.net/tgrteu/tgrteu.m3u8?_=1
+https://nimplus3.bozztv.com/tgrteu/tgrteu/playlist.m3u8
 
 #EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo="https://gunaydintv.com/public/uploads/gunaydintv-ana-sayfa-logo-6262.jpg"  ,GUNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8?_=1
@@ -245,7 +245,7 @@ https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="HABER",A HABER ᵁᴴᴰ⁺
-https://anka@edge02.odtv.az/o7/ahaber/playlist.m3u8|User-Agent=ExoPlayer2/2.37   
+https://anka@edge02.odtv.az/o7/ahaber/playlist.m3u8|User-Agent=Android
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="HABER",CNN TURK ᵁᴴᴰ⁺
 http://anka@51.195.5.44:80/cnnturk/tracks-v1a1/playlist.m3u8?_=1
@@ -257,7 +257,7 @@ http://anka@135.125.234.9:8081/haberglobal/tracks-v1a1/playlist.m3u8?_=1
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 
 #EXTINF:-1 tvg-id="24TV.tr" tvg-id="Kanal24.TR" tvg-name="24 TV HD" tvg-logo="https://picon-13398.kxcdn.com/24tvtr.jpg" group-title="HABER",24 TV ᵁᴴᴰ⁺
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8  
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8|User-Agent=Android  
 
 #EXTINF:-1 tvg-id="TVNet.tr" tvg-name="TV Net TR" tvg-logo="https://picon-13398.kxcdn.com/tvnettr.jpg" group-title="HABER",TV NET ᴴᴰ⁺
 http://anka@135.125.234.9:8081/tvnet/tracks-v1a1/playlist.m3u8
@@ -272,7 +272,7 @@ https://ensonhaber-live.ercdn.net/tgrthaber/tgrthaber.m3u8
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="HABER",NTV ᵁᴴᴰ⁺
-https://anka@edge02.odtv.az/o5/ntvtur/playlist.m3u8|User-Agent=ExoPlayer2/2.37   
+https://anka@edge02.odtv.az/o5/ntvtur/playlist.m3u8|User-Agent=Android
 
 #EXTINF:-1 tvg-id="LiderTV.tr" tvg-name=" TR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="HABER",LİDER HABER
 https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/9217b6e91d17c38f7d171eb2b3670349.m3u8|Referer=https://www.liderhaber.com.tr/&e=.m3u8/&user-agent=Android
@@ -423,7 +423,7 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
 
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2.tr" tvg-logo="https://picon-13398.kxcdn.com/trt2tr.jpg" group-title="ULUSAL-int" ,TRT 2 ᴴᴰ
-http://135.125.234.9:8081/trt2/index.m3u8
+http://135.125.234.9:8081/trt2/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRTAvaz.tr" tvg-logo="https://picon-13398.kxcdn.com/trtavaztr.jpg" group-title="ULUSAL-int",TRT AVAZ ᴴᴰ
 http://135.125.234.9:8081/trtavaz/tracks-v1a1/playlist.m3u8
@@ -450,7 +450,7 @@ https://nimplus4.bozztv.com/tv8int/tv8int/playlist.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRT EU TR" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url=""aspect-ratio="16:9"  group-title="ULUSAL-int",TGRT EU  
-https://ensonhaber-live.ercdn.net/tgrteu/tgrteu.m3u8
+https://nimplus3.bozztv.com/tgrteu/tgrteu/playlist.m3u8
     
 #EXTINF:-1 tvg-id="KanalAvrupa.tr"tvg-name="Kanal Avrupa TR"   tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_avrupa.png" group-title="ULUSAL-int",KANAL AVRUPA ᴴᴰ
 https://api-tv27.yayin.com.tr:443/kanalavrupa/tracks-v1a1/mono.m3u8
@@ -1759,192 +1759,201 @@ http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mov
 #EXTINF:-1 tvg-name="Yedi Kral Ölmeli (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="VoD ✦ MULTI LANGUAGE [TR-DE-EN..]2023....",Yedi Kral Ölmeli (2023)
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/15009.mkv
 
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="https://i.ibb.co/rxqqBJ6/y-ld-z.png" group-title="Spor Kanalları",TR: TRT SPOR YILDIZ HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32990
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TR: TRT SPOR UHD" tvg-logo="https://i.ibb.co/wSN2Dj4/spor.png" group-title="Spor Kanalları",TR: TRT SPOR UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/862
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://i.ibb.co/wSN2Dj4/spor.png" group-title="Spor Kanalları",TR: TRT SPOR HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/111
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="TR: A SPOR UHD" tvg-logo="https://i.ibb.co/WBf55VR/aspor.png" group-title="Spor Kanalları",TR: A SPOR UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/709
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://i.ibb.co/WBf55VR/aspor.png" group-title="Spor Kanalları",TR: A SPOR HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/112
 
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="TR: beINSPORTS1 4K " tvg-logo="https://i.ibb.co/sp7xtSB/bein4k.png" group-title="Spor Kanalları",TR: beINSPORTS1 4K 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/52950
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="TR: beINSPORTS1 FHD (50FPS)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS1 FHD (50FPS)
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/16466
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="TR: beINSPORTS1 UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS1 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/526
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="TR: beINSPORTS1 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS1 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/525
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="TR: beINSPORTS1 SD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS1 SD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/524
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="TR: beINSPORTS2 UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS2 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/527
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="TR: beINSPORTS2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS2 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/528
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="TR: beINSPORTS2 SD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS2 SD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/98
+#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="TR: beINSPORTS3 UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS3 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/529
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: beINSPORTS3 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS3 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/530
+#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="TR: beINSPORTS3 SD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS3 SD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/99
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="TR: beINSPORTS4 UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS4 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/531
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="TR: beINSPORTS4 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS4 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/100
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="TR: beINSPORTS4 SD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS4 SD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/24226
+#EXTINF:-1 tvg-id="1" tvg-name="TR: beINSPORTS5 UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="Spor Kanalları",TR: beINSPORTS5 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/53525
+#EXTINF:-1 tvg-id="" tvg-name="TR: beINSPORTS5 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="Spor Kanalları",TR: beINSPORTS5 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/53524
+#EXTINF:-1 tvg-id="beINSportsMax1Turkey.tr" tvg-name="TR: beINSPORTS MAX1 UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS MAX1 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/532
+#EXTINF:-1 tvg-id="beINSportsMax1Turkey.tr" tvg-name="TR: beINSPORTS MAX1 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS MAX1 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/11420
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: beINSPORTS MAX2 UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS MAX2 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/533
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: beINSPORTS MAX2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png" group-title="Spor Kanalları",TR: beINSPORTS MAX2 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/11421
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="TR: beINSPORTS HABER UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sports_yeni_HABER_250x150_.png" group-title="Spor Kanalları",TR: beINSPORTS HABER UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/2682
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="TR: beINSPORTS HABER HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sports_yeni_HABER_250x150_.png" group-title="Spor Kanalları",TR: beINSPORTS HABER HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/14415
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fuchs Sports 1 UHD" tvg-logo="" group-title="Spor Kanalları",TR: Fuchs Sports 1 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/61623
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fuchs Sports 2 UHD" tvg-logo="" group-title="Spor Kanalları",TR: Fuchs Sports 2 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/61624
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fuchs Sports 3 UHD" tvg-logo="" group-title="Spor Kanalları",TR: Fuchs Sports 3 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/61625
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fuchs Sports 4 UHD" tvg-logo="" group-title="Spor Kanalları",TR: Fuchs Sports 4 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/61626
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fuchs Sports 5 UHD" tvg-logo="" group-title="Spor Kanalları",TR: Fuchs Sports 5 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/61627
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="TR: S SPORT UHD" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png" group-title="Spor Kanalları",TR: S SPORT UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/989
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="TR: S SPORT HD " tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png" group-title="Spor Kanalları",TR: S SPORT HD 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/104
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="TR: S SPORT SD" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png" group-title="Spor Kanalları",TR: S SPORT SD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/24242
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="TR: S SPORT2 UHD " tvg-logo="https://i.ibb.co/XY3v7Gd/ssportt22.png" group-title="Spor Kanalları",TR: S SPORT2 UHD 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13574
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="TR: S SPORT2 HD" tvg-logo="https://i.ibb.co/XY3v7Gd/ssportt22.png" group-title="Spor Kanalları",TR: S SPORT2 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/704
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="TR: S SPORT2 SD" tvg-logo="https://i.ibb.co/XY3v7Gd/ssportt22.png" group-title="Spor Kanalları",TR: S SPORT2 SD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/24251
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="Spor Kanalları",TR: TIVIBU SPOR UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/71604
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR1 UHD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210421003217.png" group-title="Spor Kanalları",TR: TIVIBU SPOR1 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/699
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR1 HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210421003217.png" group-title="Spor Kanalları",TR: TIVIBU SPOR1 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/24270
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR1 SD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210421003217.png" group-title="Spor Kanalları",TR: TIVIBU SPOR1 SD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/24271
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR2 UHD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210421003389.png" group-title="Spor Kanalları",TR: TIVIBU SPOR2 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/700
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR2 HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210421003389.png" group-title="Spor Kanalları",TR: TIVIBU SPOR2 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/24282
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR2 SD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210421003389.png" group-title="Spor Kanalları",TR: TIVIBU SPOR2 SD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/24291
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR3 UHD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210421003401.png" group-title="Spor Kanalları",TR: TIVIBU SPOR3 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/701
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR3 HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210421003401.png" group-title="Spor Kanalları",TR: TIVIBU SPOR3 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/24292
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR3 SD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210421003401.png" group-title="Spor Kanalları",TR: TIVIBU SPOR3 SD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/24293
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR4 UHD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210421003402.png" group-title="Spor Kanalları",TR: TIVIBU SPOR4 UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32960
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR4 HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210421003402.png" group-title="Spor Kanalları",TR: TIVIBU SPOR4 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/38908
+#EXTINF:-1 tvg-id="SporSmart.tr" tvg-name="TR: SPOR SMART UHD" tvg-logo="https://i.ibb.co/T1cFvky/sporsmart1.png" group-title="Spor Kanalları",TR: SPOR SMART UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/702
+#EXTINF:-1 tvg-id="SporSmart.tr" tvg-name="TR: SPOR SMART HD" tvg-logo="https://i.ibb.co/T1cFvky/sporsmart1.png" group-title="Spor Kanalları",TR: SPOR SMART HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/11723
+#EXTINF:-1 tvg-id="SporSmart.tr" tvg-name="TR: SPOR SMART SD" tvg-logo="https://i.ibb.co/T1cFvky/sporsmart1.png" group-title="Spor Kanalları",TR: SPOR SMART SD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/24304
+#EXTINF:-1 tvg-id="SporSmart2.tr" tvg-name="TR: SPOR SMART2 UHD " tvg-logo="https://i.ibb.co/zPGQKWv/sporsmart2.png" group-title="Spor Kanalları",TR: SPOR SMART2 UHD 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/4823
+#EXTINF:-1 tvg-id="SporSmart2.tr" tvg-name="TR: SPOR SMART2 HD " tvg-logo="https://i.ibb.co/zPGQKWv/sporsmart2.png" group-title="Spor Kanalları",TR: SPOR SMART2 HD 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/24305
+#EXTINF:-1 tvg-id="SporSmart2.tr" tvg-name="TR: SPOR SMART2 SD" tvg-logo="https://i.ibb.co/zPGQKWv/sporsmart2.png" group-title="Spor Kanalları",TR: SPOR SMART2 SD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/24306
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="TR: EUROSPORT1 HD" tvg-logo="https://i.ibb.co/jLsrtPD/e1.png" group-title="Spor Kanalları",TR: EUROSPORT1 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/105
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="TR: EUROSPORT2 HD" tvg-logo="https://i.ibb.co/gFKHc44/e2.png" group-title="Spor Kanalları",TR: EUROSPORT2 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/106
+#EXTINF:-1 tvg-id="NBATVInternational.us" tvg-name="TR: NBA TV UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/nba_250x150.png" group-title="Spor Kanalları",TR: NBA TV UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/986
+#EXTINF:-1 tvg-id="NBATVInternational.us" tvg-name="TR: NBA TV HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/nba_250x150.png" group-title="Spor Kanalları",TR: NBA TV HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/91
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="TR: FB TV HD" tvg-logo="https://i.ibb.co/HNq8L46/fb.png" group-title="Spor Kanalları",TR: FB TV HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/109
+#EXTINF:-1 tvg-id="GSTV.tr" tvg-name="TR: GS TV HD" tvg-logo="https://i.ibb.co/vVwywrr/gstv.png" group-title="Spor Kanalları",TR: GS TV HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/108
+#EXTINF:-1 tvg-id="" tvg-name="TR: EDGE SPOR UHD" tvg-logo="https://i.ibb.co/7yL0Pgx/edge.png" group-title="Spor Kanalları",TR: EDGE SPOR UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/54083
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="TR: FIGHTBOX UHD" tvg-logo="https://i.ibb.co/k2vqJf9/fgbox.png" group-title="Spor Kanalları",TR: FIGHTBOX UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/706
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="TR: SPORTSTV HD" tvg-logo="https://vod.sportstv.com.tr/categoryicons/Anasayfa-1647964073-icon.png" group-title="Spor Kanalları",TR: SPORTSTV HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/107
 
-#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="======== >SPOR<========" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/football.jpg" group-title="TR | Spor",======== >SPOR<========
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/1497
-#EXTINF:-1 tvg-ID="aspor.tr" tvg-name="A SPOR HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/a_spor_tr.png" group-title="TR | Spor",A SPOR HD++
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/14674
-#EXTINF:-1 tvg-ID="aspor.tr" tvg-name="A SPOR HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/a_spor_tr.png" group-title="TR | Spor",A SPOR HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2295
-#EXTINF:-1 tvg-ID="aspor.tr" tvg-name="A SPOR HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/a_spor_tr.png" group-title="TR | Spor",A SPOR HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2600
-#EXTINF:-1 tvg-ID="trtspor.tr" tvg-name="TRT Spor HD++" tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/trtspor.png" group-title="TR | Spor",TRT Spor HD++
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/14589
-#EXTINF:-1 tvg-ID="trtspor.tr" tvg-name="TRT Spor HD+" tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/trtspor.png" group-title="TR | Spor",TRT Spor HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2316
-#EXTINF:-1 tvg-ID="trtspor.tr" tvg-name="TRT Spor HD" tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/trtspor.png" group-title="TR | Spor",TRT Spor HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/1231
-#EXTINF:-1 tvg-ID="trtspor2.tr" tvg-name="TRT SPOR YILDIZ HD+" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1584000/trtspor-yildiz-1584116.jpg" group-title="TR | Spor",TRT SPOR YILDIZ HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/63465
-#EXTINF:-1 tvg-ID="" tvg-name="TRT SPOR YILDIZ HD" tvg-logo="" group-title="TR | Spor",TRT SPOR YILDIZ HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/78616
-#EXTINF:-1 tvg-ID="beinsportshaber.tr" tvg-name="beIN SPORTS HABER HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/bein-sports-haber-qa-tr.png" group-title="TR | Spor",beIN SPORTS HABER HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/14856
-#EXTINF:-1 tvg-ID="beinsportshaber.tr" tvg-name="beIN SPORTS HABER HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/bein-sports-haber-qa-tr.png" group-title="TR | Spor",beIN SPORTS HABER HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/3722
-#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="beIN SPORTS 4K++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_01_hd.png" group-title="TR | Spor",beIN SPORTS 4K++
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/20991
-#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="beIN SPORTS 1 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_01_hd.png" group-title="TR | Spor",beIN SPORTS 1 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2856
-#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="beIN SPORTS 1 HD+ (Yedek)" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_01_hd.png" group-title="TR | Spor",beIN SPORTS 1 HD+ (Yedek)
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/16914
-#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="beIN SPORTS 1 HD+ (Yedek2)" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_01_hd.png" group-title="TR | Spor",beIN SPORTS 1 HD+ (Yedek2)
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/50002
-#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_01_hd.png" group-title="TR | Spor",beIN SPORTS 1 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/3042
-#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="beIN SPORTS 1 HD (Yedek)" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_01_hd.png" group-title="TR | Spor",beIN SPORTS 1 HD (Yedek)
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/14419
-#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://161.97.124.27/uploads/Turkey/be_in_tr_sports_01_hd.png" group-title="TR | Spor",beIN SPORTS 1 SD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/24343
-#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="beIN SPORTS 2 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_02_hd.png" group-title="TR | Spor",beIN SPORTS 2 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2857
-#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="beIN SPORTS 2 HD+ (Yedek)" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_02_hd.png" group-title="TR | Spor",beIN SPORTS 2 HD+ (Yedek)
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/16913
-#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="beIN SPORTS 2 HD+ (Yedek2)" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_02_hd.png" group-title="TR | Spor",beIN SPORTS 2 HD+ (Yedek2)
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/19021
-#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_02_hd.png" group-title="TR | Spor",beIN SPORTS 2 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/14431
-#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="beIN SPORTS 2 SD" tvg-logo="http://161.97.124.27/uploads/Turkey/be_in_tr_sports_02_hd.png" group-title="TR | Spor",beIN SPORTS 2 SD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/24344
-#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="beIN SPORTS 3 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_03_hd.png" group-title="TR | Spor",beIN SPORTS 3 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2858
-#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="beIN SPORTS 3 HD+ (Yedek)" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_03_hd.png" group-title="TR | Spor",beIN SPORTS 3 HD+ (Yedek)
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/16912
-#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="beIN SPORTS 3 HD+ (Yedek2)" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_03_hd.png" group-title="TR | Spor",beIN SPORTS 3 HD+ (Yedek2)
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/19022
-#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_03_hd.png" group-title="TR | Spor",beIN SPORTS 3 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2323
-#EXTINF:-1 tvg-ID="LIGTV4.tr" tvg-name="beIN SPORTS 4 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_04_hd.png" group-title="TR | Spor",beIN SPORTS 4 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/4012
-#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="beIN SPORTS 4 HD+ (Yedek)" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_04_hd.png" group-title="TR | Spor",beIN SPORTS 4 HD+ (Yedek)
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/16915
-#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="beIN SPORTS 4 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_sports_04_hd.png" group-title="TR | Spor",beIN SPORTS 4 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2324
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 5 HD" tvg-logo="http://xfeedip.tv:8080/images/LN3WB3UcbVOR3oMb-QMOtbIIVAQEIHx62MO7MYesRC1GijuZqjkarAJa6yRO5xGhnGlRbYrGXC9chbbLqQvKQB5voXPJ16BqFUFnTTO0Hrg.png" group-title="TR | Spor",beIN SPORTS  5 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/78429
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 5 HD" tvg-logo="http://xfeedip.tv:8080/images/LN3WB3UcbVOR3oMb-QMOtbIIVAQEIHx62MO7MYesRC1GijuZqjkarAJa6yRO5xGhnGlRbYrGXC9chbbLqQvKQB5voXPJ16BqFUFnTTO0Hrg.png" group-title="TR | Spor",beIN SPORTS 5 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/78430
-#EXTINF:-1 tvg-ID="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/bein-sports-max-1-qa-tr.png" group-title="TR | Spor",beIN SPORTS MAX 1 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2325
-#EXTINF:-1 tvg-ID="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/bein-sports-max-1-qa-tr.png" group-title="TR | Spor",beIN SPORTS MAX 1 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/4488
-#EXTINF:-1 tvg-ID="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/bein-sports-max-2-qa-tr.png" group-title="TR | Spor",beIN SPORTS MAX 2 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2326
-#EXTINF:-1 tvg-ID="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/bein-sports-max-2-qa-tr.png" group-title="TR | Spor",beIN SPORTS MAX 2 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/4489
-#EXTINF:-1 tvg-ID="Tivibu Spor 1 TR" tvg-name="tivibu Spor 1 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tivibu_tr_spor.png" group-title="TR | Spor",tivibu Spor 1 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2456
-#EXTINF:-1 tvg-ID="Tivibu Spor 1 TR" tvg-name="tivibu Spor 1 HD (Yedek)" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tivibu_tr_spor.png" group-title="TR | Spor",tivibu Spor 1 HD (Yedek)
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2385
-#EXTINF:-1 tvg-ID="Tivibu Spor 2 TR" tvg-name="tivibu Spor 2 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tivibu_tr_spor_2.png" group-title="TR | Spor",tivibu Spor 2 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2457
-#EXTINF:-1 tvg-ID="Tivibu Spor 2 TR" tvg-name="tivibu Spor 2 HD (Yedek)" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tivibu_tr_spor_2.png" group-title="TR | Spor",tivibu Spor 2 HD (Yedek)
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2386
-#EXTINF:-1 tvg-ID="Tivibu Spor 3 TR" tvg-name="tivibu Spor 3 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tivibu_tr_spor_3.png" group-title="TR | Spor",tivibu Spor 3 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2749
-#EXTINF:-1 tvg-ID="Tivibu Spor 4 TR" tvg-name="tivibu Spor 4 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tivibu_tr_spor_3.png" group-title="TR | Spor",tivibu Spor 4 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/16567
-#EXTINF:-1 tvg-ID="sporsmart.tr" tvg-name="Spor Smart HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR | Spor",Spor Smart HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2458
-#EXTINF:-1 tvg-ID="sporsmart.tr" tvg-name="Spor Smart HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR | Spor",Spor Smart HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/1214
-#EXTINF:-1 tvg-ID="" tvg-name="Spor Smart 2 HD+" tvg-logo="https://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Smart-spor-2.png" group-title="TR | Spor",Spor Smart 2 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/78614
-#EXTINF:-1 tvg-ID="" tvg-name="Spor Smart 2 HD" tvg-logo="https://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Smart-spor-2.png" group-title="TR | Spor",Spor Smart 2 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/78615
-#EXTINF:-1 tvg-ID="ssport.tr" tvg-name="S Sport HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/s_sport_tr.png" group-title="TR | Spor",S Sport HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/4538
-#EXTINF:-1 tvg-ID="ssport.tr" tvg-name="S Sport HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/s_sport_tr.png" group-title="TR | Spor",S Sport HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/43207
-#EXTINF:-1 tvg-ID="ssport2.tr" tvg-name="S Sport 2 HD+" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-s-sport-2-1693.png" group-title="TR | Spor",S Sport 2 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/76726
-#EXTINF:-1 tvg-ID="ssport2.tr" tvg-name="S Sport 2 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/s_sport_tr.png" group-title="TR | Spor",S Sport 2 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/55003
-#EXTINF:-1 tvg-ID="ssport.tr" tvg-name="SSport+ 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR | Spor",SSport+ 1
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64644
-#EXTINF:-1 tvg-ID="" tvg-name="SSport+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR | Spor",SSport+ 2
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64645
-#EXTINF:-1 tvg-ID="" tvg-name="SSport+ 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR | Spor",SSport+ 3
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64646
-#EXTINF:-1 tvg-ID="" tvg-name="SSport+ 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR | Spor",SSport+ 4
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64647
-#EXTINF:-1 tvg-ID="" tvg-name="SSport+ 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR | Spor",SSport+ 5
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64648
-#EXTINF:-1 tvg-ID="" tvg-name="SSport+ 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR | Spor",SSport+ 6
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64649
-#EXTINF:-1 tvg-ID="" tvg-name="SSport+ 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR | Spor",SSport+ 7
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64650
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TR: TJK TV HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TJK-250x150.png" group-title="Spor Kanalları",TR: TJK TV HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/110
+#EXTINF:-1 tvg-id="FightSports.us" tvg-name="TR: FIGHT NETWORK UHD" tvg-logo="https://i.ibb.co/r7P44T0/fight-network.png" group-title="Spor Kanalları",TR: FIGHT NETWORK UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/54103
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT1+ HD (MAÇ ZAMANI AKTIF)" tvg-logo="https://i.ibb.co/F3Vg4fT/ssport.png" group-title="Spor Kanalları",TR: S SPORT1+ HD (MAÇ ZAMANI AKTIF)
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32921
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT2+ HD (MAÇ ZAMANI AKTIF)" tvg-logo="https://i.ibb.co/F3Vg4fT/ssport.png" group-title="Spor Kanalları",TR: S SPORT2+ HD (MAÇ ZAMANI AKTIF)
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32922
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT3+ HD (MAÇ ZAMANI AKTIF)" tvg-logo="https://i.ibb.co/F3Vg4fT/ssport.png" group-title="Spor Kanalları",TR: S SPORT3+ HD (MAÇ ZAMANI AKTIF)
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32923
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT4+ HD (MAÇ ZAMANI AKTIF)" tvg-logo="https://i.ibb.co/F3Vg4fT/ssport.png" group-title="Spor Kanalları",TR: S SPORT4+ HD (MAÇ ZAMANI AKTIF)
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33040
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT5+ HD (MAÇ ZAMANI AKTIF)" tvg-logo="https://i.ibb.co/F3Vg4fT/ssport.png" group-title="Spor Kanalları",TR: S SPORT5+ HD (MAÇ ZAMANI AKTIF)
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33041
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT6+ HD (MAÇ ZAMANI AKTIF)" tvg-logo="https://i.ibb.co/F3Vg4fT/ssport.png" group-title="Spor Kanalları",TR: S SPORT6+ HD (MAÇ ZAMANI AKTIF)
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33042
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINCONNET1 HD" tvg-logo="https://i.ibb.co/GnFKMNN/connect.png" group-title="Spor Kanalları",TR: BEINCONNET1 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32924
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINCONNET2 HD" tvg-logo="https://i.ibb.co/GnFKMNN/connect.png" group-title="Spor Kanalları",TR: BEINCONNET2 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32925
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINCONNET3 HD" tvg-logo="https://i.ibb.co/GnFKMNN/connect.png" group-title="Spor Kanalları",TR: BEINCONNET3 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32926
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINCONNET4 HD" tvg-logo="https://i.ibb.co/GnFKMNN/connect.png" group-title="Spor Kanalları",TR: BEINCONNET4 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32927
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINCONNET5 HD" tvg-logo="https://i.ibb.co/GnFKMNN/connect.png" group-title="Spor Kanalları",TR: BEINCONNET5 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32928
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINCONNET6 HD" tvg-logo="https://i.ibb.co/GnFKMNN/connect.png" group-title="Spor Kanalları",TR: BEINCONNET6 HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32930
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR1 SD (MAÇ ZAMANI AKTİF)" tvg-logo="https://i.ibb.co/0YvNQc5/exxen1.png" group-title="Spor Kanalları",TR: EXXEN SPOR1 SD (MAÇ ZAMANI AKTİF)
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33631
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR1 HD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/0YvNQc5/exxen1.png" group-title="Spor Kanalları",TR: EXXEN SPOR1 HD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33045
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR1 UHD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/0YvNQc5/exxen1.png" group-title="Spor Kanalları",TR: EXXEN SPOR1 UHD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33033
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR2 HD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/N14xm1R/2.png" group-title="Spor Kanalları",TR: EXXEN SPOR2 HD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33046
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR2 UHD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/N14xm1R/2.png" group-title="Spor Kanalları",TR: EXXEN SPOR2 UHD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33044
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR3 HD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/yXVsjZb/3.png" group-title="Spor Kanalları",TR: EXXEN SPOR3 HD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33047
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR3 UHD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/yXVsjZb/3.png" group-title="Spor Kanalları",TR: EXXEN SPOR3 UHD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33043
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR4 HD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/vYmqDwb/4.png" group-title="Spor Kanalları",TR: EXXEN SPOR4 HD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33626
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR4 UHD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/vYmqDwb/4.png" group-title="Spor Kanalları",TR: EXXEN SPOR4 UHD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33625
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR5 HD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/bLLvshC/5.png" group-title="Spor Kanalları",TR: EXXEN SPOR5 HD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33628
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR5 UHD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/bLLvshC/5.png" group-title="Spor Kanalları",TR: EXXEN SPOR5 UHD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33627
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR6 HD (MAÇ ZAMANI AKTİF)  " tvg-logo="https://i.ibb.co/kxDFtj0/6.png" group-title="Spor Kanalları",TR: EXXEN SPOR6 HD (MAÇ ZAMANI AKTİF)  
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33630
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR6 UHD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/kxDFtj0/6.png" group-title="Spor Kanalları",TR: EXXEN SPOR6 UHD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/33629
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR7 HD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/BP5Hfx2/7.png" group-title="Spor Kanalları",TR: EXXEN SPOR7 HD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/34991
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR7 UHD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/BP5Hfx2/7.png" group-title="Spor Kanalları",TR: EXXEN SPOR7 UHD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/34992
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR8 HD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/CzsnHS4/8.png" group-title="Spor Kanalları",TR: EXXEN SPOR8 HD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/34993
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR8 UHD (MAÇ ZAMANI AKTİF) " tvg-logo="https://i.ibb.co/CzsnHS4/8.png" group-title="Spor Kanalları",TR: EXXEN SPOR8 UHD (MAÇ ZAMANI AKTİF) 
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/34994
 
-#EXTINF:-1 tvg-ID="gstv.tr" tvg-name="GS TV HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1a/Galatasaray_TV.svg/320px-Galatasaray_TV.svg.png" group-title="TR | Spor",GS TV HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/80520
-#EXTINF:-1 tvg-ID="gstv.tr" tvg-name="GS TV HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/gstv_yeni_logo.png" group-title="TR | Spor",GS TV HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2584
-#EXTINF:-1 tvg-ID="fbtv.tr" tvg-name="FB TV+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/fbtv_fenerbahce.png" group-title="TR | Spor",FB TV+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/14647
-#EXTINF:-1 tvg-ID="fbtv.tr" tvg-name="FB TV HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/fbtv_fenerbahce.png" group-title="TR | Spor",FB TV HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2585
-#EXTINF:-1 tvg-ID="nbatv.tr" tvg-name="NBA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="TR | Spor",NBA TV HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/58702
-#EXTINF:-1 tvg-ID="" tvg-name="T.A.Y TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/80/D_Hipodrom.jpg" group-title="TR | Spor",T.A.Y TV
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/14597
-#EXTINF:-1 tvg-ID="" tvg-name="TJK TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tjktv.png" group-title="TR | Spor",TJK TV
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/1183
-#EXTINF:-1 tvg-ID="SportsTV.tr" tvg-name="sportstv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/sports_tv_tr.png" group-title="TR | Spor",sportstv
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/14600
-#EXTINF:-1 tvg-ID="" tvg-name="Fight Box TV" tvg-logo="" group-title="TR | Spor",Fight Box TV
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64057
-#EXTINF:-1 tvg-ID="eurosport1.tr" tvg-name="Eurosport 1 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/eurosport1.png" group-title="TR | Spor",Eurosport 1 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/56829
-#EXTINF:-1 tvg-ID="eurosport1.tr" tvg-name="Eurosport 1 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/eurosport1.png" group-title="TR | Spor",Eurosport 1 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2460
-#EXTINF:-1 tvg-ID="eurosport2.tr" tvg-name="Eurosport 2 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/eurosport2.png" group-title="TR | Spor",Eurosport 2 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/56830
-#EXTINF:-1 tvg-ID="eurosport2.tr" tvg-name="Eurosport 2 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/eurosport2.png" group-title="TR | Spor",Eurosport 2 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2602
-#EXTINF:-1 tvg-ID="" tvg-name="Exxenn  1 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR | Spor",Exxenn  1 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/62739
-#EXTINF:-1 tvg-ID="" tvg-name="Exxenn  1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR | Spor",Exxenn  1 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64054
-#EXTINF:-1 tvg-ID="" tvg-name="Exxenn  2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR | Spor",Exxenn  2 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/62740
-#EXTINF:-1 tvg-ID="" tvg-name="Exxenn  3 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR | Spor",Exxenn  3 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/62741
-#EXTINF:-1 tvg-ID="" tvg-name="Exxenn  4 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR | Spor",Exxenn  4 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64516
-#EXTINF:-1 tvg-ID="" tvg-name="Exxenn  5 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR | Spor",Exxenn  5 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64518
-#EXTINF:-1 tvg-ID="" tvg-name="Exxenn  6 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR | Spor",Exxenn  6 HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64520
-#EXTINF:-1 tvg-ID="" tvg-name="Exxenn 7 HD" tvg-logo="" group-title="TR | Spor",Exxenn 7 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/77578
-#EXTINF:-1 tvg-ID="" tvg-name="Exxenn 8 HD" tvg-logo="" group-title="TR | Spor",Exxenn 8 HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/77579
-
-#EXTINF:-1 tvg-ID="" tvg-name="| TR | Vip Replay GALATASARAY" tvg-logo="" group-title="TR | Vip | Spor",| TR | Vip Replay GALATASARAY
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/80521
-#EXTINF:-1 tvg-ID="" tvg-name="| TR | Vip Replay FENERBAHÇE" tvg-logo="" group-title="TR | Vip | Spor",| TR | Vip Replay FENERBAHÇE
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/80522
-#EXTINF:-1 tvg-ID="" tvg-name="| TR | Vip Replay BESIKTAS" tvg-logo="" group-title="TR | Vip | Spor",| TR | Vip Replay BESIKTAS
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/80523
-#EXTINF:-1 tvg-ID="" tvg-name="| TR | Vip Replay TRABZONSPOR" tvg-logo="" group-title="TR | Vip | Spor",| TR | Vip Replay TRABZONSPOR
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/80524
-#EXTINF:-1 tvg-ID="" tvg-name="| TR | Vip Replay 5" tvg-logo="" group-title="TR | Vip | Spor",| TR | Vip Replay 5
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/80525
-#EXTINF:-1 tvg-ID="" tvg-name="| TR | Vip Replay 6" tvg-logo="" group-title="TR | Vip | Spor",| TR | Vip Replay 6
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/80526
-#EXTINF:-1 tvg-ID="" tvg-name="| TR | Vip Replay 7" tvg-logo="" group-title="TR | Vip | Spor",| TR | Vip Replay 7
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/80527
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Connect 1" tvg-logo="" group-title="TR | Vip | Spor",Bein Connect 1
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/76964
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Connect 2" tvg-logo="" group-title="TR | Vip | Spor",Bein Connect 2
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/76965
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Connect 3" tvg-logo="" group-title="TR | Vip | Spor",Bein Connect 3
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/76966
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Connect 4" tvg-logo="" group-title="TR | Vip | Spor",Bein Connect 4
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/76967
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Connect 5" tvg-logo="" group-title="TR | Vip | Spor",Bein Connect 5
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/76968
 
 
 #EXTINF:-1 group-title="mac_Spor (Sport),✦ ✦ ✦ TR SPOR HD ✦ ✦ ✦
@@ -3175,77 +3184,6 @@ http://1985h.pw:80/live/sefa/123456/183756.ts
 
 
 
-
-#EXTINF:-1 tvg-ID="" tvg-name="======== Belgesel ========" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/belgesel.jpg" group-title="TR | Belgesel",======== Belgesel ========
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/1500
-#EXTINF:-1 tvg-ID="24kitchen.tr" tvg-name="24 Kitchen HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/24_kitchen_us.png" group-title="TR | Belgesel",24 Kitchen HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/22463
-#EXTINF:-1 tvg-ID="" tvg-name="Animaux HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Animaux_%282011%29.png" group-title="TR | Belgesel",Animaux HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64059
-#EXTINF:-1 tvg-ID="bbcearth.tr" tvg-name="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="TR | Belgesel",BBC Earth HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/12775
-#EXTINF:-1 tvg-ID="beingurme.tr" tvg-name="beIN  GURME HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/beingurme.png" group-title="TR | Belgesel",beIN  GURME HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/1577
-#EXTINF:-1 tvg-ID="beiniz.tr" tvg-name="beIN IZ HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/beiniz.jpg" group-title="TR | Belgesel",beIN IZ HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2595
-#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="Chasse & Pêche HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg/langfr-300px-Chasse_%26_P%C3%AAche_%282013%29.svg.png" group-title="TR | Belgesel",Chasse & Pêche HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64060
-#EXTINF:-1 tvg-ID="davinci.tr" tvg-name="Da Vinci Learning HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/davincilearning.png" group-title="TR | Belgesel",Da Vinci Learning HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2983
-#EXTINF:-1 tvg-ID="discoverychannel.tr" tvg-name="Discovery Channel HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/disney_channel_global.png" group-title="TR | Belgesel",Discovery Channel HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2588
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="TR | Belgesel",Discovery Channel HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/78738
-#EXTINF:-1 tvg-ID="discoveryid.tr" tvg-name="Discovery IDX HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/Discovery-iDX.png" group-title="TR | Belgesel",Discovery IDX HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/3384
-#EXTINF:-1 tvg-ID="discoveryscience.tr" tvg-name="Discovery Science HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/discovery_science_global.png" group-title="TR | Belgesel",Discovery Science HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/3378
-#EXTINF:-1 tvg-ID="NatGeoWild.tr" tvg-name="Nat Geo Wild HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/nat_geo_wild_us.png" group-title="TR | Belgesel",Nat Geo Wild HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2587
-#EXTINF:-1 tvg-ID="natgeowild.tr" tvg-name="Nat Geo Wild HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/nat_geo_wild_us.png" group-title="TR | Belgesel",Nat Geo Wild HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/20293
-#EXTINF:-1 tvg-ID="" tvg-name="National Geographic HD+" tvg-logo="" group-title="TR | Belgesel",National Geographic HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/78737
-#EXTINF:-1 tvg-ID="natgeo.tr" tvg-name="National Geographic HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/nat_geo_tr.jpg" group-title="TR | Belgesel",National Geographic HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2586
-#EXTINF:-1 tvg-ID="dmax.tr" tvg-name="DMAX HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/dmax_us.png" group-title="TR | Belgesel",DMAX HD++
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2309
-#EXTINF:-1 tvg-ID="dmax.tr" tvg-name="DMAX HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/dmax_us.png" group-title="TR | Belgesel",DMAX HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/1130
-#EXTINF:-1 tvg-ID="docubox.tr" tvg-name="Docubox HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png" group-title="TR | Belgesel",Docubox HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64062
-#EXTINF:-1 tvg-ID="" tvg-name="Outdoor TV" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/Logo-HD.png" group-title="TR | Belgesel",Outdoor TV
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64063
-#EXTINF:-1 tvg-ID="historychannel.tr" tvg-name="History Channel HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/history_us.png" group-title="TR | Belgesel",History Channel HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2589
-#EXTINF:-1 tvg-ID="" tvg-name="Insight TV HD" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/b2a1a9f0-c735-4c8e-99d2-febad143b04c.png" group-title="TR | Belgesel",Insight TV HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64065
-#EXTINF:-1 tvg-ID="Love Nature HD NL" tvg-name="Love Nature HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/animal_planet_us.png" group-title="TR | Belgesel",Love Nature HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/3380
-#EXTINF:-1 tvg-ID="Science and Vie TV FR" tvg-name="Science & Vie Tv HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTMS5iIDm8QHWhG7U00WlhCzYEd-imAmYjm4tTiuw=s176-c-k-c0x00ffffff-no-rj" group-title="TR | Belgesel",Science & Vie Tv HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64068
-#EXTINF:-1 tvg-ID="" tvg-name="Tarih Tv HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="TR | Belgesel",Tarih Tv HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/77228
-#EXTINF:-1 tvg-ID="" tvg-name="Tgrt Belgesel" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tgrt_belgesel.png" group-title="TR | Belgesel",Tgrt Belgesel
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/18222
-#EXTINF:-1 tvg-ID="tlc.tr" tvg-name="TLC HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tlc_uk.png" group-title="TR | Belgesel",TLC HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/14782
-#EXTINF:-1 tvg-ID="tlc.tr" tvg-name="TLC HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tlc_uk.png" group-title="TR | Belgesel",TLC HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/2596
-#EXTINF:-1 tvg-ID="trtbelgesel.tr" tvg-name="TRT Belgesel HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/trt_belgesel_tr.png" group-title="TR | Belgesel",TRT Belgesel HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/14594
-#EXTINF:-1 tvg-ID="trtbelgesel.tr" tvg-name="TRT Belgesel HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tgrt_belgesel.png" group-title="TR | Belgesel",TRT Belgesel HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/1208
-#EXTINF:-1 tvg-ID="" tvg-name="Bizim Ev Tv HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viasat_Nature_Logo.jpg/167px-Viasat_Nature_Logo.jpg" group-title="TR | Belgesel",Bizim Ev Tv HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64071
-#EXTINF:-1 tvg-ID="viasathistory.tr" tvg-name="Viasat History HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/Viasat_History.png" group-title="TR | Belgesel",Viasat History HD+
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/23724
-#EXTINF:-1 tvg-ID="Viasat Explorer SE" tvg-name="Viasat Explore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png" group-title="TR | Belgesel",Viasat Explore HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/64069
-#EXTINF:-1 tvg-ID="yabantv.tr" tvg-name="YABAN TV HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/yaban_tv_tr.png" group-title="TR | Belgesel",YABAN TV HD
-http://vipavrasya.tv:15000/ismailcos1kun/tZX2erJu1Q/14575
-
-
 #EXTINF:-1 tvg-id="" tvg-name="------| Belgesel |------" tvg-logo="https://i.hizliresim.com/EDVOpB.png" group-title="Belgesel",------| Belgesel |------
 http://1985h.pw:80/live/sefa/123456/1894.ts
 #EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="Trt Belgesel HD" tvg-logo="http://logo.apk-red.com/logo/trt_belgesel_tr.png" group-title="Belgesel",Trt Belgesel HD
@@ -3387,6 +3325,142 @@ http://1985h.pw:80/live/sefa/123456/227467.ts
 #EXTINF:-1 tvg-id="" tvg-name="Şu Çılgın Türkler" tvg-logo="http://162.19.169.196:80/images/qEFqghqTP8_kRZBU8jdYItlQiNbYFaKinXxYC0E1loAbIqFIUDv4ejWlQMfV5bGU.png" group-title="Belgesel",Şu Çılgın Türkler
 http://1985h.pw:80/live/sefa/123456/227468.ts
 
+
+#EXTINF:-1 tvg-id="NationalGeographicTurkey.tr" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.ibb.co/WsyD2MR/natgeo.png" group-title="Belgesel Kanalları",TR: NATIONAL GEOGRAPHIC HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13559
+#EXTINF:-1 tvg-id="NationalGeographicTurkey.tr" tvg-name="TR: NATIONAL GEOGRAPHIC UHD" tvg-logo="https://i.ibb.co/WsyD2MR/natgeo.png" group-title="Belgesel Kanalları",TR: NATIONAL GEOGRAPHIC UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/118
+#EXTINF:-1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="TR: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.ibb.co/zGkL0xB/wi.png" group-title="Belgesel Kanalları",TR: NATIONAL GEOGRAPHIC WILD HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13560
+#EXTINF:-1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="TR: NATIONAL GEOGRAPHIC WILD UHD" tvg-logo="https://i.ibb.co/zGkL0xB/wi.png" group-title="Belgesel Kanalları",TR: NATIONAL GEOGRAPHIC WILD UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/119
+#EXTINF:-1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://i.ibb.co/5MYZ93D/discovery.png" group-title="Belgesel Kanalları",TR: DISCOVERY CHANNEL HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13561
+#EXTINF:-1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="TR: DISCOVERY CHANNEL UHD" tvg-logo="https://i.ibb.co/5MYZ93D/discovery.png" group-title="Belgesel Kanalları",TR: DISCOVERY CHANNEL UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/116
+#EXTINF:-1 tvg-id="DiscoveryScienceTurkey.tr" tvg-name="TR: DISCOVERY SCIENCE HD" tvg-logo="https://i.ibb.co/MhTsrwV/discoveryscience.png" group-title="Belgesel Kanalları",TR: DISCOVERY SCIENCE HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13562
+#EXTINF:-1 tvg-id="DiscoveryScienceTurkey.tr" tvg-name="TR: DISCOVERY SCIENCE UHD" tvg-logo="https://i.ibb.co/MhTsrwV/discoveryscience.png" group-title="Belgesel Kanalları",TR: DISCOVERY SCIENCE UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/117
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="TR: DISCOVERY ID UHD" tvg-logo="https://i.ibb.co/ZHP5Xrc/discoveryid.png" group-title="Belgesel Kanalları",TR: DISCOVERY ID UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/1892
+#EXTINF:-1 tvg-id="BBCEarthTurkey.tr" tvg-name="TR: BBC EARTH HD" tvg-logo="https://i.ibb.co/GQMLWrp/bbce.png" group-title="Belgesel Kanalları",TR: BBC EARTH HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/120
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMAUX HD" tvg-logo="https://i.ibb.co/C6cMvB7/animaux.png" group-title="Belgesel Kanalları",TR: ANIMAUX HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13572
+#EXTINF:-1 tvg-id="" tvg-name="TR: OUTDOOR CHANNEL HD" tvg-logo="https://i.ibb.co/pnGJym4/outdoor.png" group-title="Belgesel Kanalları",TR: OUTDOOR CHANNEL HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13573
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="TR: HISTORY UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/History1_Channel.png" group-title="Belgesel Kanalları",TR: HISTORY UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/121
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HİSTORY HD" tvg-logo="https://i.ibb.co/DDcbwMh/viasath.png" group-title="Belgesel Kanalları",TR: VIASAT HİSTORY HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13565
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: VIASAT HİSTORY UHD" tvg-logo="https://i.ibb.co/DDcbwMh/viasath.png" group-title="Belgesel Kanalları",TR: VIASAT HİSTORY UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/712
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE UHD" tvg-logo="https://i.ibb.co/9tRtyfR/lovenature.png" group-title="Belgesel Kanalları",TR: LOVE NATURE UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13870
+#EXTINF:-1 tvg-id="DMAXTurkey.tr" tvg-name="TR: DMAX HD" tvg-logo="https://i.ibb.co/Ss7DmRL/dmax.png" group-title="Belgesel Kanalları",TR: DMAX HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/54097
+#EXTINF:-1 tvg-id="DMAXTurkey.tr" tvg-name="TR: DMAX UHD" tvg-logo="https://i.ibb.co/Ss7DmRL/dmax.png" group-title="Belgesel Kanalları",TR: DMAX UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/113
+#EXTINF:-1 tvg-id="" tvg-name="TR: TARIH TV UHD" tvg-logo="https://i.ibb.co/jJjYQ60/TAR-HTV.png" group-title="Belgesel Kanalları",TR: TARIH TV UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/53002
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="TR: beIN GURME HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Gurme_HD_yeni.png" group-title="Belgesel Kanalları",TR: beIN GURME HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/123
+#EXTINF:-1 tvg-id="beINIZ.tr" tvg-name="TR: beIN IZ HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Iz_HD_250x150px_yeni.png" group-title="Belgesel Kanalları",TR: beIN IZ HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/122
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="TR: 24 KITCHEN UHD" tvg-logo="https://i.ibb.co/y6cHzCw/24k.png" group-title="Belgesel Kanalları",TR: 24 KITCHEN UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13569
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUBOX HD" tvg-logo="https://i.ibb.co/RzdXGd0/docubox.png" group-title="Belgesel Kanalları",TR: DOCUBOX HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13571
+#EXTINF:-1 tvg-id="" tvg-name="TR: SCIENCE & VIE TV" tvg-logo="https://i.ibb.co/s5D6p8M/science.png" group-title="Belgesel Kanalları",TR: SCIENCE & VIE TV
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13563
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: FAST & FUN HD" tvg-logo="https://i.ibb.co/fY1k8X6/fastfun.png" group-title="Belgesel Kanalları",TR: FAST & FUN HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13568
+#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI HD" tvg-logo="https://i.ibb.co/4RbYbPP/davinci.png" group-title="Belgesel Kanalları",TR: DA VINCI HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13566
+#EXTINF:-1 tvg-id="UcanKusTV.tr" tvg-name="TR: UÇANKUŞ TV HD" tvg-logo="https://i.ibb.co/ZmL8Jm0/u-ankus.png" group-title="Belgesel Kanalları",TR: UÇANKUŞ TV HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32950
+#EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-name="TR: TLC HD" tvg-logo="https://i.ibb.co/SR0KWCS/tlc.png" group-title="Belgesel Kanalları",TR: TLC HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13570
+#EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-name="TR: TLC UHD" tvg-logo="https://i.ibb.co/SR0KWCS/tlc.png" group-title="Belgesel Kanalları",TR: TLC UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/114
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR: TRT BELGESEL HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtbelgesel_new_250x150.png" group-title="Belgesel Kanalları",TR: TRT BELGESEL HD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/115
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR: TRT BELGESEL UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtbelgesel_new_250x150.png" group-title="Belgesel Kanalları",TR: TRT BELGESEL UHD
+http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/850
+
+#EXTINF:-1 group-title="TR BELGESEL" tvg-name="#### TURK BELGESEL ####" ,#### TURK BELGESEL ####
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/121
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" tvg-name="TR: TLC TV HD+" ,TR: TLC TV HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/110605
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" tvg-id="tlc.tr" tvg-name="TR: TLC TV" ,TR: TLC TV
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/4174
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" tvg-id="animalplanet.tr" tvg-name="TR: Animal Planet HD" ,TR: Animal Planet HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/498
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24_kitchen_us.png" tvg-name="TR: 24 KiTCHEN HD+" ,TR: 24 KiTCHEN HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/110607
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24_kitchen_us.png" tvg-id="24kitchen.tr" tvg-name="TR: 24 KiTCHEN HD" ,TR: 24 KiTCHEN HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/495
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" tvg-name="TR: BBC Earth HD+" ,TR: BBC Earth HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/110608
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD" ,TR: BBC Earth HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/491
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-gurme-qa-tr.png" tvg-id="beingurme.tr" tvg-name="TR: b**N G*RME HD+" ,TR: b**N G*RME HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/493
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-iz-qa-tr.png" tvg-id="beiniz.tr" tvg-name="TR: b**N IZ HD+" ,TR: b**N IZ HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/18563
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL HD+" ,TR: DISCOVERY CHANNEL HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/488
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" tvg-name="TR: DISCOVERY CHANNEL HD" ,TR: DISCOVERY CHANNEL HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/110611
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" tvg-name="TR: DISCOVERY SCIENCE HD+" ,TR: DISCOVERY SCIENCE HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/489
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" tvg-name="TR: DISCOVERY SCIENCE HD+" ,TR: DISCOVERY SCIENCE HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/110612
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/ID_Canada_Logo.png" tvg-id="24.tr" tvg-name="TR: DISCOVERY ID" ,TR: DISCOVERY ID
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/490
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://e7.pngegg.com/pngimages/754/466/png-clipart-investigation-discovery-television-channel-id-xtra-discovery-channel-others-miscellaneous-television.png" tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY IDX HD" ,TR: DISCOVERY IDX HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/496
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" tvg-name="TR: ViASAT HiSTORY HD+" ,TR: ViASAT HiSTORY HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/494
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" tvg-name="TR: ViASAT HiSTORY HD" ,TR: ViASAT HiSTORY HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/110614
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" tvg-id="historychannel.tr" tvg-name="TR: History HD" ,TR: History HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/497
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" tvg-id="yabantv.tr" tvg-name="TR: YABAN TV HD" ,TR: YABAN TV HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/484
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/docu_box_hd.png" tvg-name="TR: DOCUBOX HD+" ,TR: DOCUBOX HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/17179
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/docu_box_hd.png" tvg-name="TR: DOCUBOX HD+" ,TR: DOCUBOX HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/110617
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TGRT_Belgesel_logo.png" tvg-id="24.tr" tvg-name="TR: TGRT BELGESEL" ,TR: TGRT BELGESEL
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/20601
+#EXTINF:-1 group-title="TR BELGESEL" tvg-name="TR: LOVE NATURE HD" ,TR: LOVE NATURE HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/67567
+#EXTINF:-1 group-title="TR BELGESEL" tvg-name="TR: LOVE NATURE HD+" ,TR: LOVE NATURE HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/110620
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" tvg-name="TR: National Geographic HD+" ,TR: National Geographic HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/17121
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" tvg-name="TR: National Geographic HD" ,TR: National Geographic HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/67570
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://static.epg.best/it/NatGeoWild.it.png" tvg-id="natgeowild.tr" tvg-name="TR: NAT GEO WILD HD+" ,TR: NAT GEO WILD HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/486
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://static.epg.best/it/NatGeoWild.it.png" tvg-id="natgeowild.tr" tvg-name="TR: Nat Geo Wild HD" ,TR: Nat Geo Wild HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/67569
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-belgesel-tr.png" tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL HD+" ,TR: TRT BELGESEL HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/485
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-belgesel-tr.png" tvg-name="TR: TRT Belgesel HD" ,TR: TRT Belgesel HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/67571
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://static.epg.best/it/DMAX.it.png" tvg-name="TR: DMAX HD" ,TR: DMAX HD
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/492
+#EXTINF:-1 group-title="TR BELGESEL" tvg-logo="https://static.epg.best/it/DMAX.it.png" tvg-name="TR: DMAX HD+" ,TR: DMAX HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/67565
+#EXTINF:-1 group-title="TR BELGESEL" tvg-name="TR: OUTDOOR HD+" ,TR: OUTDOOR HD+
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/67568
+#EXTINF:-1 group-title="TR BELGESEL" tvg-name="TR: TARIM TV" ,TR: TARIM TV
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/192916
+#EXTINF:-1 group-title="TR BELGESEL" tvg-name="TR: KOY TV" ,TR: KOY TV
+http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/192917
 
 #EXTINF:-1 group-title="SİNEMA",======== Sinema ========
 http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401211
