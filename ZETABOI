@@ -69,6 +69,7 @@ https://anka@edge02.odtv.az/o8/atv/playlist.m3u8|User-Agent=Android
 #http://anka@51.195.5.44:80/atv/tracks-v1a1/playlist.m3u8?_=1&hls=native
 #http://51.195.5.44:80/atv/index.m3u8
 #http://116.202.238.88/ATV_TR/index.m3u8
+#https://bildigin.trgoals453.xyz/yayinatv.m3u8
 #https://patlak.trgoals430.xyz/yayinatv.m3u8
 #https://ythls.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8?sd=10&rebase=on
 #https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
@@ -115,11 +116,11 @@ https://anka@nimplus3.bozztv.com/star-tv/star-tv/playlist.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001226/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001226&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺™
-http://anka@213.239.195.222/turkey/kanald_2023/chunks.m3u8|User-Agent=Android
+http://anka@135.125.234.9:8081/kanald/tracks-v1a1/playlist.m3u8?_=1
 #http://116.202.238.88/KANALD_TR/index.m3u8
 #https://demiroren.daioncdn.net:443/kanald/kanald_1080p.m3u8?&sid=5kknb58ct878&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #https://nimplus5.bozztv.com/kanald-2/kanald-2/playlist.m3u8
-#http://135.125.234.9:8081/kanald/tracks-v1a1/playlist.m3u8?_=1
+#http://anka@213.239.195.222/turkey/kanald_2023/chunks.m3u8|User-Agent=Android
 #http://anka@195.142.1.211:4022/udp/224.2.2.9:10001|User-Agent=perfectplayer1.6.0.1
 #https://new.cache-stream.workers.dev/channel/UyRIqnheFc/live.m3u8
 #https://new.cache-stream.workers.dev/stream/UCUynfuO64WVig5L1o4lzYAw/live.m3u8?sd=10&rebase=on
@@ -7379,6 +7380,593 @@ https://archive.org/download/22-yildirim-han-ve-emir-sultan-hazretleri/Dini%20Fi
 #EXTINF:-1 tvg-id="" tvg-name="TR: FILM IZLE " tvg-logo="https://1.bp.blogspot.com/-TS6Nwy9viHw/XJaPazgMvAI/AAAAAAAACdc/mrY4IGiRhtYv0vy0hkWm1cAzT8JI_m bRACPcBGAYYCw/s510/geylani.png" group-title="EVLIYA FILMLERI ",EBU TURABİ  HZ 
 https://archive.org/download/22-yildirim-han-ve-emir-sultan-hazretleri/Dini%20Filmler/34-Ebu%20Turabi%20Hazretleri-Topra%C4%9F%C4%B1n%20O%C4%9Flu.mp4
 
-
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR | TRT 1FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/640px-TRT_1_logo_%282021-%29.svg.png" group-title="TURKEY",TR | TRT 1FHD
+http://apontv.pm:80/623400619588166/1593574628/41017
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR | TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/560px-TRT_1_logo_%282021-%29.svg.png" group-title="TURKEY",TR | TRT 1
+http://apontv.pm:80/623400619588166/1593574628/41018
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="TURKEY",TR | ATV FHD
+http://apontv.pm:80/623400619588166/1593574628/41019
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="TURKEY",TR | ATV  HD
+http://apontv.pm:80/623400619588166/1593574628/41020
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="TURKEY",TR | ATV SD
+http://apontv.pm:80/623400619588166/1593574628/51390
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR | FOX FHD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/foxnor.png" group-title="TURKEY",TR | FOX FHD
+http://apontv.pm:80/623400619588166/1593574628/41021
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR | FOX HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/foxnor.png" group-title="TURKEY",TR | FOX HD
+http://apontv.pm:80/623400619588166/1593574628/41022
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR | KANAL D FHD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/kanald.png" group-title="TURKEY",TR | KANAL D FHD
+http://apontv.pm:80/623400619588166/1593574628/41023
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR | KANAL D  HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/kanald.png" group-title="TURKEY",TR | KANAL D  HD
+http://apontv.pm:80/623400619588166/1593574628/41024
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR | STAR TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Star_TV_ab_2011.svg/515px-Logo_Star_TV_ab_2011.svg.png" group-title="TURKEY",TR | STAR TV FHD
+http://apontv.pm:80/623400619588166/1593574628/41025
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR | STAR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Star_TV_ab_2011.svg/515px-Logo_Star_TV_ab_2011.svg.png" group-title="TURKEY",TR | STAR TV HD
+http://apontv.pm:80/623400619588166/1593574628/41026
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR | SHOW FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/400px-Show_TV.svg.png" group-title="TURKEY",TR | SHOW FHD
+http://apontv.pm:80/623400619588166/1593574628/41027
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR | SHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/400px-Show_TV.svg.png" group-title="TURKEY",TR | SHOW HD
+http://apontv.pm:80/623400619588166/1593574628/41028
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR | KANAL 7 FHD" tvg-logo="" group-title="TURKEY",TR | KANAL 7 FHD
+http://apontv.pm:80/623400619588166/1593574628/41029
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR | KANAL 7 HD" tvg-logo="" group-title="TURKEY",TR | KANAL 7 HD
+http://apontv.pm:80/623400619588166/1593574628/41030
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR | TV8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/68/TV_8.png" group-title="TURKEY",TR | TV8 FHD
+http://apontv.pm:80/623400619588166/1593574628/41031
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR | TV8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/68/TV_8.png" group-title="TURKEY",TR | TV8 HD
+http://apontv.pm:80/623400619588166/1593574628/41032
+#EXTINF:-1 tvg-id="" tvg-name="TR | TV8 INT" tvg-logo="" group-title="TURKEY",TR | TV8 INT
+http://apontv.pm:80/623400619588166/1593574628/58099
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR | TV8'5" tvg-logo="" group-title="TURKEY",TR | TV8'5
+http://apontv.pm:80/623400619588166/1593574628/41088
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR | NTV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/ntvavrupa.png" group-title="TURKEY",TR | NTV
+http://apontv.pm:80/623400619588166/1593574628/41033
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR | TRT HABER" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/trthaber.png" group-title="TURKEY",TR | TRT HABER
+http://apontv.pm:80/623400619588166/1593574628/41034
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR | TGRT HABER" tvg-logo="" group-title="TURKEY",TR | TGRT HABER
+http://apontv.pm:80/623400619588166/1593574628/41035
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR | A HABER HD" tvg-logo="https://iahbr.tmgrup.com.tr/2023/02/22/1677078361249.png" group-title="TURKEY",TR | A HABER HD
+http://apontv.pm:80/623400619588166/1593574628/41036
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR | HABER TURK HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/haberturk.png" group-title="TURKEY",TR | HABER TURK HD
+http://apontv.pm:80/623400619588166/1593574628/41037
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR | Haber Global HD" tvg-logo="" group-title="TURKEY",TR | Haber Global HD
+http://apontv.pm:80/623400619588166/1593574628/41038
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR | CNN TÜRK" tvg-logo="" group-title="TURKEY",TR | CNN TÜRK
+http://apontv.pm:80/623400619588166/1593574628/41039
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR | 24 TV" tvg-logo="" group-title="TURKEY",TR | 24 TV
+http://apontv.pm:80/623400619588166/1593574628/41323
+#EXTINF:-1 tvg-id="" tvg-name="TR | FLASH HABER" tvg-logo="" group-title="TURKEY",TR | FLASH HABER
+http://apontv.pm:80/623400619588166/1593574628/102812
+#EXTINF:-1 tvg-id="" tvg-name="TR | SZC TV" tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png" group-title="TURKEY",TR | SZC TV
+http://apontv.pm:80/623400619588166/1593574628/57911
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TR | TV 100" tvg-logo="https://s.tv100.com/assets/web/images/logo.png" group-title="TURKEY",TR | TV 100
+http://apontv.pm:80/623400619588166/1593574628/41095
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR | TRT SPORT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/640px-TRT_Spor_logo_%282022%29.svg.png" group-title="TURKEY",TR | TRT SPORT FHD
+http://apontv.pm:80/623400619588166/1593574628/41191
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR | TRT SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/640px-TRT_Spor_logo_%282022%29.svg.png" group-title="TURKEY",TR | TRT SPOR
+http://apontv.pm:80/623400619588166/1593574628/41060
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR | TRT SPOR Yildiz" tvg-logo="https://www.trtspor.com.tr/static/img/trt-spor-yildiz-mobile.png" group-title="TURKEY",TR | TRT SPOR Yildiz
+http://apontv.pm:80/623400619588166/1593574628/54539
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR | beIN SPORTS HABER" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | beIN SPORTS HABER
+http://apontv.pm:80/623400619588166/1593574628/41040
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR | beIN SPORTS 1 FHD" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | beIN SPORTS 1 FHD
+http://apontv.pm:80/623400619588166/1593574628/41042
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR | beIN SPORTS 1 HD" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | beIN SPORTS 1 HD
+http://apontv.pm:80/623400619588166/1593574628/41041
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR | BEIN SPORTS 1 SD" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | BEIN SPORTS 1 SD
+http://apontv.pm:80/623400619588166/1593574628/59199
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR | beIN SPORTS 1 TICARI" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | beIN SPORTS 1 TICARI
+http://apontv.pm:80/623400619588166/1593574628/62387
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR | beIN SPORTS 2 FHD" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | beIN SPORTS 2 FHD
+http://apontv.pm:80/623400619588166/1593574628/41044
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR | beIN SPORTS 2 HD" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | beIN SPORTS 2 HD
+http://apontv.pm:80/623400619588166/1593574628/41043
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR | beIN SPORTS 3 FHD" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | beIN SPORTS 3 FHD
+http://apontv.pm:80/623400619588166/1593574628/41046
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR | beIN SPORTS 3 HD" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | beIN SPORTS 3 HD
+http://apontv.pm:80/623400619588166/1593574628/41045
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR | beIN SPORTS 4 FHD" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | beIN SPORTS 4 FHD
+http://apontv.pm:80/623400619588166/1593574628/41048
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR | beIN SPORTS 4 HD" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | beIN SPORTS 4 HD
+http://apontv.pm:80/623400619588166/1593574628/41047
+#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS 5" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | BEIN SPORTS 5
+http://apontv.pm:80/623400619588166/1593574628/100312
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR | beIN SPORTS Max 1" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | beIN SPORTS Max 1
+http://apontv.pm:80/623400619588166/1593574628/41049
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR | beIN SPORTS MAX 2" tvg-logo="http://aptvpix.net/picons/beinsportpitcoin.png" group-title="TURKEY",TR | beIN SPORTS MAX 2
+http://apontv.pm:80/623400619588166/1593574628/41050
+#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN CONNECT 1" tvg-logo="l" group-title="TURKEY",TR | BEIN CONNECT 1
+http://apontv.pm:80/623400619588166/1593574628/78266
+#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN CONNECT 2" tvg-logo="" group-title="TURKEY",TR | BEIN CONNECT 2
+http://apontv.pm:80/623400619588166/1593574628/78267
+#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN CONNECT 3" tvg-logo="" group-title="TURKEY",TR | BEIN CONNECT 3
+http://apontv.pm:80/623400619588166/1593574628/78268
+#EXTINF:-1 tvg-id="trtebatvilkokul.tr" tvg-name="TR | BEIN CONNECT 4" tvg-logo="" group-title="TURKEY",TR | BEIN CONNECT 4
+http://apontv.pm:80/623400619588166/1593574628/51566
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="TR | BEIN CONNECT 5" tvg-logo="" group-title="TURKEY",TR | BEIN CONNECT 5
+http://apontv.pm:80/623400619588166/1593574628/51569
+#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN CONNECT 6" tvg-logo="" group-title="TURKEY",TR | BEIN CONNECT 6
+http://apontv.pm:80/623400619588166/1593574628/51570
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR | SMART SPOR" tvg-logo="https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/13.png" group-title="TURKEY",TR | SMART SPOR
+http://apontv.pm:80/623400619588166/1593574628/41053
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR | SMART SPOR 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Smart-spor-2_635084424082165858.png" group-title="TURKEY",TR | SMART SPOR 2 
+http://apontv.pm:80/623400619588166/1593574628/53124
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR | S SPORT" tvg-logo="" group-title="TURKEY",TR | S SPORT
+http://apontv.pm:80/623400619588166/1593574628/41051
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR | S SPORT 2" tvg-logo="" group-title="TURKEY",TR | S SPORT 2
+http://apontv.pm:80/623400619588166/1593574628/41052
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT+ 1" tvg-logo="" group-title="TURKEY",TR | S SPORT+ 1
+http://apontv.pm:80/623400619588166/1593574628/114381
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT+ 2" tvg-logo="" group-title="TURKEY",TR | S SPORT+ 2
+http://apontv.pm:80/623400619588166/1593574628/114382
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT+ 3" tvg-logo="https://www.digitaltveurope.com/files/2021/07/Ssport-plus-.png" group-title="TURKEY",TR | S SPORT+ 3
+http://apontv.pm:80/623400619588166/1593574628/114383
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPOR 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TURKEY",TR | EXXEN SPOR 1
+http://apontv.pm:80/623400619588166/1593574628/77732
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPOR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TURKEY",TR | EXXEN SPOR 2
+http://apontv.pm:80/623400619588166/1593574628/77733
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPOR 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TURKEY",TR | EXXEN SPOR 3
+http://apontv.pm:80/623400619588166/1593574628/77734
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPOR 4" tvg-logo="http://atlaspro.to:80/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURKEY",TR | EXXEN SPOR 4
+http://apontv.pm:80/623400619588166/1593574628/78897
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPOR 5" tvg-logo="http://atlaspro.to:80/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURKEY",TR | EXXEN SPOR 5
+http://apontv.pm:80/623400619588166/1593574628/78898
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPOR 6" tvg-logo="http://atlaspro.to:80/images/370a85f0d05b1474b735a40dc74a712c.png" group-title="TURKEY",TR | EXXEN SPOR 6
+http://apontv.pm:80/623400619588166/1593574628/78900
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPOR 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TURKEY",TR | EXXEN SPOR 7
+http://apontv.pm:80/623400619588166/1593574628/81180
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPOR 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TURKEY",TR | EXXEN SPOR 8
+http://apontv.pm:80/623400619588166/1593574628/81179
+#EXTINF:-1 tvg-id="" tvg-name="TR | IDMAN AZ" tvg-logo="https://yoda.az/a1/idman_logo.png" group-title="TURKEY",TR | IDMAN AZ
+http://apontv.pm:80/623400619588166/1593574628/41054
+#EXTINF:-1 tvg-id="cbc-sport-az" tvg-name="TR | CBC SPORT AZ" tvg-logo="" group-title="TURKEY",TR | CBC SPORT AZ
+http://apontv.pm:80/623400619588166/1593574628/41055
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBUSPOR 1" tvg-logo="" group-title="TURKEY",TR | TIVIBUSPOR 1
+http://apontv.pm:80/623400619588166/1593574628/41056
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBUSPOR 2" tvg-logo="" group-title="TURKEY",TR | TIVIBUSPOR 2
+http://apontv.pm:80/623400619588166/1593574628/41057
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBUSPOR 3" tvg-logo="" group-title="TURKEY",TR | TIVIBUSPOR 3
+http://apontv.pm:80/623400619588166/1593574628/41058
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBUSPOR 4" tvg-logo="" group-title="TURKEY",TR | TIVIBUSPOR 4
+http://apontv.pm:80/623400619588166/1593574628/103876
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR | EUROSPORT 1" tvg-logo="" group-title="TURKEY",TR | EUROSPORT 1
+http://apontv.pm:80/623400619588166/1593574628/41059
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR | EUROSPORT 2" tvg-logo="" group-title="TURKEY",TR | EUROSPORT 2
+http://apontv.pm:80/623400619588166/1593574628/56164
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR | A SPOR HD" tvg-logo="" group-title="TURKEY",TR | A SPOR HD
+http://apontv.pm:80/623400619588166/1593574628/41062
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR | SPORTS TV" tvg-logo="" group-title="TURKEY",TR | SPORTS TV
+http://apontv.pm:80/623400619588166/1593574628/41065
+#EXTINF:-1 tvg-id="" tvg-name="TR | AUTOMOTO" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/q13automototvsd.png" group-title="TURKEY",TR | AUTOMOTO
+http://apontv.pm:80/623400619588166/1593574628/51234
+#EXTINF:-1 tvg-id="" tvg-name="TR | FB TV HD" tvg-logo="" group-title="TURKEY",TR | FB TV HD
+http://apontv.pm:80/623400619588166/1593574628/41063
+#EXTINF:-1 tvg-id="" tvg-name="TR | GS TV " tvg-logo="" group-title="TURKEY",TR | GS TV 
+http://apontv.pm:80/623400619588166/1593574628/41064
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR | A2 TV" tvg-logo="" group-title="TURKEY",TR | A2 TV
+http://apontv.pm:80/623400619588166/1593574628/41079
+#EXTINF:-1 tvg-id="" tvg-name="TR | TRT 2" tvg-logo="" group-title="TURKEY",TR | TRT 2
+http://apontv.pm:80/623400619588166/1593574628/41080
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR | TRT AVAZ" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/trtavaz.png" group-title="TURKEY",TR | TRT AVAZ
+http://apontv.pm:80/623400619588166/1593574628/41081
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR | TRT BELGESEL" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/trtbelgesel.png" group-title="TURKEY",TR | TRT BELGESEL
+http://apontv.pm:80/623400619588166/1593574628/41082
+#EXTINF:-1 tvg-id="trtdiyanet.tr" tvg-name="TR | TRT DIYANET" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/trtdiyanet.png" group-title="TURKEY",TR | TRT DIYANET
+http://apontv.pm:80/623400619588166/1593574628/41084
+#EXTINF:-1 tvg-id="" tvg-name="TR | TGRT EU" tvg-logo="" group-title="TURKEY",TR | TGRT EU
+http://apontv.pm:80/623400619588166/1593574628/41085
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TR | TRT TÜRK" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/trtturk.png" group-title="TURKEY",TR | TRT TÜRK
+http://apontv.pm:80/623400619588166/1593574628/41086
+#EXTINF:-1 tvg-id="" tvg-name="TR | SHOW TÜRK" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/showturk.png" group-title="TURKEY",TR | SHOW TÜRK
+http://apontv.pm:80/623400619588166/1593574628/51394
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR | SHOW MAX" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/ethnic_channels_TURK_Showmax-1.png" group-title="TURKEY",TR | SHOW MAX
+http://apontv.pm:80/623400619588166/1593574628/41087
+#EXTINF:-1 tvg-id="skyturk360.tr" tvg-name="TR | 360 TV" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/chaine-tv-360.png" group-title="TURKEY",TR | 360 TV
+http://apontv.pm:80/623400619588166/1593574628/41254
+#EXTINF:-1 tvg-id="" tvg-name="TR | EURO D" tvg-logo="" group-title="TURKEY",TR | EURO D
+http://apontv.pm:80/623400619588166/1593574628/41089
+#EXTINF:-1 tvg-id="" tvg-name="TR | EURO STAR" tvg-logo="" group-title="TURKEY",TR | EURO STAR
+http://apontv.pm:80/623400619588166/1593574628/41090
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR | TEVE 2 SD" tvg-logo="https://s.teve2.com.tr/assets/img/teve2logo.png" group-title="TURKEY",TR | TEVE 2 SD
+http://apontv.pm:80/623400619588166/1593574628/41091
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR | TEVE 2 HD" tvg-logo="https://s.teve2.com.tr/assets/img/teve2logo.png" group-title="TURKEY",TR | TEVE 2 HD
+http://apontv.pm:80/623400619588166/1593574628/41092
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR | BEYAZ TV FHD" tvg-logo="http://m.beyaztv.com.tr/images/logo.png" group-title="TURKEY",TR | BEYAZ TV FHD
+http://apontv.pm:80/623400619588166/1593574628/41093
+#EXTINF:-1 tvg-id="" tvg-name="TR | TELE 1" tvg-logo="" group-title="TURKEY",TR | TELE 1
+http://apontv.pm:80/623400619588166/1593574628/41110
+#EXTINF:-1 tvg-id="" tvg-name="TR | TVNET" tvg-logo="" group-title="TURKEY",TR | TVNET
+http://apontv.pm:80/623400619588166/1593574628/41096
+#EXTINF:-1 tvg-id="" tvg-name="TR | ARTI TV" tvg-logo="" group-title="TURKEY",TR | ARTI TV
+http://apontv.pm:80/623400619588166/1593574628/47705
+#EXTINF:-1 tvg-id="" tvg-name="TR | HALK TV" tvg-logo="" group-title="TURKEY",TR | HALK TV
+http://apontv.pm:80/623400619588166/1593574628/41113
+#EXTINF:-1 tvg-id="" tvg-name="TR | ULKE TV" tvg-logo="" group-title="TURKEY",TR | ULKE TV
+http://apontv.pm:80/623400619588166/1593574628/41116
+#EXTINF:-1 tvg-id="" tvg-name="TR | AKIT  TV" tvg-logo="" group-title="TURKEY",TR | AKIT  TV
+http://apontv.pm:80/623400619588166/1593574628/41109
+#EXTINF:-1 tvg-id="" tvg-name="TR | ULUSAL KANAL" tvg-logo="" group-title="TURKEY",TR | ULUSAL KANAL
+http://apontv.pm:80/623400619588166/1593574628/41114
+#EXTINF:-1 tvg-id="" tvg-name="TR | BENGU TURK" tvg-logo="" group-title="TURKEY",TR | BENGU TURK
+http://apontv.pm:80/623400619588166/1593574628/107729
+#EXTINF:-1 tvg-id="" tvg-name="TR | BLOOMBERG HT" tvg-logo="" group-title="TURKEY",TR | BLOOMBERG HT
+http://apontv.pm:80/623400619588166/1593574628/102810
+#EXTINF:-1 tvg-id="" tvg-name="TR | EKO Turk" tvg-logo="" group-title="TURKEY",TR | EKO Turk
+http://apontv.pm:80/623400619588166/1593574628/102811
+#EXTINF:-1 tvg-id="" tvg-name="TR | BBN TURK " tvg-logo="" group-title="TURKEY",TR | BBN TURK 
+http://apontv.pm:80/623400619588166/1593574628/107730
+#EXTINF:-1 tvg-id="" tvg-name="TR | KRT TV" tvg-logo="" group-title="TURKEY",TR | KRT TV
+http://apontv.pm:80/623400619588166/1593574628/67802
+#EXTINF:-1 tvg-id="" tvg-name="TR | TBMM TV" tvg-logo="" group-title="TURKEY",TR | TBMM TV
+http://apontv.pm:80/623400619588166/1593574628/53958
+#EXTINF:-1 tvg-id="" tvg-name="TR | kids: DISNEY JR" tvg-logo="" group-title="TURKEY",TR | kids: DISNEY JR
+http://apontv.pm:80/623400619588166/1593574628/41066
+#EXTINF:-1 tvg-id="" tvg-name="TR | kids: CBeebies" tvg-logo="" group-title="TURKEY",TR | kids: CBeebies
+http://apontv.pm:80/623400619588166/1593574628/41067
+#EXTINF:-1 tvg-id="" tvg-name="TR | kids: BOOMERANG TR:" tvg-logo="" group-title="TURKEY",TR | kids: BOOMERANG TR:
+http://apontv.pm:80/623400619588166/1593574628/41068
+#EXTINF:-1 tvg-id="" tvg-name="TR | kids: BABY TV" tvg-logo="" group-title="TURKEY",TR | kids: BABY TV
+http://apontv.pm:80/623400619588166/1593574628/41069
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR | kids: SMART COCUK" tvg-logo="" group-title="TURKEY",TR | kids: SMART COCUK
+http://apontv.pm:80/623400619588166/1593574628/41070
+#EXTINF:-1 tvg-id="" tvg-name="TR | kids: NICKELODEON HD TR:" tvg-logo="" group-title="TURKEY",TR | kids: NICKELODEON HD TR:
+http://apontv.pm:80/623400619588166/1593574628/41071
+#EXTINF:-1 tvg-id="" tvg-name="TR | kids: DISNEY XD" tvg-logo="" group-title="TURKEY",TR | kids: DISNEY XD
+http://apontv.pm:80/623400619588166/1593574628/41072
+#EXTINF:-1 tvg-id="" tvg-name="TR | kids: CARTOON NETWORK" tvg-logo="" group-title="TURKEY",TR | kids: CARTOON NETWORK
+http://apontv.pm:80/623400619588166/1593574628/41073
+#EXTINF:-1 tvg-id="" tvg-name="TR | kids: NICK JR" tvg-logo="" group-title="TURKEY",TR | kids: NICK JR
+http://apontv.pm:80/623400619588166/1593574628/41074
+#EXTINF:-1 tvg-id="" tvg-name="TR | kids: DISNEY" tvg-logo="" group-title="TURKEY",TR | kids: DISNEY
+http://apontv.pm:80/623400619588166/1593574628/41075
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR | kids: TRT COCUK" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/trtcocuk.png" group-title="TURKEY",TR | kids: TRT COCUK
+http://apontv.pm:80/623400619588166/1593574628/41076
+#EXTINF:-1 tvg-id="" tvg-name="TR | kids: MINIKA COCUK" tvg-logo="" group-title="TURKEY",TR | kids: MINIKA COCUK
+http://apontv.pm:80/623400619588166/1593574628/41077
+#EXTINF:-1 tvg-id="" tvg-name="TR | kids: MINIKA GO" tvg-logo="" group-title="TURKEY",TR | kids: MINIKA GO
+http://apontv.pm:80/623400619588166/1593574628/41078
+#EXTINF:-1 tvg-id="" tvg-name="TR | NUMBER ONE TURK" tvg-logo="" group-title="TURKEY",TR | NUMBER ONE TURK
+http://apontv.pm:80/623400619588166/1593574628/41097
+#EXTINF:-1 tvg-id="" tvg-name="TR | NR1 AŞK" tvg-logo="" group-title="TURKEY",TR | NR1 AŞK
+http://apontv.pm:80/623400619588166/1593574628/51225
+#EXTINF:-1 tvg-id="" tvg-name="TR | NR1" tvg-logo="" group-title="TURKEY",TR | NR1
+http://apontv.pm:80/623400619588166/1593574628/51226
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="TR | TRT MÜZIK" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/trtmuzik.png" group-title="TURKEY",TR | TRT MÜZIK
+http://apontv.pm:80/623400619588166/1593574628/51235
+#EXTINF:-1 tvg-id="" tvg-name="TR | NR1 TÜRK" tvg-logo="" group-title="TURKEY",TR | NR1 TÜRK
+http://apontv.pm:80/623400619588166/1593574628/51236
+#EXTINF:-1 tvg-id="" tvg-name="TR | NR1 DAMAR" tvg-logo="" group-title="TURKEY",TR | NR1 DAMAR
+http://apontv.pm:80/623400619588166/1593574628/51237
+#EXTINF:-1 tvg-id="" tvg-name="TR | POWER TV" tvg-logo="" group-title="TURKEY",TR | POWER TV
+http://apontv.pm:80/623400619588166/1593574628/51315
+#EXTINF:-1 tvg-id="" tvg-name="TR | POWER TURK" tvg-logo="" group-title="TURKEY",TR | POWER TURK
+http://apontv.pm:80/623400619588166/1593574628/51316
+#EXTINF:-1 tvg-id="" tvg-name="TR | KANAL B" tvg-logo="" group-title="TURKEY",TR | KANAL B
+http://apontv.pm:80/623400619588166/1593574628/41099
+#EXTINF:-1 tvg-id="" tvg-name="TR | CEM TV" tvg-logo="" group-title="TURKEY",TR | CEM TV
+http://apontv.pm:80/623400619588166/1593574628/41100
+#EXTINF:-1 tvg-id="" tvg-name="TR | CAN TV" tvg-logo="" group-title="TURKEY",TR | CAN TV
+http://apontv.pm:80/623400619588166/1593574628/41101
+#EXTINF:-1 tvg-id="" tvg-name="TR | YOL TV" tvg-logo="" group-title="TURKEY",TR | YOL TV
+http://apontv.pm:80/623400619588166/1593574628/41102
+#EXTINF:-1 tvg-id="" tvg-name="TR | TGRT BELGESEL " tvg-logo="" group-title="TURKEY",TR | TGRT BELGESEL 
+http://apontv.pm:80/623400619588166/1593574628/47706
+#EXTINF:-1 tvg-id="" tvg-name="TR | KON TV" tvg-logo="" group-title="TURKEY",TR | KON TV
+http://apontv.pm:80/623400619588166/1593574628/41615
+#EXTINF:-1 tvg-id="" tvg-name="TR | RUMELI TV" tvg-logo="" group-title="TURKEY",TR | RUMELI TV
+http://apontv.pm:80/623400619588166/1593574628/41103
+#EXTINF:-1 tvg-id="" tvg-name="TR | TEK RUMELI TV" tvg-logo="" group-title="TURKEY",TR | TEK RUMELI TV
+http://apontv.pm:80/623400619588166/1593574628/41104
+#EXTINF:-1 tvg-id="" tvg-name="TR | Tay Tv" tvg-logo="" group-title="TURKEY",TR | Tay Tv
+http://apontv.pm:80/623400619588166/1593574628/51317
+#EXTINF:-1 tvg-id="" tvg-name="TR | UÇAN KUŞ" tvg-logo="" group-title="TURKEY",TR | UÇAN KUŞ
+http://apontv.pm:80/623400619588166/1593574628/51318
+#EXTINF:-1 tvg-id="" tvg-name="TR | MELTEM TV" tvg-logo="" group-title="TURKEY",TR | MELTEM TV
+http://apontv.pm:80/623400619588166/1593574628/51326
+#EXTINF:-1 tvg-id="" tvg-name="TR | LALEGUL TV" tvg-logo="https://lalegultv.com.tr/themes/default/img/logo.png" group-title="TURKEY",TR | LALEGUL TV
+http://apontv.pm:80/623400619588166/1593574628/51868
+#EXTINF:-1 tvg-id="" tvg-name="TR | AKILLI TV" tvg-logo="" group-title="TURKEY",TR | AKILLI TV
+http://apontv.pm:80/623400619588166/1593574628/41105
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR | DOST TV " tvg-logo="" group-title="TURKEY",TR | DOST TV 
+http://apontv.pm:80/623400619588166/1593574628/53952
+#EXTINF:-1 tvg-id="" tvg-name="TR | MELTEM TV" tvg-logo="" group-title="TURKEY",TR | MELTEM TV
+http://apontv.pm:80/623400619588166/1593574628/41106
+#EXTINF:-1 tvg-id="" tvg-name="TR | TTEK RUMELI TV HD+" tvg-logo="" group-title="TURKEY",TR | TTEK RUMELI TV HD+
+http://apontv.pm:80/623400619588166/1593574628/41107
+#EXTINF:-1 tvg-id="" tvg-name="TR | KOY TV" tvg-logo="" group-title="TURKEY",TR | KOY TV
+http://apontv.pm:80/623400619588166/1593574628/41108
+#EXTINF:-1 tvg-id="" tvg-name="TR | EKIT TV" tvg-logo="" group-title="TURKEY",TR | EKIT TV
+http://apontv.pm:80/623400619588166/1593574628/41111
+#EXTINF:-1 tvg-id="" tvg-name="TR | SEMERKAND TV" tvg-logo="" group-title="TURKEY",TR | SEMERKAND TV
+http://apontv.pm:80/623400619588166/1593574628/41112
+#EXTINF:-1 tvg-id="" tvg-name="TR | TLC" tvg-logo="" group-title="TURKEY",TR | TLC
+http://apontv.pm:80/623400619588166/1593574628/41115
+#EXTINF:-1 tvg-id="" tvg-name="TR | KRAL TV" tvg-logo="" group-title="TURKEY",TR | KRAL TV
+http://apontv.pm:80/623400619588166/1593574628/41117
+#EXTINF:-1 tvg-id="" tvg-name="TR | KRAL POP" tvg-logo="" group-title="TURKEY",TR | KRAL POP
+http://apontv.pm:80/623400619588166/1593574628/41118
+#EXTINF:-1 tvg-id="" tvg-name="TR | MAVI KARADENIZ" tvg-logo="" group-title="TURKEY",TR | MAVI KARADENIZ
+http://apontv.pm:80/623400619588166/1593574628/41119
+#EXTINF:-1 tvg-id="dreamturk.tr" tvg-name="TR | DREAM TURK" tvg-logo="" group-title="TURKEY",TR | DREAM TURK
+http://apontv.pm:80/623400619588166/1593574628/41120
+#EXTINF:-1 tvg-id="" tvg-name="TR | MILYON TV" tvg-logo="" group-title="TURKEY",TR | MILYON TV
+http://apontv.pm:80/623400619588166/1593574628/55939
+#EXTINF:-1 tvg-id="" tvg-name="TR | MINIBOX SEVIMLI DOSTLAR" tvg-logo="" group-title="TURKEY",TR | MINIBOX SEVIMLI DOSTLAR
+http://apontv.pm:80/623400619588166/1593574628/41122
+#EXTINF:-1 tvg-id="" tvg-name="TR | MINIBOX RAFADAN TAYFA" tvg-logo="" group-title="TURKEY",TR | MINIBOX RAFADAN TAYFA
+http://apontv.pm:80/623400619588166/1593574628/41123
+#EXTINF:-1 tvg-id="" tvg-name="TR | MINIBOX PIJAMASKELILER" tvg-logo="" group-title="TURKEY",TR | MINIBOX PIJAMASKELILER
+http://apontv.pm:80/623400619588166/1593574628/41124
+#EXTINF:-1 tvg-id="" tvg-name="TR | MINIBOX PEPE" tvg-logo="" group-title="TURKEY",TR | MINIBOX PEPE
+http://apontv.pm:80/623400619588166/1593574628/41125
+#EXTINF:-1 tvg-id="" tvg-name="TR | MINIBOX MASHA ILE KOCA AYI" tvg-logo="" group-title="TURKEY",TR | MINIBOX MASHA ILE KOCA AYI
+http://apontv.pm:80/623400619588166/1593574628/41127
+#EXTINF:-1 tvg-id="viasathistorynature.tr" tvg-name="TR | VIASAT HISTORY" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/viasathistoryfss.png" group-title="TURKEY",TR | VIASAT HISTORY
+http://apontv.pm:80/623400619588166/1593574628/41133
+#EXTINF:-1 tvg-id="" tvg-name="TR | VIASAT EXPLORE" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/viasatexplore.png" group-title="TURKEY",TR | VIASAT EXPLORE
+http://apontv.pm:80/623400619588166/1593574628/51224
+#EXTINF:-1 tvg-id="" tvg-name="TR | NAT GEO" tvg-logo="" group-title="TURKEY",TR | NAT GEO
+http://apontv.pm:80/623400619588166/1593574628/41134
+#EXTINF:-1 tvg-id="" tvg-name="TR | NAT GEO WILD" tvg-logo="" group-title="TURKEY",TR | NAT GEO WILD
+http://apontv.pm:80/623400619588166/1593574628/41135
+#EXTINF:-1 tvg-id="" tvg-name="TR | NAT GEO PEOPLE" tvg-logo="" group-title="TURKEY",TR | NAT GEO PEOPLE
+http://apontv.pm:80/623400619588166/1593574628/41136
+#EXTINF:-1 tvg-id="" tvg-name="TR | DISCOVERY SCIENCE" tvg-logo="" group-title="TURKEY",TR | DISCOVERY SCIENCE
+http://apontv.pm:80/623400619588166/1593574628/41137
+#EXTINF:-1 tvg-id="" tvg-name="TR | DISCOVERY ID" tvg-logo="" group-title="TURKEY",TR | DISCOVERY ID
+http://apontv.pm:80/623400619588166/1593574628/41138
+#EXTINF:-1 tvg-id="" tvg-name="TR | DISCOVERY CHANNEL HD" tvg-logo="" group-title="TURKEY",TR | DISCOVERY CHANNEL HD
+http://apontv.pm:80/623400619588166/1593574628/41139
+#EXTINF:-1 tvg-id="" tvg-name="TR | ANIMAL PLANET" tvg-logo="" group-title="TURKEY",TR | ANIMAL PLANET
+http://apontv.pm:80/623400619588166/1593574628/41140
+#EXTINF:-1 tvg-id="" tvg-name="TR | HISTORY" tvg-logo="" group-title="TURKEY",TR | HISTORY
+http://apontv.pm:80/623400619588166/1593574628/41141
+#EXTINF:-1 tvg-id="" tvg-name="TR | DA VINCI LEARNING" tvg-logo="" group-title="TURKEY",TR | DA VINCI LEARNING
+http://apontv.pm:80/623400619588166/1593574628/41142
+#EXTINF:-1 tvg-id="beinhe.tr" tvg-name="TR | BEIN H&E" tvg-logo="https://seeklogo.com/images/B/bein-home-entertainment-logo-5D8277747F-seeklogo.com.png" group-title="TURKEY",TR | BEIN H&E
+http://apontv.pm:80/623400619588166/1593574628/51227
+#EXTINF:-1 tvg-id="" tvg-name="TR | OUTDOOR CHANNEL" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/outdoorchannelhd.png" group-title="TURKEY",TR | OUTDOOR CHANNEL
+http://apontv.pm:80/623400619588166/1593574628/51228
+#EXTINF:-1 tvg-id="" tvg-name="TR | FAST & FUN" tvg-logo="https://ocdn.eu/images/program-tv/YmI7MDA_/a3473c5ae099e441facb0e48b479554b.png" group-title="TURKEY",TR | FAST & FUN
+http://apontv.pm:80/623400619588166/1593574628/51229
+#EXTINF:-1 tvg-id="" tvg-name="TR | ANIMAUX" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/animauxhd.png" group-title="TURKEY",TR | ANIMAUX
+http://apontv.pm:80/623400619588166/1593574628/51230
+#EXTINF:-1 tvg-id="" tvg-name="TR | LOVE NATURE" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/lovenature.png" group-title="TURKEY",TR | LOVE NATURE
+http://apontv.pm:80/623400619588166/1593574628/51231
+#EXTINF:-1 tvg-id="" tvg-name="TR | SCIENCE & VIE " tvg-logo="https://iptvextreme.org/picon/TRS/50x30/scienceetvie.png" group-title="TURKEY",TR | SCIENCE & VIE 
+http://apontv.pm:80/623400619588166/1593574628/51232
+#EXTINF:-1 tvg-id="" tvg-name="TR | DOCUBOX " tvg-logo="https://iptvextreme.org/picon/TRS/50x30/docuboxhd.png" group-title="TURKEY",TR | DOCUBOX 
+http://apontv.pm:80/623400619588166/1593574628/51233
+#EXTINF:-1 tvg-id="" tvg-name="TR | YABAN TV" tvg-logo="" group-title="TURKEY",TR | YABAN TV
+http://apontv.pm:80/623400619588166/1593574628/41143
+#EXTINF:-1 tvg-id="" tvg-name="TR | BBC EARTH" tvg-logo="" group-title="TURKEY",TR | BBC EARTH
+http://apontv.pm:80/623400619588166/1593574628/41144
+#EXTINF:-1 tvg-id="" tvg-name="TR | DMAX" tvg-logo="" group-title="TURKEY",TR | DMAX
+http://apontv.pm:80/623400619588166/1593574628/41145
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR | NBA" tvg-logo="" group-title="TURKEY",TR | NBA
+http://apontv.pm:80/623400619588166/1593574628/55938
+#EXTINF:-1 tvg-id="" tvg-name="TR | KUDUS TV" tvg-logo="" group-title="TURKEY",TR | KUDUS TV
+http://apontv.pm:80/623400619588166/1593574628/51367
+#EXTINF:-1 tvg-id="" tvg-name="TR | HABITAT tv" tvg-logo="" group-title="TURKEY",TR | HABITAT tv
+http://apontv.pm:80/623400619588166/1593574628/51368
+#EXTINF:-1 tvg-id="" tvg-name="TR | LOVE NATURE" tvg-logo="" group-title="TURKEY",TR | LOVE NATURE
+http://apontv.pm:80/623400619588166/1593574628/51369
+#EXTINF:-1 tvg-id="" tvg-name="TR | FX" tvg-logo="" group-title="TURKEY",TR | FX
+http://apontv.pm:80/623400619588166/1593574628/41146
+#EXTINF:-1 tvg-id="foxlife.tr" tvg-name="TR | FOX LIFE" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/foxlife.png" group-title="TURKEY",TR | FOX LIFE
+http://apontv.pm:80/623400619588166/1593574628/51244
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-name="TR | FOX CRIME" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/foxcrime.png" group-title="TURKEY",TR | FOX CRIME
+http://apontv.pm:80/623400619588166/1593574628/41147
+#EXTINF:-1 tvg-id="" tvg-name="TR | BLU KOMEDi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png" group-title="TURKEY",TR | BLU KOMEDi
+http://apontv.pm:80/623400619588166/1593574628/51324
+#EXTINF:-1 tvg-id="" tvg-name="TR | BLU AKSIYON " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png" group-title="TURKEY",TR | BLU AKSIYON 
+http://apontv.pm:80/623400619588166/1593574628/51325
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVI TURK" tvg-logo="" group-title="TURKEY",TR | TIVI TURK
+http://apontv.pm:80/623400619588166/1593574628/43543
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="TR | 24 KITCHEN " tvg-logo="https://iptvextreme.org/picon/TRS/50x30/24kitchen.png" group-title="TURKEY",TR | 24 KITCHEN 
+http://apontv.pm:80/623400619588166/1593574628/51245
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN IZ" tvg-logo="" group-title="TURKEY",TR | beIN IZ
+http://apontv.pm:80/623400619588166/1593574628/41148
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN GURMET" tvg-logo="" group-title="TURKEY",TR | beIN GURMET
+http://apontv.pm:80/623400619588166/1593574628/41149
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR | beIN SERIES VICE" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/BEINSERIES.png" group-title="TURKEY",TR | beIN SERIES VICE
+http://apontv.pm:80/623400619588166/1593574628/41150
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR | beIN SERIES SCI-FI " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/BEINSERIES.png" group-title="TURKEY",TR | beIN SERIES SCI-FI 
+http://apontv.pm:80/623400619588166/1593574628/41151
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="TR | beIN SERIES DRAMA" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/BEINSERIES.png" group-title="TURKEY",TR | beIN SERIES DRAMA
+http://apontv.pm:80/623400619588166/1593574628/41152
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR | beIN SERIES COMEDY" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/BEINSERIES.png" group-title="TURKEY",TR | beIN SERIES COMEDY
+http://apontv.pm:80/623400619588166/1593574628/41153
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR | beIN MOVIES PREMIERE 1" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/BEINMOVIESPREMIERE.png" group-title="TURKEY",TR | beIN MOVIES PREMIERE 1
+http://apontv.pm:80/623400619588166/1593574628/41156
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR | beIN MOVIES PREMIERE 2" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/BEINMOVIESPREMIERE.png" group-title="TURKEY",TR | beIN MOVIES PREMIERE 2
+http://apontv.pm:80/623400619588166/1593574628/41157
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR | beIN MOVIES FAMILY" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/BEINMOVIESFAMILY.png" group-title="TURKEY",TR | beIN MOVIES FAMILY
+http://apontv.pm:80/623400619588166/1593574628/41158
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR | beIN MOVIES ACTION" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/BEINMOVIESACTION.png" group-title="TURKEY",TR | beIN MOVIES ACTION
+http://apontv.pm:80/623400619588166/1593574628/41159
+#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="TR | beIN movies action 2" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/BEINMOVIESACTION.png" group-title="TURKEY",TR | beIN movies action 2
+http://apontv.pm:80/623400619588166/1593574628/49800
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR | beIN MOVIES STARS" tvg-logo="" group-title="TURKEY",TR | beIN MOVIES STARS
+http://apontv.pm:80/623400619588166/1593574628/41155
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR | beIN MOVIES TURK" tvg-logo="" group-title="TURKEY",TR | beIN MOVIES TURK
+http://apontv.pm:80/623400619588166/1593574628/41154
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR | MOVIESMART TURK" tvg-logo="" group-title="TURKEY",TR | MOVIESMART TURK
+http://apontv.pm:80/623400619588166/1593574628/41163
+#EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-name="TR | MOVIESMART PREMIUM 1" tvg-logo="" group-title="TURKEY",TR | MOVIESMART PREMIUM 1
+http://apontv.pm:80/623400619588166/1593574628/41164
+#EXTINF:-1 tvg-id="moviesmartpremium2.tr" tvg-name="TR | MOVIESMART PREMIUM 2" tvg-logo="" group-title="TURKEY",TR | MOVIESMART PREMIUM 2
+http://apontv.pm:80/623400619588166/1593574628/41165
+#EXTINF:-1 tvg-id="moviesmartplatin.tr" tvg-name="TR | MOVIESMART PLATIN 1" tvg-logo="" group-title="TURKEY",TR | MOVIESMART PLATIN 1
+http://apontv.pm:80/623400619588166/1593574628/41166
+#EXTINF:-1 tvg-id="moviesmartplatin2.tr" tvg-name="TR | MOVIESMART PLATIN 2" tvg-logo="" group-title="TURKEY",TR | MOVIESMART PLATIN 2
+http://apontv.pm:80/623400619588166/1593574628/41167
+#EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="TR | MOVIESMART ACTION" tvg-logo="" group-title="TURKEY",TR | MOVIESMART ACTION
+http://apontv.pm:80/623400619588166/1593574628/42095
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR | MOVIESMART CLASSIC" tvg-logo="" group-title="TURKEY",TR | MOVIESMART CLASSIC
+http://apontv.pm:80/623400619588166/1593574628/41169
+#EXTINF:-1 tvg-id="moviesmartfestival.tr" tvg-name="TR | MOVIESMART FEST" tvg-logo="" group-title="TURKEY",TR | MOVIESMART FEST
+http://apontv.pm:80/623400619588166/1593574628/41168
+#EXTINF:-1 tvg-id="moviesmartfamily.tr" tvg-name="TR | MOVIESMART FAMILY" tvg-logo="" group-title="TURKEY",TR | MOVIESMART FAMILY
+http://apontv.pm:80/623400619588166/1593574628/53951
+#EXTINF:-1 tvg-id="moviesmartgold.tr" tvg-name="TR | MOVIESMART GOLD" tvg-logo="" group-title="TURKEY",TR | MOVIESMART GOLD
+http://apontv.pm:80/623400619588166/1593574628/51474
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR | DIZI SMART PREMIUM" tvg-logo="" group-title="TURKEY",TR | DIZI SMART PREMIUM
+http://apontv.pm:80/623400619588166/1593574628/41170
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR | DIZI SMART MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_Max_Smart.png" group-title="TURKEY",TR | DIZI SMART MAX HD
+http://apontv.pm:80/623400619588166/1593574628/53123
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINÉ5 TV" tvg-logo="https://cine5tv.com/wp-content/uploads/2019/08/cine5tv2ff.png" group-title="TURKEY",TR | CINÉ5 TV
+http://apontv.pm:80/623400619588166/1593574628/53854
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR | SINEMA TV" tvg-logo="" group-title="TURKEY",TR | SINEMA TV
+http://apontv.pm:80/623400619588166/1593574628/41162
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR | SINEMA TV 2" tvg-logo="" group-title="TURKEY",TR | SINEMA TV 2
+http://apontv.pm:80/623400619588166/1593574628/55935
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR | SINEMA TV AKSIYON" tvg-logo="" group-title="TURKEY",TR | SINEMA TV AKSIYON
+http://apontv.pm:80/623400619588166/1593574628/41161
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="TR | SINEMA AKSIYON 2" tvg-logo="" group-title="TURKEY",TR | SINEMA AKSIYON 2
+http://apontv.pm:80/623400619588166/1593574628/55936
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR | SINEMA KOMEDI" tvg-logo="" group-title="TURKEY",TR | SINEMA KOMEDI
+http://apontv.pm:80/623400619588166/1593574628/54544
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR | SINEMA 1001" tvg-logo="" group-title="TURKEY",TR | SINEMA 1001
+http://apontv.pm:80/623400619588166/1593574628/54542
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR | SINEMA 1002" tvg-logo="" group-title="TURKEY",TR | SINEMA 1002
+http://apontv.pm:80/623400619588166/1593574628/55934
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR | SINEMA AILE" tvg-logo="" group-title="TURKEY",TR | SINEMA AILE
+http://apontv.pm:80/623400619588166/1593574628/54543
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="TR | SINEMA AILE 2" tvg-logo="" group-title="TURKEY",TR | SINEMA AILE 2
+http://apontv.pm:80/623400619588166/1593574628/55937
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR | SINEMA TV YERLI" tvg-logo="" group-title="TURKEY",TR | SINEMA TV YERLI
+http://apontv.pm:80/623400619588166/1593574628/41160
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR | beIN Box Office 1" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 1
+http://apontv.pm:80/623400619588166/1593574628/41171
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR | beIN Box Office 2" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 2
+http://apontv.pm:80/623400619588166/1593574628/41172
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR | beIN Box Office 3" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 3
+http://apontv.pm:80/623400619588166/1593574628/41173
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 4" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 4
+http://apontv.pm:80/623400619588166/1593574628/41174
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 5" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 5
+http://apontv.pm:80/623400619588166/1593574628/41175
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 6" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 6
+http://apontv.pm:80/623400619588166/1593574628/41176
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 7" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 7
+http://apontv.pm:80/623400619588166/1593574628/41177
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 8" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 8
+http://apontv.pm:80/623400619588166/1593574628/41178
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 9" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 9
+http://apontv.pm:80/623400619588166/1593574628/41179
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 10" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 10
+http://apontv.pm:80/623400619588166/1593574628/41180
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 11" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 11
+http://apontv.pm:80/623400619588166/1593574628/41181
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 12" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 12
+http://apontv.pm:80/623400619588166/1593574628/41182
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 13" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 13
+http://apontv.pm:80/623400619588166/1593574628/41183
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 14" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 14
+http://apontv.pm:80/623400619588166/1593574628/41184
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 15" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 15
+http://apontv.pm:80/623400619588166/1593574628/41185
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 16" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 16
+http://apontv.pm:80/623400619588166/1593574628/41186
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 17" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 17
+http://apontv.pm:80/623400619588166/1593574628/41187
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 18" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 18
+http://apontv.pm:80/623400619588166/1593574628/41188
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 19" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 19
+http://apontv.pm:80/623400619588166/1593574628/41189
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN Box Office 20" tvg-logo="" group-title="TURKEY",TR | beIN Box Office 20
+http://apontv.pm:80/623400619588166/1593574628/41190
+#EXTINF:-1 tvg-id="" tvg-name="TR | Marvel Studios 1" tvg-logo="" group-title="TURKEY",TR | Marvel Studios 1
+http://apontv.pm:80/623400619588166/1593574628/41192
+#EXTINF:-1 tvg-id="" tvg-name="TR | Marvel Studios 2" tvg-logo="" group-title="TURKEY",TR | Marvel Studios 2
+http://apontv.pm:80/623400619588166/1593574628/41193
+#EXTINF:-1 tvg-id="" tvg-name="TR | Marvel Studios 3" tvg-logo="" group-title="TURKEY",TR | Marvel Studios 3
+http://apontv.pm:80/623400619588166/1593574628/41194
+#EXTINF:-1 tvg-id="" tvg-name="TR | Marvel Studios 4" tvg-logo="" group-title="TURKEY",TR | Marvel Studios 4
+http://apontv.pm:80/623400619588166/1593574628/41195
+#EXTINF:-1 tvg-id="" tvg-name="TR | Marvel Studios 5" tvg-logo="" group-title="TURKEY",TR | Marvel Studios 5
+http://apontv.pm:80/623400619588166/1593574628/41196
+#EXTINF:-1 tvg-id="" tvg-name="TR | Marvel Studios 6" tvg-logo="" group-title="TURKEY",TR | Marvel Studios 6
+http://apontv.pm:80/623400619588166/1593574628/51252
+#EXTINF:-1 tvg-id="" tvg-name="TR | Marvel Studios 7" tvg-logo="" group-title="TURKEY",TR | Marvel Studios 7
+http://apontv.pm:80/623400619588166/1593574628/51253
+#EXTINF:-1 tvg-id="" tvg-name="TR | Marvel Studios 8" tvg-logo="" group-title="TURKEY",TR | Marvel Studios 8
+http://apontv.pm:80/623400619588166/1593574628/51254
+#EXTINF:-1 tvg-id="" tvg-name="TR | MARVEL STUDIO 9" tvg-logo="" group-title="TURKEY",TR | MARVEL STUDIO 9
+http://apontv.pm:80/623400619588166/1593574628/51255
+#EXTINF:-1 tvg-id="" tvg-name="TR | MARVEL STUDIO 10" tvg-logo="" group-title="TURKEY",TR | MARVEL STUDIO 10
+http://apontv.pm:80/623400619588166/1593574628/51256
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINEMA 1" tvg-logo="" group-title="TURKEY",TR | CINEMA 1
+http://apontv.pm:80/623400619588166/1593574628/41197
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINEMA 2" tvg-logo="" group-title="TURKEY",TR | CINEMA 2
+http://apontv.pm:80/623400619588166/1593574628/41198
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINEMA 3" tvg-logo="" group-title="TURKEY",TR | CINEMA 3
+http://apontv.pm:80/623400619588166/1593574628/41199
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINEMA 4" tvg-logo="" group-title="TURKEY",TR | CINEMA 4
+http://apontv.pm:80/623400619588166/1593574628/41200
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINEMA 5" tvg-logo="" group-title="TURKEY",TR | CINEMA 5
+http://apontv.pm:80/623400619588166/1593574628/41201
+#EXTINF:-1 tvg-id="" tvg-name="TR | FIBERBOX TURK" tvg-logo="" group-title="TURKEY",TR | FIBERBOX TURK
+http://apontv.pm:80/623400619588166/1593574628/47027
+#EXTINF:-1 tvg-id="" tvg-name="TR | KEMAL SUNAL FILMLERI " tvg-logo="" group-title="TURKEY",TR | KEMAL SUNAL FILMLERI 
+http://apontv.pm:80/623400619588166/1593574628/51698
+#EXTINF:-1 tvg-id="" tvg-name="TR | BOX OFFICE TURK" tvg-logo="" group-title="TURKEY",TR | BOX OFFICE TURK
+http://apontv.pm:80/623400619588166/1593574628/47028
+#EXTINF:-1 tvg-id="" tvg-name="TR | BOX OFFICE AKSIYON" tvg-logo="" group-title="TURKEY",TR | BOX OFFICE AKSIYON
+http://apontv.pm:80/623400619588166/1593574628/47029
+#EXTINF:-1 tvg-id="" tvg-name="TR | Boss movies 1" tvg-logo="" group-title="TURKEY",TR | Boss movies 1
+http://apontv.pm:80/623400619588166/1593574628/47030
+#EXTINF:-1 tvg-id="" tvg-name="TR | Boss movies 2" tvg-logo="" group-title="TURKEY",TR | Boss movies 2
+http://apontv.pm:80/623400619588166/1593574628/47031
+#EXTINF:-1 tvg-id="" tvg-name="TR | Boss Movies 3" tvg-logo="" group-title="TURKEY",TR | Boss Movies 3
+http://apontv.pm:80/623400619588166/1593574628/51239
+#EXTINF:-1 tvg-id="" tvg-name="TR | Boss Movies 4" tvg-logo="" group-title="TURKEY",TR | Boss Movies 4
+http://apontv.pm:80/623400619588166/1593574628/51240
+#EXTINF:-1 tvg-id="" tvg-name="TR | Boss Movies 5" tvg-logo="" group-title="TURKEY",TR | Boss Movies 5
+http://apontv.pm:80/623400619588166/1593574628/51241
+#EXTINF:-1 tvg-id="" tvg-name="TR | Boss Movies 6" tvg-logo="" group-title="TURKEY",TR | Boss Movies 6
+http://apontv.pm:80/623400619588166/1593574628/51242
+#EXTINF:-1 tvg-id="" tvg-name="TR | Boss Movies 7" tvg-logo="" group-title="TURKEY",TR | Boss Movies 7
+http://apontv.pm:80/623400619588166/1593574628/51243
+#EXTINF:-1 tvg-id="" tvg-name="TR | AZTV" tvg-logo="" group-title="TURKEY",TR | AZTV
+http://apontv.pm:80/623400619588166/1593574628/42081
+#EXTINF:-1 tvg-id="" tvg-name="TR | ATV 1 AZ" tvg-logo="" group-title="TURKEY",TR | ATV 1 AZ
+http://apontv.pm:80/623400619588166/1593574628/42082
+#EXTINF:-1 tvg-id="" tvg-name="TR | ATV 2 AZ" tvg-logo="" group-title="TURKEY",TR | ATV 2 AZ
+http://apontv.pm:80/623400619588166/1593574628/42083
+#EXTINF:-1 tvg-id="" tvg-name="TR | ATV 4 AZ" tvg-logo="" group-title="TURKEY",TR | ATV 4 AZ
+http://apontv.pm:80/623400619588166/1593574628/42084
+#EXTINF:-1 tvg-id="" tvg-name="TR | ARB TV AZ" tvg-logo="" group-title="TURKEY",TR | ARB TV AZ
+http://apontv.pm:80/623400619588166/1593574628/42085
+#EXTINF:-1 tvg-id="" tvg-name="TR | ARB 24 AZ" tvg-logo="" group-title="TURKEY",TR | ARB 24 AZ
+http://apontv.pm:80/623400619588166/1593574628/42086
+#EXTINF:-1 tvg-id="" tvg-name="TR | AZ HABER" tvg-logo="" group-title="TURKEY",TR | AZ HABER
+http://apontv.pm:80/623400619588166/1593574628/42087
+#EXTINF:-1 tvg-id="cbc-tv" tvg-name="TR | CBC AZ" tvg-logo="" group-title="TURKEY",TR | CBC AZ
+http://apontv.pm:80/623400619588166/1593574628/42088
+#EXTINF:-1 tvg-id="" tvg-name="TR | iCTIMAI AZ" tvg-logo="" group-title="TURKEY",TR | iCTIMAI AZ
+http://apontv.pm:80/623400619588166/1593574628/42089
+#EXTINF:-1 tvg-id="" tvg-name="TR | MEDENiYET AZ " tvg-logo="" group-title="TURKEY",TR | MEDENiYET AZ 
+http://apontv.pm:80/623400619588166/1593574628/42090
+#EXTINF:-1 tvg-id="" tvg-name="TR | UMUD AZ" tvg-logo="" group-title="TURKEY",TR | UMUD AZ
+http://apontv.pm:80/623400619588166/1593574628/42091
+#EXTINF:-1 tvg-id="" tvg-name="TR | AZ STAR " tvg-logo="" group-title="TURKEY",TR | AZ STAR 
+http://apontv.pm:80/623400619588166/1593574628/42092
+#EXTINF:-1 tvg-id="" tvg-name="TR | BRT 1 CYPRUS " tvg-logo="" group-title="TURKEY",TR | BRT 1 CYPRUS 
+http://apontv.pm:80/623400619588166/1593574628/45115
+#EXTINF:-1 tvg-id="" tvg-name="TR | BRT 2 CYPRUS " tvg-logo="" group-title="TURKEY",TR | BRT 2 CYPRUS 
+http://apontv.pm:80/623400619588166/1593574628/45116
+#EXTINF:-1 tvg-id="" tvg-name="TR | BRT 3 CYPRUS " tvg-logo="" group-title="TURKEY",TR | BRT 3 CYPRUS 
+http://apontv.pm:80/623400619588166/1593574628/45117
+#EXTINF:-1 tvg-id="" tvg-name="TR | FINANS TURK" tvg-logo="" group-title="TURKEY",TR | FINANS TURK
+http://apontv.pm:80/623400619588166/1593574628/57912
+#EXTINF:-1 tvg-id="" tvg-name="TR | ÇIFTÇI TV" tvg-logo="" group-title="TURKEY",TR | ÇIFTÇI TV
+http://apontv.pm:80/623400619588166/1593574628/62798
+#EXTINF:-1 tvg-id="" tvg-name="TR | AGRO TV" tvg-logo="" group-title="TURKEY",TR | AGRO TV
+http://apontv.pm:80/623400619588166/1593574628/62799
+#EXTINF:-1 tvg-id="" tvg-name="TR | CINE 1" tvg-logo="" group-title="TURKEY",TR | CINE 1
+http://apontv.pm:80/623400619588166/1593574628/107731
+#EXTINF:-1 tvg-id="" tvg-name="TR | TV100 EKONOMI" tvg-logo="" group-title="TURKEY",TR | TV100 EKONOMI
+http://apontv.pm:80/623400619588166/1593574628/58461
 
 
