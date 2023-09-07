@@ -52,7 +52,7 @@ https://anka@turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8?_=1
 http://anka@149.13.0.73:5001/a2hd
 
 #EXTINF:-1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png"aspect-ratio="16:9"    group-title="ULUSAL",EXXEN TV ᵁᴴᴰ⁺™
-http://misket.tv:2020/live/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3892.m3u8
+http://misket.tv:2020/live/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3892.ts
 
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
 https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8
@@ -72,10 +72,10 @@ https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1281/index.m
 https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1280/index.m3u8|Referer=https://www.filbox.com.tr/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="interstar.tr" tvg-name="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.yndxX91RnBcKoarKo8Vt9wHaHa%26pid%3DApi&f=1&ipt=060d3a544c8daf6cecd4db42f1e77e128eb0b7edc2f69bf193c3d8943c7ed7a8&ipo=images"group-title="ULUSAL", inter STAR
-http://anka@137.116.95.87/inter_star_tv_hd/index.m3u8
+#http://anka@137.116.95.87/inter_star_tv_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",SÜPER CHANNEL ᴴᴰ
-https://ssh101.bozztv.com/ssh101/süper channel/chunks.m3u8
+#https://ssh101.bozztv.com/ssh101/süper channel/chunks.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="http://ozburuntv.com/wp-content/uploads/2022/01/MediumSquareLogo.png" group-title="ULUSAL",Özburun TV ᴴᴰ
 https://media2.streambrothers.com:19360/8314/8314.m3u8
@@ -252,7 +252,8 @@ https://anka@live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/t
 #http://70.34.214.187:3496/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://i.imgur.com/ve4p5te.png"aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV ᴴᴰ
-https://anka@bizimev.blutv.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8User-Agent=NetSurf/2.0 (RISC OS; armv3l)   
+https://anka@bizimev.blutv.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+
 
 #EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg" aspect-ratio="16:9"   group-title="ULUSAL",AKILLI TV 
 http://xpone.nl:80/play/live.php?mac=00:1A:79:38:40:28&stream=7291&extension=ts
@@ -299,7 +300,7 @@ https://anka@ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 https://anka@dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" TR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="HABER",LİDER HABER
-https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/9217b6e91d17c38f7d171eb2b3670349.m3u8?|Referer=https://www.liderhaber.com.tr/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/9217b6e91d17c38f7d171eb2b3670349.m3u8?|Referer=https://www.liderhaber.com.tr/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="https://picon-13398.kxcdn.com/ulsalkanaltr.jpg" group-title="HABER",ULUSAL KANAL ᴴᴰ
 https://anka@ulusalkanal.blutv.com:443/blutv_ulusalkanal/blutv_ulusalkanal.smil/chunklist_b2096000.m3u8

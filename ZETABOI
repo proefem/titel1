@@ -136,7 +136,7 @@ http://anka@213.239.195.222/turkey/kanald_2023/chunks.m3u8?|User-Agent=NetSurf/2
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺™
 https://anka@tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #http://anka@149.13.0.66:4002/tv8hd
-http://anka@135.125.234.9:8081/tv8/tracks-v1a1/playlist.m3u8?_=1
+#http://anka@135.125.234.9:8081/tv8/tracks-v1a1/playlist.m3u8?_=1
 #http://116.202.238.88/TV8_TR/index.m3u8|User-Agent=perfectplayer1.6.0.1
 #https://hls.bizetibatan.gay/yayintv8.m3u8
 #http://anka@195.142.1.211:4022/udp/224.2.2.33:10001|User-Agent=perfectplayer1.6.0.1
@@ -150,6 +150,7 @@ http://anka@135.125.234.9:8081/tv8/tracks-v1a1/playlist.m3u8?_=1
 
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺™
 http://anka@amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+#https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/25/index.m3u8?|Referer=https://www.filbox.com.tr/&e=.m3u8/&user-agent=NetSurf/2.0 (RISC OS; armv3l)
 #http://116.202.238.88/TV8.5_TR/index.m3u8
 #http://50.7.218.122:8080/tv85/index.m3u8
 #https://hls.bizetibatan.gay/yayintv85.m3u8
@@ -171,7 +172,7 @@ https://anka@beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?|User-Agent=Ne
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001177/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001177&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᴴᴰ⁺™
-#https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/20/index.m3u8?|Referer=https://www.filbox.com.tr/&e=.m3u8/&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/20/index.m3u8|Referer=https://www.filbox.com.tr/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 http://anka@xpone.nl:80/play/live.php?mac=00:1A:79:38:40:28&stream=97321&extension=ts
 #http://116.202.238.88/FOXTV_TR/index.m3u8|User-Agent=perfectplayer1.6.0.1
 #http://anka@195.142.1.211:4022/udp/224.2.2.25:10001|User-Agent=perfectplayer1.6.0.1
@@ -250,10 +251,10 @@ https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1280/index.m
 
 
 #EXTINF:-1 tvg-id="interstar.tr" tvg-name="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.yndxX91RnBcKoarKo8Vt9wHaHa%26pid%3DApi&f=1&ipt=060d3a544c8daf6cecd4db42f1e77e128eb0b7edc2f69bf193c3d8943c7ed7a8&ipo=images"group-title="ULUSAL", inter STAR
-http://137.116.95.87/inter_star_tv_hd/index.m3u8
+#http://137.116.95.87/inter_star_tv_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",SÜPER CHANNEL ᴴᴰ
-https://ssh101.bozztv.com/ssh101/süper channel/chunks.m3u8
+#https://ssh101.bozztv.com/ssh101/süper channel/chunks.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="http://ozburuntv.com/wp-content/uploads/2022/01/MediumSquareLogo.png" group-title="ULUSAL",Özburun TV ᴴᴰ
 https://media2.streambrothers.com:19360/8314/8314.m3u8
@@ -291,10 +292,10 @@ https://vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8|User-Agent=NetSurf/2.0 (RISC
 http://145.239.58.133:28008/bucuk/bucuk/playlist.m3u8
 
 #EXTINF:-1  tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://canlitv.center/channels/bizimev-tv.png"aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV ᴴᴰ
-https://anka@bizimev.blutv.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8User-Agent=NetSurf/2.0 (RISC OS; armv3l)   
+https://anka@bizimev.blutv.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+
 
 #EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg"aspect-ratio="16:9"   group-title="ULUSAL",AKILLI TV 
-http://xpone.nl:80/play/live.php?mac=00:1A:79:38:40:28&stream=7291&extension=ts
 http://xpone.nl:80/play/live.php?mac=00:1A:79:38:40:28&stream=7291&extension=ts
 http://xpone.nl:80/play/live.php?mac=00:1A:79:AB:5B:D9&stream=7291&extension=ts
 #http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/6782/index.m3u8
@@ -522,7 +523,7 @@ https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8|User-Agent=NetSurf/2.0 (RISC 
 https://anka@ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:0  tvg-id=""  tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", FDtv YEŞİLÇAM TV
-https://anka@ssh101.bozztv.com/ssh101/fdtvyesilcam/chunks.m3u8|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@ssh101.bozztv.com/ssh101/fdtvyesilcam/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:0  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png"  tvg-id="" group-title="ULUSAL",SuperTurk TV
 #https://raw.githubusercontent.com/kuzeymax/github-pages-with-jekyll/main/superturktvhd.m3u8
@@ -657,6 +658,8 @@ http://itectv.live:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913161&extensio
 http://185.180.222.123/play/live.php?mac=00:1A:79:0B:29:84&stream=31315&extension=ts
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260067&extension=ts&play_token=2ERN0m86in
 #https://edge02.odtv.az/o5/viasatnature/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+
+
 
 #EXTINF: -1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="Nat Geo Wild Hd" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" tvg-language="Türkçe" group-title="ULUSAL", Nat Geo Wild ᴴᴰ⁺™
 https://edge02.odtv.az/o3/natgeowild/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
