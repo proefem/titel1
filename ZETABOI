@@ -261,7 +261,6 @@ https://media2.streambrothers.com:19360/8314/8314.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
 https://anka@streaming.netdirekt.com.tr:443/35757/teleontv/fogmediagroups_lisansli_ultrahd__/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
-https://anka@streaming.netdirekt.com.tr:443/35757/teleontv/fogmediagroups_lisansli_ultrahd__/chunks.m3u8
 
 #EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/04/Cine5_logosu.png" group-title="ULUSAL",CİNE5 ᴴᴰ
 https://anka@cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
@@ -296,11 +295,12 @@ https://anka@bizimev.blutv.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8?|User
 
 #EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg"aspect-ratio="16:9"   group-title="ULUSAL",AKILLI TV 
 http://xpone.nl:80/play/live.php?mac=00:1A:79:38:40:28&stream=7291&extension=ts
-http://xpone.nl:80/play/live.php?mac=00:1A:79:AB:5B:D9&stream=7291&extension=ts
+http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=29938&extension=ts
+#http://xpone.nl:80/play/live.php?mac=00:1A:79:AB:5B:D9&stream=7291&extension=ts
 #http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/6782/index.m3u8
 #http://vipavrasya.tv:15000/live/pyZzeBda/1Vfaeh9KZU/14861.m3u8
-#https://pro35.canlitvplayer.com/178.162.228.139:/live_sd/akillitv/chunks.m3u8?nimblesessionid=6985114&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDQ6NTA6MzEgUE0maGFzaF92YWx1ZT1PeXFva29WSTJSbDFNeTFkK1dlZXBnPT0mdmFsaWRtaW51dGVzPTEw
-#https://178.162.228.139:/live_sd/akillitv/chunks.m3u8?nimblesessionid=6985114&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDQ6NTA6MzEgUE0maGFzaF92YWx1ZT1PeXFva29WSTJSbDFNeTFkK1dlZXBnPT0mdmFsaWRtaW51dGVzPTEw
+#https://pro35.canlitvplayer.com/178.162.228.139:/live_sd/akillitv/chunks.m3u8?
+#https://178.162.228.139:/live_sd/akillitv/chunks.m3u8?
 #https://stream41.radyotelekom.com.tr/stream/m3u8/a5a7e883a71429fe9e605bb5d25d6185/chunklist_w895929071.m3u8
 #http://213.172.73.170:8081/nimble_live/1024__Akilli_TV/playlist.m3u8
 #http://ig8npqfb.rostelekom.xyz/iptv/4YEMG19JQ5/6782/index.m3u8
@@ -322,7 +322,7 @@ https://59c7ea6bec1c6.streamlock.net:443/live/akittv.stream/chunklist_w512924749
 
 #EXTINF:1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png"group-title="ULUSAL",BENGUTURK TV ᵁᴴᴰ⁺™
 https://new.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
-https://anka@ensonhaber-live.ercdn.net/benguturk/benguturk_720p.m3u8|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+#https://anka@ensonhaber-live.ercdn.net/benguturk/benguturk_720p.m3u8|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #https://nimplus6.bozztv.com/bengu_turk/bengu_turk/playlist.m3u8
 #http://anka@195.142.1.211:4022/udp/224.2.2.44:10001|User-Agent=perfectplayer1.6.0.1
 #https://ensonhaber-live.ercdn.net/benguturk/index.m3u8
@@ -349,13 +349,13 @@ https://anka@nimplus3.bozztv.com/tgrtbelgesel/tgrtbelgesel/playlist.m3u8?|User-A
 #https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8|User-Agent=Lavf53.32.100     
 #http://anka@195.142.1.211:4022/udp/224.2.2.83:10001|User-Agent=perfectplayer1.6.0.1
 
-#EXTINF:-1 group-title="ULUSAL"  tvg-id="gunaydintv.tr" tvg-logo="https://gunaydintv.com/public/uploads/gunaydintv-ana-sayfa-logo-6262.jpg"  ,GUNAYDIN TVᴴᴰ
+#EXTINF:-1  tvg-id="gunaydintv.tr" tvg-logo="https://gunaydintv.com/public/uploads/gunaydintv-ana-sayfa-logo-6262.jpg" group-title="ULUSAL"  ,GUNAYDIN TVᴴᴰ
 https://anka@tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:1 tvg-id="birtv.tr" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR TV ᴴᴰ⁺
 https://anka@live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
-#EXTINF:-1 group-title="ULUSAL"  tvg-id="lifetv.tr" tvg-logo="https://canlitv.center/channels/life-tv.png"  ,LIFE TVᴴᴰ	
+#EXTINF:-1 tvg-id="lifetv.tr" tvg-logo="https://canlitv.center/channels/life-tv.png"group-title="ULUSAL"    ,LIFE TVᴴᴰ	
 https://anka@live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="aktueltv.tr"tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL"    ,AKTUEL TVᴴᴰ	
@@ -385,9 +385,7 @@ https://anka@live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8?|User
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://kanallogo2.com/images/ulusal/tv-em.png" aspect-ratio="16:9"   group-title="ULUSAL",TVEM ᴴᴰ⁺™
 https://anka@cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #http://135.125.234.9:8081/tvem/index.m3u8
-#https://nimplus6.bozztv.com/emtv1/emtv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIzIDg6NDM6MDIgUE0maGFzaF92YWx1ZT1WQzFyVUM3dm9kTzNEem9lVEQ5YWt3PT0mdmFsaWRtaW51dGVzPTI4ODA=
-#https://cdntv.online/high/tduasck869/1275.m3u8
-#https://cdntv.online/high/tduasck869/playlist.m3u8
+#https://nimplus6.bozztv.com/emtv1/emtv1/playlist.m3u8?
 #http://5.9.136.157:80/TVEM/TVEM/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV ᴴᴰ
@@ -450,7 +448,7 @@ https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8?|User-Agen
 http://46.45.158.8:8096/bysid/51202
 #http://95.0.226.197:8000/play/a03o
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://skyhaber.tv/wp-content/uploads/2022/07/tv-sky.png" group-title="HABER", SKY TÜRK ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="https://skyhaber.tv/wp-content/uploads/2022/07/tv-sky.png" group-title="ULUSAL", SKY TÜRK ᴴᴰ
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="tiviTURK.de" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1a02b73c-e91b-4281-8069-002e306edf79.png" group-title="ULUSAL",tiviTÜRKᴴᴰ
@@ -730,7 +728,6 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdVLT38ZGeIEf6BV6CPVVKM/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJUaa6dodIdnmO5Ai4sbqCUw/ts
 #EXTINF:-1 group-title="ULUSAL", Animal Kingdom
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJeuAaYqIQNmaR-6xYfywEPc/ts
-http://154.26.132.6/auth/gcr4vbZQPox-BIgsEUfi9CKEFvt7jaso0GDP1Gd9UQ406bQrvmrnlPAKq_zw6y5zc-ClcEj5TLG6D8WsK1m5NB063rhI5Ex3aqKmGScsccZMFzmNx6Yc4d1T1CHTsiwoAi2i0BZxZCAe3rqCoJMHxCgL_fDmwMvU9RKTU-kslS_yAP8KkOcdFvkeATlbitxoT8rERGCg4wBLd06pjw-H8gKjQJvxebOD5-FPny3YJaHeCnHRkd5-_UkGzH5mzavbJxMHLsriAkCIadlmEgCy6Jz3M9drJ_ibW_eN2yupYF7SzaDRtUqWrA2lQLZnXJTnkkZTBFFrKBWbAPl1k880CIynGGYwbUP6maudY-hDubA1hAA2FD6TFVFKLTOzE-Fvz0Wi9_f7hTh0Pny7uvIPMdrDuZlyBNd5G8iUgjhlEVpLf3xYoEZdtbjDX89NULM-B7cyA51qu1BwCbPG8DMR4MKgzppbPU8M9FzL-zY2uPQNWexRZN0ljlQhD7kvz16BwD1W5_t-CZQzMPxIk-b1JvcZttaDWXcNy2zmDstp9L9or8yBjrGHBnm9MerVFi8Cgedj0dcfOpZ2vytLuvzqYciDlnt2Cc46wuxTROvOHxzkw87R7Hv2t9Jjem_3Whqwkxzg5GW-XMMZVjwGFx_veklNpuz2LyqgdVBk5H_EpHs
 #EXTINF:-1 group-title="ULUSAL", World Of Science
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJTkncYPacgmMmiB2p5Wdj7U/ts
 #EXTINF:-1 group-title="ULUSAL", MySci (Good TV)
@@ -744,14 +741,19 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJQIMJ_KI9Mo4VBAni_jE5uc/ts
 
 #EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",Silk Way TV (RUS)
 #http://ikomg3.mmdlive.lldns.net/ikomg3/b3360f1570aa43398a84fd7ea2d77d9a/manifest.m3u8
+
 #EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",Silk Way TV (ENG)
 http://ikomg3.mmdlive.lldns.net/ikomg3/d4c3d429111741509dbd16cd1bc7b543/manifest.m3u8
+
 #EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",Silk Way TV (KG)
 http://ikomg3.mmdlive.lldns.net/ikomg3/c8e3f80276d340a5bd13f34031be0191/manifest.m3u8
+
 #EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",Silk Way TV (KZ)
 http://ikomg3.mmdlive.lldns.net/ikomg3/28726b32ffed4182991d082552600e93/manifest.m3u8
+
 #EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",Silk Way TV (UZB)
 http://ikomg3.mmdlive.lldns.net/ikomg3/26110023a9e34bafa3b4b413f99183f5/manifest.m3u8
+
 
 #EXTINF: -1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="Discovery Channel Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/discoveryhd_2.png" group-title="ULUSAL", Discovery Channel ᴴᴰ
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
@@ -1657,9 +1659,9 @@ https://nimplus3.bozztv.com/eurostar/eurostar/playlist.m3u8
 #http://135.125.234.9:8081/eurostar/tracks-v1a1/playlist.m3u8?_=1
 
 #EXTINF:-1 tvg-id="EuroD.tr"tvg-name="Euro D TR"   tvg-logo="https://i.imgur.com/4cr2gol.png"  group-title="ULUSAL-int",EURO D ʜᴅ
-https://kdlive.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#https://nimplus6.bozztv.com/eurod/eurod/playlist.m3u8
+https://nimplus6.bozztv.com/eurod/eurod/playlist.m3u8
 #https://bozztv.com/inim03/live1/eurod/playlist.m3u8
+#https://kdlive.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #http://135.125.234.9:8081/eurod/tracks-v1a1/playlist.m3u8?_=1
 #https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #http://he11o.akadatel.com/iptv/WE6F64UP9PFA5M/6892/index.m3u8
@@ -1675,10 +1677,11 @@ https://nimplus4.bozztv.com/tv8int/tv8int/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="KANAL 7 Avrupa TR"   tvg-logo="https://picon-13398.kxcdn.com/kanal7avrupatr.jpg" group-title="ULUSAL-int",KANAL 7 AVRUPA ʜᴅ
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#https://nimplus6.bozztv.com/kanal7/kanal7/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRT EU TR" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url=""aspect-ratio="16:9"  group-title="ULUSAL-int",TGRT EU ʜᴅ 
 https://nimplus3.bozztv.com/tgrteu/tgrteu/playlist.m3u8
-https://ensonhaber-live.ercdn.net/tgrteu/tgrteu.m3u8
+#https://ensonhaber-live.ercdn.net/tgrteu/tgrteu.m3u8
 #http://31.3.91.134:12005/udp/224.0.0.1:36516
 #https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 
