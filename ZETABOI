@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/turkey.xml,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epg.pw/xmltv/epg_DE.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml,https://iptv-org.github.io/epg/guides/tr.xml,http://epg.it999.ru/epg.xml.gz,https://i.mjh.nz/SamsungTVPlus/de.xml.gz,https://i.mjh.nz/PlutoTV/de.xml.gz,,https://iptvx.site/epg_lite.xml.gz,"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epg.pw/xmltv/epg_DE.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml,https://iptv-org.github.io/epg/guides/tr.xml,http://epg.it999.ru/epg.xml.gz,https://i.mjh.nz/SamsungTVPlus/de.xml.gz,https://i.mjh.nz/PlutoTV/de.xml.gz,,https://iptvx.site/epg_lite.xml.gz,"
 #refresh="86400" cache=500
 #http://appel-hh.de/index.php?dir=apk/TiviMate/
 #https://pixeldrain.com/u/c5GBPTq6
@@ -50,7 +50,7 @@
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:AA:5B:41&stream=543368&extension=ts
 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
-https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8??|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #https://anka@tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 #http://anka@135.125.234.9:8081/trt1/tracks-v1a1/playlist.m3u8
 #http://116.202.238.88/TRT1_TR/tracks-v1a1/mono.m3u8
@@ -67,7 +67,7 @@ https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8??|User-Agent=NetSurf/2.0 
 https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #http://anka@51.195.5.44:80/atv/tracks-v1a1/playlist.m3u8?_=1&hls=native
 #https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/8/index.m3u8|Referer=https://www.filbox.com.tr/&e=.m3u8/&user-agent=NetSurf/2.0 (RISC OS; armv3l)
-#https://anka@edge02.odtv.az/o8/atv/playlist.m3u8|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+#https://edge02.odtv.az/o8/atv/playlist.m3u8?|Referer=https://edge02.smart.az/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #http://51.195.5.44:80/atv/index.m3u8
 #http://116.202.238.88:80/ATV_TR/tracks-v1a1/mono.m3u8
 #https://hls.bizetibatan.gay/yayinatv.m3u8
@@ -77,8 +77,8 @@ https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #https://edge02.smart.az/o8/atv/playlist.m3u8?|User-Agent=ExoPlayer2/2.37 
 #http://node01.nntv.az:8136/ch2/ch2.hi.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 #http://66.160.192.241:80/atvturk/tracks-v1a1/playlist.m3u8?_=1&hls=native
-#http://213.239.195.222/turkey/atv_turk_stream_sd_2023/chunks.m3u8|User-Agent=perfectplayer1.6.0.1
-#https://nimplus3.bozztv.com/atv-tv/atv-tv/playlist.m3u8
+#http://213.239.195.222/turkey/atv_turk_stream_sd_2023/chunks.m3u8?|User-Agent=perfectplayer1.6.0.1
+#https://anka@nimplus3.bozztv.com/atv-tv/atv-tv/playlist.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001174/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001174&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #http://195.142.1.211:4022/udp/224.2.2.19:10001
 
@@ -94,13 +94,14 @@ https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8?|User-Agent=NetSur
 #http://canli.haber365.com.tr/tr/showtv/index.m3u8
 #http://anka@135.125.234.9:8081/showtv/tracks-v1a1/playlist.m3u8?_=1
 #http://66.160.192.241/showtv/index.m3u8
-#https://edge02.smart.az/o8/showtv/playlist.m3u8|User-Agent=Android
+#https://edge02.odtv.az/o8/showtv/playlist.m3u8?|Referer=https://edge02.smart.az/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001199/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001199&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺™
 https://anka@dogus-live.daioncdn.net/startv/startv_720p.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #https://new.cache-stream.workers.dev/stream/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8
 #https://anka@nimplus3.bozztv.com/star-tv/star-tv/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+#https://59c7ea6bec1c6.streamlock.net:443/live/startv.stream/chunklist_w1376440619.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 #http://anka@135.125.234.9:8081/startv/tracks-v1a1/playlist.m3u8?_=1
 #http://116.202.238.88/STARTV_TR/tracks-v1a1/mono.m3u8
 #http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
@@ -121,7 +122,7 @@ http://anka@213.239.195.222/turkey/kanald_2023/chunks.m3u8?|User-Agent=NetSurf/2
 #http://anka@135.125.234.9:8081/kanald/tracks-v1a1/playlist.m3u8?_=1
 #http://116.202.238.88/KANALD_TR/tracks-v1a1/mono.m3u8
 #https://demiroren.daioncdn.net:443/kanald/kanald_1080p.m3u8?&sid=5kknb58ct878&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
-#https://nimplus5.bozztv.com/kanald-2/kanald-2/playlist.m3u8
+#https://anka@nimplus5.bozztv.com/kanald-2/kanald-2/playlist.m3u8
 #https://59c7ea6bec1c6.streamlock.net:443/live/kanald.stream/chunklist_w252172510.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 #http://anka@195.142.1.211:4022/udp/224.2.2.9:10001|User-Agent=perfectplayer1.6.0.1
 #https://new.cache-stream.workers.dev/channel/UyRIqnheFc/live.m3u8
@@ -179,10 +180,9 @@ http://anka@xpone.nl:80/play/live.php?mac=00:1A:79:38:40:28&stream=97321&extensi
 #http://anka@195.142.1.211:4022/udp/224.2.2.25:10001|User-Agent=perfectplayer1.6.0.1
 #https://nimplus6.bozztv.com/turkfoxtv/turkfoxtv/playlist.m3u8
 #https://edge02.odtv.az/o3/foxturk/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
-#http://ru01.spr24.net/17585/mpegts?token=Vvm5ue4rWtVQ8k
 #https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
 #http://anka@135.125.234.9:8081/foxtv/tracks-v1a1/playlist.m3u8?_=1
-#https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#https://anka@foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #https://m.ozbeceriksizler.org/fox2.php
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001043/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001043&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
@@ -201,7 +201,7 @@ https://anka@turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8?|User-Agent=NetSurf/
 #https://live.cache-stream.workers.dev/stream/UCfqRQZ40fwEdaDWPuR7tvcw.m3u8?sd=10&rebase=on
 #http://195.142.1.211:4002/udp/224.2.2.58:10001
 #http://mn-nl.mncdn.com:80/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8|User-Agent=Lavf53.32.100 
-#https://360tv.blutv.com/blutv_360tv_live/live.m3u8
+#https://anka@360tv.blutv.com/blutv_360tv_live/live.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001341/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001341&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv4-logo.png" group-title="ULUSAL",TV 4 ᴴᴰ⁺™
@@ -212,10 +212,10 @@ https://anka@turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8?|User-Agent=NetSurf/2.0 
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001851/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001851&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=4&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg"aspect-ratio="16:9"    group-title="ULUSAL",A2 ᵁᴴᴰ⁺™
-http://anka@149.13.0.73:5001/a2hd
+http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:AB:58:0E&stream=505690&extension=ts
+#http://anka@149.13.0.73:5001/a2hd
 #http://116.202.238.88/A2_TR/tracks-v1a1/mono.m3u8
 #http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:AB:58:0E&stream=505690&extension=ts
-http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:AB:58:0E&stream=505690&extension=ts
 #https://edge02.odtv.az/o8/a2/playlist.m3u8|User-Agent=Android
 #https://edge02.smart.az/o8/a2/playlist.m3u8|User-Agent=ExoPlayer2/2.37   
 #http://185.180.222.123/play/live.php?mac=00:1A:79:4F:56:BC&stream=3067&extension=m3u8
@@ -223,7 +223,13 @@ http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:AB:58:0E&stream=505690&ext
 #http://itv224218.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001020/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001020&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png"aspect-ratio="16:9"    group-title="ULUSAL",EXXEN TV ᵁᴴᴰ⁺™
+http://143951.iptvone.eu:80/live/moldovaromanya/araPUwd6dg/232446.ts
+http://143951.iptvone.eu:80/live/ErcinSoysal/27BQ1HdQ74/232446.ts
 http://misket.tv:2020/live/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3892.m3u8
+
+#EXTINF:-1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png"aspect-ratio="16:9"    group-title="ULUSAL",BaBaLa TV ᵁᴴᴰ⁺™
+http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=143114&extension=ts
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=629214&extension=ts
 
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=48899&extension=m3u8
@@ -367,6 +373,9 @@ https://anka@cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8?|User-Agen
 #http://135.125.234.9:8081/tvem/index.m3u8
 #https://nimplus6.bozztv.com/emtv1/emtv1/playlist.m3u8?
 #http://5.9.136.157:80/TVEM/TVEM/playlist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://kanalg.tv/uploads/logo/kulan-kopya-5.png" aspect-ratio="16:9"   group-title="ULUSAL",KANAL G
+https://anka@ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
@@ -1128,7 +1137,7 @@ https://new.cache-stream.workers.dev/stream/UCV6zcRug6Hqp1UX_FdyUeBg/live.m3u8
 #http://213.172.73.133:8081/nimble_live/9107_CNN_Turk_HD/playlist.m3u8
 #http://anka@195.142.1.211:4002/udp/224.2.2.10:10001|User-Agent=ExoPlayer2/2.37   
 #https://nimplus6.bozztv.com/cnnturk/cnnturk/playlist.m3u8
-#https://edge02.odtv.az/o8/cnnturk/playlist.m3u8|User-Agent=ExoPlayer2/2.37   
+#https://edge02.odtv.az/o8/cnnturk/playlist.m3u8?|Referer=https://edge02.smart.az/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #https://live.cache-stream.workers.dev/stream/X_EWYemclKA/live.m3u8
 #https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001153/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001153&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
@@ -1147,8 +1156,8 @@ https://new.cache-stream.workers.dev/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001170/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001170&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="HABER",ULKE TV ᴴᴰ⁺™
-https://anka@nimplus6.bozztv.com/ulketv/ulketv/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
-#https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+https://anka@ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+#https://anka@nimplus6.bozztv.com/ulketv/ulketv/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #http://116.202.238.88/ULKETV_TR/tracks-v1a1/mono.m3u8
 #http://185.234.217.146:8080/ulke_tv/index.m3u8
 #https://ythls.onrender.com/channel/UCi65FGbYYj-OzJm2luB_fNQ.m3u8
@@ -1218,7 +1227,7 @@ https://anka@edge02.odtv.az/o5/ntvtur/playlist.m3u8?|User-Agent=NetSurf/2.0 (RIS
 #http://anka@195.142.1.211:4002/udp/224.2.2.2:10001|User-Agent=ExoPlayer2/2.37   
 #https://new.cache-stream.workers.dev/stream/UC9TDTjbOjFB9jADmPhSAPsw/live.m3u8
 #https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
-#https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#https://anka@dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001215/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001215&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="LiderTV.tr" tvg-name="LiderTV.tr" http-referrer="https://www.liderhaber.com.tr/" User-Agent="NetSurf/2.0 (RISC OS; armv3l)"  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="HABER",LİDER HABER
@@ -1903,88 +1912,71 @@ http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mov
 #EXTINF:-1 tvg-name="Hayatımın Neşesi: TRT (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/2023070223.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Hayatımın Neşesi: TRT (Son Blm)
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22248.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Yabani" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/skDntcucT92NslUhJxuj68Uuqyr.jpg" group-title="VOD-HAFTALIK DIZILER",Yabani
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/193347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bambaska Biri" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXkrDEV0n7eSMqwBT1KGWmGqIUQ.jpg" group-title="VOD-HAFTALIK DIZILER",Bambaska Biri
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/192824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kardeslerim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOtWDDHnI7Btudpa5i579fxZMfh.jpg" group-title="VOD-HAFTALIK DIZILER",Kardeslerim
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/192651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dilek Taşı" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5yn89kWnHh27FPb3vXkw7khUjSX.jpg" group-title="VOD-HAFTALIK DIZILER",Dilek Taşı
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/192576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safir" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ngAgkMrVQyBhiuhIK3zg1tmravS.jpg" group-title="VOD-HAFTALIK DIZILER",Safir
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/192217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arka Sokaklar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="VOD-HAFTALIK DIZILER",Arka Sokaklar
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/192076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yargı" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUb3TjQim6m6dFKryqiyrj9DPpL.jpg" group-title="VOD-HAFTALIK DIZILER",Yargı
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yali Capkini" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuBQbzobXatNvjlodo6trmxOVz.jpg" group-title="VOD-HAFTALIK DIZILER",Yali Capkini
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ya Cok Seversen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMw2hUmAlJtZkztonqzjlGNT2RP.jpg" group-title="VOD-HAFTALIK DIZILER",Ya Cok Seversen
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uc Kiz Kardes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a46cKxbo0CnQO1aK0FhpHB1yTeG.jpg" group-title="VOD-HAFTALIK DIZILER",Uc Kiz Kardes
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teşkilat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="VOD-HAFTALIK DIZILER",Teşkilat
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ruhun Duymaz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3S1XzYhCakKlJvj6OR4iYSfM9W.jpg" group-title="VOD-HAFTALIK DIZILER",Ruhun Duymaz
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ömer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2DVddf9ZXKJtNOYCcdnJwzuokd.jpg" group-title="VOD-HAFTALIK DIZILER",Ömer
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maviye Surgun" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCwUOWj28riFRtI2npCRl7AJQaJ.jpg" group-title="VOD-HAFTALIK DIZILER",Maviye Surgun
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kurulus Osman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" group-title="VOD-HAFTALIK DIZILER",Kurulus Osman
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kizilcik Serbeti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ7u0TTOz8pTshKMnxuNAa7MdMi.jpg" group-title="VOD-HAFTALIK DIZILER",Kizilcik Serbeti
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kendi Dusen Aglamaz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4g8yQuwONS9o9uyjBbvHNQzoWqM.jpg" group-title="VOD-HAFTALIK DIZILER",Kendi Dusen Aglamaz
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kardeşlerim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOtWDDHnI7Btudpa5i579fxZMfh.jpg" group-title="VOD-HAFTALIK DIZILER",Kardeşlerim
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hayatimin Nesesi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nYKsKHtwIPwrgAl49C3eyzsx6M.jpg" group-title="VOD-HAFTALIK DIZILER",Hayatimin Nesesi
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guldur Guldur Show" tvg-logo="https://image.tmdb.org/t/p/w154/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="VOD-HAFTALIK DIZILER",Guldur Guldur Show
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gönül Dağı" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="VOD-HAFTALIK DIZILER",Gönül Dağı
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Donence" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTrXd82vNemo8IpglrQZHXs8Uqj.jpg" group-title="VOD-HAFTALIK DIZILER",Donence
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cop Adam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIaMSsrhOdFh2KUtAsrptG3msgw.jpg" group-title="VOD-HAFTALIK DIZILER",Cop Adam
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Benim Guzel Ailem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjFKIrNTYEFk6VNniZCllJUga8w.jpg" group-title="VOD-HAFTALIK DIZILER",Benim Guzel Ailem
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ben Bu Cihana Sigmazam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coV7lnv9A0eExfKh5rWcxiG52zZ.jpg" group-title="VOD-HAFTALIK DIZILER",Ben Bu Cihana Sigmazam
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ates Kuslari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dna9YzzCgb18g41vh4tBAMRBgz.jpg" group-title="VOD-HAFTALIK DIZILER",Ates Kuslari
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alparslan: Büyük Selçuklu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXnP3YEN3saxyncRLz7kxc6TvjX.jpg" group-title="VOD-HAFTALIK DIZILER",Alparslan: Büyük Selçuklu
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aldatmak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HJTZ7ZfPxxHgkKRXmTppFEYviK.jpg" group-title="VOD-HAFTALIK DIZILER",Aldatmak
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al Sancak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DFDnOAIREpgqQW0VZm50U8jfNM.jpg" group-title="VOD-HAFTALIK DIZILER",Al Sancak
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aile" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJDBplHLMOYnUUart4JkS0MqMCI.jpg" group-title="VOD-HAFTALIK DIZILER",Aile
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adim Farah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aj4qfs1KxhdfcPphWyJiTNYXirE.jpg" group-title="VOD-HAFTALIK DIZILER",Adim Farah
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191704.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="✶✶✶✶✶ PAZAR DİZİLERİ ✶✶✶✶✶" tvg-logo="https://app.usmarket.site/wp-content/uploads/2022/11/Adsiz4.png" group-title="[TR] Pazar Dizileri",✶✶✶✶✶ PAZAR DİZİLERİ ✶✶✶✶✶
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Yargı | 63. Bölüm Sezon Finali | 07.05.2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gUb3TjQim6m6dFKryqiyrj9DPpL.jpg" group-title="[TR] Pazar Dizileri",[Dizi] Yargı | 63. Bölüm Sezon Finali | 07.05.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Teşkilat | 77. Bölüm | 11.06.2023" tvg-logo="https://thumbs2.imgbox.com/f3/0f/pIov0wX4_t.png" group-title="[TR] Pazar Dizileri",[Dizi] Teşkilat | 77. Bölüm | 11.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Çok Güzel Hareketler 2 | 147. Bölüm | 11.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" group-title="[TR] Pazar Dizileri",[Dizi] Çok Güzel Hareketler 2 | 147. Bölüm | 11.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Güzel Gunler | 25. Bölüm | 11.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abnTcKRQfxrBiBRTRx4DPpeJclz.jpg" group-title="[TR] Pazar Dizileri",[Dizi] Güzel Gunler | 25. Bölüm | 11.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Taçsız Prenses | 11. Bölüm  | 17.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eP5Y3gQz0zdWZ96IhhwUHfXd6AV.jpg" group-title="[TR] Cumartesi Dizileri",[Dizi] Taçsız Prenses | 11. Bölüm  | 17.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/191716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Tetikçinin Oğlu | 7. Bölüm | 06.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyIXM0t6698NSSDkgagMZwoK4g4.jpg" group-title="[TR] Salı Dizileri",[Dizi] Tetikçinin Oğlu | 7. Bölüm | 06.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/196025.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="✶✶✶✶✶ PAZARTESİ DİZİLERİ ✶✶✶✶✶" tvg-logo="https://app.usmarket.site/wp-content/uploads/2022/11/Adsiz4.png" group-title="[TR] Pazartesi Dizileri",✶✶✶✶✶ PAZARTESİ DİZİLERİ ✶✶✶✶✶
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Veda Mektubu | 15. Bölüm | 12.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot23tFNRBMYnFHPS96WWX0tPUFH.jpg" group-title="[TR] Pazartesi Dizileri",[Dizi] Veda Mektubu | 15. Bölüm | 12.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Maviye Sürgün | 1. Bölüm | 12.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCwUOWj28riFRtI2npCRl7AJQaJ.jpg" group-title="[TR] Pazartesi Dizileri",[Dizi] Maviye Sürgün | 1. Bölüm | 12.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Bir Küçük Gün Işığı | 36. Bölüm Final | 05.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xFxOrjDeJtoP6OUGpacorxRPVV.jpg" group-title="[TR] Pazartesi Dizileri",[Dizi] Bir Küçük Gün Işığı | 36. Bölüm Final | 05.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Ömer | 21. Bölüm Sezon Finali | 12.06.2023" tvg-logo="https://cdn1.ntv.com.tr/gorsel/ct9d79tbp0yRLbOO2_KgMw.jpg" group-title="[TR] Pazartesi Dizileri",[Dizi] Ömer | 21. Bölüm Sezon Finali | 12.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Alparslan: Büyük Selçuklu | 59. Bölüm | 12.06.2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5MDVkNDUtZDVjNS00NmZmLTk1MWYtYTk3MmIwNWQ0ODAyXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg" group-title="[TR] Pazartesi Dizileri",[Dizi] Alparslan: Büyük Selçuklu | 59. Bölüm | 12.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="✶✶✶✶✶ SALI DİZİLERİ ✶✶✶✶✶" tvg-logo="https://app.usmarket.site/wp-content/uploads/2022/11/Adsiz4.png" group-title="[TR] Salı Dizileri",✶✶✶✶✶ SALI DİZİLERİ ✶✶✶✶✶
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Aile | 13. Bölüm Sezon Finali | 30.05.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJDBplHLMOYnUUart4JkS0MqMCI.jpg" group-title="[TR] Salı Dizileri",[Dizi] Aile | 13. Bölüm Sezon Finali | 30.05.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Ben Bu Cihana Sığmazam | 35. Bölüm Sezon Finali | 13.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coV7lnv9A0eExfKh5rWcxiG52zZ.jpg" group-title="[TR] Salı Dizileri",[Dizi] Ben Bu Cihana Sığmazam | 35. Bölüm Sezon Finali | 13.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Üç Kız Kardeş | 53. Bölüm Sezon Finali | 13.06.2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a46cKxbo0CnQO1aK0FhpHB1yTeG.jpg" group-title="[TR] Salı Dizileri",[Dizi] Üç Kız Kardeş | 53. Bölüm Sezon Finali | 13.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Yürek Çıkmazı | 28. Bölüm Final | 13.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkoT6b4d1m0TAHxIllnDEhOtVi2.jpg" group-title="[TR] Salı Dizileri",[Dizi] Yürek Çıkmazı | 28. Bölüm Final | 13.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="✶✶✶✶✶ ÇARŞAMBA DİZİLERİ ✶✶✶✶✶" tvg-logo="https://app.usmarket.site/wp-content/uploads/2022/11/Adsiz4.png" group-title="[TR] Çarşamba Dizileri",✶✶✶✶✶ ÇARŞAMBA DİZİLERİ ✶✶✶✶✶
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Kraliçe | 11. Bölüm Final | 07.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7U50lkVkJ2a27QkWNu3jL41nwU8.jpg" group-title="[TR] Çarşamba Dizileri",[Dizi] Kraliçe | 11. Bölüm Final | 07.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Adım Farah | 14. Bölüm Sezon Finali | 31.05.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8Gk5vUEsgYVKQNxLhARwhPd6F1.jpg" group-title="[TR] Çarşamba Dizileri",[Dizi] Adım Farah | 14. Bölüm Sezon Finali | 31.05.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Çöp Adam | 25. Bölüm Sezon Finali | 14.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIaMSsrhOdFh2KUtAsrptG3msgw.jpg" group-title="[TR] Çarşamba Dizileri",[Dizi] Çöp Adam | 25. Bölüm Sezon Finali | 14.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Kuruluş Osman | 130. Bölüm Sezon Finali | 14.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jY4vLofOrlhEjcnnuvL9Cq67bVw.jpg" group-title="[TR] Çarşamba Dizileri",[Dizi] Kuruluş Osman | 130. Bölüm Sezon Finali | 14.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="✶✶✶✶✶ PERŞEMBE DİZİLERİ ✶✶✶✶✶" tvg-logo="https://app.usmarket.site/wp-content/uploads/2022/11/Adsiz4.png" group-title="[TR] Perşembe Dizileri",✶✶✶✶✶ PERŞEMBE DİZİLERİ ✶✶✶✶✶
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Gelsin Hayat Bildiği Gibi | 41. Bölüm Final | 25.05.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSmqe1UjVVa0Ku7xvqL0gH5ajKW.jpg" group-title="[TR] Perşembe Dizileri",[Dizi] Gelsin Hayat Bildiği Gibi | 41. Bölüm Final | 25.05.2024
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Camdaki Kız | 81. Bölüm | 08.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kH9OsQMcbMyEEjjW8jCUafYVQ63.jpg" group-title="[TR] Perşembe Dizileri",[Dizi] Camdaki Kız | 81. Bölüm | 08.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Yüz Yıllık Mucize | 12. Bölüm | 08.06.2024" tvg-logo="https://1001dizi.net/images2/dizi/yuz-yillik-mucize.jpg" group-title="[TR] Perşembe Dizileri",[Dizi] Yüz Yıllık Mucize | 12. Bölüm | 08.06.2024
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/191717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Aldatmak | 34. Bölüm | 08.06.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL6RAg9IQU97wmHyS2uKL6gStf.jpg" group-title="[TR] Perşembe Dizileri",[Dizi] Aldatmak | 34. Bölüm | 08.06.2024
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Al Sancak | 18. Bölüm | 08.06.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41FZgSnjfBFFYiivQaarUQlUoeK.jpg" group-title="[TR] Perşembe Dizileri",[Dizi] Al Sancak | 18. Bölüm | 08.06.2024
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Gülcemal | 9. Bölüm | 08.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lK55aBNoDDcOQ8Et25739YYyjRI.jpg" group-title="[TR] Perşembe Dizileri",[Dizi] Gülcemal | 9. Bölüm | 08.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/193301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="✶✶✶✶✶ CUMA DİZİLERİ ✶✶✶✶✶" tvg-logo="https://app.usmarket.site/wp-content/uploads/2022/11/Adsiz4.png" group-title="[TR] Cuma Dizileri",✶✶✶✶✶ CUMA DİZİLERİ ✶✶✶✶✶
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Yalı Çapkını | 36. Bölüm Sezon Finali | 09.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnNhlrOdgVsgNEcyKkCqv4EI1t.jpg" group-title="[TR] Cuma Dizileri",[Dizi] Yalı Çapkını | 36. Bölüm Sezon Finali | 09.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Kızılcık Şerbeti | 29. Bölüm Sezon Finali | 09.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="[TR] Cuma Dizileri",[Dizi] Kızılcık Şerbeti | 29. Bölüm Sezon Finali | 09.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Ateş Kuşları | 20. Bölüm Sezon Finali | 16.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dna9YzzCgb18g41vh4tBAMRBgz.jpg" group-title="[TR] Cuma Dizileri",[Dizi] Ateş Kuşları | 20. Bölüm Sezon Finali | 16.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Kısmet | 1. Bölüm | 16.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Kt0ERy581hoVqRB65QjBqyBsA.jpg" group-title="[TR] Cuma Dizileri",[Dizi] Kısmet | 1. Bölüm | 16.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Konusanlar | 110. Bölüm | 09.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="[TR] Cuma Dizileri",[Dizi] Konusanlar | 110. Bölüm | 09.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="✶✶✶✶✶ CUMARTESİ DİZİLERİ ✶✶✶✶✶" tvg-logo="https://app.usmarket.site/wp-content/uploads/2022/11/Adsiz4.png" group-title="[TR] Cumartesi Dizileri",✶✶✶✶✶ CUMARTESİ DİZİLERİ ✶✶✶✶✶
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Gönül Dağı | 102. Bölüm | 17.06.2023" tvg-logo="https://mediacms01.digiturkplay.com/sa_bc/PS0000003313/gonul-dagi_220x286_raw.jpg" group-title="[TR] Cumartesi Dizileri",[Dizi] Gönül Dağı | 102. Bölüm | 17.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Kardeşlerim | 94. Bölüm Sezon Finali | 10.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOtWDDHnI7Btudpa5i579fxZMfh.jpg" group-title="[TR] Cumartesi Dizileri",[Dizi] Kardeşlerim | 94. Bölüm Sezon Finali | 10.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dizi] Güldür Güldür Show | 338. Bölüm | 10.06.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="[TR] Cumartesi Dizileri",[Dizi] Güldür Güldür Show | 338. Bölüm | 10.06.2023
-http://kyxx.trwinline.site:8080/movie/Gazi6138/U7LJXgRPygbE/140770.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 8K Xsport" tvg-logo="https://png.pngtree.com/png-clipart/20221212/ourmid/pngtree-k-ultra-hd-button-transparent-video-size-resolution-icon-label-free-png-image_6521541.png" group-title="TR ➤ViP MAC KANALLARi_1",TR: Bein Sport 1 8K Xsport
 http://8kpanel.co.uk:8080/mtt1755/mtt.2050/58610
