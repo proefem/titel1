@@ -223,7 +223,7 @@ http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:AB:58:0E&stream=505690&ext
 #http://itv224218.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001020/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001020&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png"aspect-ratio="16:9"    group-title="ULUSAL",EXXEN TV ᵁᴴᴰ⁺™
-http://143951.iptvone.eu:80/live/moldovaromanya/araPUwd6dg/232446.ts
+http://143951.iptvone.eu:80/live/moldovaromanya/araPUwd6dg/232446.m3u8
 http://143951.iptvone.eu:80/live/ErcinSoysal/27BQ1HdQ74/232446.ts
 http://misket.tv:2020/live/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3892.m3u8
 
@@ -415,8 +415,11 @@ https://kanalb.blutv.com/blutv_kanalb2/live.m3u8?|User-Agent=NetSurf/2.0 (RISC O
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 https://yayin1.canlitv.day/canlitv/tv2020.stream/playlist.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d3df5795-0bd7-4c41-b5e6-8a60c640ac9b.png" group-title="ULUSAL",Torba TV
-https://yayin1.canlitv.day/canlitv/torbatv.stream/chunklist_w490098110.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="ULUSAL",EKOL TV
+https://live.artidijitalmedya.com:443/artidijital_ekoltv/ekoltv/chunks.m3u8?nimblesessionid=1275973041
+
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="ULUSAL",EKOL TV
+#https://yayin1.canlitv.day/canlitv/torbatv.stream/chunklist_w490098110.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 #https://yayin1.canlitv.day/canlitv/torbatv.stream/playlist.m3u8
 
 #EXTINF:1 tvg-id="tv48.tr" tvg-language="Türkçe" tvg-logo="https://www.tv48.com.tr/images/genel/sociallogo_1.png" group-title= "ULUSAL",TV 48 ᴴᴰ
@@ -1142,7 +1145,8 @@ https://new.cache-stream.workers.dev/stream/UCV6zcRug6Hqp1UX_FdyUeBg/live.m3u8
 #https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001153/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001153&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="HABER",HABER GLOBAL ᵁᴴᴰ⁺™
+https://www.volotv.com/media/images/tvlogo/haberglobaltv-hdtvler-tugm.webp
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://picon-13398.kxcdn.com/haberglobaltr.jpg" group-title="HABER",HABER GLOBAL ᵁᴴᴰ⁺™
 https://new.cache-stream.workers.dev/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
 #https://anka@nimplus4.bozztv.com/haberglobal/haberglobal/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #http://anka@116.202.238.88/HABERGLOBAL_TR/tracks-v1a1/mono.m3u8
@@ -1287,7 +1291,8 @@ https://anka@halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8?|User-Agent=NetSu
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001945/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001945&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=4&s=64832626&IASHttpSessionId=
 #https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 
-#EXTINF:-1 tvg-id="CADDE TV.TR" tvg-name=" HD TR" tvg-logo="https://canlitv.center/channels/cadde-tv.png" group-title="HABER",CADDE TVᵁᴴᴰ⁺™
+https://canlitv.center/channels/cadde-tv.png" group-title="HABER",CADDE TVᵁᴴᴰ⁺™
+#EXTINF:-1 tvg-id="CADDE TV.TR" tvg-name=" HD TR" tvg-logo="https://www.volotv.com/media/images/tvlogo/caddetv-tvlive-13bp.webp" group-title="HABER",CADDE TVᵁᴴᴰ⁺™
 http://194.156.236.20:8000/play/a00a
 #https://new.cache-stream.workers.dev/stream/UCPTF3NxWzcBD8rNnJuGQOSA/live.m3u8?_=1
 #https://ythls.onrender.com/channel/UCPTF3NxWzcBD8rNnJuGQOSA.m3u8
@@ -1488,6 +1493,7 @@ https://nimplus3.bozztv.com/aspor/aspor/playlist.m3u8|User-Agent=Android
 https://nimplus4.bozztv.com/tv8_5/tv8_5/playlist.m3u8|User-Agent=Android
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/943.png" group-title="HABER", tivibuspor
 https://nimplus4.bozztv.com/tivibuspor/tivibuspor/playlist.m3u8|User-Agent=Android
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/944.jpg" group-title="HABER", beinsporthaber
 https://nimplus4.bozztv.com/beinsportshaber/beinsportshaber/playlist.m3u8|User-Agent=Android
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/944.jpg" group-title="HABER", beinsporthaber
@@ -1811,6 +1817,7 @@ http://node01.nntv.az:8131/ch3/ch3.hi.m3u8?st=d4WyQub2T1dRf2VWiiXSWw&e
 #EXTINF:-1 group-title="ULUSAL-int" tvg-logo="https://i.imgur.com/XQz5zAO.png", TV ADİGE
 #http://91.134.203.253:30124/tvadige/tvadige/playlist.m3u8
 #EXTINF:-1 tvg-id="TuranTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turan-tv.png" group-title="ULUSAL-int",Turan TV1 ᵁᴴᴰ⁺
+https://sc.id-tv.kz/TuranTV.m3u8
 #https://donvolga.com/Turan-TV/index.m3u8|User-Agent=Lavf53.32.100 
 
 #EXTINF:-1 tvg-id="TuranTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turan-tv.png" group-title="ULUSAL-int",FTVᵁᴴᴰ⁺
@@ -1823,6 +1830,11 @@ http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mov
 #EXTINF:-1 tvg-name="Cem Ylmaz Diamond Elite Platinum Plus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="VoD ✦ SHOW-EGLENCE",Cem Ylmaz Diamond Elite Platinum Plus
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/11347.mkv
 
+
+#EXTINF:-1 tvg-name="Ben Bu Cihana Sığmazam -ATV-(Son blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3KVbiYrMcGP7nRs68xEAToKA3D2QPBqOP01oTKCGP45_.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ben Bu Cihana Sığmazam -ATV-(Son blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8902.mp4
+#EXTINF:-1 tvg-name="Yargı-Kanal D (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3ANjAOhSIQxapVLY16IqJRgwHT1OpFlQ5iOKL3Sw89UV.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yargı-Kanal D (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8908.mp4
 #EXTINF:-1 tvg-name="Teskilat -TRT-1-( SON BLM )" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3Av5kBw3qhwR6rRbKPzgkTelY8-_DyiiPKp_vNhI_xnz.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Teskilat -TRT-1-( SON BLM )
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8881.mp4
 #EXTINF:-1 tvg-name="Guldur Guldur show (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3GTlP7A4tM66nJT4nT51S9ADUEOhBsbk5pnsSsp6XL24.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Guldur Guldur show (Son Blm)
@@ -1849,16 +1861,13 @@ http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mov
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8900.mp4
 #EXTINF:-1 tvg-name="Doğu Demirkol ile Alelade-STAR TV" tvg-logo="http://my-media.ddns.me:52381/images/ZXB-eYaXTVWD5l_vzgmogZ5oVxhxISQy55u0GbQYUWIbL2HLXBkjHQz3Gg7otoAkjmNJHplNwILs31M1IEcPt00yKt5pO5zUWpWE_j2CrIo.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Doğu Demirkol ile Alelade-STAR TV
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8901.mp4
-#EXTINF:-1 tvg-name="Ben Bu Cihana Sığmazam -ATV-(Son blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3KVbiYrMcGP7nRs68xEAToKA3D2QPBqOP01oTKCGP45_.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ben Bu Cihana Sığmazam -ATV-(Son blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8902.mp4
 #EXTINF:-1 tvg-name="Veda Mektubu-Kanal D (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/mv5bngvpv.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Veda Mektubu-Kanal D (Son Blm)
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8903.mp4
 #EXTINF:-1 tvg-name="Üç Kız Kardeş-KANAL D (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6R9ZrBIMVSKFlZaMCVN71pR.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Üç Kız Kardeş-KANAL D (Son Blm)
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8905.mp4
 #EXTINF:-1 tvg-name="Ateş Kuşları-ATV (Son.Blm.)" tvg-logo="http://foto.fotodepo.fr/images/ateskuslar.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ateş Kuşları-ATV (Son.Blm.)
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8907.mp4
-#EXTINF:-1 tvg-name="Yargı-Kanal D (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3ANjAOhSIQxapVLY16IqJRgwHT1OpFlQ5iOKL3Sw89UV.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yargı-Kanal D (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8908.mp4
+
 #EXTINF:-1 tvg-name="Benim Güzel Ailem-TRT- (SonBlm)" tvg-logo="http://foto.fotodepo.fr/images/benimgdvd.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Benim Güzel Ailem-TRT- (SonBlm)
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8909.mkv
 #EXTINF:-1 tvg-name="CAMDAKİ KIZ-KANAL D-(Son Blm.)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3JCdVs9Gm9t7dgESYEr0Gt20yYhemDxyZhNi7jeS9Oy1.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",CAMDAKİ KIZ-KANAL D-(Son Blm.)
@@ -1912,6 +1921,13 @@ http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mov
 #EXTINF:-1 tvg-name="Hayatımın Neşesi: TRT (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/2023070223.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Hayatımın Neşesi: TRT (Son Blm)
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22248.mp4
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Ben Bu Cihana Sigmazam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coV7lnv9A0eExfKh5rWcxiG52zZ.jpg" group-title="VOD-HAFTALIK DIZILER",Ben Bu Cihana Sigmazam
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yargı" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUb3TjQim6m6dFKryqiyrj9DPpL.jpg" group-title="VOD-HAFTALIK DIZILER",Yargı
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teşkilat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="VOD-HAFTALIK DIZILER",Teşkilat
+http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191724.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yabani" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/skDntcucT92NslUhJxuj68Uuqyr.jpg" group-title="VOD-HAFTALIK DIZILER",Yabani
 http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/193347.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bambaska Biri" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXkrDEV0n7eSMqwBT1KGWmGqIUQ.jpg" group-title="VOD-HAFTALIK DIZILER",Bambaska Biri
@@ -1924,16 +1940,12 @@ http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/192576.mkv
 http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/192217.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Arka Sokaklar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="VOD-HAFTALIK DIZILER",Arka Sokaklar
 http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/192076.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yargı" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUb3TjQim6m6dFKryqiyrj9DPpL.jpg" group-title="VOD-HAFTALIK DIZILER",Yargı
-http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191728.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yali Capkini" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuBQbzobXatNvjlodo6trmxOVz.jpg" group-title="VOD-HAFTALIK DIZILER",Yali Capkini
 http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191727.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ya Cok Seversen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMw2hUmAlJtZkztonqzjlGNT2RP.jpg" group-title="VOD-HAFTALIK DIZILER",Ya Cok Seversen
 http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191726.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Uc Kiz Kardes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a46cKxbo0CnQO1aK0FhpHB1yTeG.jpg" group-title="VOD-HAFTALIK DIZILER",Uc Kiz Kardes
 http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191725.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Teşkilat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="VOD-HAFTALIK DIZILER",Teşkilat
-http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191724.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ruhun Duymaz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3S1XzYhCakKlJvj6OR4iYSfM9W.jpg" group-title="VOD-HAFTALIK DIZILER",Ruhun Duymaz
 http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191723.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ömer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2DVddf9ZXKJtNOYCcdnJwzuokd.jpg" group-title="VOD-HAFTALIK DIZILER",Ömer
@@ -1960,8 +1972,6 @@ http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191713.mkv
 http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Benim Guzel Ailem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjFKIrNTYEFk6VNniZCllJUga8w.jpg" group-title="VOD-HAFTALIK DIZILER",Benim Guzel Ailem
 http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191711.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ben Bu Cihana Sigmazam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coV7lnv9A0eExfKh5rWcxiG52zZ.jpg" group-title="VOD-HAFTALIK DIZILER",Ben Bu Cihana Sigmazam
-http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191710.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ates Kuslari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dna9YzzCgb18g41vh4tBAMRBgz.jpg" group-title="VOD-HAFTALIK DIZILER",Ates Kuslari
 http://104.244.73.237:8080/movie/tunahancan/dNL2G7JuVK8T/191709.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alparslan: Büyük Selçuklu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXnP3YEN3saxyncRLz7kxc6TvjX.jpg" group-title="VOD-HAFTALIK DIZILER",Alparslan: Büyük Selçuklu
