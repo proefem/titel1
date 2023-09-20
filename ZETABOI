@@ -124,6 +124,7 @@ https://new.cache-stream.workers.dev/stream/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺™
 http://anka@213.239.195.222/turkey/kanald_2023/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+http://europe3.livetv.az/turkey/kanald_2023/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/17/index.m3u8?|Referer=https://www.filbox.com.tr/&e=.m3u8/&user-agent=NetSurf/2.0 (RISC OS; armv3l)
 #http://anka@135.125.234.9:8081/kanald/tracks-v1a1/playlist.m3u8?_=1
 #http://116.202.238.88/KANALD_TR/tracks-v1a1/mono.m3u8
@@ -137,6 +138,7 @@ http://anka@213.239.195.222/turkey/kanald_2023/chunks.m3u8?|User-Agent=NetSurf/2
 #https://new.cache-stream.workers.dev/channel/UCEpoAOB_M0MMkLgtAB32fyw/live.m3u8
 #https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #https://edge02.odtv.az/o3/kanald/playlist.m3u8|User-Agent=Android
+#http://edge02.odtv.az/o3/kanald/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #https://edge02.smart.az/o3/kanald/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #http://66.160.192.241/kanald/index.m3u8?_=1
@@ -240,9 +242,10 @@ http://143951.iptvone.eu:80/live/ErcinSoysal/27BQ1HdQ74/232446.ts
 http://misket.tv:2020/live/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3892.m3u8
 
 #EXTINF:-1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png"aspect-ratio="16:9"    group-title="ULUSAL",BaBaLa TV ᵁᴴᴰ⁺™
-http://tvfalcon.net:8080/play/live.php?mac=00:1A:79:AF:F9:1C&stream=629214&extension=ts
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:AF:F9:1C&stream=629214&extension=ts
-http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=143114&extension=ts
+#http://tvfalcon.net:8080/play/live.php?mac=00:1A:79:AF:F9:1C&stream=629214&extension=ts#
+#http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:AF:F9:1C&stream=629214&extension=ts
+#http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=143114&extension=ts
 
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=48899&extension=m3u8
@@ -260,14 +263,14 @@ http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=48899&extensio
 http://anka@mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="mmnhdradioturky.tr" tvg-name="mmnhdradioturky.tr" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38"group-title="ULUSAL", KANAL MARKO FHD
-http://tv56245.ozelip.com:2052/marko/marko/chunklist.m3u8
+http://anka@tv56245.ozelip.com:2052/marko/marko/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53/CLCTV.PNG"group-title="ULUSAL", CLC MEDYA TV HD
-https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+https://anka@clcmediatv.ozelip.com:3192/stream/play.m3u8
 
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",4TÜRK TV ᴴᴰ
-http://195.230.27.108:8004/play/a02k/index.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+#http://195.230.27.108:8004/play/a02k/index.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:1 tvg-id="kobımTV.tr" tvg-language="Turkish" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPDyY5d5IpLzUjPPiZoNjNxscqiArUPncwL42W5KrDpOGhINrN1aRN4uabbQcWtMvl7_01tM75oqS8RCqVDU2QqoKDtCCueHCNiTQyUR56S71-F-Cpzgr4IzsJW9UrJzqwm4N7dr950PysjpW7kzy5bmn8fAAvTr6eH3u3m-Y8wnruB-vOQIZ3QtwqlA/w197-h46/kobimtv.PNG" group-title="ULUSAL",KOBiM TV ᴴᴰ
 #http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
@@ -279,24 +282,24 @@ http://195.230.27.108:8004/play/a02k/index.m3u8?|User-Agent=NetSurf/2.0 (RISC OS
 #https://vdo.digitalbox.xyz:3385/hybrid/play.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN KADIN TV ᴴᴰ
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@s01.webcaster.cloud/wmtv/live_1080p.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="tvmor.tr"tvg-url="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" aspect-ratio="16:9"    group-title="ULUSAL",MOR TV ᴴᴰ
-https://vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGRh2rAXlRVDJ1Y81_Wnz2bSc-kzOzXZ5PWpN7VDvWsqm3771XEr98GerfS9RYYU2Cys2sZPp6fOlo-3ohTNbgK6eMAIfW7uX8ksgii5DDbI7phg0OS9vyCuMB_07VXjezaI0XnClPyizSTxehWHwRXchViNtABUigqEV8SSuVNw1mTeDUek0n4XPAgA/w111-h111/COZUM.png", COZUM YAPI TV HD
 #http://34.16.130.141:3778/hybrid/play.m3u8
 #http://34.107.124.147:3778/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-url="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" aspect-ratio="16:9"    group-title="ULUSAL",16BUÇUK TV ᴴᴰ
-http://145.239.58.133:28008/bucuk/bucuk/playlist.m3u8
+#http://145.239.58.133:28008/bucuk/bucuk/playlist.m3u8
 
 #EXTINF:-1  tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://canlitv.center/channels/bizimev-tv.png"aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV TV ᴴᴰ
 https://anka@bizimev.blutv.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg"aspect-ratio="16:9"   group-title="ULUSAL",AKILLI  ᴴᴰ
 http://xpone.nl:80/play/live.php?mac=00:1A:79:38:40:28&stream=7291&extension=ts
-http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=29938&extension=ts
+#http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=29938&extension=ts
 #http://xpone.nl:80/play/live.php?mac=00:1A:79:AB:5B:D9&stream=7291&extension=ts
 #http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/6782/index.m3u8
 #http://vipavrasya.tv:15000/live/pyZzeBda/1Vfaeh9KZU/14861.m3u8
@@ -341,7 +344,7 @@ http://anka@149.7.102.223:8080/TGRTEU/playlist.m3u8?|User-Agent=NetSurf/2.0 (RIS
 #http://anka@195.142.1.211:4022/udp/224.2.2.84:10001|User-Agent=perfectplayer1.6.0.1
 #https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
 
-#EXTINF:-1 tvg-id="trtbelgesel.tr"tvg-name="TGRT Belgesel TR"  tvg-logo="https://picon-13398.kxcdn.com/tgrtbelgeseltr.jpg" aspect-ratio="16:9"  group-title="ULUSAL",TGRT BELGESEL ᴴᴰ
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr"tvg-name="TGRT Belgesel TR"  tvg-logo="https://picon-13398.kxcdn.com/tgrtbelgeseltr.jpg" aspect-ratio="16:9"  group-title="ULUSAL",TGRT BELGESEL ᴴᴰ
 https://anka@59c7ea6bec1c6.streamlock.net:443/live/tgrtbelgesel.stream/chunklist_w1580583757.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 #https://anka@59c7ea6bec1c6.streamlock.net/live/tgrtbelgesel.stream/playlist.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 #https://anka@nimplus3.bozztv.com/tgrtbelgesel/tgrtbelgesel/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
@@ -363,7 +366,7 @@ https://anka@live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8?|User
 https://anka@live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="aktueltv.tr"tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL"    ,AKTUEL TV ᴴᴰ	
-https://anka@cdn-aktueltv.yayin.com.tr/aktueltv/aktueltv/chunklist_w1976272754.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+#https://anka@cdn-aktueltv.yayin.com.tr/aktueltv/aktueltv/chunklist_w1976272754.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="meltemtv.tr" tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="ULUSAL",MELTEM TV ᵁᴴᴰ⁺™
 https://anka@vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
@@ -373,7 +376,7 @@ https://anka@59c7ea6bec1c6.streamlock.net:443/live/tv5.stream/chunklist_w6350234
 #https://new.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://1.bp.blogspot.com/-r0fiC5ccbiA/XtEXUkhrxzI/AAAAAAAANio/4ntG-zo5BKwlaLyrfBIqXqkR0NNBVCrVACLcBGAsYHQ/s200/mugla%2Bturk.png" group-title="ULUSAL" , AY TURK TV
-#https://vdo.digitalbox.xyz:3243/hybrid/play.m3u8
+#https://anka@vdo.digitalbox.xyz:3243/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-r0fiC5ccbiA/XtEXUkhrxzI/AAAAAAAANio/4ntG-zo5BKwlaLyrfBIqXqkR0NNBVCrVACLcBGAsYHQ/s200/mugla%2Bturk.png" group-title="ULUSAL" , M TURK TV
 https://anka@edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
@@ -396,25 +399,25 @@ https://anka@cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8?|User-Agen
 https://anka@ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV ᴴᴰ
-https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://canlitv.center/channels/deniz-postasi-tv.png"  group-title="ULUSAL",DENİZ POSTASI ᴴᴰ⁺™
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://yerelmedya.tv/logosTV/tr35.png"  group-title="ULUSAL",TV35 ᴴᴰ⁺
 #https://stream01.tv35.com.tr/hls2/tv35izmir.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="kanal34.tr" tvg-logo="https://i.imgur.com/WYhTpIm.png"group-title="ULUSAL" , KANAL 34 iSTANBULᴴᴰ⁺
-https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:0 tvg-id="kanalistanbultv.tr" tvg-logo="https://i.imgur.com/NPgSgYm.png" group-title="ULUSAL", KANAL iSTANBUL ᴴᴰ⁺
 #http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="istanbultv.tr" tvg-logo="https://i.imgur.com/ta44cGT.png" group-title="ULUSAL",ISTANBUL TVᴴᴰ⁺
-https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="KanalB.tr" tvg-name="KANAL B TR" tvg-logo="https://picon-13398.kxcdn.com/kanalbtr.jpg"aspect-ratio="16:9" group-title="ULUSAL",KANAL B ᴴᴰ⁺™
-https://kanalb.blutv.com/blutv_kanalb2/live.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@kanalb.blutv.com/blutv_kanalb2/live.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #https://yayin1.canlitv.day/live1/out-kanalb.stream/playlist.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 #http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 
@@ -434,17 +437,17 @@ https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 https://yayin1.canlitv.day/canlitv/tv2020.stream/playlist.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="ULUSAL",EKOL TV
-https://live.artidijitalmedya.com:443/artidijital_ekoltv/ekoltv/chunks.m3u8?nimblesessionid=1275973041
+https://anka@live.artidijitalmedya.com:443/artidijital_ekoltv/ekoltv/chunks.m3u8?nimblesessionid=1275973041
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="ULUSAL",EKOL TV
 #https://yayin1.canlitv.day/canlitv/torbatv.stream/chunklist_w490098110.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 #https://yayin1.canlitv.day/canlitv/torbatv.stream/playlist.m3u8
 
 #EXTINF:1 tvg-id="tv48.tr" tvg-language="Türkçe" tvg-logo="https://www.tv48.com.tr/images/genel/sociallogo_1.png" group-title= "ULUSAL",TV 48 ᴴᴰ
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+https://anka@ajansplay.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
 #EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="http://kar-beyaz.access.ly:54381/images/33f7685d729ff996fc7ef0862e24d0af.png"group-title="ULUSAL" ,ANTALYA TV ᴴᴰ
-https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/corp/tt/turksat_tr.png", TURKSAT_TEST
 http://46.45.158.8:8096/bysid/51202
@@ -462,7 +465,7 @@ https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1281/index.m
 https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1280/index.m3u8|Referer=https://www.filbox.com.tr/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="http://ozburuntv.com/wp-content/uploads/2022/01/MediumSquareLogo.png" group-title="ULUSAL",Özburun TV ᴴᴰ
-https://media2.streambrothers.com:19360/8314/8314.m3u8
+https://anka@media2.streambrothers.com:19360/8314/8314.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
 https://anka@streaming.netdirekt.com.tr:443/35757/teleontv/fogmediagroups_lisansli_ultrahd__/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
@@ -471,25 +474,25 @@ https://anka@streaming.netdirekt.com.tr:443/35757/teleontv/fogmediagroups_lisans
 https://anka@cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",VRT TV ᴴᴰ
-https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
+https://anka@vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", ADA NET TV ᴴᴰ
-https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@edge1.socialsmart.tv/adatv/bant1/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", KANAL ADA TV
-http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+http://anka@145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:0  tvg-id="365tv.tr" channelId="-1" tvg-logo="https://www.samtv.com.tr/wp-content/uploads/2023/03/1.png"group-title="ULUSAL" ,SAM TV ᴴᴰ
-https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png"group-title="ULUSAL" ,YAŞAM TV ᴴᴰ
-https://yayin30.haber100.com/live/yasamtv/chunklist_w2024915114.m3u8
+https://anka@yayin30.haber100.com/live/yasamtv/chunklist_w2024915114.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://skyhaber.tv/wp-content/uploads/2022/07/tv-sky.png" group-title="ULUSAL", SKY TÜRK ᴴᴰ
-https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="tiviTURK.de" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6U0FimhNMRWumIIiBOgbuQw9cDfaiLcS7c5c9ZBQ&s" group-title="ULUSAL",tiviTÜRKᴴᴰ
-https://stream.tiviturk.de/live/tiviturk.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@stream.tiviturk.de/live/tiviturk.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="	https://yt3.ggpht.com/oJQArCbC3NDhMxcGlDTQ-FWWSdjVFyjuBY8QEkH4sG6o3DG6ZlWlfTZHKK-olfAD3ITw9P770UQ" group-title="ULUSAL",Kemal Sunal Filmleri 1ᴴᴰ
 https://new.cache-stream.workers.dev/stream/UCE1XdVHzOdMnUsUMatIzjag/live.m3u8?sd=10&rebase=on
@@ -498,7 +501,7 @@ https://new.cache-stream.workers.dev/stream/UCE1XdVHzOdMnUsUMatIzjag/live.m3u8?s
 https://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="ULUSAL", YEŞİLÇAM sinevizyon ᴴᴰ
-http://tv56245.ozelip.com:2052/ilkguntv/ilkguntv/chunklist.m3u8
+http://anka@tv56245.ozelip.com:2052/ilkguntv/ilkguntv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="ULUSAL", YEŞİLÇAM sinevizyon1 ᴴᴰ
 https://nimplus4.bozztv.com:443/trsinevizyon1/trsinevizyon1/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
@@ -645,23 +648,24 @@ https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
 https://rtmp2.abnvideos.com/hls/abnturkey.m3u8
 
 
-#EXTINF:-1 tvg-name="DiscoveryChannelTurkey.tr" tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="" group-title="ULUSAL",XP Belgesel HD
+
+#EXTINF:-1 tvg-name="DiscoveryChannelTurkey.tr" tvg-id="" tvg-country="Turkey" audio-track="tr"  tvg-language="Turkish" tvg-logo="" group-title="ULUSAL",XP Belgesel HD
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=24615&extension=ts
 
-#EXTINF:-1 tvg-name="trtbelgesel.tr" tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="" group-title="ULUSAL",TRT Belgesel HD
+#EXTINF:-1 tvg-name="trtbelgesel.tr" tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="" audio-track="tr"  group-title="ULUSAL",TRT Belgesel HD
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=2835&extension=ts
 
 #EXTINF:-1 tvg-name="DiscoveryChannelTurkey.tr" tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2020/06/26/large/20200626210520968279_35.png" group-title="ULUSAL",[BD]discovery world hd@@5[geo-blocked]
 #EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/dis.png" group-title="ULUSAL",Discovery HD
 http://103.209.173.14:9999/crafthub/gAAAAABk0c4Z6Zpjnads3tlcu95w-dt0ZwgbUkycyoPnMvTOcRWY700aul-ht8QZJadRBI929RgA3tVyasG_IMBD0qQgmR3aZg==/index.m3u8
 
-#EXTINF:-1 tvg-id="TLCTurkiye.tr" tvg-name="TLC HD TR" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="ULUSAL",TLC ᴴᴰ⁺™
+#EXTINF:-1 tvg-id="TLCTurkiye.tr" tvg-name="TLC HD TR" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg"  audio-track="tr" group-title="ULUSAL",TLC ᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=2840&extension=ts
 #http://anka@195.142.1.211:4002/udp/224.2.2.7:10001|User-Agent=perfectplayer1.6.0.1
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #http://212.224.84.217:2200/TR-N/TLC_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="DMAXTurkiye.tr" tvg-name="DMAX HD TR" tvg-logo="https://picon-13398.kxcdn.com/dmaxhd.jpg" group-title="ULUSAL",DMAX ᴴᴰ⁺™
+#EXTINF:-1 tvg-id="DMAXTurkiye.tr" tvg-name="DMAX HD TR" tvg-logo="https://picon-13398.kxcdn.com/dmaxhd.jpg" audio-track="tr"  group-title="ULUSAL",DMAX ᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=31320&extension=ts
 #http://anka@195.142.1.211:4002/udp/224.2.2.3:10001|User-Agent=perfectplayer1.6.0.1
 https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
@@ -670,31 +674,31 @@ https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tarih TV HD TR" tvg-logo="" group-title="ULUSAL",Tarih TV HD TR
 http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401427
 
-#EXTINF: -1 tvg-id="24KitchenTurkey.tr" tvg-name="24 Kitchen Hd" tvg-logo="https://picon-13398.kxcdn.com/24kitchen.jpg" group-title="ULUSAL", 24 Kitchen ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="24KitchenTurkey.tr" tvg-name="24 Kitchen Hd" tvg-logo="https://picon-13398.kxcdn.com/24kitchen.jpg" audio-track="tr"  group-title="ULUSAL", 24 Kitchen ᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=46689&extension=ts
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260064&extension=ts&play_token=7HuxkMAtL0
 #http://212.224.84.217:2200/TR-N/24_KITCHEN_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="beIN GURME TR" tvg-logo="https://picon-13398.kxcdn.com/beingourmet.jpg" group-title="ULUSAL",BEIN GURME UHD
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="beIN GURME TR" tvg-logo="https://picon-13398.kxcdn.com/beingourmet.jpg" audio-track="tr"  group-title="ULUSAL",BEIN GURME UHD
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=31314&extension=ts
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260053&extension=ts&play_token=FBOPg3YCB8
 
-#EXTINF:-1 tvg-id="beINiz.tr" tvg-name="beIN İZ TR" tvg-logo="https://picon-13398.kxcdn.com/beiniz.jpg" group-title="ULUSAL", beIN iz ᴴᴰ⁺™
+#EXTINF:-1 tvg-id="beINiz.tr" tvg-name="beIN İZ TR" tvg-logo="https://picon-13398.kxcdn.com/beiniz.jpg"  audio-track="tr" group-title="ULUSAL", beIN iz ᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=3047&extension=ts
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=141&extension=ts
 #http://31.172.87.53:2200/EX/beIN_IZ_FHD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="Da Vinci.tr" tvg-name="Da Vinci Hd" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" tvg-language="Türkçe" group-title="ULUSAL", Da Vinci ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="Da Vinci.tr" tvg-name="Da Vinci Hd" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" audio-track="tr"  tvg-language="Türkçe" group-title="ULUSAL", Da Vinci ᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=31317&extension=ts
 http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=132&extension=ts
 #http://212.224.84.217:2200/TR-N/DaVinci_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="BBCEarthTurkey.tr" tvg-name="BBC EARTH Hd" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" tvg-language="Türkçe"  group-title="ULUSAL", BBC EARTH ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="BBCEarthTurkey.tr" tvg-name="BBC EARTH Hd" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" audio-track="tr"  tvg-language="Türkçe"  group-title="ULUSAL", BBC EARTH ᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=99747&extension=ts
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260051&extension=ts&play_token=A8D1Fd3THm
 #http://212.224.84.217:2200/TR-N/BBC_EARTH_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="ViasatHistoryTurkey.tr" tvg-name="Viasat Histoy Hd" tvg-logo="https://picon-13398.kxcdn.com/viasathistory.jpg" tvg-language="Türkçe"  group-title="ULUSAL", Viasat History ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="ViasatHistoryTurkey.tr" tvg-name="Viasat Histoy Hd" tvg-logo="https://picon-13398.kxcdn.com/viasathistory.jpg" audio-track="tr"  tvg-language="Türkçe"  group-title="ULUSAL", Viasat History ᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=147434&extension=ts
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260066&extension=ts&play_token=55mqGg5MVE
 #https://edge02.odtv.az/o5/viasathistory/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
@@ -705,66 +709,66 @@ http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401433
 http://itectv.live:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913161&extension=ts
 #https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 
-#EXTINF: -1 tvg-id="ViasatNatureTurkey.tr" tvg-name="Viasat Histoy Hd" tvg-logo="https://picon-13398.kxcdn.com/viasatnaturehd.jpg"tvg-language="Türkçe"  group-title="ULUSAL", VIASAT NATURE  ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="ViasatNatureTurkey.tr" tvg-name="Viasat Histoy Hd" tvg-logo="https://picon-13398.kxcdn.com/viasatnaturehd.jpg" audio-track="tr" tvg-language="Türkçe"  group-title="ULUSAL", VIASAT NATURE  ᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=31315&extension=ts
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260067&extension=ts&play_token=2ERN0m86in
 #https://edge02.odtv.az/o5/viasatnature/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 
 
 
-#EXTINF: -1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="Nat Geo Wild Hd" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" tvg-language="Türkçe" group-title="ULUSAL", Nat Geo Wild ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="Nat Geo Wild Hd" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg"  audio-track="tr" tvg-language="Türkçe" group-title="ULUSAL", Nat Geo Wild ᴴᴰ⁺™
 https://edge02.odtv.az/o3/natgeowild/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #https://st.mynowmynowmynow.mom/encrypted/nwild/stream.m3u8
 #http://212.224.84.217:2200/TR-N/NAT_GEO_WILD_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="NationalGeographicTurkey.tr" tvg-name="National Geographic Hd" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg"tvg-language="Türkçe"  group-title="ULUSAL", National Geographic ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="NationalGeographicTurkey.tr" tvg-name="National Geographic Hd" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" audio-track="tr" tvg-language="Türkçe"  group-title="ULUSAL", National Geographic ᴴᴰ⁺™
 https://edge02.odtv.az/o3/natgeo/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #https://st.mynowmynowmynow.mom/encrypted/natgeo/stream.m3u8
 #http://212.224.84.217:2200/TR-N/NAT_GEO_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="Discovery Channel Hd" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="ULUSAL", Discovery Channel ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="Discovery Channel Hd" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg"  audio-track="tr" group-title="ULUSAL", Discovery Channel ᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=3004&extension=ts
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260055&extension=ts&play_token=BaxyqBLyxY
 #https://edge02.odtv.az/o5/discovery/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #https://st.mynowmynowmynow.mom/encrypted/diss/stream.m3u8
 #http://212.224.84.217:2200/TR-N/DISCOVERY_CHANNEL_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="DiscoveryScienceTurkey.tr" tvg-name="Discovery Science Hd" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="ULUSAL", Discovery Science ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="DiscoveryScienceTurkey.tr" tvg-name="Discovery Science Hd" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" audio-track="tr"  group-title="ULUSAL", Discovery Science ᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=3003&extension=ts
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260058&extension=ts&play_token=8zzs1gJnn8
 #https://edge02.odtv.az/o3/discoveryscience/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #https://st.mynowmynowmynow.mom/encrypted/dscience/stream.m3u8
 #http://212.224.84.217:2200/TR-N/DISCOVERY_SCIENCE_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="dt.305" tvg-name="Docu Box Hd" tvg-logo="https://picon-13398.kxcdn.com/docuboxhd.jpg" group-title="ULUSAL", Docu Box ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="dt.305" tvg-name="Docu Box Hd" tvg-logo="https://picon-13398.kxcdn.com/docuboxhd.jpg" audio-track="tr"  group-title="ULUSAL", Docu Box ᴴᴰ⁺™
 http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401416
 #http://212.224.84.217:2200/TR-N/DOCUBOX_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="dt.305" tvg-name="History Channel Hd" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="ULUSAL", History Channel 
+#EXTINF: -1 tvg-id="dt.305" tvg-name="History Channel Hd" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" audio-track="tr"  group-title="ULUSAL", History Channel 
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=2964&extension=ts
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260065&extension=ts&play_token=PC6ArWwXfU
 #http://168.121.46.90:8000/play/a005/index.m3u8
 #http://212.224.84.217:2200/TR-N/History_Channel_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="dt.305" tvg-name="History Channel Hd" tvg-logo="https://picon-13398.kxcdn.com/h2.jpg" group-title="ULUSAL", History Channel 2
+#EXTINF: -1 tvg-id="dt.305" tvg-name="History Channel Hd" tvg-logo="https://picon-13398.kxcdn.com/h2.jpg"  audio-track="tr" group-title="ULUSAL", History Channel 2
 #http://168.121.46.90:8000/play/a063/index.m3u8
 #http://212.224.84.217:2200/TR-N/History_Channel_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF: -1 tvg-id="dt.305" tvg-name="investigation Discovery Hd" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscovery.jpg" group-title="ULUSAL", investigation Discovery ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="dt.305" tvg-name="investigation Discovery Hd" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscovery.jpg" audio-track="tr"  group-title="ULUSAL", investigation Discovery ᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=7429&extension=ts
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260054&extension=ts&play_token=1Fea0pw233
 #http://212.224.84.217:2200/EX/Investigation_Discovery_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="AnimalPlanet.tr" tvg-name="Animal Planet UK" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="ULUSAL",Animal Planet 
+#EXTINF:-1 tvg-id="AnimalPlanet.tr" tvg-name="Animal Planet UK" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" audio-track="tr"  group-title="ULUSAL",Animal Planet 
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=3058&extension=ts
 http://seeallplus.net:80/play/live.php?mac=00:1A:79:00:07:91&stream=260050&extension=ts&play_token=LzujM47r6M
 
-#EXTINF: -1 tvg-id="dt.305" tvg-name="Animaux Hd" tvg-logo="https://picon-13398.kxcdn.com/animaux.jpg" group-title="ULUSAL", Animaux ᴴᴰ⁺™
+#EXTINF: -1 tvg-id="dt.305" tvg-name="Animaux Hd" tvg-logo="https://picon-13398.kxcdn.com/animaux.jpg" audio-track="tr"  group-title="ULUSAL", Animaux ᴴᴰ⁺™
 #http://212.224.84.217:2200/EX/Animaux-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 #http://212.224.84.217:2200/TR-N/Animaux-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165=|User-agent=REDLINECLIENT
 #egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmfXFofXZmeg==REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://ia601904.us.archive.org/31/items/tvlogopack/lovenature_thumb.jpg" tvg-language="Türkçe"  group-title="ULUSAL",Love Nature HD
+#EXTINF:-1 tvg-logo="https://ia601904.us.archive.org/31/items/tvlogopack/lovenature_thumb.jpg" audio-track="tr"  tvg-language="Türkçe"  group-title="ULUSAL",Love Nature HD
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=2904&extension=ts
 http://itectv.live:80/play/live.php?mac=00:1A:79:0F:E8:F5&stream=913160&extension=ts
 #https://d18dyiwu97wm6q.cloudfront.net:443/playlist1080p_1.m3u8
@@ -790,19 +794,19 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbO6QC236vSVT81mpJfVATc/ts
 #EXTINF:-1 group-title="ULUSAL", Loupe 4K
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJQIMJ_KI9Mo4VBAni_jE5uc/ts
 
-#EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",Silk Way TV (RUS)
+#EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" audio-track="tr"  group-title="ULUSAL",Silk Way TV (RUS)
 #http://ikomg3.mmdlive.lldns.net/ikomg3/b3360f1570aa43398a84fd7ea2d77d9a/manifest.m3u8
 
-#EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",Silk Way TV (ENG)
+#EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" audio-track="tr"  group-title="ULUSAL",Silk Way TV (ENG)
 http://ikomg3.mmdlive.lldns.net/ikomg3/d4c3d429111741509dbd16cd1bc7b543/manifest.m3u8
 
-#EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",Silk Way TV (KG)
+#EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" audio-track="tr"  group-title="ULUSAL",Silk Way TV (KG)
 http://ikomg3.mmdlive.lldns.net/ikomg3/c8e3f80276d340a5bd13f34031be0191/manifest.m3u8
 
-#EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",Silk Way TV (KZ)
+#EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png"  audio-track="tr" group-title="ULUSAL",Silk Way TV (KZ)
 http://ikomg3.mmdlive.lldns.net/ikomg3/28726b32ffed4182991d082552600e93/manifest.m3u8
 
-#EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",Silk Way TV (UZB)
+#EXTINF:0  tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png"  audio-track="tr" group-title="ULUSAL",Silk Way TV (UZB)
 http://ikomg3.mmdlive.lldns.net/ikomg3/26110023a9e34bafa3b4b413f99183f5/manifest.m3u8
 
 
@@ -827,7 +831,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 #EXTINF:-1 tvg-name="LOUPE UHD" tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png" group-title="ULUSAL",LOUPE ᵁᴴᴰ⁺™
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-name="LOVE NATURE UHD" tvg-id="" tvg-language="Turkish"  tvg-logo="https://www.brouzdal.cz/televize-programova-nabidka/image/sledovanitv-cz-cache-logos256-love-nature.png" group-title="ULUSAL",LOVE NATURE ᵁᴴᴰ⁺™
+#EXTINF:-1 tvg-name="LOVE NATURE UHD" tvg-id="" tvg-language="Turkish"  tvg-logo="https://www.brouzdal.cz/televize-programova-nabidka/image/sledovanitv-cz-cache-logos256-love-nature.png" audio-track="tr" group-title="ULUSAL",LOVE NATURE ᵁᴴᴰ⁺™
 https://d18dyiwu97wm6q.cloudfront.net:443/playlist1080p_1.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-language="Turkish"  tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/C0890450-5801-4E07-ACEB-D392A350C800.jpeg" group-title="ULUSAL",Clarity 4K
@@ -1333,7 +1337,7 @@ https://anka@halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8?|User-Agent=NetSu
 
 https://canlitv.center/channels/cadde-tv.png" group-title="HABER",CADDE TVᵁᴴᴰ⁺™
 #EXTINF:-1 tvg-id="CADDE TV.TR" tvg-name=" HD TR" tvg-logo="https://www.volotv.com/media/images/tvlogo/caddetv-tvlive-13bp.webp" group-title="HABER",CADDE TVᵁᴴᴰ⁺™
-http://194.156.236.20:8000/play/a00a
+http://195.189.62.140:8000/play/a04h/index.m3u8
 #https://new.cache-stream.workers.dev/stream/UCPTF3NxWzcBD8rNnJuGQOSA/live.m3u8?_=1
 #https://ythls.onrender.com/channel/UCPTF3NxWzcBD8rNnJuGQOSA.m3u8
 
@@ -1798,6 +1802,64 @@ https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
 #http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 
+#EXTINF:-1 group-title="ULUSAL-int" tvg-id="2158",CBC AZ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/cbc/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int" tvg-id="2553",Space TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/space/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int" tvg-id="2557",Medeniyyet
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/medeniyyet/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int" tvg-id="7368",ARB TV HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/arbtv/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Ictimai TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/ictimai/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",ARB 24 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/arb24/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Idman
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/idman/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Real TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o2/realtv/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Discovery Science
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Discovery
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/discovery/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Animal Planet
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/animalplanet/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Viasat Nature
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/viasatnature/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Viasat History
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/viasathistory/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Viasat Explore
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Bein Sports 1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o4/beinsport/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Eurosport 2
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Viasat Sport
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="ULUSAL-int",Extreme Sports
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o4/extremesport/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+
 #EXTINF:-1 group-title="ULUSAL-int"  tvg-id""tvg-logo="",UYGUR TV
 https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w1333397898.m3u8
 #EXTINF:1 group-title="ULUSAL-int"  tvg-id""tvg-logo="http://epg.it999.ru/img/2435.png",atv Azerbaycan TV
@@ -1823,7 +1885,6 @@ http://213.239.195.222/azerbaijan/aztv_stream_sd_2023/playlist.m3u8
 http://node01.nntv.az:8162/ch2/ch2.hi.m3u8?st=d4WyQub2T1dRf2VWiiXSWw&e
 #EXTINF:1 group-title="ULUSAL-int"  tvg-id""tvg-logo="http://epg.it999.ru/img/2435.png",Dünya TV
 http://node01.nntv.az:8163/ch6/ch6.hi.m3u8?st=d4WyQub2T1dRf2VWiiXSWw&e
-
 #EXTINF:1 group-title="ULUSAL-int"  tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png",CBC Sport HD
 http://213.239.195.222/azerbaijan/cbc_sport_stream_hd_2023/playlist.m3u8
 #EXTINF:1 group-title="ULUSAL-int"  tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png",CBC Sport HD
@@ -1848,8 +1909,6 @@ http://213.239.195.222/azerbaijan/idman_stream_sd_2023/playlist.m3u8
 http://node01.nntv.az:8162/ch4/ch4.hi.m3u8?st=d4WyQub2T1dRf2VWiiXSWw&e
 #EXTINF:-1 group-title="ULUSAL-int"  tvg-id""tvg-logo="",Az News TV 
 https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
-#EXTINF:0,CBC
-
 #EXTINF:-1 group-title="ULUSAL-int"  tvg-id""tvg-logo="",Real TV
 http://node01.nntv.az:8162/ch5/ch5.hi.m3u8?st=d4WyQub2T1dRf2VWiiXSWw&e
 #EXTINF:-1 group-title="ULUSAL-int"  tvg-id""tvg-logo="",Kanal S
@@ -1884,6 +1943,8 @@ http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mov
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8908.mp4
 #EXTINF:-1 tvg-name="Teskilat -TRT-1-( SON BLM )" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3Av5kBw3qhwR6rRbKPzgkTelY8-_DyiiPKp_vNhI_xnz.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Teskilat -TRT-1-( SON BLM )
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8881.mp4
+#EXTINF:-1 tvg-name="Dilek Taşı - Kanal D - (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/f4nh1newqa.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Dilek Taşı - Kanal D - (Son Blm)
+http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8901.mp4
 #EXTINF:-1 tvg-name="Guldur Guldur show (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3GTlP7A4tM66nJT4nT51S9ADUEOhBsbk5pnsSsp6XL24.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Guldur Guldur show (Son Blm)
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8882.mp4
 #EXTINF:-1 tvg-name="Alparslan: Büyük Selçuklu -TRT1" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3KVbiYrMcGP7nRs68xEAToKQc7-zmU1PdvF22Dy5l1Jz.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Alparslan: Büyük Selçuklu -TRT1
@@ -1907,7 +1968,7 @@ http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mov
 #EXTINF:-1 tvg-name="Ömer-Star (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/omer2023.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ömer-Star (Son Blm)
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8900.mp4
 #EXTINF:-1 tvg-name="Doğu Demirkol ile Alelade-STAR TV" tvg-logo="http://my-media.ddns.me:52381/images/ZXB-eYaXTVWD5l_vzgmogZ5oVxhxISQy55u0GbQYUWIbL2HLXBkjHQz3Gg7otoAkjmNJHplNwILs31M1IEcPt00yKt5pO5zUWpWE_j2CrIo.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Doğu Demirkol ile Alelade-STAR TV
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8901.mp4
+#http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8901.mp4
 #EXTINF:-1 tvg-name="Veda Mektubu-Kanal D (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/mv5bngvpv.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Veda Mektubu-Kanal D (Son Blm)
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8903.mp4
 #EXTINF:-1 tvg-name="Üç Kız Kardeş-KANAL D (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6R9ZrBIMVSKFlZaMCVN71pR.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Üç Kız Kardeş-KANAL D (Son Blm)
@@ -7235,11 +7296,13 @@ http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:01:6c:6b&stream=611937&ex
 
 
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-name="Minika Çocuk" tvg-logo="https://picon-13398.kxcdn.com/minikacocuktr.jpg" group-title="COCUK",Minika Çocuk
+https://nimplus3.bozztv.com/minika_cocuk/minika_cocuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDIzIDEwOjI2OjI1IEFNJmhhc2hfdmFsdWU9ZnVZUDVTOVZWQTNlaG9NMGFTam1aUT09JnZhbGlkbWludXRlcz0xNDQw==
 https://filboxhemen.com.tr:443/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/94.m3u8
 http://anka@195.142.1.211:4002/udp/224.2.2.17:10001|User-Agent=perfectplayer1.6.0.1
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001212/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001212&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="minikaGO" tvg-logo="https://picon-13398.kxcdn.com/minikagotr.jpg" group-title="COCUK",Minika GO
+https://nimplus3.bozztv.com/minika_go/minika_go/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDIzIDEwOjI2OjI1IEFNJmhhc2hfdmFsdWU9ZnVZUDVTOVZWQTNlaG9NMGFTam1aUT09JnZhbGlkbWludXRlcz0xNDQw==
 https://filboxhemen.com.tr:443/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/92.m3u8
 http://anka@195.142.1.211:4002/udp/224.2.2.18:10001|User-Agent=perfectplayer1.6.0.1
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001211/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001211&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
