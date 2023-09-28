@@ -234,7 +234,7 @@ https://anka@play2dvr.blutv.com/blutv_play1_dvr/live.m3u8
 https://anka@play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="ULUSAL" tvg-logo="https://i.imgur.com/VTeSkWA.png",DİZİ MAX
-http://anka@cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
+#http://anka@cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
 https://anka@streaming.netdirekt.com.tr:443/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
@@ -243,10 +243,10 @@ https://anka@streaming.netdirekt.com.tr:443/35757/teleontv/klasmediagroup_lisans
 https://anka@cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
 #EXTINF:0 tvg-id="TVEM.tr" tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",STAR1 TV
-https://anka@live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#https://anka@live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="TVEM.tr" tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",STAR2 TV
-https://anka@live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+#https://anka@live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPDyY5d5IpLzUjPPiZoNjNxscqiArUPncwL42W5KrDpOGhINrN1aRN4uabbQcWtMvl7_01tM75oqS8RCqVDU2QqoKDtCCueHCNiTQyUR56S71-F-Cpzgr4IzsJW9UrJzqwm4N7dr950PysjpW7kzy5bmn8fAAvTr6eH3u3m-Y8wnruB-vOQIZ3QtwqlA/w197-h46/kobimtv.PNG" group-title="ULUSAL",KOBiM TV ᴴᴰ
 #http://anka@cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
@@ -258,7 +258,7 @@ https://anka@live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/t
 https://anka@bizimev.blutv.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id=""tvg-url="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" aspect-ratio="16:9"    group-title="ULUSAL",BUÇUK TV
-http://145.239.58.133:28008/bucuk/bucuk/playlist.m3u8
+#http://145.239.58.133:28008/bucuk/bucuk/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg" aspect-ratio="16:9"   group-title="ULUSAL",AKILLI TV 
@@ -861,6 +861,157 @@ http://globaltv1.net:8080/raAxH65Q/jUTkam4/227189
 http://globaltv1.net:8080/raAxH65Q/jUTkam4/227190
 
 
+#EXTINF:-1 group-title="ULUSAL_SPOR",======== >SPOR<========
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401087
+#EXTINF:-1 group-title="ULUSAL_SPOR",Trt Spor 2 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401130
+#EXTINF:-1 group-title="ULUSAL_SPOR",TRT Spor FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401128
+#EXTINF:-1 group-title="ULUSAL_SPOR",TRT Spor HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401129
+#EXTINF:-1 group-title="ULUSAL_SPOR",TRT SPOR YILDIZ TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401131
+#EXTINF:-1 group-title="ULUSAL_SPOR",A SPOR FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401126
+#EXTINF:-1 group-title="ULUSAL_SPOR",A SPOR HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401127
+#EXTINF:-1 group-title="ULUSAL_SPOR",TV 8.5 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/400973
+#EXTINF:-1 group-title="ULUSAL_SPOR",Sport INFO TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401090
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 1 TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401096
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 1 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401094
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 1 HD TR (Yedek)
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401095
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 1 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401091
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 1 FHD TR (Yedek)
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401092
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 1 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401093
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 2 TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401101
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 2 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401100
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 2 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401097
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 2 FHD TR (Yedek)
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401098
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 2 FHD TR (Yedek2)
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401099
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 3 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401105
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 3 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401102
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 3 FHD TR (Yedek)
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401103
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 3 FHD TR (Yedek2)
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401104
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 4 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401108
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 4 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401106
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 4 FHD TR (Yedek)
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401107
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS HABER HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401088
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS HABER FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401089
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS MAX 1 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401109
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS MAX 1 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401110
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS MAX 2 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401111
+#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS MAX 2 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401112
+#EXTINF:-1 group-title="ULUSAL_SPOR",Eurosport 1 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401141
+#EXTINF:-1 group-title="ULUSAL_SPOR",Eurosport 1 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401140
+#EXTINF:-1 group-title="ULUSAL_SPOR",Eurosport 2 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401143
+#EXTINF:-1 group-title="ULUSAL_SPOR",Eurosport 2 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401142
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 1 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401145
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 1 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401144
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 2 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401146
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 2 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401147
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 3 HD
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401148
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 3 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401149
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 4 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401152
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 4 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401153
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 5 HD
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401150
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 5 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401151
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 6 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401154
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 6 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401155
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 7 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401156
+#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 8 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401157
+#EXTINF:-1 group-title="ULUSAL_SPOR",FB TV TR+
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401132
+#EXTINF:-1 group-title="ULUSAL_SPOR",FB TV HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401133
+#EXTINF:-1 group-title="ULUSAL_SPOR",Fight Box TV TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401139
+#EXTINF:-1 group-title="ULUSAL_SPOR",GS TV HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401134
+#EXTINF:-1 group-title="ULUSAL_SPOR",NBA TV TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401135
+#EXTINF:-1 group-title="ULUSAL_SPOR",S Sport HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401123
+#EXTINF:-1 group-title="ULUSAL_SPOR",S Sport FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401122
+#EXTINF:-1 group-title="ULUSAL_SPOR",S Sport 2 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401125
+#EXTINF:-1 group-title="ULUSAL_SPOR",S Sport 2 FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401124
+#EXTINF:-1 group-title="ULUSAL_SPOR",Spor Smart HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401120
+#EXTINF:-1 group-title="ULUSAL_SPOR",Spor Smart HD TR (Yedek)
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401121
+#EXTINF:-1 group-title="ULUSAL_SPOR",Spor Smart FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401119
+#EXTINF:-1 group-title="ULUSAL_SPOR",sportstv TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401138
+#EXTINF:-1 group-title="ULUSAL_SPOR",SSport+ 1 TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401158
+#EXTINF:-1 group-title="ULUSAL_SPOR",SSport+ 2 TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401159
+#EXTINF:-1 group-title="ULUSAL_SPOR",T.A.Y TV TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401136
+#EXTINF:-1 group-title="ULUSAL_SPOR",tivibu Spor 1 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401113
+#EXTINF:-1 group-title="ULUSAL_SPOR",tivibu Spor 1 HD TR (Yedek)
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401114
+#EXTINF:-1 group-title="ULUSAL_SPOR",tivibu Spor 2 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401115
+#EXTINF:-1 group-title="ULUSAL_SPOR",tivibu Spor 2 HD TR (Yedek)
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401116
+#EXTINF:-1 group-title="ULUSAL_SPOR",tivibu Spor 3 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401117
+#EXTINF:-1 group-title="ULUSAL_SPOR",tivibu Spor 4 HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401118
+#EXTINF:-1 group-title="ULUSAL_SPOR",TJK TV TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401137
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR BEIN SPOR",▬ Turkey [TR]  ▬
 https://proxy.rssblue.com?url=xxx
 #EXTINF:-1 group-title="TR BEIN SPOR",TR| A SPOR 4K
@@ -996,160 +1147,6 @@ http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=913368&extensi
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ ʜᴅ 1080" tvg-logo="" group-title="SPOR",TRT SPOR YILDIZ ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11699
-#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ ʜᴅ 720" tvg-logo="" group-title="SPOR",TRT SPOR YILDIZ ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11700
-#EXTINF:-1 tvg-id="" tvg-name="ASPOR ʜᴅ 1080" tvg-logo="" group-title="SPOR",ASPOR ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11695
-#EXTINF:-1 tvg-id="" tvg-name="ASPOR ʜᴅ 720" tvg-logo="" group-title="SPOR",ASPOR ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11696
-#EXTINF:-1 tvg-id="" tvg-name="TRTSPOR ʜᴅ 1080" tvg-logo="" group-title="SPOR",TRTSPOR ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11697
-#EXTINF:-1 tvg-id="" tvg-name="TRTSPOR ʜᴅ 720p" tvg-logo="" group-title="SPOR",TRTSPOR ʜᴅ 720p
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11698
-#EXTINF:-1 tvg-id="" tvg-name="TRT 3 SPOR ʜᴅ 1080" tvg-logo="" group-title="SPOR",TRT 3 SPOR ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11701
-#EXTINF:-1 tvg-id="" tvg-name="Tv 8.5 ʜᴅ" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/tv-8.5.png" group-title="SPOR",Tv 8.5 ʜᴅ
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3683
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 1 sᴅ (480p)" tvg-logo="" group-title="SPOR",BEINSPORTS 1 sᴅ (480p)
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11629
-#EXTINF:-1 tvg-id="" tvg-name="BEİNSPORTS 1 ʜᴅ 1080" tvg-logo="" group-title="SPOR",BEİNSPORTS 1 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11630
-#EXTINF:-1 tvg-id="" tvg-name="BEiNSPORTS 1 ʜᴅ 720" tvg-logo="" group-title="SPOR",BEiNSPORTS 1 ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11631
-#EXTINF:-1 tvg-id="" tvg-name="BEİNSPORTS 2 ʜᴅ 1080" tvg-logo="" group-title="SPOR",BEİNSPORTS 2 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11632
-#EXTINF:-1 tvg-id="" tvg-name="BEiNSPORTS 2 ʜᴅ 720" tvg-logo="" group-title="SPOR",BEiNSPORTS 2 ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11633
-#EXTINF:-1 tvg-id="" tvg-name="BEİNSPORTS 3 ʜᴅ 1080" tvg-logo="" group-title="SPOR",BEİNSPORTS 3 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11634
-#EXTINF:-1 tvg-id="" tvg-name="BEiNSPORTS 3 ʜᴅ 720" tvg-logo="" group-title="SPOR",BEiNSPORTS 3 ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11635
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 4 ʜᴅ 1080" tvg-logo="" group-title="SPOR",BEINSPORTS 4 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11636
-#EXTINF:-1 tvg-id="" tvg-name="BEiNSPORTS 4 ʜᴅ 720" tvg-logo="" group-title="SPOR",BEiNSPORTS 4 ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11637
-#EXTINF:-1 tvg-id="" tvg-name="BEiNSPORTS 5 ʜᴅ 1080" tvg-logo="" group-title="SPOR",BEiNSPORTS 5 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11638
-#EXTINF:-1 tvg-id="" tvg-name="BEiNSPORTS 5 ʜᴅ 720" tvg-logo="" group-title="SPOR",BEiNSPORTS 5 ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11639
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 1 ʜᴅ 1080" tvg-logo="" group-title="SPOR",BEINSPORTS MAX 1 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11640
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 1 ʜᴅ 720" tvg-logo="" group-title="SPOR",BEINSPORTS MAX 1 ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11641
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 2 ʜᴅ 1080" tvg-logo="" group-title="SPOR",BEINSPORTS MAX 2 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11642
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 2 ʜᴅ 720" tvg-logo="" group-title="SPOR",BEINSPORTS MAX 2 ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11643
-#EXTINF:-1 tvg-id="" tvg-name="FEED | BEINSPORTS 1 ʜᴅ 1080" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/bein.png" group-title="SPOR",FEED | BEINSPORTS 1 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11644
-#EXTINF:-1 tvg-id="" tvg-name="BEİNSPORTS HABER ʜᴅ 1080" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/BEIN.SPORTS.HABER.FHD.png" group-title="SPOR",BEİNSPORTS HABER ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11645
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS HABER ʜᴅ 720" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/BEIN.SPORTS.HABER.FHD.png" group-title="SPOR",BEINSPORTS HABER ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11646
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -1" tvg-logo="" group-title="SPOR",BEINCONNET CANLI MAC ʜᴅ -1
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11647
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -2" tvg-logo="" group-title="SPOR",BEINCONNET CANLI MAC ʜᴅ -2
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11648
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -3" tvg-logo="" group-title="SPOR",BEINCONNET CANLI MAC ʜᴅ -3
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11649
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -4" tvg-logo="" group-title="SPOR",BEINCONNET CANLI MAC ʜᴅ -4
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11650
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -5" tvg-logo="" group-title="SPOR",BEINCONNET CANLI MAC ʜᴅ -5
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11651
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -6" tvg-logo="" group-title="SPOR",BEINCONNET CANLI MAC ʜᴅ -6
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11652
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -7" tvg-logo="" group-title="SPOR",BEINCONNET CANLI MAC ʜᴅ -7
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11653
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -8" tvg-logo="" group-title="SPOR",BEINCONNET CANLI MAC ʜᴅ -8
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11654
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -9" tvg-logo="" group-title="SPOR",BEINCONNET CANLI MAC ʜᴅ -9
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11655
-#EXTINF:-1 tvg-id="" tvg-name="TiViBUSPOR ʜᴅ 1080" tvg-logo="" group-title="SPOR",TiViBUSPOR ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11656
-#EXTINF:-1 tvg-id="" tvg-name="TiViBUSPOR 1 ʜᴅ 1080" tvg-logo="" group-title="SPOR",TiViBUSPOR 1 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11657
-#EXTINF:-1 tvg-id="" tvg-name="TiViBUSPOR 2 ʜᴅ 1080" tvg-logo="" group-title="SPOR",TiViBUSPOR 2 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11658
-#EXTINF:-1 tvg-id="" tvg-name="TiViBUSPOR 3 ʜᴅ 1080" tvg-logo="" group-title="SPOR",TiViBUSPOR 3 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11659
-#EXTINF:-1 tvg-id="" tvg-name="TiViBUSPOR 4 ʜᴅ 1080" tvg-logo="" group-title="SPOR",TiViBUSPOR 4 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11660
-#EXTINF:-1 tvg-id="" tvg-name="SMARTSPOR ʜᴅ 1080" tvg-logo="" group-title="SPOR",SMARTSPOR ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11661
-#EXTINF:-1 tvg-id="" tvg-name="SMARTSPOR ʜᴅ 720p" tvg-logo="" group-title="SPOR",SMARTSPOR ʜᴅ 720p
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11662
-#EXTINF:-1 tvg-id="" tvg-name="SMARTSPOR 2 ʜᴅ 1080" tvg-logo="" group-title="SPOR",SMARTSPOR 2 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11663
-#EXTINF:-1 tvg-id="" tvg-name="Ssport 1 ʜᴅ 1080" tvg-logo="" group-title="SPOR",Ssport 1 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11664
-#EXTINF:-1 tvg-id="" tvg-name="Ssport 1 ʜᴅ 720" tvg-logo="" group-title="SPOR",Ssport 1 ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11665
-#EXTINF:-1 tvg-id="" tvg-name="Ssport 2 ʜᴅ 1080" tvg-logo="" group-title="SPOR",Ssport 2 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11666
-#EXTINF:-1 tvg-id="" tvg-name="Ssport 2 ʜᴅ 720" tvg-logo="" group-title="SPOR",Ssport 2 ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11667
-#EXTINF:-1 tvg-id="" tvg-name="S Sport PLUS 1 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="SPOR",S Sport PLUS 1 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11668
-#EXTINF:-1 tvg-id="" tvg-name="S Sport PLUS 2 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="SPOR",S Sport PLUS 2 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11669
-#EXTINF:-1 tvg-id="" tvg-name="S Sport PLUS 3 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="SPOR",S Sport PLUS 3 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11670
-#EXTINF:-1 tvg-id="" tvg-name="S Sport PLUS 4 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="SPOR",S Sport PLUS 4 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11671
-#EXTINF:-1 tvg-id="" tvg-name="S Sport PLUS 5 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="SPOR",S Sport PLUS 5 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11672
-#EXTINF:-1 tvg-id="" tvg-name="S Sport PLUS 6 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="SPOR",S Sport PLUS 6 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11673
-#EXTINF:-1 tvg-id="" tvg-name="S Sport PLUS 7 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="SPOR",S Sport PLUS 7 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11674
-#EXTINF:-1 tvg-id="" tvg-name="S Sport PLUS 8 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="SPOR",S Sport PLUS 8 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11675
-#EXTINF:-1 tvg-id="" tvg-name="S Sport PLUS 9 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="SPOR",S Sport PLUS 9 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11676
-#EXTINF:-1 tvg-id="" tvg-name="S Sport PLUS 10 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="SPOR",S Sport PLUS 10 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11677
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 1 ʜᴅ (1080p)" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png" group-title="SPOR",EXXEN SPORTS 1 ʜᴅ (1080p)
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11678
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 1 ʜᴅ (720p)" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png" group-title="SPOR",EXXEN SPORTS 1 ʜᴅ (720p)
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11679
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 1 sᴅ  (480p)" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png" group-title="SPOR",EXXEN SPORTS 1 sᴅ  (480p)
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11680
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 2 ʜᴅ" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png" group-title="SPOR",EXXEN SPORTS 2 ʜᴅ
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11681
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 3 ʜᴅ" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png" group-title="SPOR",EXXEN SPORTS 3 ʜᴅ
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11682
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 4 ʜᴅ" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png" group-title="SPOR",EXXEN SPORTS 4 ʜᴅ
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11683
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 5  ʜᴅ" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png" group-title="SPOR",EXXEN SPORTS 5  ʜᴅ
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11684
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 6 ʜᴅ" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png" group-title="SPOR",EXXEN SPORTS 6 ʜᴅ
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11685
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 7 ʜᴅ" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png" group-title="SPOR",EXXEN SPORTS 7 ʜᴅ
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11686
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 8 ʜᴅ" tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png" group-title="SPOR",EXXEN SPORTS 8 ʜᴅ
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11687
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 ʜᴅ 1080" tvg-logo="" group-title="SPOR",EUROSPORT 1 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11688
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ʜᴅ 720" tvg-logo="" group-title="SPOR",EUROSPORT 2 ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11689
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ʜᴅ 1080" tvg-logo="" group-title="SPOR",EUROSPORT 2 ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11690
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 ʜᴅ 720" tvg-logo="" group-title="SPOR",EUROSPORT 1 ʜᴅ 720
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11691
-#EXTINF:-1 tvg-id="" tvg-name="GSTV ʜᴅ" tvg-logo="" group-title="SPOR",GSTV ʜᴅ
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11692
-#EXTINF:-1 tvg-id="" tvg-name="FBTV ʜᴅ" tvg-logo="" group-title="SPOR",FBTV ʜᴅ
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11693
-#EXTINF:-1 tvg-id="" tvg-name="SPORTSTV ʜᴅ 720p" tvg-logo="" group-title="SPOR",SPORTSTV ʜᴅ 720p
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11694
-#EXTINF:-1 tvg-id="" tvg-name="NBA ʜᴅ 1080" tvg-logo="" group-title="SPOR",NBA ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11702
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX ʜᴅ 1080" tvg-logo="" group-title="SPOR",FIGHT BOX ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11703
-#EXTINF:-1 tvg-id="" tvg-name="EDGESPORT ʜᴅ 1080" tvg-logo="" group-title="SPOR",EDGESPORT ʜᴅ 1080
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/11704
 
 
 
@@ -1998,152 +1995,6 @@ http://45.12.1.14:80/live/85sPX8orEAPV4215/xTXMFNUSM2YP3780/113761.m3u8
 
 
 
-#EXTINF:-1 group-title="ULUSAL_SPOR",======== >SPOR<========
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401087
-#EXTINF:-1 group-title="ULUSAL_SPOR",Trt Spor 2 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401130
-#EXTINF:-1 group-title="ULUSAL_SPOR",TRT Spor FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401128
-#EXTINF:-1 group-title="ULUSAL_SPOR",TRT Spor HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401129
-#EXTINF:-1 group-title="ULUSAL_SPOR",TRT SPOR YILDIZ TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401131
-#EXTINF:-1 group-title="ULUSAL_SPOR",A SPOR FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401126
-#EXTINF:-1 group-title="ULUSAL_SPOR",A SPOR HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401127
-#EXTINF:-1 group-title="ULUSAL_SPOR",Sport INFO TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401090
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 1 TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401096
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 1 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401094
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 1 HD TR (Yedek)
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401095
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 1 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401091
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 1 FHD TR (Yedek)
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401092
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 1 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401093
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 2 TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401101
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 2 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401100
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 2 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401097
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 2 FHD TR (Yedek)
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401098
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 2 FHD TR (Yedek2)
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401099
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 3 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401105
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 3 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401102
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 3 FHD TR (Yedek)
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401103
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 3 FHD TR (Yedek2)
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401104
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 4 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401108
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 4 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401106
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS 4 FHD TR (Yedek)
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401107
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS HABER HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401088
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS HABER FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401089
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS MAX 1 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401109
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS MAX 1 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401110
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS MAX 2 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401111
-#EXTINF:-1 group-title="ULUSAL_SPOR",beIN SPORTS MAX 2 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401112
-#EXTINF:-1 group-title="ULUSAL_SPOR",Eurosport 1 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401141
-#EXTINF:-1 group-title="ULUSAL_SPOR",Eurosport 1 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401140
-#EXTINF:-1 group-title="ULUSAL_SPOR",Eurosport 2 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401143
-#EXTINF:-1 group-title="ULUSAL_SPOR",Eurosport 2 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401142
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 1 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401145
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 1 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401144
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 2 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401146
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 2 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401147
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 3 HD
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401148
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 3 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401149
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 4 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401152
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 4 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401153
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 5 HD
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401150
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 5 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401151
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 6 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401154
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 6 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401155
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 7 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401156
-#EXTINF:-1 group-title="ULUSAL_SPOR",Exxenn 8 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401157
-#EXTINF:-1 group-title="ULUSAL_SPOR",FB TV TR+
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401132
-#EXTINF:-1 group-title="ULUSAL_SPOR",FB TV HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401133
-#EXTINF:-1 group-title="ULUSAL_SPOR",Fight Box TV TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401139
-#EXTINF:-1 group-title="ULUSAL_SPOR",GS TV HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401134
-#EXTINF:-1 group-title="ULUSAL_SPOR",NBA TV TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401135
-#EXTINF:-1 group-title="ULUSAL_SPOR",S Sport HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401123
-#EXTINF:-1 group-title="ULUSAL_SPOR",S Sport FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401122
-#EXTINF:-1 group-title="ULUSAL_SPOR",S Sport 2 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401125
-#EXTINF:-1 group-title="ULUSAL_SPOR",S Sport 2 FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401124
-#EXTINF:-1 group-title="ULUSAL_SPOR",Spor Smart HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401120
-#EXTINF:-1 group-title="ULUSAL_SPOR",Spor Smart HD TR (Yedek)
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401121
-#EXTINF:-1 group-title="ULUSAL_SPOR",Spor Smart FHD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401119
-#EXTINF:-1 group-title="ULUSAL_SPOR",sportstv TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401138
-#EXTINF:-1 group-title="ULUSAL_SPOR",SSport+ 1 TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401158
-#EXTINF:-1 group-title="ULUSAL_SPOR",SSport+ 2 TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401159
-#EXTINF:-1 group-title="ULUSAL_SPOR",T.A.Y TV TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401136
-#EXTINF:-1 group-title="ULUSAL_SPOR",tivibu Spor 1 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401113
-#EXTINF:-1 group-title="ULUSAL_SPOR",tivibu Spor 1 HD TR (Yedek)
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401114
-#EXTINF:-1 group-title="ULUSAL_SPOR",tivibu Spor 2 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401115
-#EXTINF:-1 group-title="ULUSAL_SPOR",tivibu Spor 2 HD TR (Yedek)
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401116
-#EXTINF:-1 group-title="ULUSAL_SPOR",tivibu Spor 3 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401117
-#EXTINF:-1 group-title="ULUSAL_SPOR",tivibu Spor 4 HD TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401118
-#EXTINF:-1 group-title="ULUSAL_SPOR",TJK TV TR
-http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401137
 
 
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT Spor Yildiz" tvg-logo="https://kanallogo2.com/images/spor/trt-spor-yildiz.png" group-title="Spor Kanalları",Trt Spor Yildiz ғʜᴅ@
@@ -2395,70 +2246,73 @@ http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=2848&extension
 http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=24615&extension=ts
 
 
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",======== Belgesel ========
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401404
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",24 Kitchen HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401405
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Animaux HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401406
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",BBC Earth HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401407
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",beIN GURME HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401408
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",beIN IZ HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401409
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Chasse & Pêche HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401410
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Da Vinci Learning HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401411
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Discovery Channel HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401412
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Discovery IDX TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401413
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Discovery Science TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401414
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",DMAX FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401415
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Docubox HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401416
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",English Club TV TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401417
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",History Channel HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401418
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Insight TV HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401419
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Love Nature HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401420
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Nat Geo People HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401421
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Nat Geo Wild FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401423
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Nat Geo Wild HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401422
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",National Geographic HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401424
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Nature Escape HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401425
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Science & Vie TV HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401426
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Tarih TV HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401427
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Tgrt Belgesel TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401428
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",TLC FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401430
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",TLC HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401429
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",TRT Belgesel FHD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401432
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",TRT Belgesel HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401431
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Viasat Explore HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401433
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Viasat History HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401435
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",Viasat Nature HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401434
+#EXTINF:-1 group-title="ULUSAL_BELGESEL",YABAN TV TR HD TR
+http://zzportals.com:2095/wP9b1G99m7/gG4GpsN1/401436
 
-
-#EXTINF:-1 tvg-id="NationalGeographicTurkey.tr" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.ibb.co/WsyD2MR/natgeo.png" group-title="Belgesel Kanalları",TR: NATIONAL GEOGRAPHIC HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13559
-#EXTINF:-1 tvg-id="NationalGeographicTurkey.tr" tvg-name="TR: NATIONAL GEOGRAPHIC UHD" tvg-logo="https://i.ibb.co/WsyD2MR/natgeo.png" group-title="Belgesel Kanalları",TR: NATIONAL GEOGRAPHIC UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/118
-#EXTINF:-1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="TR: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.ibb.co/zGkL0xB/wi.png" group-title="Belgesel Kanalları",TR: NATIONAL GEOGRAPHIC WILD HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13560
-#EXTINF:-1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="TR: NATIONAL GEOGRAPHIC WILD UHD" tvg-logo="https://i.ibb.co/zGkL0xB/wi.png" group-title="Belgesel Kanalları",TR: NATIONAL GEOGRAPHIC WILD UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/119
-#EXTINF:-1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://i.ibb.co/5MYZ93D/discovery.png" group-title="Belgesel Kanalları",TR: DISCOVERY CHANNEL HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13561
-#EXTINF:-1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="TR: DISCOVERY CHANNEL UHD" tvg-logo="https://i.ibb.co/5MYZ93D/discovery.png" group-title="Belgesel Kanalları",TR: DISCOVERY CHANNEL UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/116
-#EXTINF:-1 tvg-id="DiscoveryScienceTurkey.tr" tvg-name="TR: DISCOVERY SCIENCE HD" tvg-logo="https://i.ibb.co/MhTsrwV/discoveryscience.png" group-title="Belgesel Kanalları",TR: DISCOVERY SCIENCE HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13562
-#EXTINF:-1 tvg-id="DiscoveryScienceTurkey.tr" tvg-name="TR: DISCOVERY SCIENCE UHD" tvg-logo="https://i.ibb.co/MhTsrwV/discoveryscience.png" group-title="Belgesel Kanalları",TR: DISCOVERY SCIENCE UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/117
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="TR: DISCOVERY ID UHD" tvg-logo="https://i.ibb.co/ZHP5Xrc/discoveryid.png" group-title="Belgesel Kanalları",TR: DISCOVERY ID UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/1892
-#EXTINF:-1 tvg-id="BBCEarthTurkey.tr" tvg-name="TR: BBC EARTH HD" tvg-logo="https://i.ibb.co/GQMLWrp/bbce.png" group-title="Belgesel Kanalları",TR: BBC EARTH HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/120
-#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMAUX HD" tvg-logo="https://i.ibb.co/C6cMvB7/animaux.png" group-title="Belgesel Kanalları",TR: ANIMAUX HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13572
-#EXTINF:-1 tvg-id="" tvg-name="TR: OUTDOOR CHANNEL HD" tvg-logo="https://i.ibb.co/pnGJym4/outdoor.png" group-title="Belgesel Kanalları",TR: OUTDOOR CHANNEL HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13573
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="TR: HISTORY UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/History1_Channel.png" group-title="Belgesel Kanalları",TR: HISTORY UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/121
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HİSTORY HD" tvg-logo="https://i.ibb.co/DDcbwMh/viasath.png" group-title="Belgesel Kanalları",TR: VIASAT HİSTORY HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13565
-#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: VIASAT HİSTORY UHD" tvg-logo="https://i.ibb.co/DDcbwMh/viasath.png" group-title="Belgesel Kanalları",TR: VIASAT HİSTORY UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/712
-#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE UHD" tvg-logo="https://i.ibb.co/9tRtyfR/lovenature.png" group-title="Belgesel Kanalları",TR: LOVE NATURE UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13870
-#EXTINF:-1 tvg-id="DMAXTurkey.tr" tvg-name="TR: DMAX HD" tvg-logo="https://i.ibb.co/Ss7DmRL/dmax.png" group-title="Belgesel Kanalları",TR: DMAX HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/54097
-#EXTINF:-1 tvg-id="DMAXTurkey.tr" tvg-name="TR: DMAX UHD" tvg-logo="https://i.ibb.co/Ss7DmRL/dmax.png" group-title="Belgesel Kanalları",TR: DMAX UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/113
-#EXTINF:-1 tvg-id="" tvg-name="TR: TARIH TV UHD" tvg-logo="https://i.ibb.co/jJjYQ60/TAR-HTV.png" group-title="Belgesel Kanalları",TR: TARIH TV UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/53002
-#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="TR: beIN GURME HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Gurme_HD_yeni.png" group-title="Belgesel Kanalları",TR: beIN GURME HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/123
-#EXTINF:-1 tvg-id="beINIZ.tr" tvg-name="TR: beIN IZ HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Iz_HD_250x150px_yeni.png" group-title="Belgesel Kanalları",TR: beIN IZ HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/122
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="TR: 24 KITCHEN UHD" tvg-logo="https://i.ibb.co/y6cHzCw/24k.png" group-title="Belgesel Kanalları",TR: 24 KITCHEN UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13569
-#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUBOX HD" tvg-logo="https://i.ibb.co/RzdXGd0/docubox.png" group-title="Belgesel Kanalları",TR: DOCUBOX HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13571
-#EXTINF:-1 tvg-id="" tvg-name="TR: SCIENCE & VIE TV" tvg-logo="https://i.ibb.co/s5D6p8M/science.png" group-title="Belgesel Kanalları",TR: SCIENCE & VIE TV
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13563
-#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: FAST & FUN HD" tvg-logo="https://i.ibb.co/fY1k8X6/fastfun.png" group-title="Belgesel Kanalları",TR: FAST & FUN HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13568
-#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI HD" tvg-logo="https://i.ibb.co/4RbYbPP/davinci.png" group-title="Belgesel Kanalları",TR: DA VINCI HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13566
-#EXTINF:-1 tvg-id="UcanKusTV.tr" tvg-name="TR: UÇANKUŞ TV HD" tvg-logo="https://i.ibb.co/ZmL8Jm0/u-ankus.png" group-title="Belgesel Kanalları",TR: UÇANKUŞ TV HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/32950
-#EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-name="TR: TLC HD" tvg-logo="https://i.ibb.co/SR0KWCS/tlc.png" group-title="Belgesel Kanalları",TR: TLC HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/13570
-#EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-name="TR: TLC UHD" tvg-logo="https://i.ibb.co/SR0KWCS/tlc.png" group-title="Belgesel Kanalları",TR: TLC UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/114
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR: TRT BELGESEL HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtbelgesel_new_250x150.png" group-title="Belgesel Kanalları",TR: TRT BELGESEL HD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/115
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR: TRT BELGESEL UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtbelgesel_new_250x150.png" group-title="Belgesel Kanalları",TR: TRT BELGESEL UHD
-http://panel.atlaspremium15.com:8080/ceviktv/cevik1126/850
 
 #EXTINF:-1 group-title="TR BELGESEL" tvg-name="#### TURK BELGESEL ####" ,#### TURK BELGESEL ####
 http://nixoname.live:8080/tyesildemir/Acy74wrxAtR2/121
@@ -5469,7 +5323,7 @@ http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mo
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12187.mkv
 #EXTINF:-1 tvg-name="Aksiyon Takımı Noel Görevinde (2022)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_s_cZb-7GDphmUnpIBjmLIxu5Jk9eLmr1zaA-wzqHXo.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Aksiyon Takımı Noel Görevinde (2022)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12189.mkv
-#EXTINF:-1 tvg-name="Bir Tuhaf Futbol Filmi (2022)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmfjlMD0dZg7C28uo4X5WvoX11i48XTob5W7nrTWnN0c.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Bir Tuhaf Futbol Filmi (2022)
+#EXTINF:-1 tvg-name="Bir Tuhaf Futbol Filmi (2022)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmfjlMD0dZg7C28uo4X5WvoX11i48XTob5W7nrTWnN0c.jpg" tvg-id2="MzA=" group-title="🇹?? [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Bir Tuhaf Futbol Filmi (2022)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12190.mkv
 #EXTINF:-1 tvg-name="Guillermo del Toro sunar: Pinokyo (2022)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLP3yKzjpI7p38CI3lrfb53fJQMwEz6CNn6Ng5SowVttI.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Guillermo del Toro sunar: Pinokyo (2022)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12191.mkv
