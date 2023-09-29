@@ -121,8 +121,8 @@ https://anka@ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="http://kar-beyaz.access.ly:54381/images/33f7685d729ff996fc7ef0862e24d0af.png"group-title="ULUSAL" ,ANTALYA TV ᴴᴰ
 https://anka@cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 
-#EXTINF:0 tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN KADIN TVᴴᴰ
-https://anka@s01.webcaster.cloud/wmtv/live_1080p.m3u8
+#EXTINF:0 tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN LİFE TVᴴᴰ
+https://yayin30.haber100.com/live/womanlifetv/chunklist.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",4TÜRK TV ᴴᴰ
 #http://anka@195.230.27.108:8004/play/a02k/index.m3u8
@@ -859,6 +859,313 @@ http://globaltv1.net:8080/raAxH65Q/jUTkam4/227188
 http://globaltv1.net:8080/raAxH65Q/jUTkam4/227189
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SPORTS 4 HD XFEED" tvg-logo="https://focustv.xyz/files/ch/TR/bein_sports_4.png" group-title="TR ☪ BEIN SPORTS FEED",BEIN SPORTS 4 HD XFEED
 http://globaltv1.net:8080/raAxH65Q/jUTkam4/227190
+
+#EXTINF:-1,======== >SPOR<========
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/499ba430-2ca5-11ee-b2f5-69de0dccc687/5047437/889983241.jpeg" group-title="clientspor",Sport INFO TR
+#EXTVLCOPT:cache=17056
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401087&extension=ts
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/499ba430-2ca5-11ee-b2f5-69de0dccc687/5047437/889983241.jpeg" group-title="clientspor",Sport INFO TR
+#EXTVLCOPT:cache=17059
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401090&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zlPgZNn.png" group-title="clientspor",TRT SPOR YILDIZ TR
+#EXTVLCOPT:cache=17128
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401131&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zlPgZNn.png" group-title="clientspor",TRT SPOR YILDIZ FHD TR
+#EXTVLCOPT:cache=17125
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401130&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8lTo4K5.png" group-title="clientspor",TRT Spor FHD TR
+#EXTVLCOPT:cache=17126
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401128&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8lTo4K5.png" group-title="clientspor",TRT Spor HD TR
+#EXTVLCOPT:cache=17127
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401129&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="clientspor",A SPOR FHD TR
+#EXTVLCOPT:cache=17057
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401126&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="clientspor",A SPOR HD TR
+#EXTVLCOPT:cache=17058
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401127&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tfu9kag.png" group-title="clientspor",TV 8.5 FHD TR
+#EXTVLCOPT:cache=17052
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=400973&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="clientspor",beIN SPORTS HABER FHD TR
+#EXTVLCOPT:cache=17079
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401089&extension=ts
+#EXTINF:-1 tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="clientspor",beIN SPORTS 1 TR
+#EXTVLCOPT:cache=17060
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401096&extension=ts
+#EXTINF:-1 tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="clientspor",beIN SPORTS 1 HD TR
+#EXTVLCOPT:cache=17060
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401087&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="clientspor",beIN SPORTS 1 HD TR
+#EXTVLCOPT:cache=17061
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401094&extension=ts
+#EXTINF:-1 tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="clientspor",beIN SPORTS 1 HD TR (Yedek)
+#EXTVLCOPT:cache=17062
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401095&extension=ts
+#EXTINF:-1 tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="clientspor",beIN SPORTS 1 FHD TR
+#EXTVLCOPT:cache=17063
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401091&extension=ts
+#EXTINF:-1 tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="clientspor",beIN SPORTS 1 FHD TR (Yedek)
+#EXTVLCOPT:cache=17064
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401092&extension=ts
+#EXTINF:-1 tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="clientspor",beIN SPORTS 1 FHD TR (Yedek2)
+#EXTVLCOPT:cache=17065
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401093&extension=ts
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="clientspor",beIN SPORTS 2 TR
+#EXTVLCOPT:cache=17066
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401101&extension=ts
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="clientspor",beIN SPORTS 2 HD TR
+#EXTVLCOPT:cache=17067
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401100&extension=ts
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="clientspor",beIN SPORTS 2 FHD TR
+#EXTVLCOPT:cache=17068
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401097&extension=ts
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="clientspor",beIN SPORTS 2 FHD TR (Yedek)
+#EXTVLCOPT:cache=17069
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401098&extension=ts
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="clientspor",beIN SPORTS 2 FHD TR (Yedek2)
+#EXTVLCOPT:cache=17070
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401099&extension=ts
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png" group-title="clientspor",beIN SPORTS 3 HD TR
+#EXTVLCOPT:cache=17071
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401105&extension=ts
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png" group-title="clientspor",beIN SPORTS 3 FHD TR
+#EXTVLCOPT:cache=17072
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401102&extension=ts
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png" group-title="clientspor",beIN SPORTS 3 FHD TR (Yedek)
+#EXTVLCOPT:cache=17073
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401103&extension=ts
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png" group-title="clientspor",beIN SPORTS 3 FHD TR (Yedek2)
+#EXTVLCOPT:cache=17074
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401104&extension=ts
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png" group-title="clientspor",beIN SPORTS 4 HD TR
+#EXTVLCOPT:cache=17075
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401108&extension=ts
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png" group-title="clientspor",beIN SPORTS 4 FHD TR
+#EXTVLCOPT:cache=17076
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401106&extension=ts
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png" group-title="clientspor",beIN SPORTS 4 FHD TR (Yedek)
+#EXTVLCOPT:cache=17077
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401107&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="clientspor",beIN SPORTS HABER HD TR
+#EXTVLCOPT:cache=17078
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401088&extension=ts
+
+#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com/kanal3/bein-sports-max-1-hd.png" group-title="clientspor",beIN SPORTS MAX 1 FHD TR
+#EXTVLCOPT:cache=17080
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401109&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com/kanal3/bein-sports-max-1-hd.png" group-title="clientspor",beIN SPORTS MAX 1 HD TR
+#EXTVLCOPT:cache=17081
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401110&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com/kanal3/bein-sports-max-2-hd.png" group-title="clientspor",beIN SPORTS MAX 2 FHD TR
+#EXTVLCOPT:cache=17082
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401111&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com/kanal3/bein-sports-max-2-hd.png" group-title="clientspor",beIN SPORTS MAX 2 HD TR
+#EXTVLCOPT:cache=17083
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401112&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5T9cBu.png" group-title="clientspor",tivibu Spor 1 HD TR
+#EXTVLCOPT:cache=17118
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401113&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5T9cBu.png" group-title="clientspor",tivibu Spor 1 HD TR (Yedek)
+#EXTVLCOPT:cache=17119
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401114&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGTZ0xG.png" group-title="clientspor",tivibu Spor 2 HD TR
+#EXTVLCOPT:cache=17120
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401115&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGTZ0xG.png" group-title="clientspor",tivibu Spor 2 HD TR (Yedek)
+#EXTVLCOPT:cache=17121
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401116&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bXHgwg.png" group-title="clientspor",tivibu Spor 3 HD TR
+#EXTVLCOPT:cache=17122
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401117&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQoIm6X.png" group-title="clientspor",tivibu Spor 4 HD TR
+#EXTVLCOPT:cache=17123
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401118&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rzI5Lo.png" group-title="clientspor",S Sport HD TR
+#EXTVLCOPT:cache=17107
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401123&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rzI5Lo.png" group-title="clientspor",S Sport FHD TR
+#EXTVLCOPT:cache=17108
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401122&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6OUc5oo.png" group-title="clientspor",S Sport 2 HD TR
+#EXTVLCOPT:cache=17109
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401125&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6OUc5oo.png" group-title="clientspor",S Sport 2 FHD TR
+#EXTVLCOPT:cache=17110
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401124&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rzI5Lo.png" group-title="clientspor",SSport+ 1 TR
+#EXTVLCOPT:cache=17115
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401158&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6OUc5oo.png" group-title="clientspor",SSport+ 2 TR
+#EXTVLCOPT:cache=17116
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401159&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lb8ak6B.png" group-title="clientspor",Spor Smart HD TR
+#EXTVLCOPT:cache=17111
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401120&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lb8ak6B.png" group-title="clientspor",Spor Smart HD TR (Yedek)
+#EXTVLCOPT:cache=17112
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401121&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lb8ak6B.png" group-title="clientspor",Spor Smart FHD TR
+#EXTVLCOPT:cache=17113
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401119&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/1994.png" group-title="clientspor",Exxenn 1 HD TR
+#EXTVLCOPT:cache=17088
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401145&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/1994.png" group-title="clientspor",Exxenn 1 FHD TR
+#EXTVLCOPT:cache=17089
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401144&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/1995.png" group-title="clientspor",Exxenn 2 FHD TR
+#EXTVLCOPT:cache=17090
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401146&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/1995.png" group-title="clientspor",Exxenn 2 HD TR
+#EXTVLCOPT:cache=17091
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401147&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/1996.png" group-title="clientspor",Exxenn 3 HD
+#EXTVLCOPT:cache=17092
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401148&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/1996.png" group-title="clientspor",Exxenn 3 FHD TR
+#EXTVLCOPT:cache=17093
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401149&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/1997.png" group-title="clientspor",Exxenn 4 HD TR
+#EXTVLCOPT:cache=17094
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401152&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/1997.png" group-title="clientspor",Exxenn 4 FHD TR
+#EXTVLCOPT:cache=17095
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401153&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/1998.png" group-title="clientspor",Exxenn 5 HD
+#EXTVLCOPT:cache=17096
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401150&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/1998.png" group-title="clientspor",Exxenn 5 FHD TR
+#EXTVLCOPT:cache=17097
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401151&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/1999.png" group-title="clientspor",Exxenn 6 HD TR
+#EXTVLCOPT:cache=17098
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401154&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/1999.png" group-title="clientspor",Exxenn 6 FHD TR
+#EXTVLCOPT:cache=17099
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401155&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/2000.png" group-title="clientspor",Exxenn 7 HD TR
+#EXTVLCOPT:cache=17100
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401156&extension=ts
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/2001.png" group-title="clientspor",Exxenn 8 HD TR
+#EXTVLCOPT:cache=17101
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401157&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="clientspor",Eurosport 1 HD TR
+#EXTVLCOPT:cache=17084
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401141&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="clientspor",Eurosport 1 FHD TR
+#EXTVLCOPT:cache=17085
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401140&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="clientspor",Eurosport 2 HD TR
+#EXTVLCOPT:cache=17086
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401143&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="clientspor",Eurosport 2 FHD TR
+#EXTVLCOPT:cache=17087
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401142&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="clientspor",sportstv TR
+#EXTVLCOPT:cache=17114
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401138&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fC3KuwT.jpg" group-title="clientspor",GS TV HD TR
+#EXTVLCOPT:cache=17105
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401134&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="clientspor",FB TV TR+
+#EXTVLCOPT:cache=17102
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401132&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="clientspor",FB TV HD TR
+#EXTVLCOPT:cache=17103
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401133&extension=ts
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/fightboxhd.jpg" group-title="clientspor",Fight Box TV TR
+#EXTVLCOPT:cache=17104
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401139&extension=ts
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="clientspor",NBA TV TR
+#EXTVLCOPT:cache=17106
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401135&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeAJ5Mr.png" group-title="clientspor",T.A.Y TV TR
+#EXTVLCOPT:cache=17117
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401136&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="clientspor",TJK TV TR
+#EXTVLCOPT:cache=17124
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://clientsportals.info:2095/play/live.php?mac=10:27:BE:05:91:EB&stream=401137&extension=ts
+
+
 
 
 #EXTINF:-1 group-title="ULUSAL_SPOR",======== >SPOR<========
