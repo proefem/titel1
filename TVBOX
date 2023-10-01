@@ -8,7 +8,7 @@
 #https://anka@proxy.rssblue.com?url=?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-name="Malazgirt 1071 (2022)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtD-9gKZAhhC7DqMD3RPK4S7JV04qLmCHrZZ0BbTW2nI.jpg" tvg-id2="MzA=" group-title="ULUSAL",Malazgirt 1071 (2022)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10053.mkv
+#http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10053.mkv
 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
 https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
@@ -55,7 +55,7 @@ http://143951.iptvone.eu:80/live/ErcinSoysal/27BQ1HdQ74/232446.m3u8
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
 https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8
 
-#EXTINF:0 type="stream" channelId="-1"  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38"group-title="ULUSAL", MMN TURK TV FHD
+#EXTINF:0 tvg-id=".tr" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38"group-title="ULUSAL", MMN TURK TV FHD
 http://anka@mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
@@ -70,13 +70,16 @@ https://new.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
 #EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU ᴴᴰ 
 http://anka@149.7.102.223:8080/TGRTEU/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
-#EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo="https://gunaydintv.com/public/uploads/gunaydintv-ana-sayfa-logo-6262.jpg"  ,GUNAYDIN TV ᴴᴰ⁺
+#EXTINF:1 tvg-id="birtv.tr" tvg-language="Turkish" tvg-logo="https://www.canlitv.day/kanal/logo/67/13343.jpg"  group-title="ULUSAL",İZMİR TÜRK TV ᴴᴰ⁺
+https://yayin1.canlitv.day/canlitv/izmirturktv.stream/playlist.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://gunaydintv.com/public/uploads/gunaydintv-ana-sayfa-logo-6262.jpg" group-title="ULUSAL"   ,GUNAYDIN TV ᴴᴰ⁺
 https://anka@tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR TV ᴴᴰ⁺
 https://anka@live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
-#EXTINF:-1 group-title="ULUSAL"  tvg-id="" tvg-logo="https://canlitv.center/channels/life-tv.png"  ,LIFE TV ᴴᴰ⁺	
+#EXTINF:-1 tvg-id="" tvg-logo="https://canlitv.center/channels/life-tv.png" group-title="ULUSAL"   ,LIFE TV ᴴᴰ⁺	
 https://anka@live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="aktueltv.tr"tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL"    ,AKTUEL TV ᴴᴰ⁺	
@@ -4086,233 +4089,233 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Huzur TV (RU)" tvg-language="" tvg-logo="https://i.imgur.com/Abg1fct.png",Huzur TV (1)
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:FATIHA
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:FATIHA
 https://www.mealikerim.com/mp3/1.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:BAKARA
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:BAKARA
 https://www.mealikerim.com/mp3/2.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:AL I IMRAN
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:AL I IMRAN
 https://www.mealikerim.com/mp3/3.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:NISA
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:NISA
 https://www.mealikerim.com/mp3/4.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:MAIDE
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:MAIDE
 https://www.mealikerim.com/mp3/5.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:ENAM
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:ENAM
 https://www.mealikerim.com/mp3/6.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:ARAF
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:ARAF
 https://www.mealikerim.com/mp3/7.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:ENFAL
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:ENFAL
 https://www.mealikerim.com/mp3/8.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:TEVBE
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:TEVBE
 https://www.mealikerim.com/mp3/9.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:YUNUS
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:YUNUS
 https://www.mealikerim.com/mp3/10.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:HUD
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:HUD
 https://www.mealikerim.com/mp3/11.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:YUSUF
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:YUSUF
 https://www.mealikerim.com/mp3/12.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:RAD
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:RAD
 https://www.mealikerim.com/mp3/13.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Ibrahim
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Ibrahim
 https://www.mealikerim.com/mp3/14.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Hicr
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Hicr
 https://www.mealikerim.com/mp3/15.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Nahl
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Nahl
 https://www.mealikerim.com/mp3/16.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Isrâ
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Isrâ
 https://www.mealikerim.com/mp3/17.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Kehf
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Kehf
 https://www.mealikerim.com/mp3/18.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Meryem
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Meryem
 https://www.mealikerim.com/mp3/19.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Tâhâ
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Tâhâ
 https://www.mealikerim.com/mp3/20.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Enbiyâ
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Enbiyâ
 https://www.mealikerim.com/mp3/21.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Hacc
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Hacc
 https://www.mealikerim.com/mp3/22.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Mü'minûn	??????????????
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Mü'minûn	??????????????
 https://www.mealikerim.com/mp3/23.mp3NUR
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Nûr
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Nûr
 https://www.mealikerim.com/mp3/24.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Furkan
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Furkan
 https://www.mealikerim.com/mp3/25.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Su'arâ
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Su'arâ
 https://www.mealikerim.com/mp3/26.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Neml
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Neml
 https://www.mealikerim.com/mp3/27.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Kasas
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Kasas
 https://www.mealikerim.com/mp3/28.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Ankebut
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Ankebut
 https://www.mealikerim.com/mp3/29.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Rum
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Rum
 https://www.mealikerim.com/mp3/30.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Lokman
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Lokman
 https://www.mealikerim.com/mp3/31.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Secde
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Secde
 https://www.mealikerim.com/mp3/32.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Ahzab
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Ahzab
 https://www.mealikerim.com/mp3/33.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Sebe'
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Sebe'
 https://www.mealikerim.com/mp3/34.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Fâtir
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Fâtir
 https://www.mealikerim.com/mp3/35.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Yâsîn
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Yâsîn
 https://www.mealikerim.com/mp3/36.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Sâffât
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Sâffât
 https://www.mealikerim.com/mp3/37.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Sâd
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Sâd
 https://www.mealikerim.com/mp3/38.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Zümer
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Zümer
 https://www.mealikerim.com/mp3/39.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Mü'min
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Mü'min
 https://www.mealikerim.com/mp3/40.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Fussilet
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Fussilet
 https://www.mealikerim.com/mp3/41.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Sûrâ
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Sûrâ
 https://www.mealikerim.com/mp3/42.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Zuhruf
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Zuhruf
 https://www.mealikerim.com/mp3/43.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Duhân
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Duhân
 https://www.mealikerim.com/mp3/44.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Câsiye
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Câsiye
 https://www.mealikerim.com/mp3/45.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Ahkaf
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Ahkaf
 https://www.mealikerim.com/mp3/46.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Muhammed
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Muhammed
 https://www.mealikerim.com/mp3/47.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Fetih
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Fetih
 https://www.mealikerim.com/mp3/48.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Hucurât
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Hucurât
 https://www.mealikerim.com/mp3/49.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Kaf
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Kaf
 https://www.mealikerim.com/mp3/50.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Zâriyât
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Zâriyât
 https://www.mealikerim.com/mp3/51.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Tûr
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Tûr
 https://www.mealikerim.com/mp3/52.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Necm
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Necm
 https://www.mealikerim.com/mp3/53.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Kamer
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Kamer
 https://www.mealikerim.com/mp3/54.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Rahman
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Rahman
 https://www.mealikerim.com/mp3/55.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Vâki'a
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Vâki'a
 https://www.mealikerim.com/mp3/56.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Hadîd
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Hadîd
 https://www.mealikerim.com/mp3/57.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Mücadele
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Mücadele
 https://www.mealikerim.com/mp3/58.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Hasr
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Hasr
 https://www.mealikerim.com/mp3/59.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Mümtehine
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Mümtehine
 https://www.mealikerim.com/mp3/60.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Saf
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Saf
 https://www.mealikerim.com/mp3/61.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Cum'a
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Cum'a
 https://www.mealikerim.com/mp3/62.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Münafikun
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Münafikun
 https://www.mealikerim.com/mp3/63.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Tegabun
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Tegabun
 https://www.mealikerim.com/mp3/64.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Talak
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Talak
 https://www.mealikerim.com/mp3/65.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Tahrim
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Tahrim
 https://www.mealikerim.com/mp3/66.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Mülk
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Mülk
 https://www.mealikerim.com/mp3/67.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Kalem
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Kalem
 https://www.mealikerim.com/mp3/68.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Hâkka
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Hâkka
 https://www.mealikerim.com/mp3/69.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Meâric
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Meâric
 https://www.mealikerim.com/mp3/70.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Nûh
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Nûh
 https://www.mealikerim.com/mp3/71.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Cin
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Cin
 https://www.mealikerim.com/mp3/72.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Müzzemmil
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Müzzemmil
 https://www.mealikerim.com/mp3/73.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Müddessir
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Müddessir
 https://www.mealikerim.com/mp3/74.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Kiyamet
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Kiyamet
 https://www.mealikerim.com/mp3/75.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Insân
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Insân
 https://www.mealikerim.com/mp3/76.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Mürselât
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Mürselât
 https://www.mealikerim.com/mp3/77.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Nebe'
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Nebe'
 https://www.mealikerim.com/mp3/78.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Nâzi'ât
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Nâzi'ât
 https://www.mealikerim.com/mp3/79.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Abese
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Abese
 https://www.mealikerim.com/mp3/80.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Tekvîr
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Tekvîr
 https://www.mealikerim.com/mp3/81.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Infitâr
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Infitâr
 https://www.mealikerim.com/mp3/82.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Mutaffifîn
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Mutaffifîn
 https://www.mealikerim.com/mp3/83.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Insikâk
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Insikâk
 https://www.mealikerim.com/mp3/84.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Büruc
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Büruc
 https://www.mealikerim.com/mp3/85.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Târik
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Târik
 https://www.mealikerim.com/mp3/86.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:A'lâ
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:A'lâ
 https://www.mealikerim.com/mp3/87.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Gâsiye
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Gâsiye
 https://www.mealikerim.com/mp3/88.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Fecr
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Fecr
 https://www.mealikerim.com/mp3/89.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Beled
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Beled
 https://www.mealikerim.com/mp3/90.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Sems
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Sems
 https://www.mealikerim.com/mp3/91.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Leyl
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Leyl
 https://www.mealikerim.com/mp3/92.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Duhâ
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Duhâ
 https://www.mealikerim.com/mp3/93.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Insirâh
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Insirâh
 https://www.mealikerim.com/mp3/94.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Tîn
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Tîn
 https://www.mealikerim.com/mp3/95.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Alak
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Alak
 https://www.mealikerim.com/mp3/96.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Kadir
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Kadir
 https://www.mealikerim.com/mp3/97.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Beyyine
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Beyyine
 https://www.mealikerim.com/mp3/98.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Zilzâl
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Zilzâl
 https://www.mealikerim.com/mp3/99.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Âdiyât
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Âdiyât
 https://www.mealikerim.com/mp3/100.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Kâri'a
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Kâri'a
 https://www.mealikerim.com/mp3/101.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:Tekâsür
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:Tekâsür
 https://www.mealikerim.com/mp3/102.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:ASR
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:ASR
 https://www.mealikerim.com/mp3/103.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:HUMEZE
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:HUMEZE
 https://www.mealikerim.com/mp3/104.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:FIL
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:FIL
 https://www.mealikerim.com/mp3/105.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:KUREYS
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:KUREYS
 https://www.mealikerim.com/mp3/106.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:MAUN
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:MAUN
 https://www.mealikerim.com/mp3/107.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:KEVSER
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:KEVSER
 https://www.mealikerim.com/mp3/108.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:KAFIRUN
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:KAFIRUN
 https://www.mealikerim.com/mp3/109.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:NASR
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:NASR
 https://www.mealikerim.com/mp3/110.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:TEBBET
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:TEBBET
 https://www.mealikerim.com/mp3/111.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:IHLAS
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:IHLAS
 https://www.mealikerim.com/mp3/112.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:FELAK
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:FELAK
 https://www.mealikerim.com/mp3/113.mp3
-#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN MEALI DINLE",TR:NAS
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN MEALI DINLE " tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="KURAN MEALI DINLE",TR:NAS
 https://www.mealikerim.com/mp3/114.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KURAN DINLE NasserAlQatamii " tvg-logo="https://image.tmdb.org/t/p/original/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" group-title="KURAN DINLE NasserAlQatamii",TR:ABESE
