@@ -54,6 +54,7 @@ http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:AA:5B:41&stream=543368&ex
 https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #https://anka@stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/5/index.m3u8
 #https://anka@tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+#https://59c7ea6bec1c6.streamlock.net:443/live/trt1.stream/chunklist_w252172510.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 #http://anka@135.125.234.9:8081/trt1/tracks-v1a1/playlist.m3u8
 #http://anka@116.202.238.88/TRT1_TR/tracks-v1a1/mono.m3u8
 #http://anka@stream.suboroiptv.tv/TRT1/playlist.m3u8
@@ -68,6 +69,8 @@ https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8?|User-Agent=NetSurf/2.0 (
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
 http://anka@51.195.5.44:80/atv/tracks-v1a1/playlist.m3u8
+#https://59c7ea6bec1c6.streamlock.net:443/live/atv.stream/chunklist_w252172510.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
+#https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e######
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
 https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/8/index.m3u8|Referer=https://www.filbox.com.tr/&e=.m3u8/&user-agent=NetSurf/2.0 (RISC OS; armv3l)
 #https://edge02.odtv.az/o8/atv/playlist.m3u8?|Referer=https://edge02.smart.az/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
@@ -193,7 +196,8 @@ https://anka@beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?|User-Agent=Ne
 
 #EXTINF:-1 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺™
 http://anka@xpone.nl:80/play/live.php?mac=00:1A:79:38:40:28&stream=97321&extension=ts
-https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8
+#https://59c7ea6bec1c6.streamlock.net:443/live/foxtv.stream/chunklist_w252172510.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
+#https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8
 #https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/20/index.m3u8|Referer=https://www.filbox.com.tr/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #http://66.160.192.241:80/foxturk/tracks-v1a1/mono.m3u8
 #http://116.202.238.88/FOXTV_TR/tracks-v1a1/mono.m3u8?|User-Agent=perfectplayer1.6.0.1
@@ -483,7 +487,8 @@ https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1280/index.m
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="http://ozburuntv.com/wp-content/uploads/2022/01/MediumSquareLogo.png" group-title="ULUSAL",Özburun TV ᴴᴰ
 https://anka@media2.streambrothers.com:19360/8314/8314.m3u8
-
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="cankiritv.tr" tvg-logo=""  ,FILM TV
+#https://film.ozelip.com:3344/stream/play.m3u8
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
 https://anka@streaming.netdirekt.com.tr:443/35757/teleontv/fogmediagroups_lisansli_ultrahd__/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
@@ -1331,8 +1336,8 @@ https://new.cache-stream.workers.dev/stream/UCT1QJrOPtGWYyWkXry8uT4w/live.m3u8?_
 #http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="FlashTV.tr"tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="HABER",FLASH TV ᵁᴴᴰ⁺™
-https://anka@nimplus3.bozztv.com/flashtv/flashtv/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
-#https://bozztv.com/inim03/live1/flashtv/playlist.m3u8
+https://anka@bozztv.com/inim03/live1/flashtv/playlist.m3u8
+#https://anka@nimplus3.bozztv.com/flashtv/flashtv/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #http://anka@116.202.238.88/FLASHTV_TR/tracks-v1a1/mono.m3u8
 #https://flashtv.blutv.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #https://new.cache-stream.workers.dev/stream/UCNcjCb2RnA3eMMhTZSxZu3A/live.m3u8?_=1
@@ -1350,6 +1355,7 @@ https://nimplus4.bozztv.com/tele1/tele1/playlist.m3u8?|User-Agent=NetSurf/2.0 (R
 
 #EXTINF:-1 tvg-id="HalkTV.tr"tvg-name="Halk TV TR"  tvg-logo="https://picon-13398.kxcdn.com/halktvtr.jpg" group-title="HABER",HALK TV ᵁᴴᴰ⁺™
 https://anka@halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+#http://anka@116.202.238.88/HALKTV_TR/tracks-v1a1/mono.m3u8
 #http://anka@135.125.234.9:8081/halktv/tracks-v1a1/playlist.m3u8
 #https://nimplus6.bozztv.com/halktv/halktv/playlist.m3u8?
 #https://bozztv.com/inim03/live1/halktv/playlist.m3u8
