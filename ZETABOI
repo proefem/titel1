@@ -107,9 +107,9 @@ https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8?|User-Agent=NetSur
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001199/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001199&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺™
-https://new.cache-stream.workers.dev/stream/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8
-#https://anka@dogus-live.daioncdn.net/startv/startv_720p.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@dogus-live.daioncdn.net/startv/startv_720p.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #https://new.cache-stream.workers.dev/stream/82O6yOy_XwE/live.m3u8
+#https://new.cache-stream.workers.dev/stream/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8
 #https://anka@nimplus3.bozztv.com/star-tv/star-tv/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #https://bozztv.com/inim03/live1/star-tv/playlist.m3u8
 #https://59c7ea6bec1c6.streamlock.net:443/live/startv.stream/chunklist_w1376440619.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
@@ -1336,10 +1336,10 @@ https://new.cache-stream.workers.dev/stream/UCT1QJrOPtGWYyWkXry8uT4w/live.m3u8?_
 #http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="FlashTV.tr"tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="HABER",FLASH TV ᵁᴴᴰ⁺™
-https://anka@bozztv.com/inim03/live1/flashtv/playlist.m3u8
+https://flashtv.blutv.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#https://anka@bozztv.com/inim03/live1/flashtv/playlist.m3u8
 #https://anka@nimplus3.bozztv.com/flashtv/flashtv/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #http://anka@116.202.238.88/FLASHTV_TR/tracks-v1a1/mono.m3u8
-#https://flashtv.blutv.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #https://new.cache-stream.workers.dev/stream/UCNcjCb2RnA3eMMhTZSxZu3A/live.m3u8?_=1
 #http://anka@135.125.234.9:8081/flashtv/tracks-v1a1/playlist.m3u8
 #https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
@@ -1474,7 +1474,7 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 #http://185.236.229.31:9981/play/a04b
 
 #EXTINF:-1 tvg-id="McEu.us" tvg-name="McEu.us" tvg-logo="https://picon-13398.kxcdn.com/mceutr.jpg" group-title="HABER",MC EU TV ᴴᴰyedek
-#https://n2.cdn.jetstre.am/session/26e304444b6f6e1800f932e4a1130fe4/sz/mceutv/wowza4/live/mc2/chunklist.m3u8?max_ad_duration=15000&videoad_start_delay=0&slotname=8612286186&ad_type=video_text_image&description_url=http%3A%2F%2Fwww.mceu.tv
+https://n2.cdn.jetstre.am/session/f65a0d9323d330ae9ff6a121bc76c0b2/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="metropoltv.tr" tvg-logo="https://media.metropoltv.com.tr/assets/METROPOLTV_LOGO.webp" group-title="HABER",Metropol Tv
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
@@ -1841,7 +1841,8 @@ https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/76901451-a9e6-4d73-8a74-eb2ea7034693.png" group-title="ULUSAL-int",Aktif TV ʜᴅ
 http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
 #http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
-
+#EXTINF:-1 group-title="ULUSAL-int" tvg-id="2158",🇦🇿KANAL35
+http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ULUSAL-int" tvg-id="2158",CBC AZ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o1/cbc/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
@@ -3673,55 +3674,55 @@ https://new.cache-stream.workers.dev/stream/MZ5D6NK5Qqo/live.m3u8
 
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT Spor Yildiz" tvg-logo="https://kanallogo2.com/images/spor/trt-spor-yildiz.png" group-title="Spor Kanalları",Trt Spor Yildiz patlak. 
 #https://istanbulolali.trgoals442.xyz/yayintrtspor2.m3u8
-#https://patlak.trgoals430.xyz/yayintrtspor2.m3u8
-https://cakal.click/yayintrtspor2.m3u8
+#https://saglam.trgoals501.xyz/yayininat.m3u8
+https://saglam.trgoals501/yayintrtspor2.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg"group-title="Spor Kanalları",TRT Spor patlak.
 #https://patlak.trgoals430.xyz/yayintrtspor.m3u8
-https://cakal.click/yayintrtspor.m3u8
+https://saglam.trgoals501/yayintrtspor.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="Spor Kanalları",A Spor patlak. 
 #https://patlak.trgoals430.xyz/yayinas.m3u8
-https://cakal.click/yayinas.m3u8
+https://saglam.trgoals501/yayinas.m3u8
 #EXTINF:-1 tvg-id="tv85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="Spor Kanalları",TV8'5 
 http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="tv85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="Spor Kanalları",TV8'5 patlak. 
-https://cakal.click/yayintv85.m3u8
+https://saglam.trgoals501/yayintv85.m3u8
 #https://istanbulolali.trgoals442.xyz/yayintv85.m3u8
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports  1 
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=564724&extension=ts
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png"tvg-id="" group-title="Spor Kanalları",beIN Sports  1 fhd Inat Tv Pro 
-https://cakal.click/yayinzirve.m3u8
+https://saglam.trgoals501/yayinzirve.m3u8
 https://hls.bizetibatan.gay/yayinzirve.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35
 #EXTINF:0 tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png"tvg-id="" group-title="Spor Kanalları",beIN Sports  1 Inat Tv Pro 
 #https://cakal.click/yayininat.m3u8
-https://cakal.click/yayininat.m3u8
+https://saglam.trgoals501/yayininat.m3u8
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports  1 patlak.
 #https://cakal.click/yayin1.m3u8
 #https://ozledim.trgoals434.xyz/yayin1.m3u8
 #https://patlak.trgoals430.xyz/yayin1.m3u8
-https://cakal.click/yayin1.m3u8
+https://saglam.trgoals501/yayin1.m3u8
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports  1 patlak.
 #https://cakal.click/yayinstar.m3u8
 #https://istanbulolali.trgoals442.xyz/yayinstar.m3u8
-https://cakal.click/yayinstar.m3u8
+https://saglam.trgoals501/yayinstar.m3u8
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports  2 patlak.
 #https://patlak.trgoals430.xyz/yayinb2.m3u8
-https://cakal.click/yayinb2.m3u8
+https://saglam.trgoals501/yayinb2.m3u8
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports  3 patlak.
 #https://patlak.trgoals430.xyz/yayinb3.m3u8
-https://cakal.click/yayinb3.m3u8
+https://saglam.trgoals501/yayinb3.m3u8
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports  4 patlak.
 #https://patlak.trgoals430.xyz/yayinb4.m3u8
-https://cakal.click/yayinb4.m3u8
+https://saglam.trgoals501/yayinb4.m3u8
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports  5 patlak.
 #https://patlak.trgoals430.xyz/yayinb5.m3u8
-https://cakal.click/yayinb5.m3u8
+https://saglam.trgoals501/yayinb5.m3u8
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN max  1 patlak.
 #https://patlak.trgoals430.xyz/yayinbm1.m3u8
-https://cakal.click/yayinbm1.m3u8
+https://saglam.trgoals501/yayinbm1.m3u8
 #EXTINF:-1 group-title="Spor Kanalları" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN max  2 patlak.
 #https://patlak.trgoals430.xyz/yayinbm2.m3u8
-https://cakal.click/yayinbm2.m3u8
+https://saglam.trgoals501/yayinbm2.m3u8
 #EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="Spor Kanalları",Smart Spor 1
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=505717&extension=ts
 
@@ -3730,13 +3731,13 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=641918&exten
 
 #EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="Spor Kanalları",Smart Spor 1patlak.
 #https://patlak.trgoals430.xyz/yayinsmarts.m3u8
-https://cakal.click/yayinsmarts.m3u8
+https://saglam.trgoals501/yayinsmarts.m3u8
 #EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="Spor Kanalları",S Sport 1patlak.
 #https://patlak.trgoals430.xyz/yayinss.m3u8
-https://cakal.click/yayinss.m3u8
+https://saglam.trgoals501/yayinss.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="Spor Kanalları",S Sport 2patlak.
 #https://patlak.trgoals430.xyz/yayinss2.m3u8
-https://cakal.click/yayinss2.m3u8
+https://saglam.trgoals501/yayinss2.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanalları" ,BeIN Sports UHD 1
 https://jyayintv14.live/cdn/bein_sports_1_hd/main.m3u8
@@ -3803,35 +3804,35 @@ https://jyayintv14.live/cdn/exxen_sports_9_hd/main.m3u8?_dc=
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="Spor Kanalları",Exxen Spor HD 1hd patlak.(MAÇ ZAMANI AKTİF) 
 #https://istanbulolali.trgoals442.xyz/yayinex1.m3u8
 #https://dost.trgoals452.xyz/yayinex1.m3u8
-https://cakal.click/yayinex1.m3u8
+https://saglam.trgoals501/yayinex1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="Spor Kanalları",Exxen Spor HD 2hd patlak.(MAÇ ZAMANI AKTİF) 
 #https://istanbulolali.trgoals442.xyz/yayinex2.m3u8
 #https://dost.trgoals452.xyz/yayinex2.m3u8
-https://cakal.click/yayinex2.m3u8
+https://saglam.trgoals501/yayinex2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="Spor Kanalları",Exxen Spor HD 3hd patlak.(MAÇ ZAMANI AKTİF) 
 #https://istanbulolali.trgoals442.xyz/yayinex3.m3u8
-https://cakal.click/yayinex3.m3u8
+https://saglam.trgoals501/yayinex3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="Spor Kanalları",Exxen Spor HD 4hd patlak.(MAÇ ZAMANI AKTİF) 
 #https://istanbulolali.trgoals442.xyz/yayinex4.m3u8
-https://cakal.click/yayinex4.m3u8
+https://saglam.trgoals501/yayinex4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="Spor Kanalları",Exxen Spor HD 5hd patlak.(MAÇ ZAMANI AKTİF) 
 #https://istanbulolali.trgoals442.xyz/yayinex5.m3u8
-https://cakal.click/yayinex5.m3u8
+https://saglam.trgoals501/yayinex5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="Spor Kanalları",Exxen Spor HD 6hd patlak.(MAÇ ZAMANI AKTİF) 
 #https://istanbulolali.trgoals442.xyz/yayinex6.m3u8
-https://cakal.click/yayinex6.m3u8
+https://saglam.trgoals501/yayinex6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="Spor Kanalları",Exxen Spor HD 7hd patlak.(MAÇ ZAMANI AKTİF) 
 #https://istanbulolali.trgoals442.xyz/yayinex7.m3u8
-https://cakal.click/yayinex7.m3u8
+https://saglam.trgoals501/yayinex7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="Spor Kanalları",Exxen Spor HD 8hd patlak.(MAÇ ZAMANI AKTİF) 
 #https://istanbulolali.trgoals442.xyz/yayinex8.m3u8
-https://cakal.click/yayinex8.m3u8
+https://saglam.trgoals501/yayinex8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="Spor Kanalları",Exxen Spor HD 9hd patlak.(MAÇ ZAMANI AKTİF) 
 #https://istanbulolali.trgoals442.xyz/yayinex9.m3u8
-https://cakal.click/yayinex9.m3u8
+https://saglam.trgoals501/yayinex9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="Spor Kanalları",Exxen Spor HD 10hd patlak.(MAÇ ZAMANI AKTİF) 
 #https://istanbulolali.trgoals442.xyz/yayinex10.m3u8
-https://cakal.click/yayinex10.m3u8
+https://saglam.trgoals501/yayinex10.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="Spor Kanalları",S Sport + Plus 1
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=430060&extension=ts
