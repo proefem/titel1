@@ -55,6 +55,7 @@ https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8?|User-Agent=NetSurf/2.0 (
 #https://anka@stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/5/index.m3u8
 #https://anka@tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 #https://59c7ea6bec1c6.streamlock.net:443/live/trt1.stream/chunklist_w252172510.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
+#https://trt1dvr.blutv.com/blutv_trt1_dvr2/live_720p2000000kbps/index.m3u8
 #http://anka@135.125.234.9:8081/trt1/tracks-v1a1/playlist.m3u8
 #http://anka@116.202.238.88/TRT1_TR/tracks-v1a1/mono.m3u8
 #http://anka@stream.suboroiptv.tv/TRT1/playlist.m3u8
@@ -152,8 +153,8 @@ http://anka@213.239.195.222/turkey/kanald_2023/chunks.m3u8?|User-Agent=NetSurf/2
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001208/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001208&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺™
+http://anka@149.13.0.66:4002/tv8hd
 https://anka@tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
-#http://anka@149.13.0.66:4002/tv8hd
 #http://anka@135.125.234.9:8081/tv8/tracks-v1a1/playlist.m3u8?_=1
 #http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8?|User-Agent=perfectplayer1.6.0.1
 #https://hls.bizetibatan.gay/yayintv8.m3u8
@@ -558,7 +559,7 @@ https://media2.streambrothers.com:19360/8314/8314.m3u8?|User-Agent=NetSurf/2.0 (
 #https://live.cache-stream.workers.dev/stream/UCsRzd5DMZQqe00m_SM6BKzw/live.m3u8
 
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://i.imgur.com/VTeSkWA.png",KANAL D DRAMA ᴴᴰ 
-http://146.59.19.1/5062/mpegts
+#http://146.59.19.1/5062/mpegts
 #http://212.224.84.202:2200/ALB-EX/KanalD_Drama_AL-alb/tracks-v1a1/mono.m3u8|User-Agent=Rediptv Plus 2.0.17
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",blutv PLAY 1ᵁᴴᴰ⁺™
