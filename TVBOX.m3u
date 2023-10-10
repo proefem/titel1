@@ -12,7 +12,7 @@ https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8
 https://anka@tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
-https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
+http://anka@51.195.5.44:80/atv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™yedek
 https://anka@bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 
@@ -184,6 +184,33 @@ https://stream.tiviturk.de/live/tiviturk.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="ULUSAL", YEŞİLÇAM sinevizyon ᴴᴰ
 http://tv56245.ozelip.com:2052/ilkguntv/ilkguntv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="ULUSAL", YEŞİLÇAM sinevizyon1 ᴴᴰ
+http://gineu10.bozztv.com:80/gin-36bay3/gt-sinevizyon1/tracks-v1a1/mono.m3u8?
+https://nimplus4.bozztv.com:443/trsinevizyon1/trsinevizyon1/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1218.jpg" group-title="ULUSAL", YEŞİLÇAM sinevizyon2 ᴴᴰ
+http://gineu10.bozztv.com:80/gin-36bay3/gt-sinevizyon2/tracks-v1a1/mono.m3u8?
+https://nimplus4.bozztv.com:443/trsinevizyon2/trsinevizyon2/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1219.jpg" group-title="ULUSAL", YEŞİLÇAM sinevizyon3 ᴴᴰ
+http://gineu10.bozztv.com:80/gin-36bay3/gt-sinevizyon3/tracks-v1a1/mono.m3u8?
+https://nimplus4.bozztv.com:443/trsinevizyon3/trsinevizyon3/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/207.png" group-title="ULUSAL", YEŞİLÇAM ᴴᴰ
+#http://gineu9.bozztv.com:80/gin-36bay3/gt-yumrcaktv/tracks-v1a1/mono.m3u8
+#https://nimplus3.bozztv.com:443/yumrcaktv/yumrcaktv/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/207.png" group-title="ULUSAL", YEŞİLÇAM 1 ᴴᴰ
+http://gineu9.bozztv.com:80/gin-36bay3/gt-yesilcamtv1/tracks-v1a1/mono.m3u8
+https://nimplus4.bozztv.com:443/amcmusic/amcmusic/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1215.png" group-title="ULUSAL", YEŞİLÇAM 2 ᴴᴰ
+http://gineu9.bozztv.com:80/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
+https://nimplus4.bozztv.com:443/yesilcam2/yesilcam2/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1216.png" group-title="ULUSAL", YEŞİLÇAM 3 ᴴᴰ
+http://gineu9.bozztv.com:80/gin-36bay3/gt-yesilcamtv3/tracks-v1a1/mono.m3u8
+https://nimplus4.bozztv.com:443/yesilcam3/yesilcam3/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 
 #EXTINF:0 tvg-logo=""tvg-id="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",DÜZGÜN TV ᴴᴰ
