@@ -7,8 +7,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Turkey_flag.png" group-title="ULUSAL",▬ Turkey [TR]  ▬
 #https://anka@proxy.rssblue.com?url=?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
-#EXTINF:-1 tvg-name="Malazgirt 1071 (2022)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtD-9gKZAhhC7DqMD3RPK4S7JV04qLmCHrZZ0BbTW2nI.jpg" tvg-id2="MzA=" group-title="ULUSAL",Malazgirt 1071 (2022)
-#http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10053.mkv
 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
 https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
@@ -124,6 +122,9 @@ https://anka@ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="http://kar-beyaz.access.ly:54381/images/33f7685d729ff996fc7ef0862e24d0af.png"group-title="ULUSAL" ,ANTALYA TV ᴴᴰ
 https://anka@cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 
+#EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN  TV ᴴᴰ
+https://s01.vpis.io/wmtv/wmtv.m3u8
+
 #EXTINF:0 tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN LİFE TVᴴᴰ
 https://yayin30.haber100.com/live/womanlifetv/chunklist.m3u8
 
@@ -223,13 +224,14 @@ https://anka@cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w120252598
 https://anka@film.ozelip.com:3344/stream/play.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", FD SİNEMA TV
+https://250weu.bozztv.com/ssh101/ssh101/fdhdtv/chunks.m3u8
 https://anka@ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
 
 #EXTINF:0  tvg-id=""  tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", FD YEŞİLÇAM TV
 https://anka@ssh101.bozztv.com/ssh101/fdtvyesilcam/chunks.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",SuperTurk TV
-#https://raw.githubusercontent.com/kuzeymax/github-pages-with-jekyll/main/superturktvhd.m3u8
+http://169.53.242.72/SUPERTURK_2CH_HD/index.m3u8
 
 #EXTINF:0  tvg-id="TV 70.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",TV 70 
 https://anka@ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
