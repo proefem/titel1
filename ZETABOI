@@ -511,6 +511,9 @@ https://anka@cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8?|User
 #EXTINF:0 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png"group-title="ULUSAL" ,YAŞAM TV ᴴᴰ
 https://anka@yayin30.haber100.com/live/yasamtv/chunklist_w2024915114.m3u8
 
+#EXTINF:-1 tvg-id"" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png"group-title="ULUSAL"    ,kardestv HD
+https://yayin30.haber100.com/live/kardestv/chunklist.m3u8https://yayin30.haber100.com/live/kardestv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://skyhaber.tv/wp-content/uploads/2022/07/tv-sky.png" group-title="ULUSAL", SKY TÜRK ᴴᴰ
 https://anka@cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8?
 
@@ -606,7 +609,13 @@ https://anka@ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8?|User-Agent=NetSurf
 #EXTINF:0  tvg-id=""  tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", FDtv YEŞİLÇAM TVᴴᴰ
 #https://anka@ssh101.bozztv.com/ssh101/fdtvyesilcam/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
-#EXTINF:0  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png"  tvg-id="" group-title="ULUSAL",SuperTurk TV
+#EXTINF:0  tvg-id="TV 70.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",yesilcamTV 
+https://ssh101.bozztv.com/ssh101/yesilcamtv/chunks.m3u8
+
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",SuperTurk vizyonTVᴴᴰ
+http://169.53.242.72/SUPERTURKTV_vizyonHD/index.m3u8
+
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL",SuperTurk TVᴴᴰ
 http://169.53.242.72/SUPERTURK_2CH_HD/index.m3u8
 #http://250weu.bozztv.com/ssh101/ssh101/superturk1hd/playlist.m3u8
 #EXTINF:0  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png"  tvg-id="" group-title="ULUSAL",SuperTurk TV İNFO
@@ -1301,8 +1310,7 @@ https://anka@ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?|User-Ag
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001171/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001171&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="HABER",NTV ᵁᴴᴰ⁺™
-http://195.142.1.211:4002/udp/224.2.2.2:10001
-#https://anka@edge02.odtv.az/o5/ntvtur/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@edge02.odtv.az/o5/ntvtur/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #http://anka@116.202.238.88/NTV_TR/tracks-v1a1/mono.m3u8
 #http://213.172.73.133:8081/nimble_live/9066_NTV_HD/playlist.m3u8
 #https://nimplus6.bozztv.com/ntvtv/ntvtv/playlist.m3u8?
@@ -1803,7 +1811,8 @@ http://65.108.87.116:8000/play/1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2.tr" tvg-logo="https://picon-13398.kxcdn.com/trt2tr.jpg" group-title="ULUSAL-int" ,TRT 2 ʜᴅ
-http://gineu8.bozztv.com:80/gin-36bay3/gt-trt2/tracks-v1a1/mono.m3u8?
+http://stream.suboroiptv.tv/TRT2/playlist.m3u8
+#http://gineu8.bozztv.com:80/gin-36bay3/gt-trt2/tracks-v1a1/mono.m3u8?
 #https://nimplus3.bozztv.com/trt2eu/trt2eu/playlist.m3u8?
 #https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #http://167.114.115.233:8080/trt2fhd/index.m3u8
@@ -6708,6 +6717,13 @@ https://moondigitalmaster.radyotvonline.net/raphome/playlist.m3u8
 https://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8
 #EXTINF:-1 group-title="Müzik",TÜRKÜ
 http://46.20.4.34/radyoland/turkland.stream/playlist.m3u8
+#EXTINF:-1 group-title="Müzik",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Müzik",Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Müzik",Now ROCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Müzik",WORLD HİTS
 https://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8
 #EXTINF:-1 group-title="Müzik",ZEN
@@ -7848,7 +7864,7 @@ http://beep.rip/dizipal/url.php?HLS=https://dizipal637.com/run-rabbit-run?164
 #EXTINF:-1 tvg-id="163" tvg-name="korku" tvg-logo="https://www.themoviedb.org/t/p/w1280/vclShucpUmPhdAOmKgf3B3Z4POD.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM KORKU TÜRÜ ➡️ YILMAZTV",Old ➾ 2021 • 1s 48dk • 5.8 • Dram，Gizem，Korku
 http://beep.rip/dizipal/url.php?HLS=https://dizipal637.com/old?163
 	
-#EXTINF:-1 tvg-id="162" tvg-name="korku" tvg-logo="https://www.themoviedb.org/t/p/w1280/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM KORKU TÜRÜ ➡️ YILMAZTV",M3GAN ➾ 2022 • 1s 41dk • 6.4 • Bilimkurgu，Korku
+#EXTINF:-1 tvg-id="162" tvg-name="korku" tvg-logo="https://www.themoviedb.org/t/p/w1280/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" tvg-id2="MzA=" group-title="🇹?? 🎦 FİLM KORKU TÜRÜ ➡️ YILMAZTV",M3GAN ➾ 2022 • 1s 41dk • 6.4 • Bilimkurgu，Korku
 http://beep.rip/dizipal/url.php?HLS=https://dizipal637.com/m3gan?162
 	
 #EXTINF:-1 tvg-id="161" tvg-name="korku" tvg-logo="https://www.themoviedb.org/t/p/w1280/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM KORKU TÜRÜ ➡️ YILMAZTV",Tin & Tina ➾ 2023 • 2s 01dk • 6.4 • Gerilim，Gizem，Korku
