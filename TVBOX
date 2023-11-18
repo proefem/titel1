@@ -430,6 +430,16 @@ https://owifavo5.rocketcdn.com:443/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/fb-tv.png" group-title="SPOR", FB tv
 https://59c7ea6bec1c6.streamlock.net:443/live/fbtv.stream/chunklist_w1181402446.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"  tvg-logo="https://seeklogo.com/images/L/lig-tv-yeni-logo-F915DA5FCA-seeklogo.com.png" group-title="SPOR"  ,BeIN Sports TR 1 ʜᴅ -ligtv1
+http://109.236.90.86:80/gt-ligtv1/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"  tvg-logo="https://seeklogo.com/images/L/lig-tv-yeni-logo-F915DA5FCA-seeklogo.com.png" group-title="SPOR"  ,BeIN Sports TR 1 ʜᴅ -ligtv1
+http://amtv1-2.livestreamingcdn.com:80/gt-ligtv1/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"  tvg-logo="https://seeklogo.com/images/L/lig-tv-yeni-logo-F915DA5FCA-seeklogo.com.png" group-title="SPOR"  ,BeIN Sports TR 2 ʜᴅ -ligtv1
+http://amtv1-2.livestreamingcdn.com:80/gt-ligtv2/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr"  tvg-logo="https://seeklogo.com/images/L/lig-tv-yeni-logo-F915DA5FCA-seeklogo.com.png" group-title="SPOR" ,BeIN Sports TR 3 ʜᴅ -ligtv1
+http://amtv1-2.livestreamingcdn.com:80/gt-ligtv3/index.m3u8 
+
 #EXTINF:0 tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg"group-title="SPOR",BeIN Sports  1 
 https://cakal.click/yayinzirve.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="SPOR" ,BeIN Sports  2 
@@ -662,6 +672,24 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 
 
+#EXTINF:-1 group-title="BELGESEL"  tvg-id="TLC.tr"                 tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                ,TLC
+https://tlc.blutv.com/blutv_tlc_live/live.m3u8
+#EXTINF:-1 group-title="BELGESEL"  tvg-id="DMAX.tr"                tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"                                                ,DMAX HD
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 group-title="BELGESEL"  tvg-id"NatGeoHD.tr"             tvg-logo=""                                                                                        ,NATIONAL GEOGRAPHIC HD
+https://edge02.odtv.az/o3/natgeo/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="BELGESEL"  tvg-id"NatGeoWild.tr"           tvg-logo=""                                                                                        ,NATIONAL GEOGRAPHIC WILD HD
+#https://edge02.smart.az/o3/natgeowild/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+https://edge02.odtv.az/o3/natgeowild/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="BELGESEL"  tvg-id"IDX.tr"                  tvg-logo="https://www.discovery.com/etc/designs/discoverycom/favicons/favicon-192x192.png"         ,IDX
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
+#EXTINF:-1 group-title="BELGESEL"  tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL HD
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="BELGESEL"  tvg-id"tgrtbelgesel.tr"         tvg-logo="https://www.canlitv.me/poster/tgrt-belgesel.png"                                         ,TGRT BELGESEL
+https://canli.haber365.com.tr/tr/tgrtbelgesel/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-name="Munakasa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="VoD ✦ SHOW-EGLENCE",Munakasa
 http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/11345.mkv
@@ -703,12 +731,14 @@ http://gineu9.bozztv.com:80/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
 http://gineu9.bozztv.com:80/gin-36bay3/gt-yesilcamtv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="Turkey ➾ Sinema",TELE ON ᴴᴰ
-https://anka@streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema", BOX OFFICE 1 ᴴᴰ
 http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
+
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema", BOX OFFICE 2 ᴴᴰ
 http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
+
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema", FD SİNEMA TVᴴᴰ
 https://250weu.bozztv.com/ssh101/ssh101/fdhdtv/chunks.m3u8
@@ -718,11 +748,11 @@ http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8?|User-Agent
 #EXTINF:0  tvg-id="TV 70.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",yesilcamTV 
 https://ssh101.bozztv.com/ssh101/yesilcamtv/chunks.m3u8
 
-#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",SuperTurk vizyonTVᴴᴰ
-http://169.53.242.72/SUPERTURKTV_vizyonHD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Turkey ➾ Sinema" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png",SUPERTURK_vizyonTVᴴᴰ
+http://75.119.144.48/SUPERTURK_TV_HD/index.m3u8
 
-#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",SuperTurk TVᴴᴰ
-http://169.53.242.72/SUPERTURK_2CH_HD/index.m3u8
+#EXTINF:0  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png"  tvg-id="" group-title="Turkey ➾ Sinema",SUPERTURK TVᴴᴰ
+http://75.119.144.48/SUPERTURK_TV_2HD/index.m3u8
 
 #EXTINF:0  tvg-id="TV 70.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",TV 70 
 https://anka@ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
@@ -2720,7 +2750,7 @@ http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mo
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9311.mkv
 #EXTINF:-1 tvg-name="Buz Devri 3: Dinozorların Şafağı (2009)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxz_dfsva9qEkqGHnp8bNI6s6CMjhiBWntKuAMXLU8k0.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Buz Devri 3: Dinozorların Şafağı (2009)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9319.mkv
-#EXTINF:-1 tvg-name="Buz Devri 4: Kıtalar Ayrılıyor (2012)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSAhwUYxapxAND7CKCrUMndstdpjb4GnDB3RLH3N0xZw.jpg" tvg-id2="MzA=" group-title="??🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Buz Devri 4: Kıtalar Ayrılıyor (2012)
+#EXTINF:-1 tvg-name="Buz Devri 4: Kıtalar Ayrılıyor (2012)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSAhwUYxapxAND7CKCrUMndstdpjb4GnDB3RLH3N0xZw.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Buz Devri 4: Kıtalar Ayrılıyor (2012)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9300.mkv
 #EXTINF:-1 tvg-name="Buz Devri-5: Büyük Çarpışma (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WMxdb1nlATdmp1X1MhBh3MatLl.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Buz Devri-5: Büyük Çarpışma (2016)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13527.mkv
@@ -2740,7 +2770,7 @@ http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mo
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12187.mkv
 #EXTINF:-1 tvg-name="Aksiyon Takımı Noel Görevinde (2022)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_s_cZb-7GDphmUnpIBjmLIxu5Jk9eLmr1zaA-wzqHXo.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Aksiyon Takımı Noel Görevinde (2022)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12189.mkv
-#EXTINF:-1 tvg-name="Bir Tuhaf Futbol Filmi (2022)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmfjlMD0dZg7C28uo4X5WvoX11i48XTob5W7nrTWnN0c.jpg" tvg-id2="MzA=" group-title="🇹?? [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Bir Tuhaf Futbol Filmi (2022)
+#EXTINF:-1 tvg-name="Bir Tuhaf Futbol Filmi (2022)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmfjlMD0dZg7C28uo4X5WvoX11i48XTob5W7nrTWnN0c.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Bir Tuhaf Futbol Filmi (2022)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12190.mkv
 #EXTINF:-1 tvg-name="Guillermo del Toro sunar: Pinokyo (2022)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLP3yKzjpI7p38CI3lrfb53fJQMwEz6CNn6Ng5SowVttI.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Guillermo del Toro sunar: Pinokyo (2022)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12191.mkv
@@ -2814,7 +2844,7 @@ http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mo
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9297.mkv
 #EXTINF:-1 tvg-name="Bisikletler (2018)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLe9bpZTGXXFLuL88rfBpsZtDpDYaEgpLiQDzmB9JuTPo.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Bisikletler (2018)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9298.mkv
-#EXTINF:-1 tvg-name="Sevimli Ejderha Kokonat: Ormanda Şenlik (2018)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRDfvyFnMvXvp215rQou8xxHvpFCzdzzz6-CvRxPEgig.jpg" tvg-id2="MzA=" group-title="🇹?? [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Sevimli Ejderha Kokonat: Ormanda Şenlik (2018)
+#EXTINF:-1 tvg-name="Sevimli Ejderha Kokonat: Ormanda Şenlik (2018)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRDfvyFnMvXvp215rQou8xxHvpFCzdzzz6-CvRxPEgig.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Sevimli Ejderha Kokonat: Ormanda Şenlik (2018)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9299.mkv
 #EXTINF:-1 tvg-name="Kirpi Latte ve Büyülü Taş (2020)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLj7ZQEWd5QgGNCXnlMYZ_f1ZTx6ok-mS_G_ZIbk0cAXM.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Kirpi Latte ve Büyülü Taş (2020)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9301.mkv
@@ -2824,7 +2854,7 @@ http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mo
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9304.mkv
 #EXTINF:-1 tvg-name="Orman Çetesi (2006)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdOMXWp7s3wYZYXJkbLb2VTO6GGzKU7nI44B4q8IaMQQ.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Orman Çetesi (2006)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9305.mkv
-#EXTINF:-1 tvg-name="DC Showcase: Adam Strange (2020)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZXGe0ADxC9HD77N5CPPR7LWof9N38ZxQ8nvfYPPZ3LM.jpg" tvg-id2="MzA=" group-title="🇹?? [VOD] VoD ✦ TR DUBLAJ ANIMASYON",DC Showcase: Adam Strange (2020)
+#EXTINF:-1 tvg-name="DC Showcase: Adam Strange (2020)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZXGe0ADxC9HD77N5CPPR7LWof9N38ZxQ8nvfYPPZ3LM.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",DC Showcase: Adam Strange (2020)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9306.mkv
 #EXTINF:-1 tvg-name="Küçük Ayak (2018)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSk68tn2h5WpKHtm_Fun0hXAw6C9syyO_ZtO01RAwdqE.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ TR DUBLAJ ANIMASYON",Küçük Ayak (2018)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/9307.mkv
@@ -3208,7 +3238,7 @@ http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mo
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/26999.mkv
 #EXTINF:-1 tvg-name="Ulan Salih (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTS0nwNd6CfKqaEHVrc7TjlmYaG.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ FILM",Ulan Salih (2023)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/26282.mkv
-#EXTINF:-1 tvg-name="Mahrem Kumpas İtiraf" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSk8b3i70cBjafCLKq5yYyH2PIc.jpg" tvg-id2="MzA=" group-title="🇹?? [VOD] VoD ✦ YERLİ FILM",Mahrem Kumpas İtiraf
+#EXTINF:-1 tvg-name="Mahrem Kumpas İtiraf" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSk8b3i70cBjafCLKq5yYyH2PIc.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ FILM",Mahrem Kumpas İtiraf
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/26283.mkv
 #EXTINF:-1 tvg-name="15/07 Şafak Vakti (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6S7aFB0KQdF7diE6qvdWaG4b4bc.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ FILM",15/07 Şafak Vakti (2021)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/26284.mkv
@@ -3784,7 +3814,7 @@ http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mo
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/11180.mkv
 #EXTINF:-1 tvg-name="Kim Daha Mutlu (2019)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLW7He-swSCcn4yjbelDjXsffd0XISbV_9BKLLWXoydEg.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ FILM",Kim Daha Mutlu (2019)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/11181.mkv
-#EXTINF:-1 tvg-name="Bahtsız Bedri (2019)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPCp8FVBbcAQm3sG8dHI7le_JLvePWpxWM1RGBmrG9Ak.jpg" tvg-id2="MzA=" group-title="???? [VOD] VoD ✦ YERLİ FILM",Bahtsız Bedri (2019)
+#EXTINF:-1 tvg-name="Bahtsız Bedri (2019)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPCp8FVBbcAQm3sG8dHI7le_JLvePWpxWM1RGBmrG9Ak.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ FILM",Bahtsız Bedri (2019)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/11182.mkv
 #EXTINF:-1 tvg-name="İstasyon (2020)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_4ifP9SnINtvQv7U95ioAGcP6XPplJyWj9Qz8F6wrqQ.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ FILM",İstasyon (2020)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/11183.mkv
@@ -3948,11 +3978,11 @@ http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mo
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17186.mkv
 #EXTINF:-1 tvg-name="Çalgı Çengi: İkimiz (2017)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLsKRIg4eKwKBZuidguosd0kpWfTvyma6Qm-w54l5aLgs.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ KOMEDİ",Çalgı Çengi: İkimiz (2017)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10902.mkv
-#EXTINF:-1 tvg-name="Vizontele Tuuba (2004)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLm920Sfilo9C5qp4AwGz3PkR0B5q3bTV8Vb7omBb1vh0.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ KOMEDİ",Vizontele Tuuba (2004)
+#EXTINF:-1 tvg-name="Vizontele Tuuba (2004)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLm920Sfilo9C5qp4AwGz3PkR0B5q3bTV8Vb7omBb1vh0.jpg" tvg-id2="MzA=" group-title="???? [VOD] VoD ✦ YERLİ KOMEDİ",Vizontele Tuuba (2004)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10904.mkv
 #EXTINF:-1 tvg-name="Bizum Uşaklar (2018)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLB2eQ_MnKIODuX5hIvlH12wtTfRGT63xz3njIvDIPFRI.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ KOMEDİ",Bizum Uşaklar (2018)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10903.mkv
-#EXTINF:-1 tvg-name="A.R.O.G (2008)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_GG3NnCElDDYslMEDe2fbr9ALLqKbhRTv8GdAGW5-Qg.jpg" tvg-id2="MzA=" group-title="🇹?? [VOD] VoD ✦ YERLİ KOMEDİ",A.R.O.G (2008)
+#EXTINF:-1 tvg-name="A.R.O.G (2008)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_GG3NnCElDDYslMEDe2fbr9ALLqKbhRTv8GdAGW5-Qg.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ KOMEDİ",A.R.O.G (2008)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10905.mkv
 #EXTINF:-1 tvg-name="Dalavere (2019)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3wjGhpZ282uzLneEZhnZmu6N_LR9RDAOI6Oq7UPnHgE.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ KOMEDİ",Dalavere (2019)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10906.mkv
@@ -4110,7 +4140,7 @@ http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mo
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10993.mkv
 #EXTINF:-1 tvg-name="Hep Yek 2 (2017)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDpMSX67yqtnp88N0xCwWpfMUyI7ETbOgFDfs9Y5ack0.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ KOMEDİ",Hep Yek 2 (2017)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10994.mkv
-#EXTINF:-1 tvg-name="Vezir Parmağı (2017)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSkVCu6hH3_AqfhgEvK3uZtX-P1ivNeLFq9MyaXZQWmA.jpg" tvg-id2="MzA=" group-title="🇹?? [VOD] VoD ✦ YERLİ KOMEDİ",Vezir Parmağı (2017)
+#EXTINF:-1 tvg-name="Vezir Parmağı (2017)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSkVCu6hH3_AqfhgEvK3uZtX-P1ivNeLFq9MyaXZQWmA.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ KOMEDİ",Vezir Parmağı (2017)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10995.mkv
 #EXTINF:-1 tvg-name="Kaçma Birader (2016)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLjfElHCcHQ5_VfkU_5Z3DesVC9VXkHaa-VRYbxqcxvmY.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ YERLİ KOMEDİ",Kaçma Birader (2016)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10996.avi
@@ -4586,7 +4616,7 @@ http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@mo
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/5049.mkv
 #EXTINF:-1 tvg-name="Şaban Pabucu Yarım (1985)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5GKtk7JaMVg3eenqlpmfMGJnzEs82o8hb9wHMrQT_j8.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ KEMAL SUNAL-BOXSET",Şaban Pabucu Yarım (1985)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/5050.mkv
-#EXTINF:-1 tvg-name="Bekçiler Kralı (1979)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLotnhmo8kp8JGCj2jn9MesaPtyAN8yL61VOo0xRHJJE8.jpg" tvg-id2="MzA=" group-title="🇹?? [VOD] VoD ✦ KEMAL SUNAL-BOXSET",Bekçiler Kralı (1979)
+#EXTINF:-1 tvg-name="Bekçiler Kralı (1979)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLotnhmo8kp8JGCj2jn9MesaPtyAN8yL61VOo0xRHJJE8.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ KEMAL SUNAL-BOXSET",Bekçiler Kralı (1979)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/5051.mkv
 #EXTINF:-1 tvg-name="Kılıbık (1983)" tvg-logo="http://euro-medya.ath.cx:52381/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLq3tINWBCEFI1-aowB7afeeSGfHqA_T7b5o9e_o8YJG8.jpg" tvg-id2="MzA=" group-title="🇹🇷 [VOD] VoD ✦ KEMAL SUNAL-BOXSET",Kılıbık (1983)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/5053.mkv
