@@ -15,7 +15,7 @@ https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8
 https://anka@tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
-http://anka@51.195.5.44:80/atv/tracks-v1a1/playlist.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-atv-tv/index.m3u8
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™yᴇᴅᴇᴋ
 https://anka@bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 
@@ -613,7 +613,6 @@ https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4107?.m3u8
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="BELGESEL"  tvg-id"tgrtbelgesel.tr" tvg-logo="https://www.canlitv.me/poster/tgrt-belgesel.png"     ,TGRT BELGESEL
 https://canli.haber365.com.tr/tr/tgrtbelgesel/index.m3u8
-
 #EXTINF:-1 group-title="BELGESEL"  tvg-id="TLC.tr"  tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"    ,TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 group-title="BELGESEL"  tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg" ,DMAX HD
@@ -624,6 +623,8 @@ https://edge02.odtv.az/o3/natgeo/playlist.m3u8|User-Agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o3/natgeowild/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
 #EXTINF:-1 group-title="BELGESEL"  tvg-id"IDX.tr"                  tvg-logo="https://www.discovery.com/etc/designs/discoverycom/favicons/favicon-192x192.png"         ,IDX
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
+#EXTINF:-1 tvg-id=" group-title="BELGESEL" tvg-logo="..\Channel\Logo\??? ???..png",EFES DOST TV
+http://cdn-efesdosttv.yayin.com.tr/efesdosttv/efesdosttv/chunklist_w23655948.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Documax" tvg-logo="https://picon-13398.kxcdn.com/skydocumentariesuk.jpg" group-title="BELGESEL",Documax
 https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/1278/index.m3u8
@@ -9446,3 +9447,227 @@ https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/1264.mp
 
 #EXTINF:-1 tvg-name="Savaş Davulları (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVuBXAFJfv9fLcqbEAhrGt3mZw1.jpg" group-title="KOVBOY",Savaş Davulları (1957)
 https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/1265.mp4
+
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTRadyo1.tr"           tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467415.jpeg"                            ,TRT RADYO 1
+https://radio-trtradyo1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTFM.tr"               tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467418.jpeg"                            ,TRT FM
+https://radio-trtfm.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTRadyo3.tr"           tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467462.jpeg"                            ,TRT RADYO 3
+https://radio-trtradyo3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTRadyo3.tr"           tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467462.jpeg"                            ,TRT RADYO 4
+mms://212.156.63.102/RADYO4
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTNagme.tr"            tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467465.jpeg"                            ,TRT NAGME
+https://radio-trtnagme.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTTurku.tr"            tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467466.jpeg"                            ,TRT TURKU
+https://radio-trtturku.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTRadyo6.tr"           tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467484.jpeg"                            ,TRT Radyo 6
+https://radio-trtradyo6.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTHaber.tr"            tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12530424_0-0-2048-1536.jpeg"              ,TRT Haber Radyo
+https://radio-trtradyohaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTTurkiyeninSesi.tr"   tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467508.jpeg"                            ,TRT Turkiyenin Sesi
+https://radio-trttsr.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTMemleketimFM.tr"     tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467512.jpeg"                            ,TRT MEMLEKETIM FM
+https://radio-trtmemleketimfm.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTAntalya.tr"          tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467521.jpeg"                            ,TRT Antalya
+https://radio-trtantalya.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTCukurova.tr"         tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467486.jpeg"                            ,TRT Cukurova
+https://radio-trtcukurova.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTErzurum.tr"          tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467502.jpeg"                            ,TRT Erzurum
+https://radio-trterzurum.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTGAPDiyarbakir.tr"    tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467503.jpeg"                            ,TRT GAP Diyarbakir
+https://radio-trtgap.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TRTTrabzon.tr"          tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467470.jpeg"                            ,TRT Trabzon
+https://radio-trttrabzon.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="AskFm.tr"               tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/ask-fm.jpg"                            ,ASK FM
+http://yayin.asymedya.com:8020/1;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Radyo10.tr"             tvg-logo="http://www.radyoon.com/themes/radyoon/images/logo.png"                                   ,Radyo 10
+http://yayin.asymedya.com:8040/1;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="PARK.tr"                tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/park-fm.jpg"                           ,PARK FM
+http://yayin.asymedya.com:8050/1;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="RadyoOSTIM"             tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/ostim-radyo.jpg"                       ,RADYO OSTIM
+https://stream.netradyom.com/radio/8010/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Gonulturkuleri"         tvg-logo="https://cdn.onlineradiobox.com/img/l/7/75087.v6.png"                                     ,Gonul turkuleri
+https://22193.live.streamtheworld.com/SC020_SO1_SC
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Radyo7.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-7.jpg"                           ,Radyo 7
+http://46.20.3.251/stream/169/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="ALEMFM.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm.jpg"                           ,Alem FM
+https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="BestFM.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png"             ,BEST FM
+http://37.247.100.100/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="BabaRadyo.tr"           tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/babaradyo-100x100.jpg"                 ,BABA RADYO
+https://babaradyo.turkhosted.com/best/babaradyo.stream/chunklist_w1521768371.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="kafaradyo.tr"           tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/kafa-radyo.jpg"                        ,KAFA RADYO
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="KralFM.tr"              tvg-logo="https://www.canlitv.me/poster/kral-tv.png"                                               ,Kral FM
+https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="KralPopRadyo.tr"        tvg-logo="https://www.canlitv.me/poster/kral-pop-tv.png"                                           ,Kral Pop FM
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Show Radyo"             tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/show-radyo.jpg"                        ,Show Radyo
+https://moondigitalmaster.radyotvonline.net/show/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Radyo Viva"             tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-viva.jpg"                        ,Radyo Viva
+https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="SuperFM.tr"             tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/super-fm-dinle.jpg"                    ,Super FM
+https://25443.live.streamtheworld.com/SUPER_FM_SC?/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="superFM2.tr"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/super-2-fm.jpg"                        ,Super FM2
+https://25483.live.streamtheworld.com/SUPER2_SC?/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="RadyoD.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-d-dinle.png"                     ,RADYO D
+https://radyo.duhnet.tv/radyod
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="SlowTurk.tr"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/slow-turk-dinle.jpg"                   ,SLOWTURK
+https://radyo.duhnet.tv/slowturk
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Dreamturk.tr"           tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-dream.jpg"                       ,DREAMTURK FM
+https://radyo.duhnet.tv/dreamturk
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Slowtime.tr"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/slow-time.jpg"                         ,SLOWTIME
+https://moondigitalmaster.radyotvonline.net/slowtime/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Slowhome.tr"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/slow-home.jpg"                         ,SLOWHOME
+https://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"                                   tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-turkulerle-turkiye.jpg"          ,TURKULERLE TURKIYE
+https://moondigitalmaster.radyotvonline.net/turkulerleturkiye/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="SlowKaradeniz"          tvg-logo="https://www.canliradyodinle.fm/radio/slow-karadeniz-fm.jpg"                              ,Slow Karadeniz
+http://dinle.slowkaradenizfm.com:9578/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Turku Radyo"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/turku-radyo-dinle.jpg"                 ,Turku Radyo
+http://radyo.turkuradyo.net:4591/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="RadyoTatlise"           tvg-logo="https://www.canliradyodinle.fm/radio/radyo-tatlises.jpg"                                 ,Radyo Tatlises
+https://sslyayin.radyoyayini.com:7054/stream
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Radyo Es"               tvg-logo="https://cdn.onlineradiobox.com/img/l/4/87334.v3.png"                                     ,Radyo ES Almanya
+http://radyoes.kesintisizyayin.com:7216/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Metropol Fm"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/metropol-fm.jpg"                       ,Metropol FM Almanya
+https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="NTV.tr"                 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/ntv-radyo.jpg"                         ,NTV Radyo
+http://ntvrdfms.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="CNNTURK.tr"             tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/cnn-turk-dinle.jpg"                    ,CNN TURK FM
+https://radyo.duhnet.tv/cnnturk
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="AHaber.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/a-haber-radyo.jpg"                     ,A Haber Fm
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="apara.tr"               tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/apara-radyo.jpg"                       ,A Para FM
+https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="ASpor.tr"               tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/aspor-radyo.jpg"                       ,A Spor FM
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Radiosoft"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-soft.jpg"                        ,Radyo Soft
+https://trkvz-radyolar.ercdn.net/radyosoft/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="turkuvazFm"             tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/turkuvaz-radyo.jpg"                    ,Turkuvaz Fm
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="turkuvazanadolu"        tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/turkuvaz-anadolu.jpg"                  ,Turkuvaz Anadolu
+https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="turkuvazefsane"         tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/turkuvaz-efsane.jpg"                   ,Turkuvaz Efsane
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="turkuvazMusiki"         tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/turkuvaz-musiki.jpg"                   ,Turkuvaz Musiki
+https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="turkuvazNostalji"       tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/turkuvaz-nostalji.jpg"                 ,Turkuvaz Nostalji
+https://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="turkuvazRomantik"       tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/turkuvaz-romantik.jpg"                 ,Turkuvaz Romantik
+https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-arabesk.jpg"                     ,ARABESK MELODI FM
+http://arabeskmelodi.kesintisizyayin.com:8888/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-arabesk.jpg"                     ,ARABESK RADYO BIZ
+http://dinle.arabeskradyo.biz:2011/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-arabesk.jpg"                     ,ARABESK ALEMI FM
+http://arabeskalemi.net:9300/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/efkar-fm.jpg"                          ,RADYO EFKAR FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC008_SO1_SC?/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/45lik-radyo-fm.jpg"                    ,Radyo 45lik
+https://stream.radyo45lik.com:4545/stream
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Diyanet Radyo"          tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/Diyanet-Radyo-100x100.jpg"             ,DIYANET RADYO
+https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/chunklist_b200000.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="AkraFM.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/akra-fm.jpg"                           ,AKRA FM
+https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Erkam Radyo"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/erkam-radyo.jpg"                       ,ERKAM RADYO
+https://raddyo.com/radio/8010/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="TGRT FM"                tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/tgrtfm.jpg"                            ,TGRT FM
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="Risalet Radyo"          tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/risalet-radyo.jpg"                     ,RISALET RADYO
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/chunklist_b200000.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="DOST FM"                tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/dost-fm-1.jpg"                         ,DOST FM
+http://yayin.dostfm.com:8920/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="VAVRADYO.tr"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/vav-radyo.jpg"                         ,VAV RADYO
+https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="BAYRAM FM"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/bayram-fm-100x100.jpg"                 ,BAYRAM FM
+https://sslyayin.netyayin.net/3442/stream
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="GONUL FM"               tvg-logo="https://radyodi.com/wp-content/uploads/2019/09/gonul.jpg"                                ,GONUL FM
+http://yayin1.canliyayin.org:8348/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="ESKO FM"                tvg-logo="https://www.radyodinle.one/img/large/esko-radyo-dinle.jpg"                               ,ESKO FM
+http://91.121.48.78:9100/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="RADYO FRESH"            tvg-logo="https://www.canliradyodinle.fm/radio/fresh-fm-kahramanmaras.jpg"                         ,RADYO FRESH
+https://canli.radyofresh.com/stream
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="SULTAN RADYO"           tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/sultan-radyo.jpg,                      ,SULTAN RADYO
+https://yayin.turkhosted.com/sultanradyo/stream?/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="CESUR FM"               tvg-logo="http://cesurfm.com/wp-content/uploads/2019/12/LOGO-768x188.png"                          ,CESUR FM
+http://yayin.turknokta.net:4646/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id="YORE FM"                tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/yore-fm.jpg"                           ,YORE FM
+http://yayin.turkhosted.com:6048/;
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,SLOW TURK
+mms://84.16.252.120/slowturk
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,PAL FM
+http://shoutcast.radyogrup.com:1030/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,TURKULERLE TURKIYE
+http://37.247.98.8/stream/22/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Radyo Romantik Türk
+http://radyo.yayin.com.tr:6042/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Arabesk Radyo
+http://dinle.arabeskradyo.biz:2011/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Arabesk Turk
+http://yayin.arabeskturk.com:8000/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,İmaj Pop
+http://live4.radyotvonline.com:9400/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,DOST RADYO
+http://yayin1.yayindakiler.com:3156/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,BOZKURTLAR FM
+http://bozkurtlarfm.canliyayinda.com:4040/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Turkrap FM
+http://95.173.188.166:9984/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Radyo 37
+http://yayin1.yayindakiler.com:3192/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,RADYO34
+http://yayin1.canliyayin.org:7424
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,RADYO FM 23
+http://radyo.yayin.com.tr:8280/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Kordon FM
+http://38.96.148.39:8588
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Radyo Kuran
+http://yayin.liderhost.net:8555/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,HAYATMIX SLOW
+http://hayatmix.net:3000/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,bigFM bigSES
+http://streams.bigfm.de/bigfm-turkey-128-mp3
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Radyo 3 HiLAL
+http://185.16.61.132:8000
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,RADYO KORDELYA
+http://38.96.148.39:8488
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,RADYO KARABALI
+http://95.173.162.182:9884
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Radyo Dost Viyana
+http://95.173.161.131:6262
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Yunus FM
+http://95.173.162.184:7350/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,AHISKA
+http://radyo.ahiska.net:8063/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Cemre FM
+http://yayin2.canliyayin.org:8002/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,London Turkish Radio
+http://s2.radio.co/s899a861e2/listen
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,JungerKulturKanal
+http://193.197.85.26:8000/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Nigde Tempo Fm
+http://yayin1.canliyayin.org:8344
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Radyo Mod Stream
+http://radyomo2.80.yayin.com.tr/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Radyo Rumelim
+http://radyorumelim.canliyayinda.com:8690/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Turkiyem FM
+http://51.77.72.72:8032/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,3 Nisan Radyo
+http://yayin2.canliyayin.org:8002
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,DOLU Radyo
+http://radyofullhd.canliyayinda.com:8050/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,TurKuaZ oTo DJ
+http://37.59.205.232:9346/stream/1/
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Radyo58
+http://95.173.184.50:9976
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Turku Radyom
+http://radyo.turkuradyo.net:4591
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Voice of Turkey
+mms://212.156.63.102/RDVOT
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,JOYTURK
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK.mp3
+#EXTINF:-1 group-title="TR | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,POLİS RADYOSU
+https://m.egm.gov.tr:8093/stream/1/
+
