@@ -69,7 +69,7 @@ https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8
 http://anka@mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist.m3u8?_=1
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
-https://anka@streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://anka@streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
 https://anka@kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -676,6 +676,14 @@ http://gineu9.bozztv.com:80/gin-36bay3/gt-yesilcamtv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="Turkey ➾ Sinema",TELE ON ᴴᴰ
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
 
+#EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/04/Cine5_logosu.png" group-title="Turkey ➾ Sinema",CİNE5 ᴴᴰ
+https://anka@cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8?_=1
+
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://cine1.com.tr/images/main-dark-logo.png"group-title="Turkey ➾ Sinema",CiNE1+ ᴴᴰ
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema", BOX OFFICE 1 ᴴᴰ
 #http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
 
@@ -697,6 +705,9 @@ http://75.119.144.48/SUPERTURK_TV_HD/index.m3u8
 #EXTINF:0  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png"  tvg-id="" group-title="Turkey ➾ Sinema",SUPERTURK TVᴴᴰ
 http://75.119.144.48/SUPERTURK_TV_2HD/index.m3u8
 
+#EXTINF:0  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png"  tvg-id="" group-title="Turkey ➾ Sinema",SUPER TURK FILM  TVᴴᴰ
+http://75.119.144.48/SUPERTURK_FILM_HD/index.m3u8
+
 #EXTINF:0  tvg-id="TV 70.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",TV 70 
 https://anka@ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
 
@@ -712,16 +723,23 @@ https://anka@play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="Turkey ➾ Sinema",LİDER TV
 https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/9217b6e91d17c38f7d171eb2b3670349.m3u8|Referer=https://www.liderhaber.com.tr/&e=.m3u8/&user-agent=Android
 
-#EXTINF:-1 tvg-id="FilTv.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema",FİL TV ᴴᴰ
-https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1277/index.m3u8|Referer=https://www.filbox.com.tr/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
-#EXTINF:-1 tvg-id="FilTv.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema",FİLMAX TV ᴴᴰ
-https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1282/index.m3u8|Referer=https://www.filbox.com.tr/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
-#EXTINF:-1 tvg-id="FilTv.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema",FİLM CLUB TV ᴴᴰ
-https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1279/index.m3u8|Referer=https://www.filbox.com.tr/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
-#EXTINF:-1 tvg-id="FilTv.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema",FİLM CLUB ACTION ᴴᴰ
-https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1281/index.m3u8|Referer=https://www.filbox.com.tr/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
-#EXTINF:-1 tvg-id="FilTv.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema",FİLODİ ᴴᴰ
-https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1280/index.m3u8|Referer=https://www.filbox.com.tr/&e=.m3u8/&User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+#EXTINF:0  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema", DOĞU TV ᴴᴰ
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1286/index.m3u8
+
+#EXTINF:0  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema",FİL TV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1277/index.m3u8
+#EXTINF:0  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema",FİLMCLUB AKSİYON
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1281/index.m3u8
+#EXTINF:0  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema",FİLMCLUB FAMİLY
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1285/index.m3u8
+#EXTINF:0  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema",FİLMCLUB KOMEDİ
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1283/index.m3u8
+#EXTINF:0  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema",FİLMCLUB
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m3u8
+#EXTINF:0  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema",FİLMMAX
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1282/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema",FİLODİ ᴴᴰ
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1280/index.m3u8|
 
 
 
