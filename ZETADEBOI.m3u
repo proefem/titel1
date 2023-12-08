@@ -1,24 +1,33 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_DE.xml,https://i.mjh.nz/SamsungTVPlus/de.xml.gz,https://i.mjh.nz/PlutoTV/de.xml.gz"
 
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",ARD ʜᴅ
+https://fernsehzone.online/stream123.php/ard.m3u8
 http://135.181.1.235:80/DASERSTE/index.m3u8
 
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://picon-13398.kxcdn.com/zdf.jpg" group-title="Live: Germany",ZDF ʜᴅ
+https://fernsehzone.online/stream123.php/zdf.m3u8
 http://135.181.1.235:80/ZDF/index.m3u8
 
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel Eins FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinshd.jpg" group-title="Live: Germany",Kabel Eins ʜᴅ
-https://s5.mysql2dumpcrypt.de:443/conv/go/kabel-eins/chunks.m3u81a.doc?|Referer=https://s5.2ix2-alternative.de/&e=.m3u8
+https://fernsehzone.online/getstream.php/kabel-1.m3u8
+https://s5.mysql2dumpcrypt.de:443/conv/go/kabel-eins/chunks.m3u81a.doc?|Referer=https://https://nydus.org/&e=.m3u8
 
 #EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenhd.jpg" group-title="Live: Germany",ProSieben ʜᴅ
+https://fernsehzone.online/getstream.php/pro7.m3u8
 https://s5.2ix2-alternative.de/conv/go/prosieben/chunks.m3u81a.doc?|Referer=https://s5.2ix2-alternative.de/&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 ʜᴅ
+https://fernsehzone.online/getstream.php/sat1.m3u8
 https://s5.2ix2com.de/conv/go/sat-1/chunks.m3u81a.doc?|Referer=https://s5.2ix2-alternative.de/&e=.m3u8
 
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL ʜᴅ
+https://fernsehzone.online/getstream.php/rtl.m3u8
+https://s5.tv24livestream.de/conv/go/rtl1/chunks.m3u81a.doc?|Referer=https://tv24livestream.de/&e=.m3u8
 https://s5.sql24backup.de:443/conv/go/rtl1/chunks.m3u81a.doc?|Referer=https://s5.2ix2-alternative.de/&e=.m3u8
 https://s5.sql24backup.de:443/conv/go/rtl1/chunks.m3u81a.doc?|Referer=https://s5.sql24backup.de/&e=.m3u8
+
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="Live: Germany",RTL II ʜᴅ
+https://fernsehzone.online/getstream.php/rtl2-zwei.m3u8
 https://s5.mysqlcryptnow.de/conv/go/rtl2/chunks.m3u81a.doc?|Referer=https://s5.2ix2-alternative.de/&e=.m3u8
 
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxx.jpg" group-title="Live: Germany",ProSieben Maxx ʜᴅ
@@ -37,36 +46,66 @@ http://135.181.1.235:80/RTLUP/index.m3u8
 http://135.181.1.235:80/RTLNITRO/index.m3u8
 
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="Live: Germany",VOX ʜᴅ
+https://bozztv.com/inim03/live1/vox/chunks.m3u8
+https://fernsehzone.online/getstream.php/vox.m3u8
 https://s5.tv24livestream2.de/conv/go/vox/chunks.m3u81a.doc?|Referer=https://s5.2ix2-alternative.de/&e=.m3u8
 
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="Live: Germany",VOX up ʜᴅ
+https://bozztv.com/inim03/live1/vox-up/chunks.m3u8
 https://s5.2ix2tv.de/conv/go/voxup/chunks.m3u81a.doc?|Referer=https://s5.2ix2-alternative.de/&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="Live: Germany",SAT.1 Gold ʜᴅ
 http://135.181.1.235:80/SAT1GOLD/index.m3u8
 
 #EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Germany",Tele 5 ʜᴅ
+https://fernsehzone.online/getstream.php/tele-5.m3u8
+https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8
 https://s5.2ix2com.de:443/conv/go/tele5/chunks.m3u81a.doc?|Referer=https://s5.2ix2-alternative.de/&e=.m3u8
 
 #EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV AT" tvg-logo="https://picon-13398.kxcdn.com/atv.jpg" group-title="Live: Germany",ATV ʜᴅ
-http://154.58.202.194:8000/play/a0dw/index.m3u8
+#http://154.58.202.194:8000/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV HD AT" tvg-logo="https://picon-13398.kxcdn.com/atvhd.jpg" group-title="Live: Germany",ATV 1 ʜᴅ
-http://83.77.184.98:7000/play/ATVatx
+#http://154.58.202.194:8000/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV2.at" tvg-name="ATV2 HD AT" tvg-logo="https://picon-13398.kxcdn.com/atv2.jpg" group-title="Live: Germany",ATV 2 ʜᴅ
-http://83.77.184.98:7000/play/ATV2at
+http://154.58.202.194:8000/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF eins AT" tvg-logo="https://picon-13398.kxcdn.com/orfeinshd.jpg" group-title="Live: Germany",ORF 1 ʜᴅ
+http://149.62.177.145:8000/play/a08w/index.m3u8
+https://s6.hopslan.com/orfx1/tracks-v1a1/mono.m3u8
+https://s.hdtvizlecanli.com/orf1a.m3u8
 https://s5.mysql2dumpcrypt.de:443/conv/go/orf1/chunks.m3u81a.doc?|Referer=https://s5.2ix2-alternative.de/&e=.m3u8
 
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF eins AT" tvg-logo="https://picon-13398.kxcdn.com/orf2.jpg" group-title="Live: Germany",ORF 2 ʜᴅ
+http://154.58.202.194:8000/play/a0b1/index.m3u8
 https://s1.dietdinnerrecipes.com/stream/go2/Njg3NDc0NzA3MzI1MzM0MTI1MzI0NjI1MzI0Njc3Nzc3NzJlNmM2OTc2NjU3Mzc0NzI2NTYxNmQ2NDY1MmU2MzZmNmQyNTMyNDY2ZjcyNjYzMjJkNmM2OTc2NjUyNTMyNDY=~/~NzM3NDcyNjU2MTZkMmU2ODY0NzQ3NjY5N2E2YzY1NjM2MTZlNmM2OTJlNjM2ZjZk~/~/orf2.m3u81a.doc
 
 #EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF III AT" tvg-logo="https://picon-13398.kxcdn.com/orf3hd.jpg" group-title="Live: Germany",ORF III ʜᴅ
+http://149.62.177.145:8000/play/a09k/index.m3u8
 http://83.77.184.98:7000/play/xxORF3xx
 
+#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ FHD CH" tvg-logo="https://picon-13398.kxcdn.com/3plusch.jpg" group-title="Live: Germany",3+ ʜᴅ
+https://s6.hopslan.com/3plus/index.m3u8
+#EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+ FHD CH" tvg-logo="https://picon-13398.kxcdn.com/4plusch.jpg" group-title="Live: Germany",4+ ʜᴅ
+https://s6.hopslan.com/4plus/index.m3u8
+#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+ FHD CH" tvg-logo="https://picon-13398.kxcdn.com/schweiz5.jpg" group-title="Live: Germany",5+ ʜᴅ
+https://s6.hopslan.com/5plus/index.m3u8
+#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+ FHD CH" tvg-logo="https://picon-13398.kxcdn.com/schweiz6.jpg" group-title="Live: Germany",6+ ʜᴅ
+https://s6.hopslan.com/6plus/index.m3u8
+
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info HD CH" tvg-logo="https://picon-13398.kxcdn.com/srfinfohd.jpg" group-title="Live: Germany",SRF Info ʜᴅ
+https://s6.hopslan.com/srfinfo/index.m3u8
+
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1 HD CH" tvg-logo="https://picon-13398.kxcdn.com/srf1hd.jpg" group-title="Live: Germany",SRF 1 ʜᴅ
+https://s6.hopslan.com/srf1/index.m3u8
+
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei HD CH" tvg-logo="https://picon-13398.kxcdn.com/srfzweihd.jpg" group-title="Live: Germany",SRF zwei ʜᴅ
+https://s6.hopslan.com/srf2/index.m3u8
+
+
 #EXTINF:-1 tvg-id="SWR.de" tvg-name="SWR DE" tvg-logo="https://picon-13398.kxcdn.com/swr.jpg" group-title="Live: Germany",SWR BW ʜᴅ
+https://webudit.hlsjs.ru/lb/premium739/index.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/master-720p-3328.m3u8
 
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="https://picon-13398.kxcdn.com/3sat.jpg" group-title="Live: Germany",3sat ʜᴅ
@@ -105,6 +144,9 @@ https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_6692.m3
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte FHD DE" tvg-logo="https://picon-13398.kxcdn.com/artehd.jpg" group-title="Live: Germany",Arte ʜᴅ
 https://webudit.hlsjs.ru/lb/premium725/index.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
 
+#EXTINF:-1 tvg-id="BildTV.de" tvg-name="Bild HD DE" tvg-logo="https://picon-13398.kxcdn.com/bildde.jpg" group-title="Live: News",KURIER TV ʜᴅ
+http://154.58.202.194:8000/play/a0ak/index.m3u8
+
 #EXTINF:-1 tvg-id="BildTV.de" tvg-name="Bild HD DE" tvg-logo="https://picon-13398.kxcdn.com/bildde.jpg" group-title="Live: News",Bild ʜᴅ
 https://bild.personalstream.tv/v1/master.m3u8
 
@@ -121,6 +163,7 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="https://picon-13398.kxcdn.com/ntv.jpg" group-title="Live: News",n-tv ʜᴅ
+http://149.62.177.145:8000/play/a0al/index.m3u8
 https://s5.mysqlcryptnow.de/conv/go/ntv/chunks.m3u81a.doc?|Referer=https://s5.2ix2-alternative.de/&e=.m3u8
 
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="Live: News" ,ARD-alpha ʜᴅ
@@ -129,7 +172,7 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix FHD DE" tvg-logo="https://picon-13398.kxcdn.com/phoenixhd.jpg" group-title="Live: News",Phoenix ʜᴅ
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 
-#EXTINF:-1 channel-id="wetter.de"  tvg-id="wetter.de"  tvg-chno="0047" tvg-logo="https://wetter.tv/images/wetter-tv-logo.svg"   group-title="Live: News" , WETTER
+#EXTINF:-1 channel-id="wetter.de"  tvg-id="wetter.de"  tvg-chno="0047" tvg-logo="https://wetter.tv/images/wetter-tv-logo.svg"   group-title="Live: News" , WETTER ʜᴅ
 https://streaming.meteonews.net/hls/stream.m3u8
 
 
@@ -157,7 +200,7 @@ https://webudit.hlsjs.ru/lb/premium559/index.m3u8?|Referer=https://https://olali
 #EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1  DE" tvg-logo="https://picon-13398.kxcdn.com/sport1hd-duslelaslu.jpg" group-title="Live: Sport",SPORT1 ʜᴅ
 https://webudit.hlsjs.ru/lb/premium640/index.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
 
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1  DE" tvg-logo="https://picon-13398.kxcdn.com/sport1hd-duslelaslu.jpg" group-title="Live: Sport",SPORT1 ʜᴅ
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1  DE" tvg-logo="https://picon-13398.kxcdn.com/sport1hd-duslelaslu.jpg" group-title="Live: Sport",SPORT1+ ʜᴅ
 https://webudit.hlsjs.ru/lb/premium641/index.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
 
 #EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event  DE" tvg-logo="https://picon-13398.kxcdn.com/skysporttopeventde.jpg" group-title="Live: Sport",Sky Sport Top Event ʜᴅ
@@ -166,9 +209,11 @@ https://webudit.hlsjs.ru/lb/premium556/index.m3u8?|Referer=https://https://olali
 
 
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfneo.jpg" group-title="Live: Dokus",ZDFneo ʜᴅ
+http://154.58.202.194:8000/play/a0c8/index.m3u8
 http://45.153.35.210:8000/play/DE_zdf_neo_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfo.jpg" group-title="Live: Dokus",ZDFinfo ʜᴅ
+http://154.58.202.194:8000/play/a0c5/index.m3u8
 http://45.153.35.210:8000/play/DE_zdf_info_sd/index.m3u8
 
 
@@ -188,9 +233,11 @@ http://135.181.1.235:80/NATGEO/index.m3u8
 http://135.181.1.235:80/ANIMALPLANETHD/index.m3u8
 
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Live: Dokus",DMAX ʜᴅ
+http://154.58.202.194:8000/play/a0lm/index.m3u8
 https://s5.mysqlcryptnow.de/conv/go/dmax/chunks.m3u81a.doc?|Referer=https://s5.2ix2-alternative.de/&e=.m3u8
 
 #EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: Dokus",TLC ʜᴅ
+http://154.58.202.194:8000/play/a06r/index.m3u8
 http://stream.suboroiptv.tv:80/tlc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="https://picon-13398.kxcdn.com/weltderwunder.jpg" group-title="Live: Dokus",Welt der Wunder ʜᴅ
@@ -1190,898 +1237,4 @@ https://i.mjh.nz/PlutoTV/5ea816a44457070007ffabc7-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-640f4f4083f589000828a544" tvg-id="640f4f4083f589000828a544" tvg-logo="https://images.pluto.tv/channels/640f4f4083f589000828a544/colorLogoPNG.png" tvg-chno="515" group-title="Best of Pluto TV" , Pluto TV #1
 https://i.mjh.nz/PlutoTV/640f4f4083f589000828a544-alt.m3u8
-
-#EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1 group-title="KARMAX",BEÝN SPOR HD
-https://corsproxy.org/?https://worker-frosty-truth-a6e3.volestream-hadise-offf.workers.dev/hls/bein-sports-1.m3u8
-#EXTINF:-1 group-title="KARMAX",TRT 1 4K
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExMzk1MTg5ODA1MTZhZGI4NDEyYQ==
-#EXTINF:-1 group-title="KARMAX",SÝNEMA TV HD
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NjM1NjIxMDFlOWM2YzJjMGVmYzQ=
-#EXTINF:-1 group-title="KARMAX",SINEMA YERLI 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY3NjI5MTE5OTU4MmVkYzMxMzk4Zg==
-#EXTINF:-1 group-title="KARMAX",BEIN MOVIES TURK |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5Njc1NjgwOTBmNzI4NmI0Y2JiNDc=
-#EXTINF:-1 group-title="KARMAX",SMART MOVIES TURK
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNjQ2NzgyNDFkOWNkMGQ5M2NiMjc=
-#EXTINF:-1 group-title="KARMAX",MOVIESMART CLASSIC |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMDQ4NTY1MjQ1OTM3ZDcxMmNlZWQ=
-#EXTINF:-1 group-title="KARMAX",FILMBOX YESILCAM |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NDg2NjA2NDc5M2ExZjY1OWQ1NWE=
-#EXTINF:-1 group-title="KARMAX",FIX CINEMA YESILCAM |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5ODM3OTk2NzY4NzdjNzM4ZDVhNmY=
-#EXTINF:-1 group-title="KARMAX",FILMBOX KADIR INANIR |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ2MDAxODc3M2I2NDAxMjE2M2Y4YQ==
-#EXTINF:-1 group-title="KARMAX",GLOBAL BOX KEMAL SUNAL |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY2MjA3NDA1OWFmYjlmNGU2MDI3Nw==
-#EXTINF:-1 group-title="KARMAX",FILMBOX KEMAL SUNAL
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc4MjIyOTUyNjQ3NDA0NzdiNTVhYQ==
-#EXTINF:-1 group-title="KARMAX",TRT 4K
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0Nzg0MTg1MTllOTZkZDQ4NTRhNDg=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS HABER |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYxMTk1OTkwMjFiZGU5Y2I1MTliYg==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS HABER HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk0Mjc5OTE4MTEyMzM0ZmU1MTk2Yw==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS HABER RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzODQ0MzY2NDRkYmNiNjE2YzFkYg==
-#EXTINF:-1 group-title="KARMAX",BEIN CNNECT 1 MACZAMANI |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwODgzMjE0NTgyYzA0ZjVmZThmZDQ=
-#EXTINF:-1 group-title="KARMAX",BEIN CNNECT 2 MACZAMANI |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4Mjg5ODk4OTkwYjU5NjBiYjJjMzM=
-#EXTINF:-1 group-title="KARMAX",BEIN CNNECT 3 MACZAMANI |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NzM1NDI5NDcxMmE5ZmQ4NWU1Mjc=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS MOBIL |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNTYxMzM4MTdmYTE3Y2FmOGViNzM=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS FEED (OZEL TEST YAYIN) |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NzM4ODQwOTk2MWU3NDI1ZmVkZmU=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 4K (3084X2160) |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxODMxNDM3NWEyZTVkMjYzZjc1Ng==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 4K FEED (4096X2160) |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0ODM0ODY3NzlkYWY0ZDJmZjEwYQ==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 8K |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2ODg5NjgzNTBjYjYwOTM0YjU1YQ==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 1 HD (TURKEY) |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk4MDQyNDYwMDQxODk1MDY1YjExYg==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NzM5Njk5NjYxMGU3ZGZmYWMzZmU=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 1 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMTgwMjkzMzVjNTRkNTA4ODI1Yzk=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 1 HD
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MDMzNzE4MDBjYzZiODcwYzA2NDU=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 1 + |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NzM5Mzk0NDBhZjEzZTdmYzIwZjY=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 1 50 FPS |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMzk3MDcxMzMwNDIwMzA5MGM1ZWI=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 1 H265 |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2ODQwNjE3MTI4NzNhNDMwMGQxZTQ=
-#EXTINF:-1 group-title="KARMAX",BEIN 1 SD (360P) |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MTQ4NjI5NDk1N2RiOTE3MTI5MmQ=
-#EXTINF:-1 group-title="KARMAX",BEIN 1 SD (480P) |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NjQ2MTcyNjdhNzAyMDc4YTMyMA==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 1 (720PFEED) |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMzQ5NTg2NzkzY2FhODFhZjYwZjQ=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 720P FEED |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MDg1NDIxNjA0ZGYwOTE2OWVhNTA=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 1 (720P)
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzgyMjc3MDUwMWMwMzc3ODdmNjBjMQ==
-#EXTINF:-1 group-title="KARMAX",BEIN SPOTS1 SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5ODA1NjUxNTJmNDAwNjJmZTk0Yg==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 2 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MzAyMzA5OWJiMjQxOGU1NzhjNA==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 2 SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwOTIwODc0NTk2MjQ1ZGU0NzllNDI=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MDcxODg3MzQzNjRiMjRkOWU2OGQ=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 2 UHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwOTIyNzk2OTQ2NTVmZmNiYTZiNDc=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 3 UHD
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MzQ2NTQ2NjlmZDdiMmY0ZjQ2YmI=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 3 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NDEyNjQ3NDE1OTM3NWQxMjdhNjA=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 3 SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NTQ0MTAwNDUzMjVjNThkYzMxYTA=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 3 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1ODY5OTM5OThhODRjNTc4OTY5MWU=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 3 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNzMxOTc5NDNjNmMzZmIzNjAwYzQ=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 4 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4OTk2MTU1OTE2NDE3ZDJmOTc5MWU=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 4 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY3MjMxNTc0MjVjZjFjOTE1MWJjOQ==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 4 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NTMzNzkxOTZjZDJhZGJlOGM1MjY=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 4 UHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxNjMyOTQ3MjQ3YmVlZGJiYzBiNGM=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 5 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1OTgyOTc0MmRjYTY3MWQwMjRhYg==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 5 FHD
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNTAzNzY3MjQyYjkzOTg5OTIwODk=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS 5 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUyNjc5NTc0NmQ4MmVjNTBhZDk5Mg==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS MAX 1 FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMjUzNjYyMzgyMzIyNzQ3ZTlhZmI=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS MAX 1 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MzMyNDk0ODc1OTU4NWNmOTVhYjk=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS MAX 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0NDI5NzA0MTI0ZDUzNjQ3NjdkYWU=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS MAX 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzczNjg3NDk4MWJhNDQwOGRmMjg2YQ==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS MAX 2 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3MTU3OTAxNWEwZjFjMmI3NDYxZQ==
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS MAX 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MTY4OTgzNTcwMmI5NzY5MTc5NDM=
-#EXTINF:-1 group-title="KARMAX",BEIN SPORTS MAX 2 FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNzM2MDMzNTU4YjQ0MGNiYmMwYjI=
-#EXTINF:-1 group-title="KARMAX",EXXEN SPOR 1 SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNDg2ODE1MTEwOTFlOWYxODFmOWE=
-#EXTINF:-1 group-title="KARMAX",EXXEN TV SPOR 1 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MDA4MzY0NzA2OTFlMDg5Nzk2YmE=
-#EXTINF:-1 group-title="KARMAX",EXXEN TV SPOR 1 720P |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNDI4MzIxOTIyNTYzMmIzZTkzMw==
-#EXTINF:-1 group-title="KARMAX",EXXEN TV SPOR 1 720P |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU3NzI1OTQxMzA3OTI5OGZjZmNiYg==
-#EXTINF:-1 group-title="KARMAX",EXXEN TV SPOR 1
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0OTg2ODk0ODA1NTk2NWNlM2NiMDc=
-#EXTINF:-1 group-title="KARMAX",EXXEN TV SPOR 1
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1MTY4Mzk0MDgyMjU1MTRhOWIwMWM=
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MjA2OTg2NTZmMzhkZThmNTFjMDg=
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MDcyNDUyNzYwZDc3MjNlMjhiNDQ=
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 3 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NzUxMjMzNDQ0MTkwZWZkMGY2OTU=
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 3 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ3MjczMDQwYTNlYjgwZDM4MA==
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 4
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNzcwMjkxMmE5ZDk1MzQxYTUxYg==
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 4
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5ODg5NjAzOTQ0OGMxMmViZTAzZjA=
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 5
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwNTk1MDc2OGI4OWFiODMyOTFkNA==
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 5
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MDM4NDQ5MjIzMjQyMTI1ZTI3ZmI=
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 6
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NzM0MjMzMjg5Y2VkNjE2OTk3NzY=
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 6
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzNzA2Mjk2MTAzYjU5MzFkNDM4OTA=
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 7
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMTkzMDIyMzQwYjQwYWUzNDI2NzI=
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 8
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMTA1ODA4NzVjMTAzMzZjNjYxZDI=
-#EXTINF:-1 group-title="KARMAX",EXXEN SPORTS 8
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3MDAzNDg4MDE2MDVhMmVhNzg2MDA=
-#EXTINF:-1 group-title="KARMAX",S-SPORT+1 MAC SAATI |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ2NDE1NDA2OWJmNWE0MzMyMGE3NA==
-#EXTINF:-1 group-title="KARMAX",S-SPORT+2 MAC SAATI |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MTg2NDM2NDAxN2VhM2UwYTk3Yw==
-#EXTINF:-1 group-title="KARMAX",S-SPORT+3 MAC SAATI |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExMDU1OTU3ODA4ZWMxNjY3Y2ZjMWE=
-#EXTINF:-1 group-title="KARMAX",S-SPORT+4 MAC SAATI |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NzI1NzI1NzQwYWUxYTk2OGVlNDU=
-#EXTINF:-1 group-title="KARMAX",S-SPORT+5 MAC SAATI |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NjI4MzUwNjIzMzQ4YjlmNWM2M2E=
-#EXTINF:-1 group-title="KARMAX",S SPORT |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxNTU0Nzg5MjIxODRjMWYzMTE3YWE=
-#EXTINF:-1 group-title="KARMAX",S SPORT |H
-aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NDA3MzMwNDFhZGQ4MDM1ZGE0MzM
-#EXTINF:-1 group-title="KARMAX",S SPORT |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MzQxMjI2NzE5MDE5ODI2MzNmM2E=
-#EXTINF:-1 group-title="KARMAX",S SPORT |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NjY1Mjc5MjUxNWZiYTQxYWIwMGQ=
-#EXTINF:-1 group-title="KARMAX",S-SPORT 1 UHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMDg3MjgxOTc0NDkwYTQ5ZDRiZDU=
-#EXTINF:-1 group-title="KARMAX",S-SPORTS 1 SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg5Njc1NDUwOTdiZTQ2ZTUzN2U2Yg==
-#EXTINF:-1 group-title="KARMAX",S-SPORTS 2 SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNTM4ODAyMzgzM2YxNGU3ODE3MjE=
-#EXTINF:-1 group-title="KARMAX",S SPORT 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NzMxMjM0ODg2YTFhNWM0MTM3YzE=
-#EXTINF:-1 group-title="KARMAX",S SPORT 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NDYzNDQ1MTIyZGRlYjRhZjVmYzY=
-#EXTINF:-1 group-title="KARMAX",S SPORT 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzNjc4NTAxMjZiYWFhN2NkZTEzNDc=
-#EXTINF:-1 group-title="KARMAX",S SPOR PUS
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyODgwMDc2MDczM2RkNDdkN2U5YTE=
-#EXTINF:-1 group-title="KARMAX",SPOR SMART FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxNzg3OTU0MzYyZTdhNmJlNTZiNmY=
-#EXTINF:-1 group-title="KARMAX",SPOR SMART FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMjUzNTg0MzQwOGE5MDAwNjM0OTQ=
-#EXTINF:-1 group-title="KARMAX",SPOR SMART 2 FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NzI2NDU1Mzc0MjhiOTkyMGZiZGY=
-#EXTINF:-1 group-title="KARMAX",SPOR SMART 2 FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzgwMzkzNTI2OTI5Yjc4YjJlMmY1Mw==
-#EXTINF:-1 group-title="KARMAX",TIVIBU SPOR |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMTkzOTc2MTA5YmQ4N2EwNWE1MTc=
-#EXTINF:-1 group-title="KARMAX",TIVIBU SPOR 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NzYzMzk2MzBkMDk5MzRjNmJiNzg=
-#EXTINF:-1 group-title="KARMAX",TIVIBU SPOR 1 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzgxODY1MjgyMzQxOWRkNjRkM2MxYQ==
-#EXTINF:-1 group-title="KARMAX",TIVIBUSPOR 1 FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NDQxMDYyOGNjZTNiNGVhMmE2OA==
-#EXTINF:-1 group-title="KARMAX",TIVIBU SPOR 3 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMDkwMzYzMGY5MWZlN2VhOGZmNw==
-#EXTINF:-1 group-title="KARMAX",TIVIBU SPOR 3
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMDkwMzYzMGY5MWZlN2VhOGZmNw==
-#EXTINF:-1 group-title="KARMAX",TIVIBU SPOR 3 HD
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMzQ4NjE5NjQ1YzNjMDI5ZTFiMDg=
-#EXTINF:-1 group-title="KARMAX",TIVIBU SPOR 4 HD 
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMzQ4NjE5NjQ1YzNjMDI5ZTFiMDg=
-https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwOTgyNTY0NDEzYWU4MzcyODg0Njk==
-#EXTINF:-1 group-title="KARMAX",EUROSPORT 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MzUyMjI0OTMzNTEyZDBlMmViYjA=
-#EXTINF:-1 group-title="KARMAX",EUROSPORT 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMjMxODAyNTVjYmU1YjU4MGExNTk=
-#EXTINF:-1 group-title="KARMAX",EUROSPORT 2 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk1OTI3MTQzOTUzMTFhZjA1MjQ3Yg==
-#EXTINF:-1 group-title="KARMAX",EUROSPORT 2 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3MzgzOTc5NjVmOTQ3NGFiNDFlMWI=
-#EXTINF:-1 group-title="KARMAX",EUROSPORT 2 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNTgwOTM2ODFjNzExMmVmZDNlM2Y=
-#EXTINF:-1 group-title="KARMAX",FB TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwNDg4MjI5NDI4YzA5MjIzM2JmZmI=
-#EXTINF:-1 group-title="KARMAX",FB TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU1MTY5MzQ0MTQ1OThhMmJiMzEzNw==
-#EXTINF:-1 group-title="KARMAX",TRT SPOR HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNjIwMzE3MDJjYTc3ZTY5OThmNDA=
-#EXTINF:-1 group-title="KARMAX",TRT SPOR FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNTI5MjEzMzY5NjE4ZmNiM2Q4Zg==
-#EXTINF:-1 group-title="KARMAX",A SPOR |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5ODc4NzkzNjE5YmJkMmVmZTE3MmM=
-#EXTINF:-1 group-title="KARMAX",A SPOR HEVC |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNzE1NDc4NDg1YmJjYWEzMGVjZGY=
-#EXTINF:-1 group-title="KARMAX",A SPOR RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMDUyNDY2NGI0ODI5NjZlMmJjMg==
-#EXTINF:-1 group-title="KARMAX",A SPOR FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NTczMjE2NjNkOGNiOTYyNGU3NzM=
-#EXTINF:-1 group-title="KARMAX",A SPOR HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMTc0ODk4ODNlMGQyZDUzNGRkNWE=
-#EXTINF:-1 group-title="KARMAX",A SPOR |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MTAwOTc1MTUzYmE1MzI5MjIwMjE=
-#EXTINF:-1 group-title="KARMAX",TJK TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk4Nzc0ODk4NmI2YTA1NzQxZmNjZQ==
-#EXTINF:-1 group-title="KARMAX",NBA TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU0MTgxNjIwMzhmYmVlNjkzNmNjZg==
-#EXTINF:-1 group-title="KARMAX",BEIN IZ TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MjY4Njc5ZGIyOGVmM2EzNDRk'">
-#EXTINF:-1 group-title="KARMAX",BEIN GURME |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4OTYxODY2MDRiNWU2NDBlMjA3Njk=
-#EXTINF:-1 group-title="KARMAX",BEIN GURME |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NjE1NDA1MzhjNzYzMmM1OWMxMTE=
-#EXTINF:-1 group-title="KARMAX",BEIN GURME HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUxNTk5ODM5MGNiYjczMTk0NjljNA==
-#EXTINF:-1 group-title="KARMAX",BEIN SERIES 1 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxNTk3MDAxNTM3NzBlZjBiYjEzYw==
-#EXTINF:-1 group-title="KARMAX",BEIN SERIES 2 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4Mjk1NDc3OTE2Y2Y3YWNlM2EwNDA=
-#EXTINF:-1 group-title="KARMAX",BEIN SERIES 3 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNDkyODk2NjMyYzA0Y2RhMGExN2U=
-#EXTINF:-1 group-title="KARMAX",BEIN SERIES 4 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3OTY2NTQ3NjdiMWFlMzM0OTYyZDk=
-#EXTINF:-1 group-title="KARMAX",BEIN BOX OFFICE TURK |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMDA3NzU4OTVkNWM4ZjJjMjQwZTE=
-#EXTINF:-1 group-title="KARMAX",BEIN BOX OFFICE 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NDg0NzI0MjQyN2EwNGI1ZTAwZjk=
-#EXTINF:-1 group-title="KARMAX",BEIN BOX OFFICE 1 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwODUyOTk5MzBmNGIxMWE2NGNmMTA=
-#EXTINF:-1 group-title="KARMAX",BEIN BOX OFFICE 2 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMzEwODkxNjIyMmY3ZTQxYzJmMWQ=
-#EXTINF:-1 group-title="KARMAX",BEIN BOX OFFICE 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMTgxMzc3ODRiNGY2ZWNlZjMxMGQ=
-#EXTINF:-1 group-title="KARMAX",BEIN BOX OFFICE 3 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwNzUxOTg5ODRkOTM0OWUyOTVjNWE=
-#EXTINF:-1 group-title="KARMAX",MOVIE SMART ACTION |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MTk0MzI1OTZjOTlhYWJkMTA1YWE=
-#EXTINF:-1 group-title="KARMAX",MOVIE SMART PLATIN 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwMDE4NTkwNzM1NDY1MWJhNzc3M2Y=
-#EXTINF:-1 group-title="KARMAX",MOVIE SMART PREMIUM |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0NTQxMzg2NDRkMzE0YjkyYTU3Yzk=
-#EXTINF:-1 group-title="KARMAX",BEIN MOVIES FAMILY |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3OTk2OTk4NDE0YzFjOWMyYjVmNTA=
-#EXTINF:-1 group-title="KARMAX",BEIN MOVIES FAMILY |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MDM0MDk0NDRhNmJjMjFlZmFjMWQ=
-#EXTINF:-1 group-title="KARMAX",BEIN SERIES COMEDY |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwNjI4MDE5OTkwZjVhNDViNmEzYjQ=
-#EXTINF:-1 group-title="KARMAX",BEIN SERIES DRAMA |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MjQ2NDI4NzM0MDhkYjkyZWM3MjY=
-#EXTINF:-1 group-title="KARMAX",BEIN SERIES DRAMA |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1MjY1NDYwNTk5YTFjMTM5OGI4YzA=
-#EXTINF:-1 group-title="KARMAX",BEIN SERIES SCI-FI |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MTQ0MTcyMThmMmY2OTA5OTk0NDQ=
-#EXTINF:-1 group-title="KARMAX",BEIN SERIES VICE |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MjIyNDA4MDk0NWYwMDk3ZTFhM2I=
-#EXTINF:-1 group-title="KARMAX",BEIN MOVIES PREMIERE |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MzI5MzA5NDZiMWZmZTdiN2VhOWY=
-#EXTINF:-1 group-title="KARMAX",BEIN MOVIES PREMIERE 2 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNzAwNzA0Nzk0MjI0YmQ5NzgwZA==
-#EXTINF:-1 group-title="KARMAX",BEIN MOVIES PREMIERE 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwMzE4OTU5MDY5MzdlYjg3YzVhYTc=
-#EXTINF:-1 group-title="KARMAX",BEIN MOVIES ACTION |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NjcyMzc5NTQ4Y2I0ZDEzZGFmMzE=
-#EXTINF:-1 group-title="KARMAX",BEIN MOVIES ACTION |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MjE1NDEwOTVjOWM0NmFiOGM4ODA=
-#EXTINF:-1 group-title="KARMAX",BEIN MOVIES ACTION 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyODUyMjg5NjhjNWEzOTJjNTRmNzE=
-#EXTINF:-1 group-title="KARMAX",BEIN MOVIES STARS |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNTQ3NTYxMjg1ZDEyZDFlNDY1MjI=
-#EXTINF:-1 group-title="KARMAX",BEIN MOVIES STARS |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMzA2NTQ2MTBhNzkyOTY1MWQ5MGU=
-#EXTINF:-1 group-title="KARMAX",FILMBOX |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNTMxOTEyNzFlMDk3NjJiNjEwYTE=
-#EXTINF:-1 group-title="KARMAX",FILMBOX |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NDE1ODg4MDI0NjcwZDUxYWNkOWM=
-#EXTINF:-1 group-title="KARMAX",FILMBOX COMEDY |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMzU0MDQ1NjUxZDI2NjM3NTIxZWY=
-#EXTINF:-1 group-title="KARMAX",FILMBOX COMEDY |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMzU0MDQ1NjUxZDI2NjM3NTIxZWY=
-#EXTINF:-1 group-title="KARMAX",FILMBOX AKSIYON |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MjExNzgwMTU4NmJkNDNhOTJkN2Y=
-#EXTINF:-1 group-title="KARMAX",FIX CINEMA FANTASTIC |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExOTk1NTM4NjBjZmEyODJkOWZjNjI=
-#EXTINF:-1 group-title="KARMAX",FIX CINEMA MACERA |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NzYxOTkxNTg0OTI1ZTI1M2Y3NWE=
-#EXTINF:-1 group-title="KARMAX",FIX CINEMA BILM KURGU |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4NTY0NjM2NDdkZmM3ZjU5MGZhZDg=
-#EXTINF:-1 group-title="KARMAX",FIX CINEMA ACTION |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY2MzcyMDQ5Mjc3MmRmZjYyN2U0ZA==
-#EXTINF:-1 group-title="KARMAX",FIX CINEMA KORKU |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQzNTU4OTc1NWY1ZjFlNzg0NDQ2NA==
-#EXTINF:-1 group-title="KARMAX",FIX CINEMA NETFLIX |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0MTk2ODQ4MzE3MWQyOGY0MGU0Mzc=
-#EXTINF:-1 group-title="KARMAX",FIX CINEMA YERLI |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5ODc3NjUzNzUzZGE1Njk5YmMxNWM=
-#EXTINF:-1 group-title="KARMAX",ENO WESTERN |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MTA5NTgzMDcyMTAyMzI2ZDQ5NjA=
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MzY5MDE0MTVmYjFhYjA0OGRkNzU=
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxOTEwMTY4N2RkMzMwY2U2NGE3ZQ==
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 3 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5ODI0MzY1NWRhZWRmMjRlNTg4Mg==
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 4 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3Nzg0OTE3MzU0ZDQwMzlmMjQ2MTg=
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 5 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NjY2NjkwMzExZWZkMzRjMjYwYmU=
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 6 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NDczNjI4NzEyMzM2NWE1NmVlNGI=
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 7 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3OTU1ODc0NjNkZmQ5MDgxZGUzY2U=
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 8 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MTc3MjUwMTRlNTJlNzI0MTdiYTI=
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 9 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NjExMTI1NTAzNmE2MzI1NjU2ZjY=
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 10 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0MDQ2MjM1MDVlMjRlYTdlY2E3YTI=
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 11 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4NTk3MTE3NzdiNDdiNTg1MGFkYjU=
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 12
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY5NTc2NTQ4OWY2NWJkM2JjMTY4Yw==
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 14 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3ODg3MTk2OTdiMjBiMGJiNWQ5NmE=
-#EXTINF:-1 group-title="KARMAX",ENO VIZYON 15 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MDYyNTc2MzM4NzI0YzdmYThlMzg=
-#EXTINF:-1 group-title="KARMAX",ENO AKSIYON 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4NjM3OTY5ODYxZjlmMmZjZGIyYg==
-#EXTINF:-1 group-title="KARMAX",ENO AKSIYON 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNTMxNzY0MTg0ZjgxZGIwN2QxNzY=
-#EXTINF:-1 group-title="KARMAX",ENO ANMASYON |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1OTQ3MzM2NDNkZDg5NTRkNzc3OWM=
-#EXTINF:-1 group-title="KARMAX",KINGBOX HD
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NjM3Mzk0NDVlNzUwZDcyNjM0MGQ=
-#EXTINF:-1 group-title="KARMAX",KINGBOX HD ACTION
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NjM3Mzk0NDVlNzUwZDcyNjM0MGQ=
-#EXTINF:-1 group-title="KARMAX",GLOBAL BOX YERLI |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkxMDA3NjY3MGJiYzQ5Y2ZhYTE2ZA==
-#EXTINF:-1 group-title="KARMAX",GLOBAL BOX ACTION |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxODI2OTMwMjJkMGFjOTAyZTM2N2I=
-#EXTINF:-1 group-title="KARMAX",GLOBAL BOX DRAM |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NTc1NDIxM2UzZDhkMjZmZmRmMw==
-#EXTINF:-1 group-title="KARMAX",GLOBAL BOX FANTASTIC |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMDIwNDk5NDJlM2U3YmI1Yjc3ZmY=
-#EXTINF:-1 group-title="KARMAX",GLOBAL BOX KORKU |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NDg1NDUwMThiYzRmM2UwYzA5ZWI=
-#EXTINF:-1 group-title="KARMAX",GLOBAL BOX VÝZYON |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2Nzk5MzYxMDkzNDRkMzI3ZDNlZWM=
-#EXTINF:-1 group-title="KARMAX",HORROR 1 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNTk4OTQ3MmMzYTIwNzg4YjFhYw==
-#EXTINF:-1 group-title="KARMAX",HORROR 2 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyOTkzNjA2NDMwN2RlODlkM2YyNzg=
-#EXTINF:-1 group-title="KARMAX",HORROR 3 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNjg2MDIzOTc4MTk3NmFjYTViMjc=
-#EXTINF:-1 group-title="KARMAX",HORROR 4 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMzE4NTQzNDA5NGU5NDA2MjhjZDI=
-#EXTINF:-1 group-title="KARMAX",HORROR 5 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMTA5NTQzOTQ2NzFlYjc1OWNmNGI=
-#EXTINF:-1 group-title="KARMAX",BOSS MOVIES 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNzE3NTE2MDg5MzNiOGM4NWNmNTI=
-#EXTINF:-1 group-title="KARMAX",BOSS MOVIES 10 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg1NzYyNTgwMzk0ZTU1ZWQ0MzQwOA==
-#EXTINF:-1 group-title="KARMAX",MAX 007
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyODUwMzQwOTViMzVjMDI5YmE0ZTY=
-#EXTINF:-1 group-title="KARMAX",MAX VIZYON 1 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMTg0MDc5MjI1OTAwMzIxZDVmMjM=
-#EXTINF:-1 group-title="KARMAX",MAX VIZYON 2 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxNjg0NDg4MDI5ODBmMmJhZjE2YzE=
-#EXTINF:-1 group-title="KARMAX",MAX VIZYON 3 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMDY1MDg5NDY5MzMxYjAwMjEzZTk=
-#EXTINF:-1 group-title="KARMAX",SALON 2
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NTYxMTU1NjgxMTI3OTgyYzZmZWY=
-#EXTINF:-1 group-title="KARMAX",SALON 2 SNEMAX |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNDEyMTQzMWFhOTEwNjYzYTFmMw==
-#EXTINF:-1 group-title="KARMAX",SALON 3 SINEMAX |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNDEyMTQzMWFhOTEwNjYzYTFmMw==
-#EXTINF:-1 group-title="KARMAX",SINEMAX TURK |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MTA4MjIyOTM2MzA4NjBlZDQ1NjA=
-#EXTINF:-1 group-title="KARMAX",SNEVZYON TURK |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NjUwNTk5Mzc0NTYzNDgwMDQx
-#EXTINF:-1 group-title="KARMAX",DÝGÝ TV HD
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMzkxNDEwODhkOTM3YzBjYmIxZDk=
-#EXTINF:-1 group-title="KARMAX",DIGI MAX 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMzkxNDEwODhkOTM3YzBjYmIxZDk=
-#EXTINF:-1 group-title="KARMAX",DIGI MAX 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNDAxMTU1MDQ2MmI3NzBjZWNkYzA=
-#EXTINF:-1 group-title="KARMAX",FX HD |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMjgyMDE4OTA5ODQ3ZDRlYTJjNmY=
-#EXTINF:-1 group-title="KARMAX",BBC EARTH |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNTg0NDIyMjIxYjBmMmZjYjM3ZWU=
-#EXTINF:-1 group-title="KARMAX",BBC EARTH HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk2ODQzMDU2ODY4N2IyZmEwYjIyMg==
-#EXTINF:-1 group-title="KARMAX",DIZI SMART MAX |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMzM1ODgwNDIzMTQxMWRmNDc0YTY=
-#EXTINF:-1 group-title="KARMAX",DIZI SMART MAX |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5ODEwMjI4MjZhMGQ4MDBiNDViNDE=
-#EXTINF:-1 group-title="KARMAX",DIZI SMART PREMIUM |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMDc2OTkzODJhZDZlMjkyOTU3NzM=
-#EXTINF:-1 group-title="KARMAX",DIZI SMART PREMIUM |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1Nzc3NTQ1MDhkYThiYTM4M2VjOTc=
-#EXTINF:-1 group-title="KARMAX",DIZI SMART PREMIUM |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxMzI1MTE3ODUyZTA4YjQ0NWE5Nw==
-#EXTINF:-1 group-title="KARMAX",DIZI SMART PREMIUM |
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNjQ2NzgyNDFkOWNkMGQ5M2NiMjc=
-#EXTINF:-1 group-title="KARMAX",90 PLUS |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MjU5MjY4NzgxNjVjY2FkMmIyNTI=
-#EXTINF:-1 group-title="KARMAX",EM TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwODY4NjQzNDE3ZWQ5MzY5MmE2OGM=
-#EXTINF:-1 group-title="KARMAX",CNE 5
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MDQzMTEwMTYyOTExZGJmNzc4MTI=
-#EXTINF:-1 group-title="KARMAX",A2 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4OTg1MjM3MjAzZWExYjhkYjgyMmU=
-#EXTINF:-1 group-title="KARMAX",A2 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MDQyNDU2NmY1Nzc1MjczYWM0NA==
-#EXTINF:-1 group-title="KARMAX",A2 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMTEyOTU0MWI1NjgzYWU3NWYzYg==
-#EXTINF:-1 group-title="KARMAX",A2 HEVC |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkzODExNjc3OWIyMzRkMGYxNzk2ZQ==
-#EXTINF:-1 group-title="KARMAX",A2 RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxNTA1NzQwNDExMGI5MWI3Y2FhNzg=
-#EXTINF:-1 group-title="KARMAX",A2 TV SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3MjA4Mzg4ODQxZDc4ZWYyNzFjMzg=
-#EXTINF:-1 group-title="KARMAX",360 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5ODExNjQ1MzBhOTQ1NTRkODE3OTU=
-#EXTINF:-1 group-title="KARMAX",360 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExMTQxODgzMDNhZmYyNWIyYTk1MWU=
-#EXTINF:-1 group-title="KARMAX",360 RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUwODI3MDAxMzViMjgzYmUwNjkxNQ==
-#EXTINF:-1 group-title="KARMAX",FOX TV FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NDU1MTIxODZhYzdhOTkyMjBlMjY=
-#EXTINF:-1 group-title="KARMAX",SHOW TV FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNTk1Mjk3Njk0MjJjMWVjN2RjZTE=
-#EXTINF:-1 group-title="KARMAX",SHOW HD (H265) |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MTYyNDE3OTBjNGNlNzQyOTgxNTg=
-#EXTINF:-1 group-title="KARMAX",STAR TV HEVC |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwMzk3MTcyOTlhOGU1NDgwZWIyZjE=
-#EXTINF:-1 group-title="KARMAX",EUROSTAR TV HEVC |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2ODQ4NzE1MDU0YmFjMmEzMjdhYTg=
-#EXTINF:-1 group-title="KARMAX",EUROSTAR TV HEVC |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg2NTM5MDc4M2YxMmJkZTk1YTBkMA==
-#EXTINF:-1 group-title="KARMAX",KANAL D FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMzY5MzE1MzgyNmY4ZThiYjFkYmI=
-#EXTINF:-1 group-title="KARMAX",KANAL D HD (H265) |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMjEyMjQ2NjcyY2QzYzg0ZGIyMzg=
-#EXTINF:-1 group-title="KARMAX",KANAL D HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NDg2MjA1ODRkNDU0YjMyNGIwMzM=
-#EXTINF:-1 group-title="KARMAX",EURO D HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzOTA2ODA0NDg3Zjk5NzY4YTQ0YmU=
-#EXTINF:-1 group-title="KARMAX",EURO D HD |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1Nzc2OTI2OWFmZTllZDQzNmFiMw==
-#EXTINF:-1 group-title="KARMAX",EURO D HD |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0MzU4NjI0MzE4NDEyMGE4YzVlODM=
-#EXTINF:-1 group-title="KARMAX",ATV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1ODg1Nzc4Njg1OTQxY2RlZjcwNWY=
-#EXTINF:-1 group-title="KARMAX",ATV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3OTIwNjc1MDVkMTY5MzBjMmJhMDQ=
-#EXTINF:-1 group-title="KARMAX",ATV ALANYA |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNzk2NTc4MzhlOGRmMzgxOTgzZTk=
-#EXTINF:-1 group-title="KARMAX",ATV AVRUPA |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMDk5ODU5NzMzNmZlNWVhZDNlMTM=
-#EXTINF:-1 group-title="KARMAX",ATV EUROPA |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MDkwNDkwNzhkODMxYWM2NzM2YTg=
-#EXTINF:-1 group-title="KARMAX",ATV FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1MTc5OTQ2Njc4OGE2NGE4ZWFmM2E=
-#EXTINF:-1 group-title="KARMAX",ATV HD (H265) |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU2Nzk0MTU1NmI3NWFkNWI0ODMzZQ==
-#EXTINF:-1 group-title="KARMAX",ATV HEVC |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NDI4NzQ5NzczMmZlNjcyOTIzYmY=
-#EXTINF:-1 group-title="KARMAX",ATV RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExMTQ1MjY0NDQxZjMxZGNhZDk5YzY=
-#EXTINF:-1 group-title="KARMAX",ATV SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2OTM0ODU2MDA4ZTI3ZTU4Zjk1ZmM=
-#EXTINF:-1 group-title="KARMAX",ATV HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzODIzNTU1NzZiZmEzOTAxYmVlN2M=
-#EXTINF:-1 group-title="KARMAX",TV 8 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY4OTk2MDI0NWVhYzkxNjYyZDEx
-#EXTINF:-1 group-title="KARMAX",TV 8 |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NTc5MjQ3MTgxY2M0YmIxYjgwYmI=
-#EXTINF:-1 group-title="KARMAX",TV8 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MTc1MDI0MjdhNjAxMmRlZmZiMWQ=
-#EXTINF:-1 group-title="KARMAX",TV8 RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyODMwNzA1NDMyNGY0YTNjYTcwNw==
-#EXTINF:-1 group-title="KARMAX",BEYAZ HD+ SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxNzYzMDQzNzlkZGI5NjEwY2U3ZmE=
-#EXTINF:-1 group-title="KARMAX",BEYAZ TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwOTE5MzE1MDFlOWNiNzllNTFmNGY=
-#EXTINF:-1 group-title="KARMAX",BEYAZ TV RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MDk0ODA3MDBmNzk0YzJlZWZmNWQ=
-#EXTINF:-1 group-title="KARMAX",BEYAZ TV HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5NTUxNTY3NTc2YmU1YzE5ZTAyYTI=
-#EXTINF:-1 group-title="KARMAX",BEYAZ TV FHD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3OTI1OTEwMzU0ZTYwMzFjNGFhY2U=
-#EXTINF:-1 group-title="KARMAX",BEYAZ TV HEVC |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwODcyNDk0MTk4YzJhODZmNzI0MDM=
-#EXTINF:-1 group-title="KARMAX",24 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMzEzODYxNzk5OWFlY2Q3NTQ1Nw==
-#EXTINF:-1 group-title="KARMAX",24 RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NjY5Nzg3NjBhY2ZjYjhhNjJlMDI=
-#EXTINF:-1 group-title="KARMAX",24 HABER HD+ SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MDY1NzA5MTM1YjVmN2E3Mzc1ZDQ=
-#EXTINF:-1 group-title="KARMAX",A HABER |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwNDk5ODYxODNjZmRjNzY2MzUwMA==
-#EXTINF:-1 group-title="KARMAX",A HABER HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwODQ3NTM3ODg2MjFhNThlY2M2ZWQ=
-#EXTINF:-1 group-title="KARMAX",A HABER HEVC |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NzU1MzQzODdjNDU3NWYyZTI5ZTg=
-#EXTINF:-1 group-title="KARMAX",A HABER RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNjU4NzM2MDg5ZTViYjE2N2IzNjk=
-#EXTINF:-1 group-title="KARMAX",A NEWS |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MTU2NzU4Mzg4Mjk3OTI2NWE5NDA=
-#EXTINF:-1 group-title="KARMAX",A NEWS |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NzcxODYwNjg5NGU3ZDgxNzNiM2M=
-#EXTINF:-1 group-title="KARMAX",A NEWS HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMzYwMTMxMzJmZWE3Yzk0ZDlhMmE=
-#EXTINF:-1 group-title="KARMAX",A NEWS RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NzIwNzUwNjhkZWEwOGU2NzY1MmI=
-#EXTINF:-1 group-title="KARMAX",TRT HABER |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2OTI2MjM4MzNjMTM3MjdjYjdjNGU=
-#EXTINF:-1 group-title="KARMAX",A HABER |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkxODEwMTc1OTQzNTljYzRlMjZhMQ==
-#EXTINF:-1 group-title="KARMAX",CNN T RK HD+ SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NTM2OTAxMDNmZjhiNmZkYTIzOTI=
-#EXTINF:-1 group-title="KARMAX",CNN TURK |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk1MDM4MTg5NDE2YjNjNTFhYmZiMQ==
-#EXTINF:-1 group-title="KARMAX",CNN TURK |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MDA4NDU0NzI1NDc4ODY4NTQ5YmY=
-#EXTINF:-1 group-title="KARMAX",CNN TURK HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc3OTgxNTc3NTc3MTVmNTYxOWM1NQ==
-#EXTINF:-1 group-title="KARMAX",HABER GLOBAL HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMjY2NjE5NTc1MjVmMjgzYzc1MDc=
-#EXTINF:-1 group-title="KARMAX",HABER TURK HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NjU5OTQ1MjBlNTc4NWNlNjQzMWQ=
-#EXTINF:-1 group-title="KARMAX",HABERTURK |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2Mzg4NTM5OGU0MWNiOGRkODFhMw==
-#EXTINF:-1 group-title="KARMAX",AKIT TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NTk4NTAyMDFiNDFkMTA0MzEwYmQ=
-#EXTINF:-1 group-title="KARMAX",AKIT TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ5ODk4Mjk4MmZmMjZlOWM5NGFkNg==
-#EXTINF:-1 group-title="KARMAX",AKIT TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg1ODIwODA5OTBkZTZiNzIyNDgwOA==
-#EXTINF:-1 group-title="KARMAX",FLASH HABER
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg0MTA3NjUzMWUxMDg3MjY2ZjJmNw==
-#EXTINF:-1 group-title="KARMAX",BENGU TURK |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0ODQwMjcyNDA4NGIzZWMzY2YzNDM=
-#EXTINF:-1 group-title="KARMAX",BENGUTURK |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMDI4OTI5ODYzN2JkYjkxOTM1Yg==
-#EXTINF:-1 group-title="KARMAX",ARTI TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwODQwMzE0MTZiYTM5MzMxZTUwZDI=
-#EXTINF:-1 group-title="KARMAX",ARTI TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzODcwNzY3NjU3NzQzMjQ5ZTUyODc=
-#EXTINF:-1 group-title="KARMAX",CIFTCI TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwMTk3OTY1MzMwN2JkZTA1NWUyMTE=
-#EXTINF:-1 group-title="KARMAX",CIFTCI TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MzE1NDc2NzU0YmJhNGQxMDg1ZGM=
-#EXTINF:-1 group-title="KARMAX",AV TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY5MDU1NTUyNjM1ZmRlYWYwM2JiOA==
-#EXTINF:-1 group-title="KARMAX",AV TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNjE2MjAxMjEwMWQxNjIxNjg5ZmI=
-#EXTINF:-1 group-title="KARMAX",DMAX |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMDYxNjM3MzM4N2VlMDY5YmU0M2Q=
-#EXTINF:-1 group-title="KARMAX",DMAX HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwNzAzMDQwOTZjODhlOWZmODAwNQ==
-#EXTINF:-1 group-title="KARMAX",FASIL NEVIZADE GECELERI |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2Mjg5NDQ2MjgwZjZjNmRhYWNmOTA=
-#EXTINF:-1 group-title="KARMAX",TRT BELGESEL HD+ |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU4NjU0MTk2MGY5MmVjYjA3YjY5Mw==
-#EXTINF:-1 group-title="KARMAX",AUTOMOTO (FR) |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNDkxMDQwNTAxYzAyNDg2OTE0ZDc=
-#EXTINF:-1 group-title="KARMAX",YABAN TV HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMjU5NTU0NzFlOGI3NzFmZTI4NTg=
-#EXTINF:-1 group-title="KARMAX",DOCUBOX HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MDcyNjEyOTFkMzA4OTc1MjM1Mjg=
-#EXTINF:-1 group-title="KARMAX",FAST AND FUN |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNDAyODU0MTA4YzYwZmQwYTFiZjc=
-#EXTINF:-1 group-title="KARMAX",LOVE NATURE
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NTUxNTY2MDdlYzYzNjgwMGJjMjM=
-#EXTINF:-1 group-title="KARMAX",LOVE NATURE HD |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcwNzkxNTEzMzk3YmNhYTQwOGM4OQ==
-#EXTINF:-1 group-title="KARMAX",LOVE NATURE HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2OTE1NzcxNTA0MWI3NmRjZmMwZDI=
-#EXTINF:-1 group-title="KARMAX",LOVE NATURE HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NTUxNTY2MDdlYzYzNjgwMGJjMjM=
-#EXTINF:-1 group-title="KARMAX",ANIMAUX |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNjE3OTA4MGJhYmZkN2I1M2FjZg==
-#EXTINF:-1 group-title="KARMAX",ANIMAUX |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNTE0NDg3MjdkNzkwOGQ3NDU3YzA=
-#EXTINF:-1 group-title="KARMAX",ANIMAL PLANET |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMjU5MDE2OTBlZDhiODllNmY4MTE=
-#EXTINF:-1 group-title="KARMAX",ANIMAL PLANET HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0Mjc0MDQzMDc3NmY3MjM0ZGFlYjk=
-#EXTINF:-1 group-title="KARMAX",VIASAT HISTORY |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3MDk5MjY4NjEzOWViOWYxMzdiOTk=
-#EXTINF:-1 group-title="KARMAX",VIASAT HISTORY |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4NTkwMDg0NzkzMDk5NThiMGU2MGU=
-#EXTINF:-1 group-title="KARMAX",VIASAT HISTORY HD+ |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwOTM3NjUwMWM3YzMxYjQ0ZjMyMw==
-#EXTINF:-1 group-title="KARMAX",VIASAT HISTORY HEVC |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMjYyMTkwOTM1Mjc0MTM1M2U0MjY=
-#EXTINF:-1 group-title="KARMAX",NAT GEO |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNzUyNzA3NWI4MTVlMDE0ZjE4Yw==
-#EXTINF:-1 group-title="KARMAX",NAT GEO |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY4ODA3ODcyNmFkNGU3NGU0ZDJiYw==
-#EXTINF:-1 group-title="KARMAX",NAT GEO WILD |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NTM2NTAzODkyOWRkN2IxNGZlODI=
-#EXTINF:-1 group-title="KARMAX",NAT GEO WILD |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4NTM0MDQwMzBkMGM0NjAxOGM1ODY=
-#EXTINF:-1 group-title="KARMAX",NAT GEO WILD HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NDk4NDgzOTcyN2YyZDFlZTdjMWI=
-#EXTINF:-1 group-title="KARMAX",NAT GEO WILD HD+ |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNDEzNDUwMjk0MmZiY2U0NzgzNzI
-#EXTINF:-1 group-title="KARMAX",NATIONAL GEOGRAPHIC HD+ |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5Nzg0MDc2MTJhMjI2ODQ1OTQ2YjY=
-#EXTINF:-1 group-title="KARMAX",DISCOVERY ID |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU0ODQ2OTkxNjIzNWI1MWUxNGQ5OA==
-#EXTINF:-1 group-title="KARMAX",DISCOVERY ID |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNDY5NDM3ODhlMjYyMzViZjk5ZmI=
-#EXTINF:-1 group-title="KARMAX",DISCOVERY IDX HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNDAyMDIyMDJjNTQ1MjEzNzU4OTU=
-#EXTINF:-1 group-title="KARMAX",DISCOVERY SCIENCE |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1OTgwNzIyNTdlMzIwOWU3NTVkZDI=
-#EXTINF:-1 group-title="KARMAX",DISCOVERY SCIENCE |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYyMzgyNjU0NzJhN2JjNWM3MTAyYQ==
-#EXTINF:-1 group-title="KARMAX",DISCOVERY SCIENCE HD+ |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3MjUwNzIyNjJmOWM5NmQyYTRjY2Q=
-#EXTINF:-1 group-title="KARMAX",DISCOVERY CHANNEL |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg4Mzc5NTQyMzBjZjA0M2UyZTMyZg==
-#EXTINF:-1 group-title="KARMAX",DISCOVERY CHANNEL HD+ |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MDIwOTM2NTllMjk1MWE0NDA4Y2Y=
-#EXTINF:-1 group-title="KARMAX",DISCOVERY WORLD |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MDE2MzIzMDc3ZjkwNDlkN2UwZjQ=
-#EXTINF:-1 group-title="KARMAX",CHASSE & PECHE |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NzgxMDk3MTNlY2YyNDUxMDRmNGY=
-#EXTINF:-1 group-title="KARMAX",CHASSE ET PECHE |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY1NTk0OTQ0M2JmOGM0OTQzYWQ1YQ==
-#EXTINF:-1 group-title="KARMAX",DA VINCI |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NDMwMjk3NjNhZjEwYjNkYTFlMzU=
-#EXTINF:-1 group-title="KARMAX",DA VINCI LEARNING |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzNjYxNjUyODNmNjg5NDUzM2YyZjk=
-#EXTINF:-1 group-title="KARMAX",HISTORY |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MTQ0NzQxOTM4YTE5ZDFjNmFlYTc=
-#EXTINF:-1 group-title="KARMAX",HISTORY HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzOTE2Njg2NTUyYzE4NTM0ZWVlZDc=
-#EXTINF:-1 group-title="KARMAX",HISTORY CHANNEL |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2ODY3MjIxMDEyMjUyNGM0NjUxMGM=
-#EXTINF:-1 group-title="KARMAX",24 KITCHEN |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNjUyMzkxNjNhYTA1NWQzMzNlMDk=
-#EXTINF:-1 group-title="KARMAX",24 KITCHEN HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg4Mzc5NTQyMzBjZjA0M2UyZTMyZg==
-#EXTINF:-1 group-title="KARMAX",24 KITCHEN HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MDIwOTM2NTllMjk1MWE0NDA4Y2Y=
-#EXTINF:-1 group-title="KARMAX",24 KITCHEN HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NDEyNTMxMDUyYjJlYjFlZTMxMWQ=
-#EXTINF:-1 group-title="KARMAX",EGE ILE GAGA |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNDQ2MDMwMTRhZjc0MzBmZTU5OWQ=
-#EXTINF:-1 group-title="KARMAX",ELIFIN DUSLERI |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg1OTQyODc2MzIzZjZmZTdlMTVlOQ==
-#EXTINF:-1 group-title="KARMAX",AKILLI TAVSAN MOMO |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYzODkyODYxNjE5ODQ2NGQ2MmJhZQ==
-#EXTINF:-1 group-title="KARMAX",COCUK 1 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NTE5OTA2NjBjZDFlMjVmODVmOWM=
-#EXTINF:-1 group-title="KARMAX",COCUK 2 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxMzQ5MzYwN2RiZmJjZmU1MTllNw==
-#EXTINF:-1 group-title="KARMAX",COCUK 3 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4NjE3MTIxMjFmZmMzM2RhN2ZkMTY=
-#EXTINF:-1 group-title="KARMAX",ÇOCUK SMART |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc2MzkzMzI0MDMxMjU2NmM1NjU4MQ==
-#EXTINF:-1 group-title="KARMAX",DA VINC KIDS HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NTI0NTU5OTcwMzUzMjFiNGJhMzQ=
-#EXTINF:-1 group-title="KARMAX",DISNEY CHANNEL |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxNzg5MzE2MDQ0NDQ4YThiY2I1NzM=
-#EXTINF:-1 group-title="KARMAX",DISNEY CHANNEL HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMDQ3NTE0OTc1ZjNlZGQwNTc2MzI=
-#EXTINF:-1 group-title="KARMAX",DISNEY JR |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwMTU1OTUzNjE0NGE3YzRiYjE4Mzk=
-#EXTINF:-1 group-title="KARMAX",DISNEY JR |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMzM5MDgzMTVlNzE0YjEzZWZhYjQ=
-#EXTINF:-1 group-title="KARMAX",DISNEY JR HD+ |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMzg1MzUyMjNmZjJmMzUxMjEyNDI=
-#EXTINF:-1 group-title="KARMAX",DISNEY XD HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MDI3NDc2NDhmYWFiYzczYTJjYjc=
-#EXTINF:-1 group-title="KARMAX",ENO ANIMASYON |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1OTQ3MzM2NDNkZDg5NTRkNzc3OWM=
-#EXTINF:-1 group-title="KARMAX",ANIMATION 1 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg0MDAzOTIzM2YyNjMxNDNkOWY3Mw==
-#EXTINF:-1 group-title="KARMAX",BABY TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMTgyNDUyNTAyYTQyZWYzY2RmNDg=
-#EXTINF:-1 group-title="KARMAX",BABY TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NjM0NzU2MjM4NjUyOGU2ZWZjODI=
-#EXTINF:-1 group-title="KARMAX",BABY TV HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNTA2MTE0MjRiZWVjM2FkY2Q0Yw==
-#EXTINF:-1 group-title="KARMAX",BARBIE ANIMATION 2 HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MjI4NDg4MTA5OGQ3OTQzOTg1YTc=
-#EXTINF:-1 group-title="KARMAX",BONUS MASAL DIYARI |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMDg1ODI3MzdkYTM4MjRlMjU3ZTA=
-#EXTINF:-1 group-title="KARMAX",CBEEBIES |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyODYwMzUxNzlmOGZhMWJhZDU1ZWY=
-#EXTINF:-1 group-title="KARMAX",CBEEBIES HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMzUzODMwNDFiMTdhZjIyNGJlY2Q=
-#EXTINF:-1 group-title="KARMAX",BBC CBEEBIES TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc0OTA4MjU3NmI0OGJjYWI3MjczZQ==
-#EXTINF:-1 group-title="KARMAX",CAILLOU |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NjgyNTI2MTdlNmYzYzU4NjNiMDU=
-#EXTINF:-1 group-title="KARMAX",CAILLOU TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2OTkzNDUwMjI2NTA2MzQ2NGZkOTQ=
-#EXTINF:-1 group-title="KARMAX",CARTOON NETWORK |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MzEzODc0MzUwYmQwZGQxNGU1MTU=
-#EXTINF:-1 group-title="KARMAX",CARTOON NETWORK |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg2MTIyNDE3M2M5OGViNTRiNTNmMw==
-#EXTINF:-1 group-title="KARMAX",CARTOON NETWORK HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NzUxOTE2MjA0YWMxMDQxMGQ5NDg=
-#EXTINF:-1 group-title="KARMAX",BOOMERANG |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc3NzE3MzE1MGFmMGFjZDUzNGY5Mg==
-#EXTINF:-1 group-title="KARMAX",BOOMERANG |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxNDIzMjg3NTJmNTMyNjVjNGJlOTc=
-#EXTINF:-1 group-title="KARMAX",BOOMERANG HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxODU0NDUwMDNiNGEwMWE2OTQ2YTk=
-#EXTINF:-1 group-title="KARMAX",BILGILENDIRME |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3MzM5MDY4Njk4YTVhY2NhNWUwZTY=
-#EXTINF:-1 group-title="KARMAX",AKTIF TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NzUzNzU3OTM1OGExODdhNDBjZDQ=
-#EXTINF:-1 group-title="KARMAX",ERT SAH TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2Mzk0NTE0OTg5Mjc0NWY1Nzg4Y2M=
-#EXTINF:-1 group-title="KARMAX",ANADOLU DERNEK |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NTYzODA4NDI3NDZjM2ExOTFiMGQ=
-#EXTINF:-1 group-title="KARMAX",ANADOLU DERNEK TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1MDg1MDk0MDQxMzQ4Y2E2YWNjZmM=
-#EXTINF:-1 group-title="KARMAX",ANADOLU DERNEK TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMDA0Njc4MjAxNzI5MGY3ZDMyNTY=
-#EXTINF:-1 group-title="KARMAX",CAN TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg5MDgxODY0MmMyZjNmZmJkM2ExNA==
-#EXTINF:-1 group-title="KARMAX",CAN TV HD SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MTU0ODY4MDc4ZWE4OTA4Y2Q3YmQ=
-#EXTINF:-1 group-title="KARMAX",TUNCELI DERSIM 62 TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5ODk1NjkwODJiMzQwOGFjZDU5NDM=
-#EXTINF:-1 group-title="KARMAX",BURSA AS TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUwODEyMDEyNTljNjA4NTQ0NDQyZA==
-#EXTINF:-1 group-title="KARMAX",TV+ 
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3OTc0MTMxNDM1MDA1YThhYWRmMDU=
-#EXTINF:-1 group-title="KARMAX",CEM TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk1OTUxNTQwMGUzMTQ4NmNkMmY4Yg==
-#EXTINF:-1 group-title="KARMAX",CAN TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5Nzc1MTM0NjQ1NjI3OGUwYWUxMDE=
-#EXTINF:-1 group-title="KARMAX",CAN TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5MzEyNjY1MzU1YjUwMDIyMTEyMTA=
-#EXTINF:-1 group-title="KARMAX",CEM TV SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2OTI0MzA1NDc2ZTE2MDU4ZjAxMjg=
-#EXTINF:-1 group-title="KARMAX",BERAT TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNDQ4MjUxMDY3OTdkN2IxZWFmYQ==
-#EXTINF:-1 group-title="KARMAX",ADIYAMAN MERCAN TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NjQxMzY0ODgxODQyODdmOTU3Mzc=
-#EXTINF:-1 group-title="KARMAX",AFYON T RK TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc4NTY2NjkxN2VjYWIzNzU3NWU0Yw==
-#EXTINF:-1 group-title="KARMAX",AFYON TURK |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxOTYxMDcwOGM0MDE1ZDU1NjA3YQ==
-#EXTINF:-1 group-title="KARMAX",AFYON TURK |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MTI1MDI1MzA0NmIwNDliNWUxM2M=
-#EXTINF:-1 group-title="KARMAX",AGRO TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0NzE5MDA0MWRiYzg4NjdhODFhMA==
-#EXTINF:-1 group-title="KARMAX",AKILLI TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzNjUzNDI2OTgyMjE3YWZiZTBiMTM=
-#EXTINF:-1 group-title="KARMAX",AKLILI TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNTU3MDYyNjllYjM4ZjliOTM3Nw==
-#EXTINF:-1 group-title="KARMAX",AKSARAY KANAL 68 |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMjU4Nzc0ODQ4YzlmOGVhODgyMmM=
-#EXTINF:-1 group-title="KARMAX",AKSU TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5MDg2NDI4NzE2ZjViMDc2NDhlN2E=
-#EXTINF:-1 group-title="KARMAX",AKSU TV K MARAS |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxODc4MzMyMTc5YjIyMGE3YTQyNmE=
-#EXTINF:-1 group-title="KARMAX",ALTAS TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMjQwOTE4OTZhNzUzYmViYzU1Ng==
-#EXTINF:-1 group-title="KARMAX",ALTAS TV ORDU |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNDE0NTI2OGRlOTIxN2UyYWExNQ==
-#EXTINF:-1 group-title="KARMAX",ÇANAKKALE BOÐAZ TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NjY0NzI1NjhkM2EwOTRhMDU3NzM=
-#EXTINF:-1 group-title="KARMAX",CANAKKALE TON TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0ODMwNjA3ODIxOTcwODFhM2NjODA=
-#EXTINF:-1 group-title="KARMAX",ANKARA T RKIYEM TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNzM0MDA1NjRmZDIxNDg5YzIyNTY=
-#EXTINF:-1 group-title="KARMAX",ÞANLIURFA KANAL URFA |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NDkwMzkxOTdhYjY1YzAzNjdlMzg=
-#EXTINF:-1 group-title="KARMAX",ANTALYA KANAL V |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwOTc2NTYyMzZiMTg1MGM5MGJiMDk=
-#EXTINF:-1 group-title="KARMAX",AS TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMDMyMzc4ODU5ZjAyODNjZDQ2OGQ=
-#EXTINF:-1 group-title="KARMAX",AS TV BURSA |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMjQ0OTY5NTMzYTAxZjEwZDVmMzI=
-#EXTINF:-1 group-title="KARMAX",APARA HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNjgwNDA2MjczZGI3MjFiM2NkMjE=
-#EXTINF:-1 group-title="KARMAX",ATV PARA |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwNTczMTczODgwYzA0ZjFhNjE4MTA=
-#EXTINF:-1 group-title="KARMAX",A PARA |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk4MzMyNTAwNzVlYzY0NWU4NDNkNA==
-#EXTINF:-1 group-title="KARMAX",A PARA RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzODAzMzQ1NzU3MTQ1ZGZlYzJiOTg=
-#EXTINF:-1 group-title="KARMAX",BLOOMBERG HT |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNTE1NzMwMDIyMDc5MmQ2YTBjMTA=
-#EXTINF:-1 group-title="KARMAX",BLOOMBERG HT HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwMjEzODE4NDZkNWU2MzIyYWM0MWU=
-#EXTINF:-1 group-title="KARMAX",BLOOMBERG HT HD+ SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ2ODkxNTc2MzQ4YWJhYTFmN2NjZQ==
-#EXTINF:-1 group-title="KARMAX",BLOOMBERGHT HD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxMTM4NjIwNzg3OTA3MWJiMTM1Yg==
-#EXTINF:-1 group-title="KARMAX",BLOOMBERGHT RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4ODQzOTEzNjUwYmE2ZTU1MDU5ZDY=
-#EXTINF:-1 group-title="KARMAX",BRT 1 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3MjEyNzQ5MDA4MWEzOGJkM2I1MDk=
-#EXTINF:-1 group-title="KARMAX",BRT 1 RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNjkwNjI3NDNiZjUyMDQzNjAzN2Q=
-#EXTINF:-1 group-title="KARMAX",BRT 2 |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4NTE2MjYxODA1YWI1Mjk3MWYwNzE=
-#EXTINF:-1 group-title="KARMAX",BRT 2 RAW |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMTY2Mzg2MTA3ZDcxNGM1MDI5YzM=
-#EXTINF:-1 group-title="KARMAX",BRT 3 |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMDI4ODcyNzViMWU0ZDY4ZTFmYzk=
-#EXTINF:-1 group-title="KARMAX",BURSA TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUwODEyMDEyNTljNjA4NTQ0NDQyZA==
-#EXTINF:-1 group-title="KARMAX",ÇEKMEKOY TV
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxOTAzMTQxNDNlYWZiNjJlOTJjNWI=
-#EXTINF:-1 group-title="KARMAX",CAN TV |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5MzEyNjY1MzU1YjUwMDIyMTEyMTA=
-#EXTINF:-1 group-title="KARMAX",CAN TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5Nzc1MTM0NjQ1NjI3OGUwYWUxMDE=
-#EXTINF:-1 group-title="KARMAX",CAN TV |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg5MDgxODY0MmMyZjNmZmJkM2ExNA==
-#EXTINF:-1 group-title="KARMAX",CAN TV HD SD |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MTU0ODY4MDc4ZWE4OTA4Y2Q3YmQ=
-#EXTINF:-1 group-title="KARMAX",CAY TV |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwODM3MzIyZjYyNmY3Y2ZmZTAw
-#EXTINF:-1 group-title="KARMAX",CAY TV RIZE |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU3NTYwMjEzMWU2NTNhZDY1ZTkz
-#EXTINF:-1 group-title="KARMAX",KRAL FM
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MjkyMzc3NTQ1YmJhNDlkMDhkYjE=
-#EXTINF:-1 group-title="KARMAX",BEST FM TURKCE POP
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MDIwODE2MDE0NmI5ZmEwYzk3MWY=
-#EXTINF:-1 group-title="KARMAX",ARABESK |E
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MTYzMTU5MjliYWNlNzkyZDljNDc=
-#EXTINF:-1 group-title="KARMAX",BABA RADYO ARABESK |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUyMDk2NzU0NTQxMGViYzdjNjBlZA==
-#EXTINF:-1 group-title="KARMAX",ALEM FM RADYOLAND |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1Nzg1OTkzNjhlZjI3ZjgyNjUwZGI=
-#EXTINF:-1 group-title="KARMAX",ALEM RADYO |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NTA0NzYzMDhmNWM1Mjc2NTgwZGI=
-#EXTINF:-1 group-title="KARMAX",MUSLUM GURSES |H
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwMjk3Mzc1Nzc1MDUxZGFjODk1YmI=
-#EXTINF:-1 group-title="KARMAX",X NOSTAJ TURK KASK
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxMzI1MTE3ODUyZTA4YjQ0NWE5Nw==
-#EXTINF:-1 group-title="KARMAX",BEST FM T RK E POP |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MDIwODE2MDE0NmI5ZmEwYzk3MWY=
-#EXTINF:-1 group-title="KARMAX",EFKAR FM CANLI RADYO |D
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0MzM2MzE3NTBjYTgzODU4MzY1ODI=
-
 
