@@ -78,16 +78,15 @@ https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8?|User-Agent=NetSurf/2.0 (
 #https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/37ba3d56-b268-41e4-8577-1a5012848d55/0.m3u8
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
-http://gineu9.bozztv.com:80/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-atv-tv/tracks-v1a1/mono.m3u8?
 https://bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8?
-http://amtv1-2.livestreamingcdn.com:80/gt-atv-tv/index.m3u8
+http://gineu9.bozztv.com:80/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
 http://116.202.238.88/ATV_TR/tracks-v1a1/mono.m3u8
 #http://66.160.192.241:80/atvturk/tracks-v1a1/playlist.m3u8?_=1&hls=native
-http://node01.nntv.az:8136/ch2/ch2.hi.m3u8?|User-Agent=ExoPlayer2/2.37 
-https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8?sd=10&rebase=on&quality=1080p
-?|Referer=https://trkvz-beta.daioncdn.net/&e=.m3u8
-https://yt.ariev.workers.dev/ch/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8/sec-f5-v1-a1.m3u8
-https://devds.site/api/youlive.m3u8?UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8?sd=10&rebase=on&quality=1080p
+#http://node01.nntv.az:8136/ch2/ch2.hi.m3u8?|User-Agent=ExoPlayer2/2.37 
+#https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8?sd=10&rebase=on&quality=1080p?|Referer=https://trkvz-beta.daioncdn.net/&e=.m3u8
+#https://yt.ariev.workers.dev/ch/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8/sec-f5-v1-a1.m3u8
+#https://devds.site/api/youlive.m3u8?UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8?sd=10&rebase=on&quality=1080p
 #https://ythls.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8?sd=10&rebase=on&quality=1080p
 #http://anka@51.195.5.44:80/atv/tracks-v1a1/playlist.m3u8?|User-Agent=perfectplayer1.6.0.1
 #http://node01.nntv.az:8136/ch2/ch2.hi.m3u8?|User-Agent=ExoPlayer2/2.37 
@@ -99,7 +98,7 @@ https://devds.site/api/youlive.m3u8?UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8?sd=10&rebase=o
 #http://anka@195.142.1.211:4022/udp/224.2.2.19:10001?mpegts
 https://az2.canlitvplayer.com:443/turkey/atv_turk_stream_sd_2023/chunks.m3u8
 #http://213.239.195.222/turkey/atv_turk_stream_sd_2023/chunks.m3u8?|User-Agent=perfectplayer1.6.0.1
-https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8
+#https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8
 #https://edge02.odtv.az/o8/atv/q_0/playlist.m3u8?|User-Agent=ExoPlayer2/2.37   
 #https://edge02.smart.az/o8/atv/playlist.m3u8?|User-Agent=ExoPlayer2/2.37 
 #https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e######?token=undefined&subscriberId=undefined&subscriberCode=undefined
@@ -109,6 +108,7 @@ https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᵁᴴᴰ⁺™
 https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #http://116.202.238.88/SHOWTV_TR/tracks-v1a1/mono.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-show-tv/tracks-v1a1/mono.m3u8?
 #https://bozztv.com/inim03/live1/show-tv/playlist.m3u8
 #http://anka@51.195.5.44:80/showtv/tracks-v1a1/playlist.m3u8?_=1
 #https://ythls.onrender.com/channel/eVVlKAUlSNQ.m3u8
@@ -123,7 +123,7 @@ https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺™
 https://anka@dogus-live.daioncdn.net/startv/startv_720p.m3u8?
-http://amtv1-2.livestreamingcdn.com:80/gt-startv/index.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-startv/tracks-v1a1/mono.m3u8?
 https://c.fulltvizle.com/star/index.m3u8
 https://new.cache-stream.workers.dev/stream/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8?sd=10&rebase=on&quality=1080p
 #https://new.cache-stream.workers.dev/stream/82O6yOy_XwE/live.m3u8
@@ -146,7 +146,7 @@ https://new.cache-stream.workers.dev/stream/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8?s
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺
 http://gineu9.bozztv.com:80/gin-36bay4/gt-kanald-2/tracks-v1a1/mono.m3u8
 https://c.fulltvizle.com/kanald/index.m3u8
-#http://amtv1-2.livestreamingcdn.com:80/gt-kanald/index.m3u8
+#http://amtv1-2.livestreamingcdn.com:80/gt-kanald/tracks-v1a1/mono.m3u8?
 #http://anka@213.239.195.222/turkey/kanald_2023/chunks.m3u8?|User-Agent=ExoPlayer2/2.37 
 #https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #https://59c7ea6bec1c6.streamlock.net:443/live/kanald.stream/chunklist_w252172510.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
@@ -178,7 +178,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #https://tv8.daioncdn.net:443/tv8/tv8_1080p.m3u8?&sid=5udso6g2ulce&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=2
 #https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #http://anka@149.13.0.66:4002/tv8hd
-http://amtv1-2.livestreamingcdn.com:80/gt-tv8tv/index.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-tv8tv/tracks-v1a1/mono.m3u8?
 #http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8?|User-Agent=perfectplayer1.6.0.1
 #https://hls.bizetibatan.gay/yayintv8.m3u8
 #http://anka@195.142.1.211:4022/udp/224.2.2.33:10001?mpegts
@@ -218,6 +218,7 @@ https://anka@beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺™
 https://anka@foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-show-tv/tracks-v1a1/mono.m3u8?
 http://anka@xpone.nl:80/play/live.php?mac=00:1A:79:38:40:28&stream=97321&extension=m3u8
 #https://59c7ea6bec1c6.streamlock.net:443/live/foxtv.stream/chunklist_w252172510.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 #https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8
@@ -1223,7 +1224,7 @@ http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=30019&extensio
 
 
 #EXTINF:-1 tvg-id="TRT.SPOR.YILDIZ.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="SPOR", TRT Spor Yıldız* ʜᴅ
-http://amtv1-2.livestreamingcdn.com:80/gt-trtspor2/index.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-trtspor2/tracks-v1a1/playlist.m3u8
 #https://bozztv.com/inim03/live1/trtspor2/playlist.m3u8
 #http://50.7.218.122:8080/trtspor2/index.m3u8
 #http://gineu9.bozztv.com:80/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
@@ -1231,19 +1232,19 @@ http://amtv1-2.livestreamingcdn.com:80/gt-trtspor2/index.m3u8
 #http://77.92.139.136:8200/bysid/10525
 
 #EXTINF:-1 tvg-id="TRT3.Spor.-.TBMM.TV.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1161.jpg" group-title="SPOR", TRT Spor ʜᴅ
-http://amtv1-2.livestreamingcdn.com:80/gt-trtspor/index.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-trtspor/tracks-v1a1/playlist.m3u8
 #https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 #http://77.92.139.136:8200/bysid/10503
 
 #EXTINF:-1 tvg-id="TRT.SPOR.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/194.jpg" group-title="SPOR", TRT Spor ʜᴅ
 https://bozztv.com/inim03/live1/trtspor/playlist.m3u8
-#http://amtv1-2.livestreamingcdn.com:80/gt-trtspor/index.m3u8
+#http://amtv1-2.livestreamingcdn.com:80/gt-trtspor/tracks-v1a1/playlist.m3u8
 #http://83.77.184.98:7000/play/TRTSporHD
 #https://cakal.click/yayintrtspor.m3u8
 #http://50.7.218.122:8080/trtspor/index.m3u8
 
 #EXTINF:-1 tvg-id="A.Spor.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/390.jpg" group-title="SPOR", a Spor ʜᴅ
-http://amtv1-2.livestreamingcdn.com:80/gt-aspor/index.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-aspor/tracks-v1a1/playlist.m3u8
 #http://85.187.218.190:16002/play/a0fy/index.m3u8
 
 #EXTINF:-1 tvg-id="A.Spor.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/390.jpg" group-title="SPOR", a Spor ʜᴅ
@@ -1259,7 +1260,9 @@ http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8
 #https://cakal.click/yayintv85.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/943.png" group-title="SPOR", TiviBU Spor ʜᴅ
-http://gineu10.bozztv.com/gin-36bay3/gt-tivibuspor/tracks-v1a1/mono.m3u8?
+https://bozztv.com/inim03/live1/gt-tivibuspor/playlist.m3u8
+#https://gineu10.bozztv.com/gin-36bay3/gt-tivibuspor/tracks-v1a1/mono.m3u8?
+#http://amtv1-2.livestreamingcdn.com:80/gt-tivibuspor/tracks-v1a1/playlist.m3u8
 #https://59c7ea6bec1c6.streamlock.net/live/tivibuspor.stream/chunklist_w1461223781.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 #https://bozztv.com/inim03/live1/gt-tivibuspor/playlist.m3u8
 
@@ -1321,11 +1324,11 @@ https://webudit.hlsjs.ru/lb/premium62/index.m3u8?|Referer=https://https://olaliv
 https://webudit.hlsjs.ru/lb/premium269/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR"  ,BeIN Sports  1 ʜᴅ -ddy4
-https://ddy6.hlsjs.ru/ddy6/premium62/tracks-v1a1/mono.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
+https://ddy6.hlsjs.ru/ddy6/premium62/tracks-v1a1/mono.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 #https://jyayintv47.live/daddyhd/cdn/67/main.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR"  ,BeIN Sports  2 ʜᴅ -webudit
-https://webudit.hlsjs.ru/lb/premium63/index.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
+https://webudit.hlsjs.ru/lb/premium63/index.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 #/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR"  ,BeIN Sports  2 ʜᴅ -ddy4
@@ -1333,7 +1336,7 @@ https://ddy6.hlsjs.ru/ddy6/premium63/tracks-v1a1/mono.m3u8?|Referer=https://olal
 /&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR" ,BeIN Sports  3 ʜᴅ -webudit
-https://webudit.hlsjs.ru/lb/premium64/index.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
+https://webudit.hlsjs.ru/lb/premium64/index.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR" ,BeIN Sports  3 ʜᴅ -ddy4
 https://ddy6.hlsjs.ru/ddy6/premium64/tracks-v1a1/mono.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
@@ -1353,7 +1356,7 @@ https://ddy6.hlsjs.ru/ddy6/premium67/tracks-v1a1/mono.m3u8?|Referer=https://webl
 https://cakal.click/yayinzirve.m3u8
 
 #EXTINF:1 tvg-id="beIN.SPORTS.1.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg"group-title="SPOR",BeIN Sports  1 ʜᴅ -websporizle
-https://websporizle.net/cdn/bein_sports_1_hd/main.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
+https://websporizle.net/cdn/bein_sports_1_hd/main.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 #https://11.atata2.cc/taso1/index.m3u8
 
 #EXTINF:1 tvg-id="beIN.SPORTS.1.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg"group-title="SPOR",BeIN Sports  1 ʜᴅ -v5
@@ -1372,7 +1375,7 @@ https://odin.9e7eb9fd10e9.click/1/playlist.m3u8?|Referer=https://yayinizle.shop/
 https://cakal.click/yayinb2.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsport2hd.jpg" group-title="SPOR" ,BeIN Sports  2 ʜᴅ-websporizle 
-https://websporizle.net/cdn/bein_sports_2_hd/main.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
+https://websporizle.net/cdn/bein_sports_2_hd/main.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 #https://c.bebegimbenim.cfd/beinsport2/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsport2hd.jpg" group-title="SPOR" ,BeIN Sports  2 ʜᴅ -v5
@@ -1389,7 +1392,7 @@ https://odin.9e7eb9fd10e9.click/2/playlist.m3u8?|Referer=https://yayinizle.shop/
 https://cakal.click/yayinb3.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="SPOR",BeIN Sports  3 ʜᴅ -websporizle
-https://websporizle.net/cdn/bein_sports_3_hd/main.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
+https://websporizle.net/cdn/bein_sports_3_hd/main.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="SPOR",BeIN Sports  3 ʜᴅ -v5
 https://v5.hermosabaechyachtclub.com/beinsport3/index.m3u8?|Referer=https://yayinizle.shop/&e=.m3u8/&user-agent=Mozilla/5.0
@@ -1405,7 +1408,7 @@ https://odin.9e7eb9fd10e9.click/3/playlist.m3u8?|Referer=https://yayinizle.shop/
 https://cakal.click/yayinb4.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.4.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="SPOR",BeIN Sports  4 ʜᴅ -websporizle
-https://websporizle.net/cdn/bein_sports_4_hd/main.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
+https://websporizle.net/cdn/bein_sports_4_hd/main.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.4.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="SPOR",BeIN Sports  4 ʜᴅ -v5
 https://v5.hermosabaechyachtclub.com/beinsport4/index.m3u8?|Referer=https://yayinizle.shop/&e=.m3u8/&user-agent=Mozilla/5.0
@@ -1421,10 +1424,10 @@ https://odin.9e7eb9fd10e9.click/4/playlist.m3u8?|Referer=https://yayinizle.shop/
 https://cakal.click/yayinb5.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="SPOR" ,BeIN Sports  5 ʜᴅ-websporizle
-https://websporizle.net/cdn/bein_sports_5_hd/main.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
+https://websporizle.net/cdn/bein_sports_5_hd/main.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"    tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="SPOR" ,BeIN Sports  5 ʜᴅ -v5
-https://v5.hermosabaechyachtclub.com/beinsport5/index.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
+https://v5.hermosabaechyachtclub.com/beinsport5/index.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"    tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="SPOR" ,BeIN Sports  5 ʜᴅ -VOLE
 #https://volestream.sporlivetv.site/hls/bein-sports-5.m3u8?|Referer=https://yayinizle.shop/&e=.m3u8
@@ -2437,7 +2440,8 @@ http://65.108.87.116:8000/play/1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2.tr" tvg-logo="https://picon-13398.kxcdn.com/trt2tr.jpg" group-title="ULUSAL-int" ,TRT 2 ʜᴅ
-http://167.114.115.233:8080/trt2fhd/index.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-trt2/index.m3u8
+#http://167.114.115.233:8080/trt2fhd/index.m3u8
 #http://stream.suboroiptv.tv/TRT2/playlist.m3u8
 #http://gineu8.bozztv.com:80/gin-36bay3/gt-trt2/tracks-v1a1/mono.m3u8?
 #https://nimplus3.bozztv.com/trt2eu/trt2eu/playlist.m3u8?
@@ -2974,184 +2978,95 @@ http://trs.8kabd.online:80/movie/ah6628/drv.8880/145262.mp4
 
 
 #EXTINF:-1 tvg-name="Ben Bu Cihana Sığmazam -ATV-(Son blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3KVbiYrMcGP7nRs68xEAToKA3D2QPBqOP01oTKCGP45_.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ben Bu Cihana Sığmazam -ATV-(Son blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8902.mp4
-#EXTINF:-1 tvg-name="Yargı-Kanal D (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3ANjAOhSIQxapVLY16IqJRgwHT1OpFlQ5iOKL3Sw89UV.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yargı-Kanal D (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8908.mp4
-#EXTINF:-1 tvg-name="Teskilat -TRT-1-( SON BLM )" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3Av5kBw3qhwR6rRbKPzgkTelY8-_DyiiPKp_vNhI_xnz.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Teskilat -TRT-1-( SON BLM )
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8881.mp4
-#EXTINF:-1 tvg-name="Dilek Taşı - Kanal D - (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/f4nh1newqa.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Dilek Taşı - Kanal D - (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8901.mp4
-#EXTINF:-1 tvg-name="Guldur Guldur show (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3GTlP7A4tM66nJT4nT51S9ADUEOhBsbk5pnsSsp6XL24.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Guldur Guldur show (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8882.mp4
-#EXTINF:-1 tvg-name="Alparslan: Büyük Selçuklu -TRT1" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3KVbiYrMcGP7nRs68xEAToKQc7-zmU1PdvF22Dy5l1Jz.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Alparslan: Büyük Selçuklu -TRT1
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8883.mp4
-#EXTINF:-1 tvg-name="Gonul Dagi-TRT1-Son Blm" tvg-logo="http://my-media.ddns.me:52381/images/ZXB-eYaXTVWD5l_vzgmogZ5oVxhxISQy55u0GbQYUWLx2iePVm2-tsTsSwjubR8G6invPDaCZyiI5YAy1wXirKwRDSxc3iDQRPakKu2RWV8.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Gonul Dagi-TRT1-Son Blm
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8885.mkv
-#EXTINF:-1 tvg-name="Alsancak-TRT 1 (Son Blm) (2023)" tvg-logo="http://foto.fotodepo.fr/images/alsancak.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Alsancak-TRT 1 (Son Blm) (2023)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8886.mkv
-#EXTINF:-1 tvg-name="Yürek Çıkmazı-TRT1-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6Tz0_amD4oGl4x6kmt9WvIb.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yürek Çıkmazı-TRT1-(Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8888.mp4
-#EXTINF:-1 tvg-name="Kızılcık Şerbeti-SHOW (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/Z7I-PbJwp-zu9fQhKg8aLStuEcTuZn1hFoPGGavaT8lM0YLxlUJl-6YP9T56YQpfuqSQlqRUxVkRUMpaaFYf1w.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kızılcık Şerbeti-SHOW (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8890.mp4
-#EXTINF:-1 tvg-name="Yalı Çapkını-STAR (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6RrcAbLHDNVJp5oQN_SCMHV.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yalı Çapkını-STAR (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8894.mp4
-#EXTINF:-1 tvg-name="Uvey Anne -ATV (Son Blm)" tvg-logo="https://i.ibb.co/0nmRcK9/uveyanne.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Uvey Anne -ATV (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8896.mp4
-#EXTINF:-1 tvg-name="Gecenin Ucunda-Star-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6RjGScDYxd9KoAO8hxPx500.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Gecenin Ucunda-Star-(Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8898.mp4
-#EXTINF:-1 tvg-name="Kardeslerim-ATV (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ZXB-eYaXTVWD5l_vzgmogZ5oVxhxISQy55u0GbQYUWLACDe6Qhbt9OhwXwpmHuknzTZ8-t2Lflwz3OPRzzMOK7gMDTLq4q1kiS1J3mE2DqI.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kardeslerim-ATV (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8899.mp4
-#EXTINF:-1 tvg-name="Ömer-Star (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/omer2023.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ömer-Star (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8900.mp4
-#EXTINF:-1 tvg-name="Doğu Demirkol ile Alelade-STAR TV" tvg-logo="http://my-media.ddns.me:52381/images/ZXB-eYaXTVWD5l_vzgmogZ5oVxhxISQy55u0GbQYUWIbL2HLXBkjHQz3Gg7otoAkjmNJHplNwILs31M1IEcPt00yKt5pO5zUWpWE_j2CrIo.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Doğu Demirkol ile Alelade-STAR TV
-#http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8901.mp4
-#EXTINF:-1 tvg-name="Veda Mektubu-Kanal D (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/mv5bngvpv.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Veda Mektubu-Kanal D (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8903.mp4
-#EXTINF:-1 tvg-name="Üç Kız Kardeş-KANAL D (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6R9ZrBIMVSKFlZaMCVN71pR.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Üç Kız Kardeş-KANAL D (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8905.mp4
-#EXTINF:-1 tvg-name="Ateş Kuşları-ATV (Son.Blm.)" tvg-logo="http://foto.fotodepo.fr/images/ateskuslar.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ateş Kuşları-ATV (Son.Blm.)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8907.mp4
-#EXTINF:-1 tvg-name="Benim Güzel Ailem-TRT- (SonBlm)" tvg-logo="http://foto.fotodepo.fr/images/benimgdvd.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Benim Güzel Ailem-TRT- (SonBlm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8909.mkv
-#EXTINF:-1 tvg-name="CAMDAKİ KIZ-KANAL D-(Son Blm.)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3JCdVs9Gm9t7dgESYEr0Gt20yYhemDxyZhNi7jeS9Oy1.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",CAMDAKİ KIZ-KANAL D-(Son Blm.)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8910.mp4
-#EXTINF:-1 tvg-name="Arka Sokaklar-Kanal D (SON BLM)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3JCdVs9Gm9t7dgESYEr0Gt3wzz0Wl5c_ZGgiFn_H5_XI.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Arka Sokaklar-Kanal D (SON BLM)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8911.mp4
-#EXTINF:-1 tvg-name="Cok Güzel Hareketler Bunlar-2.Kusak" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3F84clMhh7DtJTtEbPacXgyjWFvhZb7ohTeP61km0q_B.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Cok Güzel Hareketler Bunlar-2.Kusak
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8912.mp4
-#EXTINF:-1 tvg-name="YASAK ELMA - Fox (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3NAug7BGdyE7IDnpIwzgaLmewDUEUe1giKAhFBmwxrQC.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",YASAK ELMA - Fox (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8914.mp4
-#EXTINF:-1 tvg-name="Tetikçinin Oğlu-Fox -(Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/tetikcinin.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Tetikçinin Oğlu-Fox -(Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8915.mp4
-#EXTINF:-1 tvg-name="Taçsız Prenses-FOX (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/prenseeee.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Taçsız Prenses-FOX (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8917.mp4
-#EXTINF:-1 tvg-name="Aldatmak -ATV (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3JKqAwkYjybDCFOaqT936pKypacg0ZaQOmUClMDN7123.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Aldatmak -ATV (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8897.mp4
-#EXTINF:-1 tvg-name="Kısmet- FOX (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/r202369231.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kısmet- FOX (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8913.mp4
-#EXTINF:-1 tvg-name="Kurulus Osman-ATV-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3EgfC4Q4bw0SpRxVSyP2p0iW0miIqLLIPq4vGAnZcc8Y.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kurulus Osman-ATV-(Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8906.mp4
-#EXTINF:-1 tvg-name="Güzel Günler-Show-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3HpW7NLz18Bh5Qm2fBhNljIcUB0Iv9aWC5jP9d6sWSNo.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Güzel Günler-Show-(Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8884.mp4
-#EXTINF:-1 tvg-name="Sarkılar Bizi Soyler - Kanal D - (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/etnlzaOTdP5UfEZZyRjSIuEq7VLC_qaBxI5_SbOCE_a68xNwA7bMATHaszH5XgEzL2yVe2U3KQKs0XApkb7AsZJKLUJhQXZ7nISH-xurnDE.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Sarkılar Bizi Soyler - Kanal D - (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10172.mp4
-#EXTINF:-1 tvg-name="Çöp Adam-Star-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6SSFofddh_iWc61iU3bI6pb.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Çöp Adam-Star-(Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10827.mp4
-#EXTINF:-1 tvg-name="Hayatımın Şansı - FOX - (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LTPPGfbLts__8-BJyQb_CLq3lpXkJTXes7GVz1XxrSe.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Hayatımın Şansı - FOX - (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12199.mp4
-#EXTINF:-1 tvg-name="Barbaros Hayreddin: Sultanın Fermanı -TRT- (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LBBTBeQtAHbvQKOjKwji3gqDV1bM8ECZcfOTdaFD6ov.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Barbaros Hayreddin: Sultanın Fermanı -TRT- (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12479.mp4
-#EXTINF:-1 tvg-name="Adım Farah-Fox-(Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/1025xautof.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Adım Farah-Fox-(Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13883.mp4
-#EXTINF:-1 tvg-name="Aile - Show tv -(Son Blm)" tvg-logo="https://1001dizi.net/images2/dizi/yeni/aile.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Aile - Show tv -(Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13993.mp4
-#EXTINF:-1 tvg-name="Yüz Yıllık Mucize- Star-(Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/yc3bczyc4b.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yüz Yıllık Mucize- Star-(Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14147.mkv
-#EXTINF:-1 tvg-name="Gülcemal - fox-(Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/gulcemal16.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Gülcemal - fox-(Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14901.mp4
-#EXTINF:-1 tvg-name="Maviye Sürgün Show-tv (son blm)" tvg-logo="http://foto.fotodepo.fr/images/3588874f23.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Maviye Sürgün Show-tv (son blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17187.mp4
-#EXTINF:-1 tvg-name="Vermem Seni Ellere-Son Blm" tvg-logo="http://foto.fotodepo.fr/images/mv5byjawyz.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Vermem Seni Ellere-Son Blm
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17503.mp4
-#EXTINF:-1 tvg-name="Kendi Düşen Ağlamaz-TRT-Son Blm." tvg-logo="http://foto.fotodepo.fr/images/fypenuwx0a.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kendi Düşen Ağlamaz-TRT-Son Blm.
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/18424.mp4
-#EXTINF:-1 tvg-name="Ya Çok Seversen-Kanal D (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/fzot9svxsa.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ya Çok Seversen-Kanal D (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22245.mp4
-#EXTINF:-1 tvg-name="Dönence: Kanal D (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/fyfes3xxga.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Dönence: Kanal D (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22246.mp4
-#EXTINF:-1 tvg-name="Yaz Şarkısı: Fox (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/yazarks.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yaz Şarkısı: Fox (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22247.mp4
-#EXTINF:-1 tvg-name="Hayatımın Neşesi: TRT (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/2023070223.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Hayatımın Neşesi: TRT (Son Blm)
-http://my-media.ddns.me:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22248.mp4
-
-
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Teskilat -TRT-1-( SON BLM )
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8881.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Guldur Guldur show (Son Blm)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8882.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Cok GÃ¼zel Hareketler Bunlar-2.Kusak
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8912.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Alparslan: BÃ¼yÃ¼k SelÃ§uklu -TRT1
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8883.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Gonul Dagi-TRT1-Son Blm
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8885.mkv
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Alsancak-TRT 1 (Son Blm) (2023)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8886.mkv
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",YÃ¼rek Ã‡Ä±kmazÄ±-TRT1-(Son Blm)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8888.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",KÄ±zÄ±lcÄ±k Åerbeti-SHOW (Son Blm)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8890.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",YalÄ± Ã‡apkÄ±nÄ±-STAR (Son Blm)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8894.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Uvey Anne -ATV (Son Blm)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8896.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Safir-ATV-(Son Blm)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8898.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Kardeslerim-ATV (Son Blm)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8899.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Ã–mer-Star (Son Blm)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8900.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Dilek TaÅŸÄ± - Kanal D - (Son Blm)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8901.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Ben Bu Cihana SÄ±ÄŸmazam -ATV-(Son blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8902.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Veda Mektubu-Kanal D (Son Blm)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8903.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",ÃœÃ§ KÄ±z KardeÅŸ-KANAL D (Son Blm)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8905.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",AteÅŸ KuÅŸlarÄ±-ATV (Son.Blm.)
-http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8907.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",YargÄ±-Kanal D (Son Blm)
+#EXTINF:-1 tvg-name="Yargı-Kanal D (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3ANjAOhSIQxapVLY16IqJRgwHT1OpFlQ5iOKL3Sw89UV.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yargı-Kanal D (Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8908.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Benim GÃ¼zel Ailem-TRT- (SonBlm)
+#EXTINF:-1 tvg-name="Teskilat -TRT-1-( SON BLM )" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3Av5kBw3qhwR6rRbKPzgkTelY8-_DyiiPKp_vNhI_xnz.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Teskilat -TRT-1-( SON BLM )
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8881.mp4
+#EXTINF:-1 tvg-name="Dilek Taşı - Kanal D - (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/f4nh1newqa.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Dilek Taşı - Kanal D - (Son Blm)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8901.mp4
+#EXTINF:-1 tvg-name="Guldur Guldur show (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3GTlP7A4tM66nJT4nT51S9ADUEOhBsbk5pnsSsp6XL24.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Guldur Guldur show (Son Blm)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8882.mp4
+#EXTINF:-1 tvg-name="Alparslan: Büyük Selçuklu -TRT1" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3KVbiYrMcGP7nRs68xEAToKQc7-zmU1PdvF22Dy5l1Jz.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Alparslan: Büyük Selçuklu -TRT1
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8883.mp4
+#EXTINF:-1 tvg-name="Gonul Dagi-TRT1-Son Blm" tvg-logo="http://my-media.ddns.me:52381/images/ZXB-eYaXTVWD5l_vzgmogZ5oVxhxISQy55u0GbQYUWLx2iePVm2-tsTsSwjubR8G6invPDaCZyiI5YAy1wXirKwRDSxc3iDQRPakKu2RWV8.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Gonul Dagi-TRT1-Son Blm
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8885.mkv
+#EXTINF:-1 tvg-name="Alsancak-TRT 1 (Son Blm) (2023)" tvg-logo="http://foto.fotodepo.fr/images/alsancak.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Alsancak-TRT 1 (Son Blm) (2023)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8886.mkv
+#EXTINF:-1 tvg-name="Yürek Çıkmazı-TRT1-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6Tz0_amD4oGl4x6kmt9WvIb.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yürek Çıkmazı-TRT1-(Son Blm)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8888.mp4
+#EXTINF:-1 tvg-name="Kızılcık Şerbeti-SHOW (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/Z7I-PbJwp-zu9fQhKg8aLStuEcTuZn1hFoPGGavaT8lM0YLxlUJl-6YP9T56YQpfuqSQlqRUxVkRUMpaaFYf1w.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kızılcık Şerbeti-SHOW (Son Blm)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8890.mp4
+#EXTINF:-1 tvg-name="Yalı Çapkını-STAR (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6RrcAbLHDNVJp5oQN_SCMHV.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yalı Çapkını-STAR (Son Blm)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8894.mp4
+#EXTINF:-1 tvg-name="Uvey Anne -ATV (Son Blm)" tvg-logo="https://i.ibb.co/0nmRcK9/uveyanne.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Uvey Anne -ATV (Son Blm)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8896.mp4
+#EXTINF:-1 tvg-name="Gecenin Ucunda-Star-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6RjGScDYxd9KoAO8hxPx500.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Gecenin Ucunda-Star-(Son Blm)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8898.mp4
+#EXTINF:-1 tvg-name="Kardeslerim-ATV (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ZXB-eYaXTVWD5l_vzgmogZ5oVxhxISQy55u0GbQYUWLACDe6Qhbt9OhwXwpmHuknzTZ8-t2Lflwz3OPRzzMOK7gMDTLq4q1kiS1J3mE2DqI.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kardeslerim-ATV (Son Blm)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8899.mp4
+#EXTINF:-1 tvg-name="Ömer-Star (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/omer2023.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ömer-Star (Son Blm)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8900.mp4
+#EXTINF:-1 tvg-name="Doğu Demirkol ile Alelade-STAR TV" tvg-logo="http://my-media.ddns.me:52381/images/ZXB-eYaXTVWD5l_vzgmogZ5oVxhxISQy55u0GbQYUWIbL2HLXBkjHQz3Gg7otoAkjmNJHplNwILs31M1IEcPt00yKt5pO5zUWpWE_j2CrIo.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Doğu Demirkol ile Alelade-STAR TV
+#http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8901.mp4
+#EXTINF:-1 tvg-name="Veda Mektubu-Kanal D (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/mv5bngvpv.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Veda Mektubu-Kanal D (Son Blm)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8903.mp4
+#EXTINF:-1 tvg-name="Üç Kız Kardeş-KANAL D (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6R9ZrBIMVSKFlZaMCVN71pR.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Üç Kız Kardeş-KANAL D (Son Blm)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8905.mp4
+#EXTINF:-1 tvg-name="Ateş Kuşları-ATV (Son.Blm.)" tvg-logo="http://foto.fotodepo.fr/images/ateskuslar.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ateş Kuşları-ATV (Son.Blm.)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8907.mp4
+#EXTINF:-1 tvg-name="Benim Güzel Ailem-TRT- (SonBlm)" tvg-logo="http://foto.fotodepo.fr/images/benimgdvd.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Benim Güzel Ailem-TRT- (SonBlm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8909.mkv
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Arka Sokaklar-Kanal D (SON BLM)
+#EXTINF:-1 tvg-name="CAMDAKİ KIZ-KANAL D-(Son Blm.)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3JCdVs9Gm9t7dgESYEr0Gt20yYhemDxyZhNi7jeS9Oy1.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",CAMDAKİ KIZ-KANAL D-(Son Blm.)
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8910.mp4
+#EXTINF:-1 tvg-name="Arka Sokaklar-Kanal D (SON BLM)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3JCdVs9Gm9t7dgESYEr0Gt3wzz0Wl5c_ZGgiFn_H5_XI.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Arka Sokaklar-Kanal D (SON BLM)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8911.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Ruhun Duymaz- Fox (Son Blm)
+#EXTINF:-1 tvg-name="Cok Güzel Hareketler Bunlar-2.Kusak" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3F84clMhh7DtJTtEbPacXgyjWFvhZb7ohTeP61km0q_B.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Cok Güzel Hareketler Bunlar-2.Kusak
+http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8912.mp4
+#EXTINF:-1 tvg-name="YASAK ELMA - Fox (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3NAug7BGdyE7IDnpIwzgaLmewDUEUe1giKAhFBmwxrQC.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",YASAK ELMA - Fox (Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8914.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",TetikÃ§inin OÄŸlu-Fox -(Son Blm)
+#EXTINF:-1 tvg-name="Tetikçinin Oğlu-Fox -(Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/tetikcinin.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Tetikçinin Oğlu-Fox -(Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8915.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",TaÃ§sÄ±z Prenses-FOX (Son Blm)
+#EXTINF:-1 tvg-name="Taçsız Prenses-FOX (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/prenseeee.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Taçsız Prenses-FOX (Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8917.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Aldatmak -ATV (Son Blm)
+#EXTINF:-1 tvg-name="Aldatmak -ATV (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3JKqAwkYjybDCFOaqT936pKypacg0ZaQOmUClMDN7123.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Aldatmak -ATV (Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8897.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",KÄ±smet- FOX (Son Blm)
+#EXTINF:-1 tvg-name="Kısmet- FOX (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/r202369231.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kısmet- FOX (Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8913.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Kurulus Osman-ATV-(Son Blm)
+#EXTINF:-1 tvg-name="Kurulus Osman-ATV-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3EgfC4Q4bw0SpRxVSyP2p0iW0miIqLLIPq4vGAnZcc8Y.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kurulus Osman-ATV-(Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8906.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",GÃ¼zel GÃ¼nler-Show-(Son Blm)
+#EXTINF:-1 tvg-name="Güzel Günler-Show-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3HpW7NLz18Bh5Qm2fBhNljIcUB0Iv9aWC5jP9d6sWSNo.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Güzel Günler-Show-(Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/8884.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",SarkÄ±lar Bizi Soyler - Kanal D - (Son Blm)
+#EXTINF:-1 tvg-name="Sarkılar Bizi Soyler - Kanal D - (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/etnlzaOTdP5UfEZZyRjSIuEq7VLC_qaBxI5_SbOCE_a68xNwA7bMATHaszH5XgEzL2yVe2U3KQKs0XApkb7AsZJKLUJhQXZ7nISH-xurnDE.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Sarkılar Bizi Soyler - Kanal D - (Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10172.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Ã‡Ã¶p Adam-Star-(Son Blm)
+#EXTINF:-1 tvg-name="Çöp Adam-Star-(Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LXgwt3Tk-IYA5nB7Dfiy6SSFofddh_iWc61iU3bI6pb.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Çöp Adam-Star-(Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/10827.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",HayatÄ±mÄ±n ÅansÄ± - FOX - (Son Blm)
+#EXTINF:-1 tvg-name="Hayatımın Şansı - FOX - (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LTPPGfbLts__8-BJyQb_CLq3lpXkJTXes7GVz1XxrSe.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Hayatımın Şansı - FOX - (Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12199.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Barbaros Hayreddin: SultanÄ±n FermanÄ± -TRT- (Son Blm)
+#EXTINF:-1 tvg-name="Barbaros Hayreddin: Sultanın Fermanı -TRT- (Son Blm)" tvg-logo="http://my-media.ddns.me:52381/images/ANHk04dPvlffkzopnJpo3LBBTBeQtAHbvQKOjKwji3gqDV1bM8ECZcfOTdaFD6ov.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Barbaros Hayreddin: Sultanın Fermanı -TRT- (Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/12479.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",AdÄ±m Farah-Fox-(Son Blm)
+#EXTINF:-1 tvg-name="Adım Farah-Fox-(Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/1025xautof.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Adım Farah-Fox-(Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13883.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Aile - Show tv -(Son Blm)
+#EXTINF:-1 tvg-name="Aile - Show tv -(Son Blm)" tvg-logo="https://1001dizi.net/images2/dizi/yeni/aile.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Aile - Show tv -(Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/13993.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",YÃ¼z YÄ±llÄ±k Mucize- Star-(Son Blm)
+#EXTINF:-1 tvg-name="Yüz Yıllık Mucize- Star-(Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/yc3bczyc4b.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yüz Yıllık Mucize- Star-(Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14147.mkv
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",GÃ¼lcemal - fox-(Son Blm)
+#EXTINF:-1 tvg-name="Gülcemal - fox-(Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/gulcemal16.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Gülcemal - fox-(Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/14901.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Maviye SÃ¼rgÃ¼n Show-tv (son blm)
+#EXTINF:-1 tvg-name="Maviye Sürgün Show-tv (son blm)" tvg-logo="http://foto.fotodepo.fr/images/3588874f23.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Maviye Sürgün Show-tv (son blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17187.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Vermem Seni Ellere-Son Blm
+#EXTINF:-1 tvg-name="Vermem Seni Ellere-Son Blm" tvg-logo="http://foto.fotodepo.fr/images/mv5byjawyz.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Vermem Seni Ellere-Son Blm
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/17503.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Kendi DÃ¼ÅŸen AÄŸlamaz-TRT-Son Blm.
+#EXTINF:-1 tvg-name="Kendi Düşen Ağlamaz-TRT-Son Blm." tvg-logo="http://foto.fotodepo.fr/images/fypenuwx0a.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Kendi Düşen Ağlamaz-TRT-Son Blm.
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/18424.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Ya Ã‡ok Seversen-Kanal D (Son Blm)
+#EXTINF:-1 tvg-name="Ya Çok Seversen-Kanal D (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/fzot9svxsa.png" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Ya Çok Seversen-Kanal D (Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22245.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",DÃ¶nence: Kanal D (Son Blm)
+#EXTINF:-1 tvg-name="Dönence: Kanal D (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/fyfes3xxga.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Dönence: Kanal D (Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22246.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",Yaz ÅarkÄ±sÄ±: Fox (Son Blm)
+#EXTINF:-1 tvg-name="Yaz Şarkısı: Fox (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/yazarks.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Yaz Şarkısı: Fox (Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22247.mp4
-#EXTINF:-1 group-title="VoD âœ¦ HAFTALIK DIZILER (SON BLM)",HayatÄ±mÄ±n NeÅŸesi: TRT (Son Blm)
+#EXTINF:-1 tvg-name="Hayatımın Neşesi: TRT (Son Blm)" tvg-logo="http://foto.fotodepo.fr/images/2023070223.jpg" group-title="VoD ✦ HAFTALIK DIZILER (SON BLM)",Hayatımın Neşesi: TRT (Son Blm)
 http://euro-medya.ath.cx:52381/movie/movietr@918u468@TR.movie/movietr@645k842@movietr/22248.mp4
-
 
 
 
@@ -3472,6 +3387,8 @@ http://34mix.com:8080/live/tgsPWQSek4/eT8juHbFbH/28952.m3u8
 http://34mix.com:8080/live/tgsPWQSek4/eT8juHbFbH/28953.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Ufc Fight Pass HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/ufc.png" group-title="TR SPOR",TR: Ufc Fight Pass HD
 http://34mix.com:8080/live/tgsPWQSek4/eT8juHbFbH/28954.m3u8
+
+
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT SPOR YILDIZ FHD" tvg-logo="https://tvlogo.nl/files/ch/TR//trtsporstar.png" group-title="TR ☪ SPOR",TRT SPOR YILDIZ FHD
@@ -4112,188 +4029,6 @@ http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/10
 http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100946
 #EXTINF:-1 tvg-id="" tvg-name="TR: UFC FIGHT PASS HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/ufc.png" group-title="TR / DE SPOR",TR: UFC FIGHT PASS HD
 http://special.boxserver.live:8080/@streamspecialbox3131vod/@streamserver3169/100947
-
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD+" tvg-logo="https://imagizer.imageshack.com/img924/1125/4LJ0oI.png" group-title="TR | SPOR ⚽",TR: TRT SPOR HD+
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259371
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://imagizer.imageshack.com/img924/1125/4LJ0oI.png" group-title="TR | SPOR ⚽",TR: TRT SPOR HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259372
-#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A SPOR HD+" tvg-logo="https://imagizer.imageshack.com/img922/7928/epYMLP.png" group-title="TR | SPOR ⚽",A SPOR HD+
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259367
-#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR| A SPOR HD" tvg-logo="https://imagizer.imageshack.com/img922/7928/epYMLP.png" group-title="TR | SPOR ⚽",TR| A SPOR HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/277913
-#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 1 HD**" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 1 HD**
-http://amazingiptv.live:8080/Ozcantaxi/11223344/350195
-#EXTINF:-1 tvg-id="" tvg-name="| TR | b**N SPORTS 1 SD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | b**N SPORTS 1 SD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399653
-#EXTINF:-1 tvg-id="" tvg-name="| TR | b**N SPORTS 1 HD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | b**N SPORTS 1 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399652
-#EXTINF:-1 tvg-id="" tvg-name="| TR | b**N SPORTS 1 HD HEVC" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | b**N SPORTS 1 HD HEVC
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399651
-#EXTINF:-1 tvg-id="" tvg-name="| TR | b**N SPORTS 1 FHD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | b**N SPORTS 1 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399650
-#EXTINF:-1 tvg-id="" tvg-name="| TR | b**N SPORTS 1 FHD HEVC" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | b**N SPORTS 1 FHD HEVC
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399649
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 2 SD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 2 SD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399656
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 2 HD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 2 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399655
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 2 FHD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 2 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399654
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 3 SD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 3 SD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399659
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 3 HD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 3 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399658
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 3 FHD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 3 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399657
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 4 SD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 4 SD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399662
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 4 HD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 4 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399661
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 4 FHD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 4 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399660
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 5 SD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 5 SD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399665
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 5 HD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 5 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399664
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 5 FHD" tvg-logo="" group-title="TR | beIN SPORT ⚽",| TR | BEIN SPORTS 5 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399663
-#EXTINF:-1 tvg-id="" tvg-name="[TR] FIX FEED 1 HD" tvg-logo="" group-title="TR | beIN SPORT ⚽",[TR] FIX FEED 1 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399776
-#EXTINF:-1 tvg-id="" tvg-name="[TR] FIX FEED 1 FHD" tvg-logo="" group-title="TR | beIN SPORT ⚽",[TR] FIX FEED 1 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399777
-#EXTINF:-1 tvg-id="" tvg-name="[TR] FIX FEED 1 2K" tvg-logo="" group-title="TR | beIN SPORT ⚽",[TR] FIX FEED 1 2K
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399772
-#EXTINF:-1 tvg-id="" tvg-name="[TR] FIX FEED 1 4K" tvg-logo="" group-title="TR | beIN SPORT ⚽",[TR] FIX FEED 1 4K
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399773
-#EXTINF:-1 tvg-id="" tvg-name="[TR] FIX FEED 2 HD" tvg-logo="" group-title="TR | beIN SPORT ⚽",[TR] FIX FEED 2 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399774
-#EXTINF:-1 tvg-id="" tvg-name="[TR] FIX FEED 2 FHD" tvg-logo="" group-title="TR | beIN SPORT ⚽",[TR] FIX FEED 2 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399775
-#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 1 FHD*" tvg-logo="" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 1 FHD*
-http://amazingiptv.live:8080/Ozcantaxi/11223344/394686
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR | beIN SPORT 1 HD*" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 1 HD*
-http://amazingiptv.live:8080/Ozcantaxi/11223344/78345
-#EXTINF:-1 tvg-id="" tvg-name="TR |  beIN SPORT 1 4K" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | beIN SPORT ⚽",TR |  beIN SPORT 1 4K
-http://amazingiptv.live:8080/Ozcantaxi/11223344/116592
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: beIN SPOR 1 576p" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | beIN SPORT ⚽",TR: beIN SPOR 1 576p
-http://amazingiptv.live:8080/Ozcantaxi/11223344/285344
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR | beIN SPORT 1 PLATINUM X ULTIMATE (MAC SAATİ ACIK)" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 1 PLATINUM X ULTIMATE (MAC SAATİ ACIK)
-http://amazingiptv.live:8080/Ozcantaxi/11223344/121353
-#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 1 PLATINUM X HD+ (MAC SAATİ ACIK)" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 1 PLATINUM X HD+ (MAC SAATİ ACIK)
-http://amazingiptv.live:8080/Ozcantaxi/11223344/121354
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR | beIN SPORT 2 HD**" tvg-logo="https://imagizer.imageshack.com/img922/9745/uNKvor.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 2 HD**
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259317
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR | beIN SPORT 2 FHD" tvg-logo="https://imagizer.imageshack.com/img922/9745/uNKvor.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 2 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259318
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR | beIN SPORT 3 FHD*" tvg-logo="https://imagizer.imageshack.com/img923/992/M0TRnx.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 3 FHD*
-http://amazingiptv.live:8080/Ozcantaxi/11223344/78351
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR | beIN SPORT 4 HD*" tvg-logo="https://imagizer.imageshack.com/img924/3697/nLaSJB.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT 4 HD*
-http://amazingiptv.live:8080/Ozcantaxi/11223344/78352
-#EXTINF:-1 tvg-id="beinsport5.tr" tvg-name="TR| beIN SPORT 5 HD" tvg-logo="https://imagizer.imageshack.com/img922/6243/VgqcyQ.png" group-title="TR | beIN SPORT ⚽",TR| beIN SPORT 5 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/285817
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR | beIN SPORT MAX 1 HD" tvg-logo="https://imagizer.imageshack.com/img924/9311/MYM4Ru.png" group-title="TR | beIN SPORT ⚽",TR | beIN SPORT MAX 1 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/78353
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: beIN SPORT 1 FEED" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="TR | beIN SPORT ⚽",TR: beIN SPORT 1 FEED
-http://amazingiptv.live:8080/Ozcantaxi/11223344/248301
-#EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ TURK EXXEN SPORTS ✪✪✪✪✪" tvg-logo="" group-title="TR | EXXEN SPOR ⚽",✪✪✪✪✪ TURK EXXEN SPORTS ✪✪✪✪✪
-http://amazingiptv.live:8080/Ozcantaxi/11223344/118303
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 1 sᴅ " tvg-logo="https://imagizer.imageshack.com/img923/6114/hLM9Wn.png" group-title="TR | EXXEN SPOR ⚽",[TR] EXXEN SPORTS 1 sᴅ 
-http://amazingiptv.live:8080/Ozcantaxi/11223344/399295
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 1 ʜᴅ " tvg-logo="https://imagizer.imageshack.com/img924/2392/rEV5YA.png" group-title="TR | EXXEN SPOR ⚽",[TR] EXXEN SPORTS 1 ʜᴅ 
-http://amazingiptv.live:8080/Ozcantaxi/11223344/395166
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 1 FHD" tvg-logo="https://imagizer.imageshack.com/img924/2392/rEV5YA.png" group-title="TR | EXXEN SPOR ⚽",[TR] EXXEN SPORTS 1 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/256703
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 2 FHD" tvg-logo="https://imagizer.imageshack.com/img924/8948/jr2N5I.png" group-title="TR | EXXEN SPOR ⚽",[TR] EXXEN SPORTS 2 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/256704
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 3 FHD" tvg-logo="https://imagizer.imageshack.com/img924/4747/FKbQmS.png" group-title="TR | EXXEN SPOR ⚽",[TR] EXXEN SPORTS 3 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/256705
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 4 FHD" tvg-logo="https://imagizer.imageshack.com/img922/9092/2fqeIz.png" group-title="TR | EXXEN SPOR ⚽",[TR] EXXEN SPORTS 4 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/256706
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 5 FHD" tvg-logo="https://imagizer.imageshack.com/img923/3237/NqIkPF.png" group-title="TR | EXXEN SPOR ⚽",[TR] EXXEN SPORTS 5 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/256707
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 6 FHD" tvg-logo="https://imagizer.imageshack.com/img923/299/iyK88Z.png" group-title="TR | EXXEN SPOR ⚽",[TR] EXXEN SPORTS 6 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/256708
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 7 FHD" tvg-logo="https://imagizer.imageshack.com/img922/9246/D5O907.png" group-title="TR | EXXEN SPOR ⚽",[TR] EXXEN SPORTS 7 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/118291
-#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 8 FHD" tvg-logo="https://imagizer.imageshack.com/img923/56/VteZLR.png" group-title="TR | EXXEN SPOR ⚽",[TR] EXXEN SPORTS 8 FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/276700
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 1 HD (Mac Saati Acik)" tvg-logo="https://imagizer.imageshack.com/img923/6114/hLM9Wn.png" group-title="TR | EXXEN SPOR ⚽",EXXEN SPORTS 1 HD (Mac Saati Acik)
-http://amazingiptv.live:8080/Ozcantaxi/11223344/116206
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 2 HD (Mac Saati Acik)" tvg-logo="https://imagizer.imageshack.com/img924/8306/BE4g4A.png" group-title="TR | EXXEN SPOR ⚽",EXXEN SPORTS 2 HD (Mac Saati Acik)
-http://amazingiptv.live:8080/Ozcantaxi/11223344/116207
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 3 (Mac Zamani Acik)" tvg-logo="https://imagizer.imageshack.com/img923/7743/df2lvi.png" group-title="TR | EXXEN SPOR ⚽",EXXEN SPORTS 3 (Mac Zamani Acik)
-http://amazingiptv.live:8080/Ozcantaxi/11223344/278014
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 4 HD (Mac Saati Acik)" tvg-logo="https://imagizer.imageshack.com/img924/9046/sYtv2o.png" group-title="TR | EXXEN SPOR ⚽",EXXEN SPORTS 4 HD (Mac Saati Acik)
-http://amazingiptv.live:8080/Ozcantaxi/11223344/118300
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 6 HD (Mac Saati Acik)" tvg-logo="http://logo.gulatv.xyz/Logo/TR/EXXEN.SPORT/HD/EXXEN.SPORT.6.png" group-title="TR | EXXEN SPOR ⚽",EXXEN SPORT 6 HD (Mac Saati Acik)
-http://amazingiptv.live:8080/Ozcantaxi/11223344/118302
-#EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ TURK SARAN S SPORTS ✪✪✪✪✪" tvg-logo="" group-title="TR | S SPORT ⚽",✪✪✪✪✪ TURK SARAN S SPORTS ✪✪✪✪✪
-http://amazingiptv.live:8080/Ozcantaxi/11223344/118667
-#EXTINF:-1 tvg-id="" tvg-name="TR | S Sport PLUS 2 (Mac Zamanı)" tvg-logo="" group-title="TR | S SPORT ⚽",TR | S Sport PLUS 2 (Mac Zamanı)
-http://amazingiptv.live:8080/Ozcantaxi/11223344/392773
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+1 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img924/1384/8Wimde.png" group-title="TR | S SPORT ⚽",TR: S Sport+1 Mac Saati
-http://amazingiptv.live:8080/Ozcantaxi/11223344/116517
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+2 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/6752/b1B31Y.png" group-title="TR | S SPORT ⚽",TR: S Sport+2 Mac Saati
-http://amazingiptv.live:8080/Ozcantaxi/11223344/116518
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+3 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img922/6571/DbZ32j.png" group-title="TR | S SPORT ⚽",TR: S Sport+3 Mac Saati
-http://amazingiptv.live:8080/Ozcantaxi/11223344/116519
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S Sport+4 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/9936/9OFIu4.png" group-title="TR | S SPORT ⚽",TR: S Sport+4 Mac Saati
-http://amazingiptv.live:8080/Ozcantaxi/11223344/116520
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S Sport+5 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/1665/66YDyr.png" group-title="TR | S SPORT ⚽",TR: S Sport+5 Mac Saati
-http://amazingiptv.live:8080/Ozcantaxi/11223344/116521
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT + 6 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/8083/AzUJ2W.png" group-title="TR | S SPORT ⚽",TR: S SPORT + 6 Mac Saati
-http://amazingiptv.live:8080/Ozcantaxi/11223344/287082
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="|TR| S SPORT HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/S.SPORT.png" group-title="TR | S SPORT ⚽",|TR| S SPORT HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/160586
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR | SPOR SMART FHD" tvg-logo="http://logo.superbtv.online/Logo/TR/SARAN.S.SPORTS/FHD/SPOR.SMART.png" group-title="TR | SPOR ⚽",TR | SPOR SMART FHD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/76320
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR | SPOR SMART HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/SPOR.SMART.png" group-title="TR | SPOR ⚽",TR | SPOR SMART HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/76321
-#EXTINF:-1 tvg-id="" tvg-name="TR | SPOR SMART 2 HD+" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/SPOR.SMART.2.png" group-title="TR | SPOR ⚽",TR | SPOR SMART 2 HD+
-http://amazingiptv.live:8080/Ozcantaxi/11223344/95150
-#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="TR: SPOR SMART 2 [](maçta açık,)" tvg-logo="" group-title="TR | SPOR ⚽",TR: SPOR SMART 2 [](maçta açık,)
-http://amazingiptv.live:8080/Ozcantaxi/11223344/277011
-#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBUSPOR 4 HD" tvg-logo="https://imagizer.imageshack.com/img924/5684/G3irix.png" group-title="TR | SPOR ⚽",TR | TIVIBUSPOR 4 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/95859
-#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD+" tvg-logo="https://imagizer.imageshack.com/img923/4475/rCFgjh.png" group-title="TR | SPOR ⚽",TR: NBA TV HD+
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259368
-#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD" tvg-logo="https://imagizer.imageshack.com/img923/4475/rCFgjh.png" group-title="TR | SPOR ⚽",TR: NBA TV HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259369
-#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TR: TRT SPOR YILDIZ HD+" tvg-logo="https://imagizer.imageshack.com/img922/4715/8HXwv1.png" group-title="TR | SPOR ⚽",TR: TRT SPOR YILDIZ HD+
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259373
-#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="https://imagizer.imageshack.com/img922/4715/8HXwv1.png" group-title="TR | SPOR ⚽",TR: TRT SPOR YILDIZ HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259374
-#EXTINF:-1 tvg-id="trtspor3.tr" tvg-name="TR: TRT 3 SPOR" tvg-logo="https://imagizer.imageshack.com/img924/4729/PFzmr0.png" group-title="TR | SPOR ⚽",TR: TRT 3 SPOR
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259375
-#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD+" tvg-logo="https://imagizer.imageshack.com/img923/4813/n8AMKQ.png" group-title="TR | SPOR ⚽",TR: EUROSPORT 2 HD+
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259377
-#EXTINF:-1 tvg-id="" tvg-name="TR| SARAN SPOR HD +1" tvg-logo="https://imagizer.imageshack.com/img922/1651/nxJ95V.png" group-title="TR | S SPORT ⚽",TR| SARAN SPOR HD +1
-http://amazingiptv.live:8080/Ozcantaxi/11223344/277898
-#EXTINF:-1 tvg-id="" tvg-name="TR| SARDAN SPOR HD +2" tvg-logo="" group-title="TR | SPOR ⚽",TR| SARAN SPOR HD +2
-http://amazingiptv.live:8080/Ozcantaxi/11223344/277899
-#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR| EURO SPORT 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/5332/yalTeu.png" group-title="TR | SPOR ⚽",TR| EURO SPORT 1 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/277903
-#EXTINF:-1 tvg-id="" tvg-name="TR| SPORT SMART 1 HD" tvg-logo="" group-title="TR | SPOR ⚽",TR| SPORT SMART 1 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/277905
-#EXTINF:-1 tvg-id="" tvg-name="TR| S-SPORT 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/2875/6kFCuk.png" group-title="TR | S SPORT ⚽",TR| S-SPORT 1 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/277908
-#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR| S-SPORT 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/2981/xvXCNE.png" group-title="TR | S SPORT ⚽",TR| S-SPORT 2 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/277909
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR| TRT SPOR 1 HD" tvg-logo="https://imagizer.imageshack.com/img924/1125/4LJ0oI.png" group-title="TR | SPOR ⚽",TR| TRT SPOR 1 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/277910
-#EXTINF:-1 tvg-id="" tvg-name="TR| TRT SPOR 2 HD" tvg-logo="" group-title="TR | SPOR ⚽",TR| TRT SPOR 2 HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/277911
-#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TR| TRT SPOR YILDIZ HD" tvg-logo="https://imagizer.imageshack.com/img922/4715/8HXwv1.png" group-title="TR | SPOR ⚽",TR| TRT SPOR YILDIZ HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/277912
-#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV" tvg-logo="" group-title="TR | SPOR ⚽",TR: TAY TV
-http://amazingiptv.live:8080/Ozcantaxi/11223344/325039
-#EXTINF:-1 tvg-id="gstv.tr" tvg-name="TR: GS TV HD" tvg-logo="https://imagizer.imageshack.com/img924/9840/33pFx2.png" group-title="TR | SPOR ⚽",TR: GS TV HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259379
-#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TJK TV HD" tvg-logo="https://imagizer.imageshack.com/img924/5153/2SIAyq.png" group-title="TR | SPOR ⚽",TR: TJK TV HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/259380
-#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR| FB TV HD" tvg-logo="https://imagizer.imageshack.com/img924/7905/1XfU20.png" group-title="TR | SPOR ⚽",TR| FB TV HD
-http://amazingiptv.live:8080/Ozcantaxi/11223344/277914
-
 
 
 
@@ -9131,7 +8866,7 @@ http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/guardians-of-the-gala
 #EXTINF:-1 tvg-id="173" tvg-name="komedi" tvg-logo="https://www.themoviedb.org/t/p/w1280/bTS0nwNd6CfKqaEHVrc7TjlmYaG.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM KOMEDİ TÜRÜ ➡️ YILMAZTV",Ulan Salih ➾ 2023 • 1s 46dk • 6.1 • Komedi，Yerli
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/ulan-salih?173.m3u8
 	
-#EXTINF:-1 tvg-id="172" tvg-name="komedi" tvg-logo="https://www.themoviedb.org/t/p/w1280/ygtnnkiGfRQhhlXBurqp9DR2Zqi.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM KOMEDİ TÜRÜ ➡️ YILMAZTV",Aşk Taktikleri 2 ➾ 2023 • 1s 39dk • 6.5 • Komedi，Yerli
+#EXTINF:-1 tvg-id="172" tvg-name="komedi" tvg-logo="https://www.themoviedb.org/t/p/w1280/ygtnnkiGfRQhhlXBurqp9DR2Zqi.jpg" tvg-id2="MzA=" group-title="🇹?? 🎦 FİLM KOMEDİ TÜRÜ ➡️ YILMAZTV",Aşk Taktikleri 2 ➾ 2023 • 1s 39dk • 6.5 • Komedi，Yerli
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/ask-taktikleri-2?172.m3u8
 	
 #EXTINF:-1 tvg-id="171" tvg-name="komedi" tvg-logo="https://www.themoviedb.org/t/p/w1280/iqIiYa29PhMclIAWWWpbfrYkbUN.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM KOMEDİ TÜRÜ ➡️ YILMAZTV",Hazine ➾ 2022 • 1s 44dk • 6.1 • Komedi，Suç，Yerli
