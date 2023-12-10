@@ -79,10 +79,10 @@ https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8?|User-Agent=NetSurf/2.0 (
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
 http://amtv1-2.livestreamingcdn.com:80/gt-atv-tv/tracks-v1a1/mono.m3u8?
-http://anka@195.142.1.211:4022/udp/224.2.2.19:10001/&e=.ts
-https://bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8?
-http://gineu9.bozztv.com:80/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
-http://116.202.238.88/ATV_TR/tracks-v1a1/mono.m3u8
+#http://anka@195.142.1.211:4022/udp/224.2.2.19:10001/&e=.ts
+#https://bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8?
+#http://gineu9.bozztv.com:80/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
+#http://116.202.238.88/ATV_TR/tracks-v1a1/mono.m3u8
 #http://66.160.192.241:80/atvturk/tracks-v1a1/playlist.m3u8?_=1&hls=native
 #http://node01.nntv.az:8136/ch2/ch2.hi.m3u8?|User-Agent=ExoPlayer2/2.37 
 #https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8?sd=10&rebase=on&quality=1080p?|Referer=https://trkvz-beta.daioncdn.net/&e=.m3u8
@@ -179,7 +179,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #https://tv8.daioncdn.net:443/tv8/tv8_1080p.m3u8?&sid=5udso6g2ulce&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=2
 #https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #http://anka@149.13.0.66:4002/tv8hd
-http://amtv1-2.livestreamingcdn.com:80/gt-tv8tv/tracks-v1a1/mono.m3u8?
+#http://amtv1-2.livestreamingcdn.com:80/gt-tv8tv/tracks-v1a1/mono.m3u8?
 #http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8?|User-Agent=perfectplayer1.6.0.1
 #https://hls.bizetibatan.gay/yayintv8.m3u8
 #http://anka@195.142.1.211:4022/udp/224.2.2.33:10001?mpegts
@@ -192,12 +192,12 @@ http://amtv1-2.livestreamingcdn.com:80/gt-tv8tv/tracks-v1a1/mono.m3u8?
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001271/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001271&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺™
-http://116.202.238.88/TV8.5_TR/tracks-v1a1/mono.m3u8
+https://anka@tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 http://anka@amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8
+http://116.202.238.88/TV8.5_TR/tracks-v1a1/mono.m3u8
 http://50.7.218.122:8080/tv85/tracks-v1a1/playlist.m3u8
 #https://bit.ly/TV8_5_SUPERSATFORUM?/playlist1080p.m3u8
 #https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/25/index.m3u8?|Referer=https://www.filbox.com.tr/&e=.m3u8/&user-agent=NetSurf/2.0 (RISC OS; armv3l)
-#https://anka@tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 #https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 #https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b41009801e
 #https://hls.bizetibatan.gay/yayintv85.m3u8
@@ -1226,15 +1226,16 @@ http://185.180.222.123/play/live.php?mac=00:1A:79:00:B5:E4&stream=30019&extensio
 
 #EXTINF:-1 tvg-id="TRT.SPOR.YILDIZ.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="SPOR", TRT Spor Yıldız* ʜᴅ
 http://amtv1-2.livestreamingcdn.com:80/gt-trtspor2/tracks-v1a1/playlist.m3u8
-#https://bozztv.com/inim03/live1/trtspor2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRT.SPOR.YILDIZ.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="SPOR", TRT Spor Yıldız* ʜᴅ
+https://bozztv.com/inim03/live1/trtspor2/playlist.m3u8
 #http://50.7.218.122:8080/trtspor2/index.m3u8
-#http://gineu9.bozztv.com:80/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
 #https://cakal.click/yayintrtspor2.m3u8
 #http://77.92.139.136:8200/bysid/10525
 
 #EXTINF:-1 tvg-id="TRT3.Spor.-.TBMM.TV.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1161.jpg" group-title="SPOR", TRT Spor ʜᴅ
+https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 http://amtv1-2.livestreamingcdn.com:80/gt-trtspor/tracks-v1a1/playlist.m3u8
-#https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 #http://77.92.139.136:8200/bysid/10503
 
 #EXTINF:-1 tvg-id="TRT.SPOR.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/194.jpg" group-title="SPOR", TRT Spor ʜᴅ
@@ -1253,7 +1254,8 @@ https://bozztv.com/inim03/live1/aspor/playlist.m3u8
 #https://cakal.click/yayinas.m3u8
 
 #EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/759.jpg" group-title="SPOR", tv8'5 Spor ʜᴅ
-http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8
+https://anka@tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+#http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8
 #http://50.7.218.122:8080/tv85/tracks-v1a1/playlist.m3u8
 #https://bozztv.com/inim03/live1/tv8_5/playlist.m3u8
 #https://bozztv.com/inim03/live1/tv8tv/playlist.m3u8
@@ -7991,7 +7993,7 @@ http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/mission-impossible-de
 #EXTINF:-1 tvg-id="469" tvg-name="korku" tvg-logo="https://www.themoviedb.org/t/p/w1280/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM KORKU TÜRÜ ➡️ YILMAZTV",Saw X ➾ 2023 • 1s 58dk • 6.8 • Gizem， Korku
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/saw-x?469.m3u8
 	
-#EXTINF:-1 tvg-id="468" tvg-name="gizem" tvg-logo="https://www.themoviedb.org/t/p/w1280/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM GİZEM TÜRÜ ➡️ YILMAZTV",Saw X ➾ 2023 • 1s 58dk • 6.8 • Gizem， Korku
+#EXTINF:-1 tvg-id="468" tvg-name="gizem" tvg-logo="https://www.themoviedb.org/t/p/w1280/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg" tvg-id2="MzA=" group-title="🇹?? 🎦 FİLM GİZEM TÜRÜ ➡️ YILMAZTV",Saw X ➾ 2023 • 1s 58dk • 6.8 • Gizem， Korku
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/saw-x?468.m3u8
 	
 #EXTINF:-1 tvg-id="467" tvg-name="gizem" tvg-logo="https://www.themoviedb.org/t/p/w1280//3MxgXI3VO7QCNnP0mPBjxLIemNM.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM GİZEM TÜRÜ ➡️ YILMAZTV",Burning Betrayal ➾ 2023 • 1s 38dk • Dram， Gizem， Romantik
