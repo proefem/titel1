@@ -14,7 +14,7 @@ https://anka@proxy.rssblue.com?url=?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
-http://anka@amtv1-2.livestreamingcdn.com:80/gt-atv-tv/index.m3u8
+http://anka@amtv1-2.livestreamingcdn.com:80/gt-atv-tv/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᵁᴴᴰ⁺
 https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -23,7 +23,7 @@ https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 https://anka@dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺
-http://amtv1-2.livestreamingcdn.com:80/gt-kanald/tracks-v1a1/mono.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-kanald/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
 https://bozztv.com/inim03/live1/tv8tv/playlist.m3u8
@@ -241,7 +241,7 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2.tr" tvg-logo="https://picon-13398.kxcdn.com/trt2tr.jpg" group-title="ULUSAL-int" ,TRT 2 ᴴᴰ
-http://gineu8.bozztv.com:80/gin-36bay3/gt-trt2/tracks-v1a1/mono.m3u8?
+http://gineu8.bozztv.com:80/gin-36bay3/gt-trt2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRTAvaz.tr" tvg-logo="https://picon-13398.kxcdn.com/trtavaztr.jpg" group-title="ULUSAL-int",TRT AVAZ ᴴᴰ
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
@@ -279,19 +279,20 @@ https://api-tv27.yayin.com.tr:443/kanalavrupa/tracks-v1a1/mono.m3u8
 https://
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="SPOR", trt SPOR yıldız*ʜᴅ
-http://amtv1-2.livestreamingcdn.com:80/gt-trtspor2/tracks-v1a1/playlist.m3u8
+https://bozztv.com/inim03/live1/trtspor2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1161.jpg" group-title="SPOR", trt SPOR3 ʜᴅ
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/194.jpg" group-title="SPOR", trt SPOR ʜᴅ
-http://amtv1-2.livestreamingcdn.com:80/gt-trtspor/tracks-v1a1/playlist.m3u8
+https://bozztv.com/inim03/live1/trtspor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/390.jpg" group-title="SPOR", a SPOR ʜᴅ
-http://amtv1-2.livestreamingcdn.com:80/gt-aspor/tracks-v1a1/playlist.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-aspor/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/390.jpg" group-title="SPOR", a SPOR ʜᴅ
+https://bozztv.com/inim03/live1/aspor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/759.jpg" group-title="SPOR", tv8'5 ʜᴅ
-http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8
+https://bozztv.com/inim03/live1/tv8_5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/943.png" group-title="SPOR", TiviBU SPOR ʜᴅ
 https://bozztv.com/inim03/live1/gt-tivibuspor/playlist.m3u8

@@ -79,6 +79,8 @@ https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8?|User-Agent=NetSurf/2.0 (
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
 http://amtv1-2.livestreamingcdn.com:80/gt-atv-tv/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
+http://anka@195.142.1.211:4022/udp/224.2.2.19:10001/&e=.ts
 https://bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8?
 http://gineu9.bozztv.com:80/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
 http://116.202.238.88/ATV_TR/tracks-v1a1/mono.m3u8
@@ -123,7 +125,7 @@ http://amtv1-2.livestreamingcdn.com:80/gt-show-tv/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺™
 https://anka@dogus-live.daioncdn.net/startv/startv_720p.m3u8?
-http://amtv1-2.livestreamingcdn.com:80/gt-startv/tracks-v1a1/mono.m3u8?
+http://amtv1-2.livestreamingcdn.com:80/gt-startv/tracks-v1a1/playlist.m3u8
 https://c.fulltvizle.com/star/index.m3u8
 https://new.cache-stream.workers.dev/stream/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8?sd=10&rebase=on&quality=1080p
 #https://new.cache-stream.workers.dev/stream/82O6yOy_XwE/live.m3u8
@@ -368,7 +370,7 @@ https://59c7ea6bec1c6.streamlock.net:443/live/akittv.stream/chunklist_w134767197
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001124/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001124&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png"group-title="ULUSAL",BENGUTURK TV ᵁᴴᴰ⁺™
-https://corsproxy.org/?https://new.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
+https://new.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
 #https://anka@ensonhaber-live.ercdn.net/benguturk/benguturk_720p.m3u8?
 #https://nimplus6.bozztv.com/bengu_turk/bengu_turk/playlist.m3u8
 #http://anka@195.142.1.211:4022/udp/224.2.2.44:10001|User-Agent=perfectplayer1.6.0.1
@@ -1320,7 +1322,7 @@ http://amtv1-2.livestreamingcdn.com:80/gt-ligtv3/index.m3u8
  
 #/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR"  ,BeIN Sports  1 ʜᴅ -webudit
-https://webudit.hlsjs.ru/lb/premium62/index.m3u8?|Referer=https://https://olalivehdplay.ru/&e=.m3u8
+https://webudit.hlsjs.ru/lb/premium62/index.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 https://webudit.hlsjs.ru/lb/premium269/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR"  ,BeIN Sports  1 ʜᴅ -ddy4
