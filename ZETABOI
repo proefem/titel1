@@ -79,7 +79,6 @@ https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8?|User-Agent=NetSurf/2.0 (
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
 http://amtv1-2.livestreamingcdn.com:80/gt-atv-tv/tracks-v1a1/mono.m3u8?
-#EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
 http://anka@195.142.1.211:4022/udp/224.2.2.19:10001/&e=.ts
 https://bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8?
 http://gineu9.bozztv.com:80/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
@@ -2463,6 +2462,8 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001256/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001256&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa TR" tvg-logo="https://i.imgur.com/8t5aAVx.png"  group-title="ULUSAL-int",ATV AVRUPA ʜᴅ
+http://anka@195.142.1.211:4022/udp/224.2.2.19:10001/&e=.ts
+#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa TR" tvg-logo="https://i.imgur.com/8t5aAVx.png"  group-title="ULUSAL-int",ATV AVRUPA ʜᴅ
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 #https://nimplus3.bozztv.com/atvavrupa/atvavrupa/playlist.m3u8
 #http://62.182.82.104/atv_turk/index.m3u8?token=test
@@ -2473,11 +2474,15 @@ https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 #http://he11o.akadatel.com/iptv/WE6F64UP9PFA5M/6888/index.m3u8
 
 #EXTINF:-1 tvg-id="ShowTurk.tr"tvg-name="Show Turk TR"  tvg-logo="https://i.imgur.com/UsMsmA7.png"  group-title="ULUSAL-int",SHOW TURK ʜᴅ
+https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr"tvg-name="Show Turk TR"  tvg-logo="https://i.imgur.com/UsMsmA7.png"  group-title="ULUSAL-int",SHOW TURK ʜᴅ
 https://bozztv.com/inim03/live1/showtvturk/playlist.m3u8
 #https://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8?
 #http://streamer1.ruslanatv.ru/turkey/showtv_stream_sd_2023/chunks.m3u8
 #https://epg.pw/stream/d6a57373cdd4c2d9550370f4eef997df187b878dd0428c391c9780d47276b67b.m3u8    
 
+#EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="EuroStar TR" tvg-logo="https://picon-13398.kxcdn.com/eurostartr.jpg"   group-title="ULUSAL-int",EURO STAR ʜᴅ
+http://anka@195.142.1.211:4022/udp/224.2.2.1:10001/&e=.ts
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="EuroStar TR" tvg-logo="https://picon-13398.kxcdn.com/eurostartr.jpg"   group-title="ULUSAL-int",EURO STAR ʜᴅ
 http://gineu8.bozztv.com:80/gin-trn10/gt-eurostar/tracks-v1a1/mono.m3u8?
 #https://nimplus3.bozztv.com/eurostar/eurostar/playlist.m3u8
@@ -2486,6 +2491,8 @@ http://gineu8.bozztv.com:80/gin-trn10/gt-eurostar/tracks-v1a1/mono.m3u8?
 #https://dygvideo.dygdigital.com/live/hls/staravrupa?token=447d09d59816af27d7712ef5da167123ff36281dcdd38a0f
 
 #EXTINF:-1 tvg-id="EuroD.tr"tvg-name="Euro D TR"   tvg-logo="https://i.imgur.com/4cr2gol.png"  group-title="ULUSAL-int",EURO D ʜᴅ
+#http://anka@195.142.1.211:4022/udp/224.2.2.9:10001/&e=.ts
+#EXTINF:-1 tvg-id="EuroD.tr"tvg-name="Euro D TR"   tvg-logo="https://i.imgur.com/4cr2gol.png"  group-title="ULUSAL-int",EURO D ʜᴅ
 https://bozztv.com/inim03/live1/eurod/playlist.m3u8
 #https://nimplus6.bozztv.com/eurod/eurod/playlist.m3u8
 #https://kdlive.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
@@ -2493,6 +2500,10 @@ https://bozztv.com/inim03/live1/eurod/playlist.m3u8
 #http://he11o.akadatel.com/iptv/WE6F64UP9PFA5M/6892/index.m3u8
 #https://mn-nl.mncdn.com/blutv_eurod2/live_720p2000000kbps/index.m3u8| User-Agent=Lavf53.32.100       
 
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 Int TR"  tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL-int",TV8 INT ʜᴅ
+http://anka@195.142.1.211:4022/udp/224.2.2.33:10001/&e=.ts
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 Int TR"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL-int",TV8'5 INT ʜᴅ
+http://anka@195.142.1.211:4022/udp/224.2.2.34:10001/&e=.ts
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 Int TR"  tvg-logo="https://picon-13398.kxcdn.com/tv8inltr.jpg" group-title="ULUSAL-int",TV8 INT ʜᴅ
 https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 #https://nimplus4.bozztv.com/tv8int/tv8int/playlist.m3u8
