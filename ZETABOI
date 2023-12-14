@@ -189,10 +189,10 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001271/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001271&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺™
+http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/index.m3u8
 https://tv8-live.daioncdn.net:443/tv8bucuk/tv8bucuk_1080p.m3u8
 http://116.202.238.88/TV8.5_TR/index.m3u8
 https://anka@tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
-http://anka@amtv1-2.livestreamingcdn.com:80/gt-tv8.5/index.m3u8
 http://50.7.218.122:8080/tv85/tracks-v1a1/playlist.m3u8
 #https://stream2.filbox.com.tr/live/hls/25/index.m3u8
 #https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
@@ -405,8 +405,29 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 https://anka@live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8?|User-Agent=perfectplayer1.6.0.1
 
 #EXTINF:-1 tvg-id="aktueltv.tr"tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL"    ,AKTUEL TV ᴴᴰ	
-http://tv86905.radyotelekomtv.com:22808/aktuel/aktuel/playlist.m3u8
+http://palatv34.ozelip.com:22372/aktuel/aktuel/playlist.m3u8
 #https://anka@cdn-aktueltv.yayin.com.tr/aktueltv/aktueltv/chunklist_w1976272754.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+
+#EXTINF:-1 tvg-id="aktueltv.tr"tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL"    ,BİLSEM TV
+http://palatv34.ozelip.com:22372/bilsem/bilsem/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aktueltv.tr"tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL"    ,Adana
+http://palatv34.ozelip.com:22372/adana/adana/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="aktueltv.tr"tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL"    ,AJANS EXPRESS TV
+http://palatv34.ozelip.com:22372/ajans/ajans/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aktueltv.tr"tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL"    ,MEGA TV
+http://palatv34.ozelip.com:22372/megatv/megatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aktueltv.tr"tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL"    ,ULUSLAR TV
+http://palatv34.ozelip.com:22372/uluslar/uluslar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aktueltv.tr"tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL"   ,NİL RTV
+http://palatv34.ozelip.com:22372/nilrtv/nilrtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aktueltv.tr"tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL"   ,SÜPER7 TV
+http://palatv34.ozelip.com:22372/super/super/playlist.m3u8
 
 #EXTINF:-1 tvg-id="meltemtv.tr" tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="ULUSAL",MELTEM TV ᵁᴴᴰ⁺™
 https://anka@vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
@@ -835,7 +856,7 @@ https://new.cache-stream.workers.dev/stream/UCkqaQoGJ2rAHhWk7gzsb9Aw/live.m3u8
 
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber HD TR" tvg-logo="https://picon-13398.kxcdn.com/trthaberhdtr.jpg"tvg-url="" group-title="HABER",TRT HABER  ᵁᴴᴰ⁺™
-https://anka@edge02.odtv.az/o5/trthaber/playlist.m3u8
+https://edge02.odtv.az/o5/trthaber/playlist.m3u8?|User-Agent=ExoPlayer2/2.37   
 #http://anka@116.202.238.88/TRTHABER_TR/tracks-v1a1/mono.m3u8
 #https://bozztv.com/inim03/live1/trthaber/playlist.m3u8
 #http://streamer1.ruslanatv.ru/turkey/trt_haber_hd_stream_sd_2023/chunks.m3u8
@@ -847,9 +868,9 @@ https://anka@edge02.odtv.az/o5/trthaber/playlist.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001252/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001252&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="HABER",A HABER ᵁᴴᴰ⁺™
+https://c.fulltvizle.com/ahaber/index.m3u8
 http://anka@195.142.1.211:4002/udp/224.2.2.20:10001
 http://anka@116.202.238.88/AHABER_TR/tracks-v1a1/mono.m3u8
-https://c.fulltvizle.com/ahaber/index.m3u8
 https://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8?sd=10&rebase=on&quality=1080p
 http://176.65.146.195:8035/play/a02b/index.m3u8
 http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
@@ -861,8 +882,8 @@ http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001016/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001016&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="HABER",CNN TURK ᵁᴴᴰ⁺™
+http://51.195.5.44:80/cnnturk/tracks-v1a1/playlist.m3u8
 http://anka@195.142.1.211:4002/udp/224.2.2.10:10001
-http://anka@51.195.5.44:80/cnnturk/tracks-v1a1/playlist.m3u8?_=1
 http://213.172.73.133:8081/nimble_live/9107_CNN_Turk_HD/playlist.m3u8
 https://new.cache-stream.workers.dev/stream/UCV6zcRug6Hqp1UX_FdyUeBg/live.m3u8
 #https://new.cache-stream.workers.dev/stream/UCV6zcRug6Hqp1UX_FdyUeBg/live.m3u8?_=1
@@ -875,8 +896,8 @@ https://anka@edge02.odtv.az/o8/cnnturk/playlist.m3u8?|User-Agent=ExoPlayer2/2.37
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001153/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001153&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://picon-13398.kxcdn.com/haberglobaltr.jpg" group-title="HABER",HABER GLOBAL ᵁᴴᴰ⁺™
+http://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
 http://anka@195.142.1.211:4002/udp/224.2.2.45:10001
-http://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
 #https://new.cache-stream.workers.dev/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
 #https://anka@nimplus4.bozztv.com/haberglobal/haberglobal/playlist.m3u8
 #http://anka@116.202.238.88/HABERGLOBAL_TR/tracks-v1a1/mono.m3u8
@@ -887,8 +908,8 @@ http://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live_720p2000000kbps/index
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001170/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001170&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="HABER",ULKE TV ᴴᴰ⁺™
+https://anka@ulketv.blutv.com/blutv_ulketv2/live.m3u8
 http://149.13.0.66:4003/ulketv
-#https://anka@ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
 #http://gineu10.bozztv.com:80/gin-dvrfl05/gt-ulketv/tracks-v1a1/mono.m3u8?
 #https://bozztv.com/inim03/live1/ulketv/playlist.m3u8
 #http://116.202.238.88/ULKETV_TR/tracks-v1a1/mono.m3u8
@@ -943,7 +964,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe45
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001245/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001245&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="HaberTurk.tr" tvg-name="Haber Turk TR" tvg-logo="https://picon-13398.kxcdn.com/haberturktr.jpg" group-title="HABER",HABER TURK ᵁᴴᴰ⁺™
-https://anka@ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?
+https://anka@ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #http://anka@116.202.238.88/HABERTURK_TR/tracks-v1a1/mono.m3u8
 #https://bozztv.com/inim03/live1/haberturk/playlist.m3u8
 #https://new.cache-stream.workers.dev/stream/UCn6dNfiRE_Xunu7iMyvD7AA/live.m3u8?sd=10&rebase=on
@@ -952,8 +973,8 @@ https://anka@ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001171/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001171&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="HABER",NTV ᵁᴴᴰ⁺™
+https://anka@edge02.odtv.az/o5/ntvtur/playlist.m3u8?|User-Agent=ExoPlayer2/2.37   
 http://anka@195.142.1.211:4002/udp/224.2.2.2:10001
-#https://anka@edge02.odtv.az/o5/ntvtur/playlist.m3u8?|User-Agent=ExoPlayer2/2.37   
 #http://anka@116.202.238.88/NTV_TR/tracks-v1a1/mono.m3u8
 #http://213.172.73.133:8081/nimble_live/9066_NTV_HD/playlist.m3u8
 #https://bozztv.com/inim03/live1/ntvtv/playlist.m3u8
@@ -963,10 +984,10 @@ http://anka@195.142.1.211:4002/udp/224.2.2.2:10001
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001215/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001215&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="LiderTV.tr" tvg-name="LiderTV.tr"  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="HABER",LİDER HABER
-http://anka@195.142.1.211:4002/udp/224.2.2.13:10001
-#https://lidertv.radyotelekom.com.tr:443/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/chunklist_w952285925.m3u8?|Referer=https://www.liderhaber.com.tr/&e=.m3u8
-#https://new.cache-stream.workers.dev/stream/UCgH3Vo5DVMsrbDSUoSecm0Q/live.m3u8?_=1
+https://lidertv.radyotelekom.com.tr:443/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/chunklist_w952285925.m3u8?|Referer=https://www.liderhaber.com.tr/
+#https://new.cache-stream.workers.dev/stream/UCgH3Vo5DVMsrbDSUoSecm0Q/live.m3u8?_=1&e=.m3u8
 #https://ythls.onrender.com/channel/UCgH3Vo5DVMsrbDSUoSecm0Q.m3u8
+http://anka@195.142.1.211:4002/udp/224.2.2.13:10001
 #http://145.239.58.133:28008/lidertv/lidertv/playlist.m3u8
 #https://59cba4d34b678.streamlock.net/live2/000-lidertv.stream/playlist.m3u8
 #http://95.0.226.197:5557/lider
@@ -1053,7 +1074,7 @@ https://new.cache-stream.workers.dev/stream/UCndsdUW_oPLqpQJY9J8oIRg/live.m3u8
 #https://live.cache-stream.workers.dev/stream/1rUtb4SmDh4/live.m3u8     
 
 #EXTINF:-1 tvg-id="Finansturk.tr" tvg-logo="https://finansturktv.com/images/logo.png" group-title="HABER",FINANSTURK ᴴᴰ⁺™
-https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8
 
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekoturk.tr" tvg-logo="https://picon-13398.kxcdn.com/ekoturktr.jpg"  group-title="HABER",EKOTURK ᵁᴴᴰ⁺™
 https://new.cache-stream.workers.dev/stream/UCAGVKxpAKwXMWdmcHbrvcwQ/live.m3u8
@@ -1074,14 +1095,14 @@ https://new.cache-stream.workers.dev/stream/UCLPc5pYOl2clEkCA82Sfb0Q/live.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001893/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001893&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=4&s=64832626&IASHttpSessionId=
 
 #EXTINF:1 tvg-id="worldturk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6db76241-1eb4-479f-9241-6fbe261f3a79.png" group-title="HABER",World Türkᴴᴰ
-#https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+#https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="turkhaber.tr" tvg-name="" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2020/09/TurkHaberBB.png" group-title="HABER",TURK HABERᴴᴰ
 https://edge1.socialsmart.tv:443/turkhaber/bant1/chunks.m3u8
 #http://85.0.32.106:7000/play/THTURKHABER
 
 #EXTINF:-1 tvg-id="ARTITV.tr" tvg-name="ARTI 1 TR" tvg-logo="https://picon-13398.kxcdn.com/artikrd.jpg" group-title="HABER",ARTI TV ᵁᴴᴰ⁺™
-#https://new.cache-stream.workers.dev/stream/UCxVicskgBc8OD66iLKc7Uaw/live.m3u8?sd=10&rebase=on&quality=1080p
+#https://new.cache-stream.workers.dev/stream/UCxVicskgBc8OD66iLKc7Uaw/live.m3u8
 #http://185.236.229.31:9981/play/a04a
 #https://ythls.onrender.com/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
 #https://nimplus4.bozztv.com/artitv/artitv/playlist.m3u8?
@@ -1091,7 +1112,7 @@ https://edge1.socialsmart.tv:443/turkhaber/bant1/chunks.m3u8
 #http://relink.dyndns.tv:8080/ipad/mobile/artilive.m3u8
 
 #EXTINF:-1 tvg-id="MedyaHaber.krd"tvg-name="Medya Haber KRD"  tvg-logo="https://picon-13398.kxcdn.com/medyahaberkrd.jpg" group-title="HABER",MEDYA HABER ᵁᴴᴰ⁺™
-https://new.cache-stream.workers.dev/stream/UC_KlNwS1QQ9QMPRg9dGNHNw/live.m3u8?sd=10&rebase=on&quality=1080p
+https://new.cache-stream.workers.dev/stream/UC_KlNwS1QQ9QMPRg9dGNHNw/live.m3u8
 #http://176.10.117.18:8000/play/a01j
 #http://185.236.229.31:9981/play/a05f
 #https://ythls.onrender.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8
@@ -1221,18 +1242,18 @@ https://bozztv.com/inim03/live1/trtspor2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT3.Spor.-.TBMM.TV.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1161.jpg" group-title="SPOR", TRT Spor ʜᴅ
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
-http://amtv1-2.livestreamingcdn.com:80/gt-trtspor/tracks-v1a1/playlist.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-trtspor/index.m3u8
 #http://77.92.139.136:8200/bysid/10503
 
 #EXTINF:-1 tvg-id="TRT.SPOR.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/194.jpg" group-title="SPOR", TRT Spor ʜᴅ
 https://bozztv.com/inim03/live1/trtspor/playlist.m3u8
-#http://amtv1-2.livestreamingcdn.com:80/gt-trtspor/tracks-v1a1/playlist.m3u8
+#http://amtv1-2.livestreamingcdn.com:80/gt-trtspor/index.m3u8
 #http://83.77.184.98:7000/play/TRTSporHD
 #https://cakal.click/yayintrtspor.m3u8
 #http://50.7.218.122:8080/trtspor/index.m3u8
 
 #EXTINF:-1 tvg-id="A.Spor.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/390.jpg" group-title="SPOR", a Spor ʜᴅ
-http://amtv1-2.livestreamingcdn.com:80/gt-aspor/tracks-v1a1/playlist.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-aspor/index.m3u8
 #http://85.187.218.190:16002/play/a0fy/index.m3u8
 
 #EXTINF:-1 tvg-id="A.Spor.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/390.jpg" group-title="SPOR", a Spor ʜᴅ
@@ -1240,12 +1261,12 @@ https://bozztv.com/inim03/live1/aspor/playlist.m3u8
 #https://cakal.click/yayinas.m3u8
 
 #EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/759.jpg" group-title="SPOR", tv8'5 Spor ʜᴅ
+http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/index.m3u8
 https://tv8-live.daioncdn.net:443/tv8bucuk/tv8bucuk_1080p.m3u8
-#http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8
 #http://50.7.218.122:8080/tv85/tracks-v1a1/playlist.m3u8
 #https://bozztv.com/inim03/live1/tv8_5/playlist.m3u8
 #https://bozztv.com/inim03/live1/tv8tv/playlist.m3u8
-#http://gineu9.bozztv.com:80/gin-36bay2/gin-tv8tv/tracks-v1a1/mono.m3u8
+#http://gineu9.bozztv.com:80/gin-36bay2/gin-tv8tv/index.m3u8
 #https://cakal.click/yayintv85.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/943.png" group-title="SPOR", TiviBU Spor ʜᴅ
@@ -1256,7 +1277,7 @@ https://bozztv.com/inim03/live1/gt-tivibuspor/playlist.m3u8
 #https://bozztv.com/inim03/live1/gt-tivibuspor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/943.png" group-title="SPOR", TiviBU Spor ʜᴅ-ddy6
-https://ddy6.hlsjs.ru/lb/premium107/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+#https://ddy6.hlsjs.ru/lb/premium107/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:1 tvg-id="" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="SPOR"  ,CBC Sport  ʜᴅ
 https://bozztv.com/inim03/live1/gin-cbcsport-in/playlist.m3u8
@@ -1268,7 +1289,7 @@ https://bozztv.com/inim03/live1/gin-cbcsport-in/playlist.m3u8
 http://static.g-cdn.app/streams/idman-az.png" tvg-rec="7",AZ IDMAN tv ʜᴅ
 #EXTINF:0 group-title="SPOR" tvg-id="idman-az-hd" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg",AZ IDMAN tv  ʜᴅ
 https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8?|User-Agent=ExoPlayer2/2.37 
-#http://bozztv.com/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
+#http://bozztv.com/gin-dvrfl05/gin-idmantv/playlist.m3u8
 #http://node01.nntv.az:8162/ch4/ch4.hi.m3u8?st=d4WyQub2T1dRf2VWiiXSWw&e
 
 #EXTINF:-1 tvg-id="GS.TV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/gs-tv.png" group-title="SPOR", GS tv ʜᴅ
@@ -1311,7 +1332,7 @@ http://amtv1-2.livestreamingcdn.com:80/gt-ligtv3/index.m3u8
  
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR"  ,BeIN Sports  1 ʜᴅ -webudit
-https://webudit.hlsjs.ru/lb/premium62/index.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
+https://webudit.hlsjs.ru/lb/premium62/index.m3u8?|Referer=https://olalivehdplay.ru/z.m3u8
 https://ddy6.hlsjs.ru/lb/premium105/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR"  ,BeIN Sports  1 ʜᴅ -ddy6
@@ -1320,19 +1341,19 @@ https://ddy6.hlsjs.ru/lb/premium62/index.m3u8?|referer=https://olalivehdplay.ru/
 #https://jyayintv47.live/daddyhd/cdn/67/main.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR"  ,BeIN Sports  2 ʜᴅ -webudit
-https://webudit.hlsjs.ru/lb/premium63/index.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
+https://webudit.hlsjs.ru/lb/premium63/index.m3u8?|Referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR"  ,BeIN Sports  2 ʜᴅ -ddy6
 https://ddy6.hlsjs.ru/lb/premium63/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR" ,BeIN Sports  3 ʜᴅ -webudit
-https://webudit.hlsjs.ru/lb/premium64/index.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
+https://webudit.hlsjs.ru/lb/premium64/index.m3u8?|Referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR" ,BeIN Sports  3 ʜᴅ -ddy6
 https://ddy6.hlsjs.ru/lb/premium64/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.4.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR" ,BeIN Sports  4 ʜᴅ-webudit
-https://webudit.hlsjs.ru/lb/premium67/index.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
+https://webudit.hlsjs.ru/lb/premium67/index.m3u8?|Referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.4.tr"  tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPOR" ,BeIN Sports  4 ʜᴅ -ddy6
 https://ddy6.hlsjs.ru/lb/premium67/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
@@ -1342,7 +1363,7 @@ https://ddy6.hlsjs.ru/lb/premium67/index.m3u8?|referer=https://olalivehdplay.ru/
 https://cakal.click/yayinzirve.m3u8
 
 #EXTINF:1 tvg-id="beIN.SPORTS.1.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg"group-title="SPOR",BeIN Sports  1 ʜᴅ -websporizle
-https://websporizle.net/cdn/bein_sports_1_hd/main.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
+https://websporizle.net/cdn/bein_sports_1_hd/main.m3u8?|Referer=https://yayinizle.shop/&e=.m3u8
 #https://11.atata2.cc/taso1/index.m3u8
 
 #EXTINF:1 tvg-id="beIN.SPORTS.1.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg"group-title="SPOR",BeIN Sports  1 ʜᴅ -v5
@@ -2533,10 +2554,12 @@ https://fubca.com:5443/LiveApp/streams/p9tKao40IwzRAiXw1696067892766.m3u8
 #https://137840.global.ssl.fastly.net/6007ebae6349fb1839321e09/live_0f21e9d07bc411ec9940a1f551f87644/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e2246aa5-9f01-4aea-b786-999ece599f03.png"group-title="ULUSAL-int",İsviçre TV ʜᴅ
+http://palatv34.ozelip.com:22372/isvicretv/isvicretv/playlist.m3u8
 http://tv56245.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8
 #http://tv86905.radyotelekomtv.com:22808/isvicretv/isvicretv/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/08e39c95-2734-440c-a8a3-3bc585af86c6.png"group-title="ULUSAL-int",Almanya TV ʜᴅ
+http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
 http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
 #http://tv56245.ozelip.com:2052/almanyatv/almanyatv/chunklist.m3u8|User-Agent=Lavf53.32.100 
 
@@ -2544,8 +2567,13 @@ http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a246dd87-23b1-4d50-a9d5-f63dfe50b5ab.png"group-title="ULUSAL-int",TV Avrupa ʜᴅ
+http://nrttn172.kesintisizyayin.com:29010/almanyadaturktv/almanyadaturktv/sec-f5-v1-a1.m3u8
+http://palatv34.ozelip.com:22372/almanyadaturktv/almanyadaturktv/playlist.m3u8
 http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
-#http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8| User-Agent=Lavf53.32.100        
+#http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8| User-Agent=Lavf53.32.100     
+   
+#EXTINF:-1 group-title="ULUSAL-int" tvg-logo="https://viyanatv.com/uploads/logo/viyanatvbu.",VİYANA TV ʜᴅ
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/08490548-6d45-4b62-bc6f-f2b121686294.png" group-title="ULUSAL-int",Brüksel Türk ʜᴅ
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8    
@@ -2553,6 +2581,7 @@ https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/76901451-a9e6-4d73-8a74-eb2ea7034693.png" group-title="ULUSAL-int",Aktif TV ʜᴅ
 http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
 #http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
+
 #EXTINF:-1 group-title="ULUSAL-int" tvg-id="🇦🇿",KANAL35
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ULUSAL-int" tvg-id="2158",CBC AZ
@@ -5262,11 +5291,13 @@ http://blankapit.com:8080/play/live.php?mac=00:1A:79:76:2B:38&stream=92772&exten
 http://blankapit.com:8080/play/live.php?mac=00:1A:79:76:2B:38&stream=92773&extension=ts
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="	https://yt3.ggpht.com/oJQArCbC3NDhMxcGlDTQ-FWWSdjVFyjuBY8QEkH4sG6o3DG6ZlWlfTZHKK-olfAD3ITw9P770UQ" group-title="Turkey ➾ Sinema",Kemal Sunal Filmleri 1ᴴᴰ
-https://new.cache-stream.workers.dev/stream/UCE1XdVHzOdMnUsUMatIzjag/live.m3u8?
+https://tivi191.ozelip.com:3463/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="	https://yt3.ggpht.com/oJQArCbC3NDhMxcGlDTQ-FWWSdjVFyjuBY8QEkH4sG6o3DG6ZlWlfTZHKK-olfAD3ITw9P770UQ" group-title="Turkey ➾ Sinema",Kemal Sunal Filmleri 2ᴴᴰ
+https://new.cache-stream.workers.dev/stream/UCE1XdVHzOdMnUsUMatIzjag/live.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="	https://yt3.ggpht.com/oJQArCbC3NDhMxcGlDTQ-FWWSdjVFyjuBY8QEkH4sG6o3DG6ZlWlfTZHKK-olfAD3ITw9P770UQ" group-title="Turkey ➾ Sinema",Kemal Sunal Filmleri 3ᴴᴰ
 https://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8?
 
 #EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="Turkey ➾ Sinema",SHOW digital* ᵁᴴᴰ⁺™
@@ -5318,6 +5349,20 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="Turkey ➾ Sinema",TELE ON ᴴᴰ
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
 
+#EXTINF:-1 group-title="Turkey ➾ Sinema" tvg-logo="https://www.farkturktv.com/upload/tema/20211015__5363885760.jpg",FARKTURK     HD
+http://palatv34.ozelip.com:22372/farkturktv/farkturktv/playlist.m3u8
+
+#EXTINF:-1 group-title="Turkey ➾ Sinema" tvg-logo="https://www.gopsentv.com/upload/tema/20210223__7154199481.jpg"neftv
+http://palatv34.ozelip.com:22372/neftv/neftv/playlist.m3u8
+
+#EXTINF:-1 group-title="Turkey ➾ Sinema" tvg-logo="https://www.gopsentv.com/upload/tema/20210223__7154199481.jpg"ilkgun tv
+http://palatv34.ozelip.com:22372/ilkguntv/ilkguntv/playlist.m3u8
+
+#EXTINF:-1 group-title="Turkey ➾ Sinema" tvg-logo="https://www.gopsentv.com/upload/tema/20210223__7154199481.jpg",CAGRİ TV
+http://palatv34.ozelip.com:22372/cagritv/cagritv/playlist.m3u8
+
+#EXTINF:-1 group-title="Turkey ➾ Sinema" tvg-logo="https://www.gopsentv.com/upload/tema/20210223__7154199481.jpg",GOPSEN HD
+http://palatv34.ozelip.com:22372/gopsentv/gopsentv/playlist.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="Turkey ➾ Sinema", DOĞU TV ᴴᴰ
 https://stream2.filbox.com.tr/live/hls/1286/index.m3u8
@@ -5392,6 +5437,7 @@ http://75.119.144.48:3203/hybrid/play.m3u8
 http://75.119.144.48:3000/hybrid/play.m3u8
 
 #EXTINF:0  tvg-id="TV 70.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",TV 70 
+https://edge1-eu-west.picarto.tv/stream/hls/golive%2Bc70/1_0/index.m3u8
 https://anka@ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
 
 #EXTINF:0  tvg-id="TV 90.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",TV 90 
@@ -7884,7 +7930,7 @@ http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/mission-impossible-de
 #EXTINF:-1 tvg-id="469" tvg-name="korku" tvg-logo="https://www.themoviedb.org/t/p/w1280/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM KORKU TÜRÜ ➡️ YILMAZTV",Saw X ➾ 2023 • 1s 58dk • 6.8 • Gizem， Korku
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/saw-x?469.m3u8
 	
-#EXTINF:-1 tvg-id="468" tvg-name="gizem" tvg-logo="https://www.themoviedb.org/t/p/w1280/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg" tvg-id2="MzA=" group-title="🇹?? 🎦 FİLM GİZEM TÜRÜ ➡️ YILMAZTV",Saw X ➾ 2023 • 1s 58dk • 6.8 • Gizem， Korku
+#EXTINF:-1 tvg-id="468" tvg-name="gizem" tvg-logo="https://www.themoviedb.org/t/p/w1280/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM GİZEM TÜRÜ ➡️ YILMAZTV",Saw X ➾ 2023 • 1s 58dk • 6.8 • Gizem， Korku
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/saw-x?468.m3u8
 	
 #EXTINF:-1 tvg-id="467" tvg-name="gizem" tvg-logo="https://www.themoviedb.org/t/p/w1280//3MxgXI3VO7QCNnP0mPBjxLIemNM.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM GİZEM TÜRÜ ➡️ YILMAZTV",Burning Betrayal ➾ 2023 • 1s 38dk • Dram， Gizem， Romantik
@@ -8157,7 +8203,7 @@ http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/song-of-my-mother?379
 #EXTINF:-1 tvg-id="378" tvg-name="aile" tvg-logo="https://www.themoviedb.org/t/p/w1280/oJ3obJcHxx8eziULM7ntLHihXaO.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM AİLE TÜRÜ ➡️ YILMAZTV",Dhh ➾ 2018 • 7.8 • Aile，Dram，Mubi
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/dhh?378.m3u8
 	
-#EXTINF:-1 tvg-id="377" tvg-name="aile" tvg-logo="https://www.themoviedb.org/t/p/w1280//eHv1FrbSJBbSGN1bEaARMVY6Ne7.jpg" tvg-id2="MzA=" group-title="🇹?? 🎦 FİLM AİLE TÜRÜ ➡️ YILMAZTV",Between Sisters ➾ 2015 • 7.0 • Aile，Belgesel，Mubi
+#EXTINF:-1 tvg-id="377" tvg-name="aile" tvg-logo="https://www.themoviedb.org/t/p/w1280//eHv1FrbSJBbSGN1bEaARMVY6Ne7.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM AİLE TÜRÜ ➡️ YILMAZTV",Between Sisters ➾ 2015 • 7.0 • Aile，Belgesel，Mubi
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/between-sisters?377.m3u8
 	
 #EXTINF:-1 tvg-id="376" tvg-name="aile" tvg-logo="https://www.themoviedb.org/t/p/w1280//rUm8ZZiNgDlaB4auCnuzPXjiC7o.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM AİLE TÜRÜ ➡️ YILMAZTV",Alba ➾ 2016 • 6.7 • Aile，Dram，Mubi
@@ -8772,7 +8818,7 @@ http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/guardians-of-the-gala
 #EXTINF:-1 tvg-id="173" tvg-name="komedi" tvg-logo="https://www.themoviedb.org/t/p/w1280/bTS0nwNd6CfKqaEHVrc7TjlmYaG.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM KOMEDİ TÜRÜ ➡️ YILMAZTV",Ulan Salih ➾ 2023 • 1s 46dk • 6.1 • Komedi，Yerli
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/ulan-salih?173.m3u8
 	
-#EXTINF:-1 tvg-id="172" tvg-name="komedi" tvg-logo="https://www.themoviedb.org/t/p/w1280/ygtnnkiGfRQhhlXBurqp9DR2Zqi.jpg" tvg-id2="MzA=" group-title="🇹?? 🎦 FİLM KOMEDİ TÜRÜ ➡️ YILMAZTV",Aşk Taktikleri 2 ➾ 2023 • 1s 39dk • 6.5 • Komedi，Yerli
+#EXTINF:-1 tvg-id="172" tvg-name="komedi" tvg-logo="https://www.themoviedb.org/t/p/w1280/ygtnnkiGfRQhhlXBurqp9DR2Zqi.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM KOMEDİ TÜRÜ ➡️ YILMAZTV",Aşk Taktikleri 2 ➾ 2023 • 1s 39dk • 6.5 • Komedi，Yerli
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/ask-taktikleri-2?172.m3u8
 	
 #EXTINF:-1 tvg-id="171" tvg-name="komedi" tvg-logo="https://www.themoviedb.org/t/p/w1280/iqIiYa29PhMclIAWWWpbfrYkbUN.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM KOMEDİ TÜRÜ ➡️ YILMAZTV",Hazine ➾ 2022 • 1s 44dk • 6.1 • Komedi，Suç，Yerli
@@ -8892,7 +8938,7 @@ http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/peter-pan-wendy?134.m
 #EXTINF:-1 tvg-id="133" tvg-name="macera" tvg-logo="https://www.themoviedb.org/t/p/w1280/y5XclkX36R2dBSNNds1jFMjkCz2.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM MACERA TÜRÜ ➡️ YILMAZTV",A Tourist&#039;s Guide to Love ➾ 2023 • 1s 36dk • 5.7 • Komedi，Macera
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/a-tourists-guide-to-love?133.m3u8
 	
-#EXTINF:-1 tvg-id="132" tvg-name="macera" tvg-logo="https://www.themoviedb.org/t/p/w1280/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg" tvg-id2="MzA=" group-title="🇹?? 🎦 FİLM MACERA TÜRÜ ➡️ YILMAZTV",Chupa ➾ 2023 • 1s 38dk • 5.6 • Aksiyon，Dram，Macera
+#EXTINF:-1 tvg-id="132" tvg-name="macera" tvg-logo="https://www.themoviedb.org/t/p/w1280/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM MACERA TÜRÜ ➡️ YILMAZTV",Chupa ➾ 2023 • 1s 38dk • 5.6 • Aksiyon，Dram，Macera
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/chupa?132.m3u8
 	
 #EXTINF:-1 tvg-id="131" tvg-name="macera" tvg-logo="https://www.themoviedb.org/t/p/w1280/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM MACERA TÜRÜ ➡️ YILMAZTV",Shazam! Fury of the Gods ➾ 2023 • 2s 10dk • 6.5 • Aksiyon，Komedi，Macera
@@ -9108,7 +9154,7 @@ http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/the-last-stage?62.m3u
 #EXTINF:-1 tvg-id="61" tvg-name="savas" tvg-logo="https://www.themoviedb.org/t/p/w1280/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM SAVAŞ TÜRÜ ➡️ YILMAZTV",The Great Dictator ➾ 1940 • 8.4 • Dram，Komedi，Mubi，Savaş
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/the-great-dictator?61.m3u8
 	
-#EXTINF:-1 tvg-id="60" tvg-name="savas" tvg-logo="https://www.themoviedb.org/t/p/w1280/vtQHJynrYM4TF0ti96YsyIhox2H.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM SAVAŞ TÜRÜ ➡️ YILMAZTV",Redacted ➾ 2007 • 6.2 • Gerilim，Mubi，Savaş，Suç
+#EXTINF:-1 tvg-id="60" tvg-name="savas" tvg-logo="https://www.themoviedb.org/t/p/w1280/vtQHJynrYM4TF0ti96YsyIhox2H.jpg" tvg-id2="MzA=" group-title="🇹?? 🎦 FİLM SAVAŞ TÜRÜ ➡️ YILMAZTV",Redacted ➾ 2007 • 6.2 • Gerilim，Mubi，Savaş，Suç
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/redacted?60.m3u8
 	
 #EXTINF:-1 tvg-id="59" tvg-name="savas" tvg-logo="https://www.themoviedb.org/t/p/w1280/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM SAVAŞ TÜRÜ ➡️ YILMAZTV",Land of Mine ➾ 2015 • 7.8 • Dram，Mubi，Savaş，Tarih
@@ -9126,7 +9172,7 @@ http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/narvik?56.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="savas" tvg-logo="https://www.themoviedb.org/t/p/w1280/rXf80kTWiWth46lsh6uCSfteW6w.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM SAVAŞ TÜRÜ ➡️ YILMAZTV",There Will Be No More Night ➾ 2021 • 7.1 • Belgesel，Mubi，Savaş
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/there-will-be-no-more-night?55.m3u8
 	
-#EXTINF:-1 tvg-id="54" tvg-name="savas" tvg-logo="https://www.themoviedb.org/t/p/w1280/ms2OJGHXCaFPd6JfPT8McxeVJnW.jpg" tvg-id2="MzA=" group-title="🇹🇷 ?? FİLM SAVAŞ TÜRÜ ➡️ YILMAZTV",The Last Metro ➾ 1980 • 7.4 • Dram，Mubi，Romantik，Savaş
+#EXTINF:-1 tvg-id="54" tvg-name="savas" tvg-logo="https://www.themoviedb.org/t/p/w1280/ms2OJGHXCaFPd6JfPT8McxeVJnW.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM SAVAŞ TÜRÜ ➡️ YILMAZTV",The Last Metro ➾ 1980 • 7.4 • Dram，Mubi，Romantik，Savaş
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/the-last-metro?54.m3u8
 	
 #EXTINF:-1 tvg-id="53" tvg-name="savas" tvg-logo="https://www.themoviedb.org/t/p/w1280/6DY884Yyt4Bg6hG5DK83XfnWHTx.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM SAVAŞ TÜRÜ ➡️ YILMAZTV",Level Five ➾ 1997 • 7.0 • Belgesel，Mubi，Romantik，Savaş
@@ -9267,7 +9313,7 @@ http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/benedetta?9.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="tarih" tvg-logo="https://www.themoviedb.org/t/p/w1280/7rzK1YDeD1qgBultWhyT3VDSnkr.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM TARİH TÜRÜ ➡️ YILMAZTV",Asfaltın Altında Dereler Var! ➾ 2019 • 7.2 • Belgesel，Mubi，Tarih
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/asfaltin-altinda-dereler-var?8.m3u8
 	
-#EXTINF:-1 tvg-id="7" tvg-name="tarih" tvg-logo="https://www.themoviedb.org/t/p/w1280/psxsB6mYC5TVufKejGjTaeLDyEp.jpg" tvg-id2="MzA=" group-title="🇹?? 🎦 FİLM TARİH TÜRÜ ➡️ YILMAZTV",One Second ➾ 2020 • 7.1 • Dram，Komedi，Mubi，Tarih
+#EXTINF:-1 tvg-id="7" tvg-name="tarih" tvg-logo="https://www.themoviedb.org/t/p/w1280/psxsB6mYC5TVufKejGjTaeLDyEp.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM TARİH TÜRÜ ➡️ YILMAZTV",One Second ➾ 2020 • 7.1 • Dram，Komedi，Mubi，Tarih
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/one-second?7.m3u8
 	
 #EXTINF:-1 tvg-id="6" tvg-name="tarih" tvg-logo="https://www.themoviedb.org/t/p/w1280/rnVhl1PFSOoW5c6UhZJZt5TV98p.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM TARİH TÜRÜ ➡️ YILMAZTV",Mr. Turner ➾ 2014 • 6.8 • Biyografi，Dram，Mubi，Tarih
@@ -9285,855 +9331,839 @@ http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/the-hungry-wolves?3.m
 #EXTINF:-1 tvg-id="2" tvg-name="western" tvg-logo="https://www.themoviedb.org/t/p/w1280/cFsrA0Is5xode2INrPj1VJcQ18n.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM WESTERN FİLMLER TÜRÜ ➡️ YILMAZTV",The Rider ➾ 2018 • 7.4 • Dram，Mubi，Western
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/the-rider?2.m3u8
 	
-#EXTINF:-1 tvg-id="1" tvg-name="western" tvg-logo="https://www.themoviedb.org/t/p/w1280/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg" tvg-id2="MzA=" group-title="🇹🇷 ?? FİLM WESTERN FİLMLER TÜRÜ ➡️ YILMAZTV",First Cow ➾ 2020 • 7.1 • Dram，Mubi，Western
+#EXTINF:-1 tvg-id="1" tvg-name="western" tvg-logo="https://www.themoviedb.org/t/p/w1280/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg" tvg-id2="MzA=" group-title="🇹🇷 🎦 FİLM WESTERN FİLMLER TÜRÜ ➡️ YILMAZTV",First Cow ➾ 2020 • 7.1 • Dram，Mubi，Western
 http://beep.rip/dizipal/url.php?HLS=https://dizipal671.com/first-cow?1.m3u8
 
 
 #EXTINF:-1 tvg-name="Yalnız Değiliz (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8RSsWs2Djy9vBEatD628ukQOCH.jpg" group-title="DRAM",Yalnız Değiliz (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/321.mp4
+https://stream2.filbox.com.tr/live/hls/321.mp4
 #EXTINF:-1 tvg-name="23 Numara (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOWDyyB5NHYZPAhsr3f7mPF0jrA.jpg" group-title="DRAM",23 Numara (2007)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/322.mp4
+https://stream2.filbox.com.tr/live/hls/322.mp4
 #EXTINF:-1 tvg-name="Altın Uğruna (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjAJqve8qj4dVbO7kJXTpsojXSv.jpg" group-title="DRAM",Altın Uğruna (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/323.mp4
+https://stream2.filbox.com.tr/live/hls/323.mp4
 #EXTINF:-1 tvg-name="Belalılar (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2xJghA0tanD1pY1at8DTNjzAta.jpg" group-title="KOMEDİ",Belalılar (1974)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/995.mp4
+https://stream2.filbox.com.tr/live/hls/995.mp4
 #EXTINF:-1 tvg-name="Almanya'ya Hoş Geldiniz (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuEWm1r3cfxrnX4NxAXuJhtOmp4.jpg" group-title="KOMEDİ",Almanya'ya Hoş Geldiniz (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/334.mp4
+https://stream2.filbox.com.tr/live/hls/334.mp4
 #EXTINF:-1 tvg-name="7. Birim (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTEU17WYxJjXIMs8IVwU4GqeRAP.jpg" group-title="DRAM",7. Birim (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/335.mp4
+https://stream2.filbox.com.tr/live/hls/335.mp4
 #EXTINF:-1 tvg-name="Anne (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCteTepRv8rcTkiN3fF1UZOn8G9.jpg" group-title="DRAM",Anne (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/339.mp4
+https://stream2.filbox.com.tr/live/hls/339.mp4
 #EXTINF:-1 tvg-name="Ayı Paddington (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpchRGhRhvhtU083PfX2yixXtiw.jpg" group-title="MACERA",Ayı Paddington (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/340.mp4
+https://stream2.filbox.com.tr/live/hls/340.mp4
 #EXTINF:-1 tvg-name="Ay'ın Karanlık Yüzü (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8sg146tiAxA0syHPgjYKn0VRD9.jpg" group-title="GERİLİM",Ay'ın Karanlık Yüzü (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/341.mp4
+https://stream2.filbox.com.tr/live/hls/341.mp4
 #EXTINF:-1 tvg-name="Bay Ve Bayan Adelman (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVOjMXE5x48hSH1tq28LKELWcD9.jpg" group-title="KOMEDİ",Bay Ve Bayan Adelman (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/342.mp4
+https://stream2.filbox.com.tr/live/hls/342.mp4
 #EXTINF:-1 tvg-name="Mulholland Çıkmazı (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg" group-title="DRAM",Mulholland Çıkmazı (2001)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/343.mp4
+https://stream2.filbox.com.tr/live/hls/343.mp4
 #EXTINF:-1 tvg-name="Neşeli Gürültü (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIgrIGFMZ7CslGPCWI7JHV3R96H.jpg" group-title="KOMEDİ",Neşeli Gürültü (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/344.mp4
+https://stream2.filbox.com.tr/live/hls/344.mp4
 #EXTINF:-1 tvg-name="Yol Arkadaşım Bir Fil (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdpEVxE5IUQv1qEBxWcQM49qDF9.jpg" group-title="KOMEDİ",Yol Arkadaşım Bir Fil (1996)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/346.mp4
+https://stream2.filbox.com.tr/live/hls/346.mp4
 #EXTINF:-1 tvg-name="Zaman Gezginleri (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxt71Hf3hAlOnvw9TzsFkoKEBTw.jpg" group-title="MACERA",Zaman Gezginleri (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/347.mp4
+https://stream2.filbox.com.tr/live/hls/347.mp4
 #EXTINF:-1 tvg-name="Zihin Okuyucu (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgMGvWai7E1Ryf9IvB5m0ILS7hl.jpg" group-title="DRAM",Zihin Okuyucu (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/348.mp4
+https://stream2.filbox.com.tr/live/hls/348.mp4
 #EXTINF:-1 tvg-name="Çakallar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roWDNPm5UAKo3LLi3BUXwmfDsHc.jpg" group-title="KORKU",Çakallar (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/349.mp4
+https://stream2.filbox.com.tr/live/hls/349.mp4
 #EXTINF:-1 tvg-name="Çete (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhFKzAvuBb87fwygkcLvhiJ0bbS.jpg" group-title="DRAM",Çete (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/350.mp4
+https://stream2.filbox.com.tr/live/hls/350.mp4
 #EXTINF:-1 tvg-name="İşkence Odası (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtKUBX1POUsCNf74VA1wtxdyDzG.jpg" group-title="DRAM",İşkence Odası (2008)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/351.mp4
+https://stream2.filbox.com.tr/live/hls/351.mp4
 #EXTINF:-1 tvg-name="Avanak Ajanlar (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anL9E10LuAbmR2z9VCMRgz5e7YX.jpg" group-title="KOMEDİ",Avanak Ajanlar (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/352.mp4
+https://stream2.filbox.com.tr/live/hls/352.mp4
 #EXTINF:-1 tvg-name="Kardeşim İçin (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOuQQ4eRpSBxb0G9OXzWE1pHPeq.jpg" group-title="DRAM",Kardeşim İçin (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/354.mp4
+https://stream2.filbox.com.tr/live/hls/354.mp4
 #EXTINF:-1 tvg-name="Katilin Peşinde (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qw2OtK9SnJheeojvx7rb6s4mJPc.jpg" group-title="SUÇ",Katilin Peşinde (2009)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/355.mp4
+https://stream2.filbox.com.tr/live/hls/355.mp4
 #EXTINF:-1 tvg-name="30 Gün Gece (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xhCHXa09bjlR0k6XKTKfEKt8wB.jpg" group-title="GERİLİM",30 Gün Gece (2007)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/356.mp4
+https://stream2.filbox.com.tr/live/hls/356.mp4
 #EXTINF:-1 tvg-name="Kayıp Kral (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puPC3yIstr7rhnPdX11t1XLZVz1.jpg" group-title="KOMEDİ",Kayıp Kral (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/357.mp4
+https://stream2.filbox.com.tr/live/hls/357.mp4
 #EXTINF:-1 tvg-name="Kayıp Müfreze (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3uWMx9rsjUExO3BNbsp1ZUKhzc.jpg" group-title="DRAM",Kayıp Müfreze (2001)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/358.mp4
+https://stream2.filbox.com.tr/live/hls/358.mp4
 #EXTINF:-1 tvg-name="Keşif (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLIDouFvreSrs8xK62zuvpEPDw0.jpg" group-title="GİZEM",Keşif (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/359.mp4
+https://stream2.filbox.com.tr/live/hls/359.mp4
 #EXTINF:-1 tvg-name="Korkunç Hazine (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unzjDqHlrI9AywlnI58ZEbsEoYE.jpg" group-title="KORKU",Korkunç Hazine (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/360.mp4
+https://stream2.filbox.com.tr/live/hls/360.mp4
 #EXTINF:-1 tvg-name="Küçük Kasabanın Büyük Sırları (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlmVnq87c3xZxz9NAsS5cDaPMES.jpg" group-title="KOMEDİ",Küçük Kasabanın Büyük Sırları (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/361.mp4
+https://stream2.filbox.com.tr/live/hls/361.mp4
 #EXTINF:-1 tvg-name="Kız Kardeşim (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRBsTYJBgc74eMIy8QMSXpYWfyo.jpg" group-title="DRAM",Kız Kardeşim (2001)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/362.mp4
+https://stream2.filbox.com.tr/live/hls/362.mp4
 #EXTINF:-1 tvg-name="Yetimhane (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lflUtjYKjufnnrQbhQx9lSv2IHQ.jpg" group-title="DRAM",Yetimhane (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/363.mp4
+https://stream2.filbox.com.tr/live/hls/363.mp4
 #EXTINF:-1 tvg-name="Canavar Avı (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guvDsSrSYtOHu4EWbUK55NaMZqH.jpg" group-title="KOMEDİ",Canavar Avı (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/365.mp4
+https://stream2.filbox.com.tr/live/hls/365.mp4
 #EXTINF:-1 tvg-name="Bakıcı (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8F17c3kSwVF8StoKVVk7JVxGiBU.jpg" group-title="KORKU",Bakıcı (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/366.mp4
+https://stream2.filbox.com.tr/live/hls/366.mp4
 #EXTINF:-1 tvg-name="Doktorlar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUt0lCxVjfdfw1ynMenkR2pQiit.jpg" group-title="KOMEDİ",Doktorlar (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/367.mp4
+https://stream2.filbox.com.tr/live/hls/367.mp4
 #EXTINF:-1 tvg-name="Fransız Mutfağı (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2q2z5bxlU2NP5aFj5oHZA1GM5o.jpg" group-title="KOMEDİ",Fransız Mutfağı (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/368.mp4
+https://stream2.filbox.com.tr/live/hls/368.mp4
 #EXTINF:-1 tvg-name="Kalinka Davası (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7BcatAkUC8pc0k5txyNaA3Gtav.jpg" group-title="DRAM",Kalinka Davası (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/369.mp4
+https://stream2.filbox.com.tr/live/hls/369.mp4
 #EXTINF:-1 tvg-name="Kardaki Palmiyeler (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqtS2WCxdMKqTgGYDfPpk3qbjvH.jpg" group-title="ROMANTİK",Kardaki Palmiyeler (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/371.mp4
+https://stream2.filbox.com.tr/live/hls/371.mp4
 #EXTINF:-1 tvg-name="Muhteşem Loie (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRpF2TpO4WVreZzqpRoDzFJ4KjW.jpg" group-title="TARİH",Muhteşem Loie (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/372.mp4
+https://stream2.filbox.com.tr/live/hls/372.mp4
 #EXTINF:-1 tvg-name="Robot Köpek Uçuyor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBcvr3BgKOq4R6Ht1lEZH4QV4tS.jpg" group-title="AİLE",Robot Köpek Uçuyor (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/373.mp4
+https://stream2.filbox.com.tr/live/hls/373.mp4
 #EXTINF:-1 tvg-name="Sisin İçindeki Kız (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWINXglQ9JVxUuzouYK7arm9YT1.jpg" group-title="GİZEM",Sisin İçindeki Kız (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/374.mp4
+https://stream2.filbox.com.tr/live/hls/374.mp4
 #EXTINF:-1 tvg-name="Taht (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIK6udUnww0tLE0yxhO6B6ZcaIV.jpg" group-title="TARİH",Taht (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/375.mp4
+https://stream2.filbox.com.tr/live/hls/375.mp4
 #EXTINF:-1 tvg-name="Tito ve Uzaylılar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjqGlVG8tvtuZkZvvHNprdgCB1a.jpg" group-title="KOMEDİ",Tito ve Uzaylılar (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/376.mp4
+https://stream2.filbox.com.tr/live/hls/376.mp4
 #EXTINF:-1 tvg-name="Unutulmuş (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lTc1ouqjjxzUPDPr9BlWeWMPWb.jpg" group-title="GİZEM",Unutulmuş (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/377.mp4
+https://stream2.filbox.com.tr/live/hls/377.mp4
 #EXTINF:-1 tvg-name="Ölüm Bölgesi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5PNynq0yMJOWyu0WbZYHiU3Ez7.jpg" group-title="SUÇ",Ölüm Bölgesi (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/378.mp4
+https://stream2.filbox.com.tr/live/hls/378.mp4
 #EXTINF:-1 tvg-name="Ölümcül Araştırma (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b9GvmA1kk63iXt4s3MONUznM7t.jpg" group-title="GİZEM",Ölümcül Araştırma (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/379.mp4
+https://stream2.filbox.com.tr/live/hls/379.mp4
 #EXTINF:-1 tvg-name="Ölümcül Geçmiş (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXGDbNO5wsmGO6gyA4KL0BvXG04.jpg" group-title="KORKU",Ölümcül Geçmiş (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/380.mp4
+https://stream2.filbox.com.tr/live/hls/380.mp4
 #EXTINF:-1 tvg-name="Özel Bir Gün (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RDS8kRWe7BlAXku6yqiaQz5SaU.jpg" group-title="KOMEDİ",Özel Bir Gün (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/381.mp4
+https://stream2.filbox.com.tr/live/hls/381.mp4
 #EXTINF:-1 tvg-name="Kral Arthur: Excalibur Yükseliyor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUa5CmvFDoUU02KnG9ic58BC5iN.jpg" group-title="AKSİYON",Kral Arthur: Excalibur Yükseliyor (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/382.mp4
+https://stream2.filbox.com.tr/live/hls/382.mp4
 #EXTINF:-1 tvg-name="Heidi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxnhHaPOvh0cqMOAx5k0NnqhDqS.jpg" group-title="AİLE",Heidi (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/383.mp4
+https://stream2.filbox.com.tr/live/hls/383.mp4
 #EXTINF:-1 tvg-name="Karanlıktan Gelen (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Lql2rnNRmKJrjq4FhEUh7IwkNd.jpg" group-title="GERİLİM",Karanlıktan Gelen (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/384.mp4
+https://stream2.filbox.com.tr/live/hls/384.mp4
 #EXTINF:-1 tvg-name="Vulcania (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMgS80fHZhFTRykiynvIAvTKlyX.jpg" group-title="BİLİM KURGU",Vulcania (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/385.mp4
+https://stream2.filbox.com.tr/live/hls/385.mp4
 #EXTINF:-1 tvg-name="Parker (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1cl4RsdqMjolVVsHwiLRPN1CT2.jpg" group-title="SUÇ",Parker (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/386.mp4
+https://stream2.filbox.com.tr/live/hls/386.mp4
 #EXTINF:-1 tvg-name="Bill (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2HcSB0ME8CBvgjqNX8lW5NFK9e.jpg" group-title="AİLE",Bill (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/387.mp4
+https://stream2.filbox.com.tr/live/hls/387.mp4
 #EXTINF:-1 tvg-name="Çılgın Kardeşler (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38Noyx42KnigCGKr4grsKkXz2t3.jpg" group-title="KOMEDİ",Çılgın Kardeşler (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/388.mp4
+https://stream2.filbox.com.tr/live/hls/388.mp4
 #EXTINF:-1 tvg-name="Aldatmanın Böylesi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fQFfjXJGwCKpdiM33dWdx3TZXx.jpg" group-title="KOMEDİ",Aldatmanın Böylesi (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/389.mp4
+https://stream2.filbox.com.tr/live/hls/389.mp4
 #EXTINF:-1 tvg-name="7. Kat (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYDiAFCWJTgD2aSfYjYtboPp38r.jpg" group-title="GERİLİM",7. Kat (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/391.mp4
+https://stream2.filbox.com.tr/live/hls/391.mp4
 #EXTINF:-1 tvg-name="Bir Avuç Misket (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ihcd5LHu99w0Z4qsDf0nrRT0Oa.jpg" group-title="SAVAŞ",Bir Avuç Misket (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/392.mp4
+https://stream2.filbox.com.tr/live/hls/392.mp4
 #EXTINF:-1 tvg-name="Bir Mafya Hikayesi (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b30nxpWs8lQHKawFOXy2osIIDSw.jpg" group-title="SUÇ",Bir Mafya Hikayesi (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/393.mp4
+https://stream2.filbox.com.tr/live/hls/393.mp4
 #EXTINF:-1 tvg-name="Bir Ulusun Doğuşu (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIJQ0O0vAfg5hXxQBFHul5Ng3vE.jpg" group-title="DRAM",Bir Ulusun Doğuşu (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/394.mp4
+https://stream2.filbox.com.tr/live/hls/394.mp4
 #EXTINF:-1 tvg-name="Cehennem: Ölüm Nerede Yaşıyor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VLRxwqEIMKQNf4CSdKotNSu86A.jpg" group-title="GİZEM",Cehennem: Ölüm Nerede Yaşıyor (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/395.mp4
+https://stream2.filbox.com.tr/live/hls/395.mp4
 #EXTINF:-1 tvg-name="Duyarsızlar (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15Qhcj5lZsJDKS4p98jMX2plgjs.jpg" group-title="KOMEDİ",Duyarsızlar (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/396.mp4
+https://stream2.filbox.com.tr/live/hls/396.mp4
 #EXTINF:-1 tvg-name="Dünyayı Ölçmek (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEzYumB3zmDN5VobhKHVV3jK60y.jpg" group-title="DRAM",Dünyayı Ölçmek (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/397.mp4
+https://stream2.filbox.com.tr/live/hls/397.mp4
 #EXTINF:-1 tvg-name="Gece Bekçisi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDS6R22AYxP1TvsEjstwhZrTYio.jpg" group-title="KOMEDİ",Gece Bekçisi (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/398.mp4
+https://stream2.filbox.com.tr/live/hls/398.mp4
 #EXTINF:-1 tvg-name="Geri Gelenler (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MyeFYRdZftLGcva64g9UeLEXwK.jpg" group-title="GİZEM",Geri Gelenler (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/399.mp4
+https://stream2.filbox.com.tr/live/hls/399.mp4
 #EXTINF:-1 tvg-name="Kan Dökülecek (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HaeMedO6VQKtcxidDA5U1aZs5x.jpg" group-title="DRAM",Kan Dökülecek (2007)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/400.mp4
+https://stream2.filbox.com.tr/live/hls/400.mp4
 #EXTINF:-1 tvg-name="Kusursuz (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS7NwVS2Rm5jJT3YudiOrRUCOSO.jpg" group-title="GERİLİM",Kusursuz (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/401.mp4
+https://stream2.filbox.com.tr/live/hls/401.mp4
 #EXTINF:-1 tvg-name="Sislerin İçinde (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeA8etvUyukfVstlJqurj2UkFza.jpg" group-title="TARİH",Sislerin İçinde (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/402.mp4
+https://stream2.filbox.com.tr/live/hls/402.mp4
 #EXTINF:-1 tvg-name="Sınırsızlar Kulübü (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nr7RZofiDJvVZRx4Kv74rM97f29.jpg" group-title="TARİH",Sınırsızlar Kulübü (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/403.mp4
+https://stream2.filbox.com.tr/live/hls/403.mp4
 #EXTINF:-1 tvg-name="Tünel (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NdzKTigenok3nTZcSZjUw7WhVa.jpg" group-title="GERİLİM",Tünel (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/404.mp4
+https://stream2.filbox.com.tr/live/hls/404.mp4
 #EXTINF:-1 tvg-name="Yandaki Ev (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii0SE3sd333lAd0FalOZFJUoGnz.jpg" group-title="SUÇ",Yandaki Ev (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/405.mp4
+https://stream2.filbox.com.tr/live/hls/405.mp4
 #EXTINF:-1 tvg-name="Zaman Döngüsü (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj4yGLUQLBUni8xbK69qV33B2UO.jpg" group-title="BİLİM KURGU",Zaman Döngüsü (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/406.mp4
+https://stream2.filbox.com.tr/live/hls/406.mp4
 #EXTINF:-1 tvg-name="Çifte Hayatlar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWZUCupTs7lILnkspa5aJYZooP0.jpg" group-title="KOMEDİ",Çifte Hayatlar (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/407.mp4
+https://stream2.filbox.com.tr/live/hls/407.mp4
 #EXTINF:-1 tvg-name="Çobanlar Ve Kasaplar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FXWOKxJmVRUO5oP7qXQXaJmvHg.jpg" group-title="DRAM",Çobanlar Ve Kasaplar (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/408.mp4
+https://stream2.filbox.com.tr/live/hls/408.mp4
 #EXTINF:-1 tvg-name="Ölüm Meleği (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6r73eyl3LY7SeQ9juENQK7IDmJT.jpg" group-title="SUÇ",Ölüm Meleği (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/409.mp4
+https://stream2.filbox.com.tr/live/hls/409.mp4
 #EXTINF:-1 tvg-name="İnancın Tuzağı (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aq0q1LDKP6koajMS6m11Ekd5xUK.jpg" group-title="GİZEM",İnancın Tuzağı (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/410.mp4
+https://stream2.filbox.com.tr/live/hls/410.mp4
 #EXTINF:-1 tvg-name="11-11-11 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6Wd9gY6e1yJVVXRtgICFqwieyu.jpg" group-title="GERİLİM",11-11-11 (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/411.mp4
+https://stream2.filbox.com.tr/live/hls/411.mp4
 #EXTINF:-1 tvg-name="Sevimli Kedi İş Başında (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLvSJCZhupgMUgT1cz9U0l5kSsG.jpg" group-title="AİLE",Sevimli Kedi İş Başında (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/413.mp4
+https://stream2.filbox.com.tr/live/hls/413.mp4
 #EXTINF:-1 tvg-name="Kar Küreyici (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRZMtKQpP3fH84YXs02yytUk4ee.jpg" group-title="BİLİM KURGU",Kar Küreyici (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/414.mp4
+https://stream2.filbox.com.tr/live/hls/414.mp4
 #EXTINF:-1 tvg-name="Kartopu Savaşları (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8V2pBCRyveGAzLZI38qhpQfbtvD.jpg" group-title="AİLE",Kartopu Savaşları (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/415.mp4
+https://stream2.filbox.com.tr/live/hls/415.mp4
 #EXTINF:-1 tvg-name="1942′ye Dönüş (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uhtFAxagQeeppV9HlFzCQbh2p3.jpg" group-title="SAVAŞ",1942′ye Dönüş (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/416.mp4
+https://stream2.filbox.com.tr/live/hls/416.mp4
 #EXTINF:-1 tvg-name="37. Karakol (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXe0HXP66DyTv6mw5pxbGq89knr.jpg" group-title="BİLİM KURGU",37. Karakol (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/417.mp4
+https://stream2.filbox.com.tr/live/hls/417.mp4
 #EXTINF:-1 tvg-name="9 Ay Hapis (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vCLklvrl7ogr6DywSV3v5XyKk9.jpg" group-title="KOMEDİ",9 Ay Hapis (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/418.mp4
+https://stream2.filbox.com.tr/live/hls/418.mp4
 #EXTINF:-1 tvg-name="Acemi Casus (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93fz1SKHwqUdPjB73fKr9oG85QX.jpg" group-title="KOMEDİ",Acemi Casus (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/419.mp4
+https://stream2.filbox.com.tr/live/hls/419.mp4
 #EXTINF:-1 tvg-name="Acemi Soyguncular (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vz3QKzeAZYmJPoxrY4KmXmDpAuA.jpg" group-title="KOMEDİ",Acemi Soyguncular (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/420.mp4
+https://stream2.filbox.com.tr/live/hls/420.mp4
 #EXTINF:-1 tvg-name="Adalet Yolunda (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhX0CHQXrwJ6WirIF8G2TqESqdE.jpg" group-title="KOMEDİ",Adalet Yolunda (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/421.mp4
+https://stream2.filbox.com.tr/live/hls/421.mp4
 #EXTINF:-1 tvg-name="Büyük Kötü Kurtlar (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dALJtin2OCXjYNpDOIoQjk3CM55.jpg" group-title="KOMEDİ",Büyük Kötü Kurtlar (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/422.mp4
+https://stream2.filbox.com.tr/live/hls/422.mp4
 #EXTINF:-1 tvg-name="Büyüler Evi: Sihirbaz Kedi (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3R13g2XgblynIrQGF8geFZJPNvR.jpg" group-title="AİLE",Büyüler Evi: Sihirbaz Kedi (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/423.mp4
+https://stream2.filbox.com.tr/live/hls/423.mp4
 #EXTINF:-1 tvg-name="Altın Gol (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmXiZHRiJ3qma0sxh2LpqddlMJo.jpg" group-title="ROMANTİK",Altın Gol (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/424.mp4
+https://stream2.filbox.com.tr/live/hls/424.mp4
 #EXTINF:-1 tvg-name="Los Angelas'ta Aşk (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2gn6FW9XNquQKyR8l8IVysRebz.jpg" group-title="KOMEDİ",Los Angelas'ta Aşk (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/425.mp4
+https://stream2.filbox.com.tr/live/hls/425.mp4
 #EXTINF:-1 tvg-name="Macera Adası 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcmBwtLH9waYDD1BdX6RMR7tDAF.jpg" group-title="AİLE",Macera Adası 2 (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/426.mp4
+https://stream2.filbox.com.tr/live/hls/426.mp4
 #EXTINF:-1 tvg-name="Mahzen (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQMxsrsVtpB2D2n01nUqgOMmSWD.jpg" group-title="GERİLİM",Mahzen (2009)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/427.mp4
+https://stream2.filbox.com.tr/live/hls/427.mp4
 #EXTINF:-1 tvg-name="Mara: Dünyanın Kurtarıcısı (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K6nFLxjMxDY9BYW9WNlKpi23Rx.jpg" group-title="FANTASTİK",Mara: Dünyanın Kurtarıcısı (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/428.mp4
+https://stream2.filbox.com.tr/live/hls/428.mp4
 #EXTINF:-1 tvg-name="Markiz (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaWbLZWbGQYuptZ3waPN1ahv9Is.jpg" group-title="KOMEDİ",Markiz (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/429.mp4
+https://stream2.filbox.com.tr/live/hls/429.mp4
 #EXTINF:-1 tvg-name="Marsilya (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yhQXCZt5oO2XgS6O32U4e6fb1F.jpg" group-title="KOMEDİ",Marsilya (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/430.mp4
+https://stream2.filbox.com.tr/live/hls/430.mp4
 #EXTINF:-1 tvg-name="Mayaların Laneti (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk2ZtXrW17KNNWIuTwqG1FuppPW.jpg" group-title="BİLİM KURGU",Mayaların Laneti (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/431.mp4
+https://stream2.filbox.com.tr/live/hls/431.mp4
 #EXTINF:-1 tvg-name="Mayınlar Arasında (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csL2D3ZbcxSoqoWyhYz4lDjdmk2.jpg" group-title="SAVAŞ",Mayınlar Arasında (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/432.mp4
+https://stream2.filbox.com.tr/live/hls/432.mp4
 #EXTINF:-1 tvg-name="Mağara (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r5VRdSS84GesjVxvKR3JTk0W4x.jpg" group-title="GERİLİM",Mağara (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/433.mp4
+https://stream2.filbox.com.tr/live/hls/433.mp4
 #EXTINF:-1 tvg-name="Memleket (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tr8gP3LOT4eNZQxENrKdZRiss1y.jpg" group-title="DRAM",Memleket (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/434.mp4
+https://stream2.filbox.com.tr/live/hls/434.mp4
 #EXTINF:-1 tvg-name="Merhamet (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgepA8UTgDq41NJ79Y1tUltwkzX.jpg" group-title="GERİLİM",Merhamet (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/435.mp4
+https://stream2.filbox.com.tr/live/hls/435.mp4
 #EXTINF:-1 tvg-name="Metro (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tMPVMl96fZvFSJRfWrgoKWxQqX.jpg" group-title="GERİLİM",Metro (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/436.mp4
+https://stream2.filbox.com.tr/live/hls/436.mp4
 #EXTINF:-1 tvg-name="Midas'ın Kutusu (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31ykUoOS2RNdARk3B8z3y25gD8b.jpg" group-title="AİLE",Midas'ın Kutusu (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/437.mp4
+https://stream2.filbox.com.tr/live/hls/437.mp4
 #EXTINF:-1 tvg-name="Milyoner Köpek (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ9SPbczwFk4EcPKBUIK3ooVzxQ.jpg" group-title="KOMEDİ",Milyoner Köpek (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/438.mp4
+https://stream2.filbox.com.tr/live/hls/438.mp4
 #EXTINF:-1 tvg-name="Misafir (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytAKrDuydvgpUqLaRuFXcrKQfPu.jpg" group-title="GİZEM",Misafir (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/440.mp4
+https://stream2.filbox.com.tr/live/hls/440.mp4
 #EXTINF:-1 tvg-name="Mola (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQd4HKkAaQLzqCzbPsmQoQ9Wnah.jpg" group-title="SAVAŞ",Mola (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/441.mp4
+https://stream2.filbox.com.tr/live/hls/441.mp4
 #EXTINF:-1 tvg-name="Mükemmel Misafir (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYqk1u5d3eARg5gV8cF4RZFZKKQ.jpg" group-title="KOMEDİ",Mükemmel Misafir (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/442.mp4
+https://stream2.filbox.com.tr/live/hls/442.mp4
 #EXTINF:-1 tvg-name="Müzik Asla Durmaz (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbKqNh3bi2Do4cpefIbBNUdQJg6.jpg" group-title="DRAM",Müzik Asla Durmaz (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/443.mp4
+https://stream2.filbox.com.tr/live/hls/443.mp4
 #EXTINF:-1 tvg-name="Nehir Satan Adam (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPHsUgFypY3ctnseXoLag9W0ASS.jpg" group-title="KOMEDİ",Nehir Satan Adam (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/444.mp4
+https://stream2.filbox.com.tr/live/hls/444.mp4
 #EXTINF:-1 tvg-name="Market Savaşları (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sT0UoBSZ48RbQVqctVAJddyPXdw.jpg" group-title="TARİH",Market Savaşları (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/445.mp4
+https://stream2.filbox.com.tr/live/hls/445.mp4
 #EXTINF:-1 tvg-name="Noel Baba Geldiğinde (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYixom1i7OFlTxDUrtsBA5EP75J.jpg" group-title="AİLE",Noel Baba Geldiğinde (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/446.mp4
+https://stream2.filbox.com.tr/live/hls/446.mp4
 #EXTINF:-1 tvg-name="Operator (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XHpAyRg8KikNG3gZnAM5vE7hsw.jpg" group-title="GERİLİM",Operator (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/447.mp4
+https://stream2.filbox.com.tr/live/hls/447.mp4
 #EXTINF:-1 tvg-name="Öfke (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvdA0NAqOJRC5peafUDRPhP88yY.jpg" group-title="ROMANTİK",Öfke (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/448.mp4
+https://stream2.filbox.com.tr/live/hls/448.mp4
 #EXTINF:-1 tvg-name="Ölene Kadar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCc7izA36rrkYg2jBGUecYEPCmf.jpg" group-title="GERİLİM",Ölene Kadar (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/449.mp4
+https://stream2.filbox.com.tr/live/hls/449.mp4
 #EXTINF:-1 tvg-name="Ölüm Arabası (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2DnI0LgtfuaPpnFvMNKEdPuZAY.jpg" group-title="SUÇ",Ölüm Arabası (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/450.mp4
+https://stream2.filbox.com.tr/live/hls/450.mp4
 #EXTINF:-1 tvg-name="Ölüm Arabası (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2DnI0LgtfuaPpnFvMNKEdPuZAY.jpg" group-title="SUÇ",Ölüm Arabası (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/451.mp4
+https://stream2.filbox.com.tr/live/hls/451.mp4
 #EXTINF:-1 tvg-name="Öğretmenin Böylesi 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbpmtx3XUZIwHA8sVqWpHyTIV0V.jpg" group-title="KOMEDİ",Öğretmenin Böylesi 2 (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/452.mp4
+https://stream2.filbox.com.tr/live/hls/452.mp4
 #EXTINF:-1 tvg-name="100 Sokak (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s5j2raM0vSQ5pqB41TKN44oO0d.jpg" group-title="DRAM",100 Sokak (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/453.mp4
+https://stream2.filbox.com.tr/live/hls/453.mp4
 #EXTINF:-1 tvg-name="11. Kurban (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BJQ9h9nYnsHJ5JEcDREpVymJiy.jpg" group-title="GERİLİM",11. Kurban (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/454.mp4
+https://stream2.filbox.com.tr/live/hls/454.mp4
 #EXTINF:-1 tvg-name="13 Saat: Bingazi'nin Gizli Askerleri (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAGCVpy5f2kgrMrGvkqC4skAsq9.jpg" group-title="TARİH",13 Saat: Bingazi'nin Gizli Askerleri (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/455.mp4
+https://stream2.filbox.com.tr/live/hls/455.mp4
 #EXTINF:-1 tvg-name="15 Dakika Savaş (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ap3oLAqT8nple9P4RA7oEFDz9cf.jpg" group-title="TARİH",15 Dakika Savaş (2019)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/457.mp4
+https://stream2.filbox.com.tr/live/hls/457.mp4
 #EXTINF:-1 tvg-name="2-Başlı Köpekbalığı Saldırısı (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyKDKlex5RqBjx3OatVpTAfeAkD.jpg" group-title="BİLİM KURGU",2-Başlı Köpekbalığı Saldırısı (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/458.mp4
+https://stream2.filbox.com.tr/live/hls/458.mp4
 #EXTINF:-1 tvg-name="Beyaz Balina (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlH84l2lVZ7voCBZgDywJCGGHgX.jpg" group-title="AKSİYON",Beyaz Balina (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/459.mp4
+https://stream2.filbox.com.tr/live/hls/459.mp4
 #EXTINF:-1 tvg-name="Kökeni Bilinmeyen / 2036 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3StJTYXbU3OZ26Vh1PbczqfyCD.jpg" group-title="BİLİM KURGU",Kökeni Bilinmeyen / 2036 (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/460.mp4
+https://stream2.filbox.com.tr/live/hls/460.mp4
 #EXTINF:-1 tvg-name="211 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RColr4rau6DZ7z9eMsksokcfk.jpg" group-title="SUÇ",211 (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/461.mp4
+https://stream2.filbox.com.tr/live/hls/461.mp4
 #EXTINF:-1 tvg-name="23 Numara (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOWDyyB5NHYZPAhsr3f7mPF0jrA.jpg" group-title="GİZEM",23 Numara (2007)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/462.mp4
+https://stream2.filbox.com.tr/live/hls/462.mp4
 #EXTINF:-1 tvg-name="2:22 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj0h3RnKX5CB8X5UE1PfpMSV4MP.jpg" group-title="BİLİM KURGU",2:22 (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/463.mp4
+https://stream2.filbox.com.tr/live/hls/463.mp4
 #EXTINF:-1 tvg-name="3096 Gün (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/baD6kQDaxrxJ3X9WMlFIdmJ7rKG.jpg" group-title="DRAM",3096 Gün (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/464.mp4
+https://stream2.filbox.com.tr/live/hls/464.mp4
 #EXTINF:-1 tvg-name="5 Başlı Köpekbalığı Saldırısı (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gi2mlvKKpbbXP1DwBUQAc8XGBgP.jpg" group-title="BİLİM KURGU",5 Başlı Köpekbalığı Saldırısı (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/465.mp4
+https://stream2.filbox.com.tr/live/hls/465.mp4
 #EXTINF:-1 tvg-name="6.5 Metre (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1W5vrWMOH7iyJK9bIIWZtpB01c8.jpg" group-title="SUÇ",6.5 Metre (2019)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/466.mp4
+https://stream2.filbox.com.tr/live/hls/466.mp4
 #EXTINF:-1 tvg-name="600 Mil (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0NpsDRL5kJdYbRByoZvUKpik9r.jpg" group-title="GERİLİM",600 Mil (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/467.mp4
+https://stream2.filbox.com.tr/live/hls/467.mp4
 #EXTINF:-1 tvg-name="7 Saniye (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VMEpy6MrnTN8rPeIQkyOxebmlW.jpg" group-title="SUÇ",7 Saniye (2005)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/468.mp4
+https://stream2.filbox.com.tr/live/hls/468.mp4
 #EXTINF:-1 tvg-name="A Ciambra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnDV3LuZh5BBaA3OjR1NyxviiU0.jpg" group-title="SUÇ",A Ciambra (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/469.mp4
+https://stream2.filbox.com.tr/live/hls/469.mp4
 #EXTINF:-1 tvg-name="A Fall from Grace (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h47JJZ015VF4neia33AFwTU37Yb.jpg" group-title="GİZEM",A Fall from Grace (2020)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/470.mp4
+https://stream2.filbox.com.tr/live/hls/470.mp4
 #EXTINF:-1 tvg-name="Acelesi Olan Adam (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taSCLOLz1yHL0TLvVPgxX6hvQmt.jpg" group-title="KOMEDİ",Acelesi Olan Adam (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/471.mp4
+https://stream2.filbox.com.tr/live/hls/471.mp4
 #EXTINF:-1 tvg-name="Aile Bağları (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQpKBibwRyQKc43K9jThuFmxzUI.jpg" group-title="AİLE",Aile Bağları (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/473.mp4
+https://stream2.filbox.com.tr/live/hls/473.mp4
 #EXTINF:-1 tvg-name="Amiral - Kükreyen akıntılar (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fMI9LpWnmbNeRgcTJUJCLbUGe5.jpg" group-title="TARİH",Amiral - Kükreyen akıntılar (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/474.mp4
+https://stream2.filbox.com.tr/live/hls/474.mp4
 #EXTINF:-1 tvg-name="Arkadaştan Öte (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRgcU5YrChGjvk5SrFvO2rKqeBa.jpg" group-title="KOMEDİ",Arkadaştan Öte (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/475.mp4
+https://stream2.filbox.com.tr/live/hls/475.mp4
 #EXTINF:-1 tvg-name="Asla Yakalanma (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PJqL3Ux68MkPmdMi1xdgUuapmB.jpg" group-title="KORKU",Asla Yakalanma (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/476.mp4
+https://stream2.filbox.com.tr/live/hls/476.mp4
 #EXTINF:-1 tvg-name="Asteriks: Roma Sitesi (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnOEUWy3qDpGFDCnBL7MxgKiHCl.jpg" group-title="AİLE",Asteriks: Roma Sitesi (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/477.mp4
+https://stream2.filbox.com.tr/live/hls/477.mp4
 #EXTINF:-1 tvg-name="Asteriks ve Oburiks Gizli Görevde (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjL2NHKH2keWgCfYAq9JdhqsTSZ.jpg" group-title="AİLE",Asteriks ve Oburiks Gizli Görevde (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/478.mp4
+https://stream2.filbox.com.tr/live/hls/478.mp4
 #EXTINF:-1 tvg-name="Ateş Fırtınası (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tr7pYZ6f0KUS8l1BaFQU4kx6hi5.jpg" group-title="GERİLİM",Ateş Fırtınası (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/479.mp4
+https://stream2.filbox.com.tr/live/hls/479.mp4
 #EXTINF:-1 tvg-name="Automata (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUEIwqzTWYvEJEcMkHZ8BAi2rL0.jpg" group-title="BİLİM KURGU",Automata (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/480.mp4
+https://stream2.filbox.com.tr/live/hls/480.mp4
 #EXTINF:-1 tvg-name="Aşk Peşinde (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RQdmFiEhb8zn5jmsLqdNnmepUE.jpg" group-title="ROMANTİK",Aşk Peşinde (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/481.mp4
+https://stream2.filbox.com.tr/live/hls/481.mp4
 #EXTINF:-1 tvg-name="Aşk Zamanı (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fBcS06RFVPFze69cs6DsR1qAIG.jpg" group-title="ROMANTİK",Aşk Zamanı (2000)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/482.mp4
+https://stream2.filbox.com.tr/live/hls/482.mp4
 #EXTINF:-1 tvg-name="Aşkın Algoritması (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWJYuyeR8yrPoehGaB8ExFMpqo7.jpg" group-title="BİLİM KURGU",Aşkın Algoritması (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/485.mp4
+https://stream2.filbox.com.tr/live/hls/485.mp4
 #EXTINF:-1 tvg-name="Kale Savaşları (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MXJfVPsVNkOo8qAho8sd6dNLPM.jpg" group-title="AİLE",Kale Savaşları (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/486.mp4
+https://stream2.filbox.com.tr/live/hls/486.mp4
 #EXTINF:-1 tvg-name="Kan Bağı (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VpEcYxo2T5qt5YMynfWZkctPR4.jpg" group-title="GERİLİM",Kan Bağı (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/487.mp4
+https://stream2.filbox.com.tr/live/hls/487.mp4
 #EXTINF:-1 tvg-name="Kanıma Gir (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgNb9nwPKwV45c5PTvFqFmpzGt0.jpg" group-title="GİZEM",Kanıma Gir (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/488.mp4
+https://stream2.filbox.com.tr/live/hls/488.mp4
 #EXTINF:-1 tvg-name="Kanıt (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzn5LpCBVz0f3zBnthFo67kRWS5.jpg" group-title="GİZEM",Kanıt (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/489.mp4
+https://stream2.filbox.com.tr/live/hls/489.mp4
 #EXTINF:-1 tvg-name="Kaptan Sabertooth (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aD7JdbWoCIuU0jI8DTVyOC3A7M0.jpg" group-title="AİLE",Kaptan Sabertooth (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/490.mp4
+https://stream2.filbox.com.tr/live/hls/490.mp4
 #EXTINF:-1 tvg-name="Kara Büyü (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fguce8M1bZnWjVkRWCFh9P3kt6A.jpg" group-title="GİZEM",Kara Büyü (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/491.mp4
+https://stream2.filbox.com.tr/live/hls/491.mp4
 #EXTINF:-1 tvg-name="Kara Ekmek (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAntPFwLyxZx9wtw1htTUTpxKQv.jpg" group-title="SUÇ",Kara Ekmek (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/492.mp4
+https://stream2.filbox.com.tr/live/hls/492.mp4
 #EXTINF:-1 tvg-name="Karanlık Şehir (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WdcFYdjWB1dGsJmjUNVIzPYDcY.jpg" group-title="BİLİM KURGU",Karanlık Şehir (1998)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/493.mp4
+https://stream2.filbox.com.tr/live/hls/493.mp4
 #EXTINF:-1 tvg-name="Karanlıkta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rgwGY7Ja3j3b31NZnP1cImL4sw.jpg" group-title="GİZEM",Karanlıkta (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/494.mp4
-
-
-
+https://stream2.filbox.com.tr/live/hls/494.mp4
 #EXTINF:-1 tvg-name="Karanlıktan Korkma (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMBMm1jwqvILV8p1K44brBnmwLK.jpg" group-title="GERİLİM",Karanlıktan Korkma (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/495.mp4
-
+https://stream2.filbox.com.tr/live/hls/495.mp4
 #EXTINF:-1 tvg-name="Kardeşlik (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oMMBxqqThvmOoUDx1rYOPFHons.jpg" group-title="SUÇ",Kardeşlik (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/496.mp4
-
+https://stream2.filbox.com.tr/live/hls/496.mp4
 #EXTINF:-1 tvg-name="Karlar Kraliçesi (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41ibWCvBSrKE5e6GZN2lwph2LtW.jpg" group-title="AİLE",Karlar Kraliçesi (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/497.mp4
-
+https://stream2.filbox.com.tr/live/hls/497.mp4
 #EXTINF:-1 tvg-name="Karlar Kraliçesi 2 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNF5hV9hx5A5GG3743ijCnLhXeH.jpg" group-title="AİLE",Karlar Kraliçesi 2 (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/498.mp4
-
+https://stream2.filbox.com.tr/live/hls/498.mp4
 #EXTINF:-1 tvg-name="Karlar Kraliçesi 3: Ateş ve Buz (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3Ozx1AoVrGAt42Me1gSfvlRuVW.jpg" group-title="AİLE",Karlar Kraliçesi 3: Ateş ve Buz (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/499.mp4
-
+https://stream2.filbox.com.tr/live/hls/499.mp4
 #EXTINF:-1 tvg-name="Karlar Kralı Norm (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koY4vBbjcd5jxJEMFFJYfuMRBaI.jpg" group-title="AİLE",Karlar Kralı Norm (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/500.mp4
+https://stream2.filbox.com.tr/live/hls/500.mp4
 #EXTINF:-1 tvg-name="Karınca Çocuk (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db8a23rqcErLLuU3TG5gJJNJCPH.jpg" group-title="AİLE",Karınca Çocuk (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/501.mp4
+https://stream2.filbox.com.tr/live/hls/501.mp4
 #EXTINF:-1 tvg-name="Karşı Karşıya (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPFqA1KxYaVJg6foIuRIawGaH5d.jpg" group-title="KOMEDİ",Karşı Karşıya (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/502.mp4
+https://stream2.filbox.com.tr/live/hls/502.mp4
 #EXTINF:-1 tvg-name="Kasırga 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8m0uMoa1e5VakgFasrLxRVwqcZN.jpg" group-title="AİLE",Kasırga 2 (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/503.mp4
+https://stream2.filbox.com.tr/live/hls/503.mp4
 #EXTINF:-1 tvg-name="Katil Köpek Balığı (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjfRqUXtNc2iJHfP60HTq9nFs0.jpg" group-title="GERİLİM",Katil Köpek Balığı (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/504.mp4
+https://stream2.filbox.com.tr/live/hls/504.mp4
 #EXTINF:-1 tvg-name="Kayıp Ceset (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/249ZtS8tcbl0EJ4DamFvw5vMDhq.jpg" group-title="GERİLİM",Kayıp Ceset (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/505.mp4
+https://stream2.filbox.com.tr/live/hls/505.mp4
 #EXTINF:-1 tvg-name="Kiracının Böylesi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JUuHvbwsX93b9h8SJjFDY73EsI.jpg" group-title="KOMEDİ",Kiracının Böylesi (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/507.mp4
+https://stream2.filbox.com.tr/live/hls/507.mp4
 #EXTINF:-1 tvg-name="Kiralık Anne (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zq7Yr0MAIhYMLFoDI8nuL86Acqk.jpg" group-title="KORKU",Kiralık Anne (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/508.mp4
+https://stream2.filbox.com.tr/live/hls/508.mp4
 #EXTINF:-1 tvg-name="Kocaayak ve Oğlu (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yCQvhFuFPY0pACxoUpLUlYCxop.jpg" group-title="AİLE",Kocaayak ve Oğlu (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/509.mp4
+https://stream2.filbox.com.tr/live/hls/509.mp4
 #EXTINF:-1 tvg-name="Komplo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEu4OsF4Ol0kkB94AMRyEHfvTVf.jpg" group-title="SUÇ",Komplo (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/510.mp4
+https://stream2.filbox.com.tr/live/hls/510.mp4
 #EXTINF:-1 tvg-name="Kontrol Dışı (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HGEJzi4y1rajNtV7SBWeofTPIp.jpg" group-title="BİLİM KURGU",Kontrol Dışı (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/511.mp4
+https://stream2.filbox.com.tr/live/hls/511.mp4
 #EXTINF:-1 tvg-name="Korku Kliniği (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9srd2qdaJGu08ldr3PuhcMgNtH.jpg" group-title="KORKU",Korku Kliniği (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/512.mp4
+https://stream2.filbox.com.tr/live/hls/512.mp4
 #EXTINF:-1 tvg-name="Koruyucu (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8Edn8VokKItOL90FVTl6E0JVkk.jpg" group-title="SUÇ",Koruyucu (2005)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/513.mp4
+https://stream2.filbox.com.tr/live/hls/513.mp4
 #EXTINF:-1 tvg-name="Koruyucu 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95AvCbDb96NF8xe7JdCczcBy0Np.jpg" group-title="AKSİYON",Koruyucu 2 (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/514.mp4
+https://stream2.filbox.com.tr/live/hls/514.mp4
 #EXTINF:-1 tvg-name="Kral Arthur: Kılıç Efsanesi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gB9yom8oS4YsJ6YZe1lkeFcsDgs.jpg" group-title="AKSİYON",Kral Arthur: Kılıç Efsanesi (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/515.mp4
+https://stream2.filbox.com.tr/live/hls/515.mp4
 #EXTINF:-1 tvg-name="Kraliçe'nin Vedası (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G0vYL3RwbwXfTQuDL7pHJNwoLk.jpg" group-title="TARİH",Kraliçe'nin Vedası (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/516.mp4
+https://stream2.filbox.com.tr/live/hls/516.mp4
 #EXTINF:-1 tvg-name="Kralın Seçimi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daKZmVgLlDwuO9sSRwevvh8alaS.jpg" group-title="SAVAŞ",Kralın Seçimi (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/517.mp4
+https://stream2.filbox.com.tr/live/hls/517.mp4
 #EXTINF:-1 tvg-name="Kumiko, Hazine Avcısı (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bREov5TqiAMxb2ZO1bAZdUuaesv.jpg" group-title="DRAM",Kumiko, Hazine Avcısı (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/518.mp4
+https://stream2.filbox.com.tr/live/hls/518.mp4
 #EXTINF:-1 tvg-name="Kurbağa Prens (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUXzC2KHl3A4SANUlBdUqIeq2fF.jpg" group-title="AİLE",Kurbağa Prens (2014)
 https://stream2.filbox.com.tr/live/hls/519.mp4
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/519.mp4
 #EXTINF:-1 tvg-name="Kutsal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOT4KqFPlvxTeEwyHOcn8agJnsI.jpg" group-title="KORKU",Kutsal (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/520.mp4
+https://stream2.filbox.com.tr/live/hls/520.mp4
 #EXTINF:-1 tvg-name="Kuzey Operasyonu (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1aCJ4Ty8pcuZF0YwCIsF1uFw2A.jpg" group-title="TARİH",Kuzey Operasyonu (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/521.mp4
+https://stream2.filbox.com.tr/live/hls/521.mp4
 #EXTINF:-1 tvg-name="Kuşatılmış (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbTpSiqGn6ImqSAyawHlLf7goat.jpg" group-title="VAHŞİ BATI",Kuşatılmış (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/522.mp4
+https://stream2.filbox.com.tr/live/hls/522.mp4
 #EXTINF:-1 tvg-name="Kuşlar Şehrinde Macera (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaRjU8cUNV9iSXOOqDo56QaN2QV.jpg" group-title="KOMEDİ",Kuşlar Şehrinde Macera (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/523.mp4
+https://stream2.filbox.com.tr/live/hls/523.mp4
 #EXTINF:-1 tvg-name="Küçük Prens (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/je5Z7gbFTzrs3FPHINo9yGiHoVo.jpg" group-title="AİLE",Küçük Prens (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/524.mp4
+https://stream2.filbox.com.tr/live/hls/524.mp4
 #EXTINF:-1 tvg-name="Küçük Vampir (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9z2rBO4i5MhbvpEIxXZUoXSYUo.jpg" group-title="AİLE",Küçük Vampir (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/525.mp4
+https://stream2.filbox.com.tr/live/hls/525.mp4
 #EXTINF:-1 tvg-name="Kılıçların Savaşı (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spr9rPgoaD4sMhc7ddzIPI3vKDT.jpg" group-title="TARİH",Kılıçların Savaşı (2007)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/526.mp4
+https://stream2.filbox.com.tr/live/hls/526.mp4
 #EXTINF:-1 tvg-name="Kırmızı Köpek (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbLh0tVqjqcDnob7w79XkIQ7gGI.jpg" group-title="AİLE",Kırmızı Köpek (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/527.mp4
+https://stream2.filbox.com.tr/live/hls/527.mp4
 #EXTINF:-1 tvg-name="Kıyamet Kodu (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZPn2f2ngvRXT5KsKQXeW77w7Q5.jpg" group-title="AKSİYON",Kıyamet Kodu (2007)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/528.mp4
+https://stream2.filbox.com.tr/live/hls/528.mp4
 #EXTINF:-1 tvg-name="Kızılderili Hikayesi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76EwNDGCPB6qpDGtVZBwMW1P1KX.jpg" group-title="AİLE",Kızılderili Hikayesi (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/529.mp4
+https://stream2.filbox.com.tr/live/hls/529.mp4
 #EXTINF:-1 tvg-name="Get Santa (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzHkq1cscpCPNpuJQcYlEk0abMr.jpg" group-title="AİLE",Get Santa (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/531.mp4
+https://stream2.filbox.com.tr/live/hls/531.mp4
 #EXTINF:-1 tvg-name="Zoraki Dedektif (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pWtfE7FiA64FPBvomkNpobKITx.jpg" group-title="KOMEDİ",Zoraki Dedektif (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/532.mp4
+https://stream2.filbox.com.tr/live/hls/532.mp4
 #EXTINF:-1 tvg-name="Ölüm Canlı Yayında (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwXmbnXIQcfmdK0phXcMIZgX0KA.jpg" group-title="KOMEDİ",Ölüm Canlı Yayında (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/533.mp4
+https://stream2.filbox.com.tr/live/hls/533.mp4
 #EXTINF:-1 tvg-name="Ölüm Evi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TLHMLgCCkEszjpFzAwRjlgwS0E.jpg" group-title="GERİLİM",Ölüm Evi (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/534.mp4
+https://stream2.filbox.com.tr/live/hls/534.mp4
 #EXTINF:-1 tvg-name="İsyan (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEC8boMu9wqtLSZYSSl3rFSZS7x.jpg" group-title="TARİH",İsyan (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/535.mp4
+https://stream2.filbox.com.tr/live/hls/535.mp4
 #EXTINF:-1 tvg-name="Acımasız Ruhlar (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVzWJ0xV6AJxsHwL2KcdIbaNNeV.jpg" group-title="GERİLİM",Acımasız Ruhlar (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/539.mp4
+https://stream2.filbox.com.tr/live/hls/539.mp4
 #EXTINF:-1 tvg-name="Acımasız (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bW9tePApxcM2QmvOgeEfQippM2I.jpg" group-title="GİZEM",Acımasız (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/540.mp4
+https://stream2.filbox.com.tr/live/hls/540.mp4
 #EXTINF:-1 tvg-name="Adadaki Dehşet (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg" group-title="GERİLİM",Adadaki Dehşet (2019)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/541.mp4
+https://stream2.filbox.com.tr/live/hls/541.mp4
 #EXTINF:-1 tvg-name="Acımasız Hayat (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raBWBnGz2X6FQ3iUwPwYQE4FrkY.jpg" group-title="SUÇ",Acımasız Hayat (2005)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/542.mp4
+https://stream2.filbox.com.tr/live/hls/542.mp4
 #EXTINF:-1 tvg-name="Adadaki Hazine (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XrnrcZB0HqWqAGQfmDextQTU2G.jpg" group-title="AİLE",Adadaki Hazine (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/543.mp4
+https://stream2.filbox.com.tr/live/hls/543.mp4
 #EXTINF:-1 tvg-name="Adanın Büyüsü (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/250tjGWyt5PiL4b2Tevi0hhnRfI.jpg" group-title="KOMEDİ",Adanın Büyüsü (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/544.mp4
+https://stream2.filbox.com.tr/live/hls/544.mp4
 #EXTINF:-1 tvg-name="Adi Kirli Suçlular (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WvicYfhWZrKp9kx8cTYCaJ1Ob7.jpg" group-title="KOMEDİ",Adi Kirli Suçlular (2020)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/545.mp4
+https://stream2.filbox.com.tr/live/hls/545.mp4
 #EXTINF:-1 tvg-name="Adsız Kılıç (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4vqWFGYWkWx6o1P4Zg5SzBMJ6J.jpg" group-title="ROMANTİK",Adsız Kılıç (2009)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/546.mp4
+https://stream2.filbox.com.tr/live/hls/546.mp4
 #EXTINF:-1 tvg-name="Adım Adım (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv2Xdpk4nzY2qKAg5oG2qZkTrY9.jpg" group-title="KOMEDİ",Adım Adım (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/547.mp4
+https://stream2.filbox.com.tr/live/hls/547.mp4
 #EXTINF:-1 tvg-name="Ahtapot Mağaraları (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlizMbZByBYPOC4i2AN64e4W1iM.jpg" group-title="AİLE",Ahtapot Mağaraları (2020)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/548.mp4
+https://stream2.filbox.com.tr/live/hls/548.mp4
 #EXTINF:-1 tvg-name="Aile Gibi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqm01nxZtPN1QM0sWVvxrMnqOv5.jpg" group-title="SUÇ",Aile Gibi (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/549.mp4
+https://stream2.filbox.com.tr/live/hls/549.mp4
 #EXTINF:-1 tvg-name="Aile Sırları (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFXPjkMKNA7MZAqpaeNv6vaoPX2.jpg" group-title="KOMEDİ",Aile Sırları (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/551.mp4
+https://stream2.filbox.com.tr/live/hls/551.mp4
 #EXTINF:-1 tvg-name="Akasyalar (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18Or1npceKFzayR2Np6HWM9Dabc.jpg" group-title="DRAM",Akasyalar (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/552.mp4
+https://stream2.filbox.com.tr/live/hls/552.mp4
 #EXTINF:-1 tvg-name="Akrebin Aşkı (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nA9YI2PEsiiJ4paaOg0LCkPEKnA.jpg" group-title="ROMANTİK",Akrebin Aşkı (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/553.mp4
+https://stream2.filbox.com.tr/live/hls/553.mp4
 #EXTINF:-1 tvg-name="Akıl Defteri (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31yNVJl968krAHy3f5nFB6kLl7i.jpg" group-title="GİZEM",Akıl Defteri (2000)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/554.mp4
+https://stream2.filbox.com.tr/live/hls/554.mp4
 #EXTINF:-1 tvg-name="Akıntı (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAQsxWn82CXsFxrItzzSfYJdSd3.jpg" group-title="DRAM",Akıntı (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/555.mp4
+https://stream2.filbox.com.tr/live/hls/555.mp4
 #EXTINF:-1 tvg-name="Akşam Yemeği (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhYHMo8nCySPcq9r5U9nh7QeGvR.jpg" group-title="DRAM",Akşam Yemeği (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/556.mp4
+https://stream2.filbox.com.tr/live/hls/556.mp4
 #EXTINF:-1 tvg-name="Alaska Fedaileri (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmg4sjOQswcrP5mPL9YzNom9cXx.jpg" group-title="KOMEDİ",Alaska Fedaileri (1999)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/557.mp4
+https://stream2.filbox.com.tr/live/hls/557.mp4
 #EXTINF:-1 tvg-name="Alev Çemberi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZXzPkEqa3F1eoUGLXr0cxH259n.jpg" group-title="BİLİM KURGU",Alev Çemberi (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/558.mp4
+https://stream2.filbox.com.tr/live/hls/558.mp4
 #EXTINF:-1 tvg-name="Alkışçı (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsm2gxPoZDzG3ocTArrK8ak7go4.jpg" group-title="KOMEDİ",Alkışçı (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/559.mp4
+https://stream2.filbox.com.tr/live/hls/559.mp4
 #EXTINF:-1 tvg-name="Almanlar Yunanistan'da (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RqX9BLGM76S1Bwks2MZiR0cCsE.jpg" group-title="KOMEDİ",Almanlar Yunanistan'da (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/560.mp4
+https://stream2.filbox.com.tr/live/hls/560.mp4
 #EXTINF:-1 tvg-name="Amerikalılar (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGZCeCfNseq1ee3cJLBp0rH0djT.jpg" group-title="GİZEM",Amerikalılar (1992)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/561.mp4
+https://stream2.filbox.com.tr/live/hls/561.mp4
 #EXTINF:-1 tvg-name="Amerikan Celladı (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nF5IBogY8Zq4myfnRRRtVVtvEAv.jpg" group-title="GERİLİM",Amerikan Celladı (2019)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/562.mp4
+https://stream2.filbox.com.tr/live/hls/562.mp4
 #EXTINF:-1 tvg-name="Ananı Da! (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MBu6LXCdkE5KHhfweqQ1DVSTFB.jpg" group-title="ROMANTİK",Ananı Da! (2001)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/563.mp4
+https://stream2.filbox.com.tr/live/hls/563.mp4
 #EXTINF:-1 tvg-name="Anarşi (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNajzrrYttWofGj3zu672J3NUbA.jpg" group-title="DRAM",Anarşi (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/564.mp4
+https://stream2.filbox.com.tr/live/hls/564.mp4
 #EXTINF:-1 tvg-name="Asla Vazgeçme (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUfqG6LriN4TrmUaWI9mmXYNzlE.jpg" group-title="DRAM",Asla Vazgeçme (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/565.mp4
+https://stream2.filbox.com.tr/live/hls/565.mp4
 #EXTINF:-1 tvg-name="Aç Gezenler (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYKcOWPYQB97JEIkKAhhYodMM0s.jpg" group-title="BİLİM KURGU",Aç Gezenler (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/566.mp4
+https://stream2.filbox.com.tr/live/hls/566.mp4
 #EXTINF:-1 tvg-name="Açık Ev (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg" group-title="GERİLİM",Açık Ev (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/567.mp4
+https://stream2.filbox.com.tr/live/hls/567.mp4
 #EXTINF:-1 tvg-name="Açık Çek (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ofD3KF3CgaH0Fc0QLGqlUwe13m.jpg" group-title="KOMEDİ",Açık Çek (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/568.mp4
+https://stream2.filbox.com.tr/live/hls/568.mp4
 #EXTINF:-1 tvg-name="Aşkın Dansı (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/io0LZoCtq63hUWd6d3x5FoalgDj.jpg" group-title="KOMEDİ",Aşkın Dansı (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/569.mp4
+https://stream2.filbox.com.tr/live/hls/569.mp4
 #EXTINF:-1 tvg-name="Aşkın Gözü Kördür (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PZLmz2TaCQEE6B43K2oyJTNsHS.jpg" group-title="KOMEDİ",Aşkın Gözü Kördür (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/570.mp4
+https://stream2.filbox.com.tr/live/hls/570.mp4
 #EXTINF:-1 tvg-name="Fareli Köyün Kavalcısı (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUMMI7R8diK8zWhfPVeVe1vEj8d.jpg" group-title="GİZEM",Fareli Köyün Kavalcısı (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/572.mp4
+https://stream2.filbox.com.tr/live/hls/572.mp4
 #EXTINF:-1 tvg-name="Frozen (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SjRpaJg43iJnY0jlJ6c61tAKOo.jpg" group-title="GERİLİM",Frozen (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/573.mp4
+https://stream2.filbox.com.tr/live/hls/573.mp4
 #EXTINF:-1 tvg-name="Berlin Operasyonu (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1FkEBJ6jK43ZONKWNZ33fsLchH.jpg" group-title="SUÇ",Berlin Operasyonu (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/574.mp4
+https://stream2.filbox.com.tr/live/hls/574.mp4
 #EXTINF:-1 tvg-name="Bilinmeyen Numara (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRaBBPb2YyVJW5qNSC7DmrICE7B.jpg" group-title="GERİLİM",Bilinmeyen Numara (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/575.mp4
+https://stream2.filbox.com.tr/live/hls/575.mp4
 #EXTINF:-1 tvg-name="Gangnam Çeteleri (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMqPvxSasMuG8HLqGAxz6gbiPYW.jpg" group-title="SUÇ",Gangnam Çeteleri (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/576.mp4
+https://stream2.filbox.com.tr/live/hls/576.mp4
 #EXTINF:-1 tvg-name="Ganzfeld Deneyi (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZUDVL4EdT94jqHPFCr5SfrvPR6.jpg" group-title="GERİLİM",Ganzfeld Deneyi (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/577.mp4
+https://stream2.filbox.com.tr/live/hls/577.mp4
 #EXTINF:-1 tvg-name="Garip Aile (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seI1WJIUXfmemYmSZzdeyY4lOot.jpg" group-title="KOMEDİ",Garip Aile (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/578.mp4
+https://stream2.filbox.com.tr/live/hls/578.mp4
 #EXTINF:-1 tvg-name="Garip İlişkiler (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92bkt0yTztGrNy44bOIHkxpkcDn.jpg" group-title="KOMEDİ",Garip İlişkiler (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/579.mp4
+https://stream2.filbox.com.tr/live/hls/579.mp4
 #EXTINF:-1 tvg-name="Gauguin : Voyage de Tahiti (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uNZsTw28sUonTAWAlnueT3I4iX.jpg" group-title="ROMANTİK",Gauguin : Voyage de Tahiti (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/580.mp4
+https://stream2.filbox.com.tr/live/hls/580.mp4
 #EXTINF:-1 tvg-name="Gazeteci Çocuk (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5q7GjalE6tDIuiy17rjMgt1dg5u.jpg" group-title="GİZEM",Gazeteci Çocuk (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/581.mp4
+https://stream2.filbox.com.tr/live/hls/581.mp4
 #EXTINF:-1 tvg-name="Acrimony (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raz4UTUI5FPkem2j57EXOL75o6I.jpg" group-title="GERİLİM",Acrimony (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/582.mp4
+https://stream2.filbox.com.tr/live/hls/582.mp4
 #EXTINF:-1 tvg-name="Gece Seansı (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njoTQBRZYvP39EbT4Cvh9PUNyqt.jpg" group-title="KOMEDİ",Gece Seansı (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/583.mp4
+https://stream2.filbox.com.tr/live/hls/583.mp4
 #EXTINF:-1 tvg-name="General Yang'i Kurtarmak (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZy06D7VZFXwGbZhB889zHNUOVo.jpg" group-title="TARİH",General Yang'i Kurtarmak (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/584.mp4
+https://stream2.filbox.com.tr/live/hls/584.mp4
 #EXTINF:-1 tvg-name="Geri Dönüş (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pN0UFnqzkIFjmhH8ICKVAqxNBdo.jpg" group-title="AKSİYON",Geri Dönüş (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/585.mp4
+https://stream2.filbox.com.tr/live/hls/585.mp4
 #EXTINF:-1 tvg-name="Geçit (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8agNupKXXcyFz5qBv1nHIUI0Bsr.jpg" group-title="DRAM",Geçit (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/586.mp4
+https://stream2.filbox.com.tr/live/hls/586.mp4
 #EXTINF:-1 tvg-name="Geçiş Noktası (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnxtFh1j47tb29z2ImzYA4NFaea.jpg" group-title="GERİLİM",Geçiş Noktası (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/587.mp4
+https://stream2.filbox.com.tr/live/hls/587.mp4
 #EXTINF:-1 tvg-name="Geçmişe Yolculuk (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDiYHHdvZ8kvKdLf5HDJ9z2WxZu.jpg" group-title="DRAM",Geçmişe Yolculuk (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/588.mp4
+https://stream2.filbox.com.tr/live/hls/588.mp4
 #EXTINF:-1 tvg-name="Geçmişin İzleri (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pNCZyq3eZoPm2EDD19Ulv27bh6.jpg" group-title="KORKU",Geçmişin İzleri (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/589.mp4
+https://stream2.filbox.com.tr/live/hls/589.mp4
 #EXTINF:-1 tvg-name="Gladyatörler (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xWmTdaMB0h1JOY27QYyZumuUio.jpg" group-title="AKSİYON",Gladyatörler (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/590.mp4
+https://stream2.filbox.com.tr/live/hls/590.mp4
 #EXTINF:-1 tvg-name="Grip (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fQlPXebfjEqjysW3rv4RyNplih.jpg" group-title="BİLİM KURGU",Grip (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/591.mp4
+https://stream2.filbox.com.tr/live/hls/591.mp4
 #EXTINF:-1 tvg-name="Görgüsüzler 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQKTIBaI8BrsWY7CPcB8jgvW4vE.jpg" group-title="KOMEDİ",Görgüsüzler 2 (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/592.mp4
+https://stream2.filbox.com.tr/live/hls/592.mp4
 #EXTINF:-1 tvg-name="Gözcü (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ans4DwhyZj5X0Gag0xiYVLHtwgL.jpg" group-title="GİZEM",Gözcü (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/593.mp4
+https://stream2.filbox.com.tr/live/hls/593.mp4
 #EXTINF:-1 tvg-name="Güneye Doğru (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW7ulgzZE2lILFOGovXhnNfG0np.jpg" group-title="BİLİM KURGU",Güneye Doğru (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/594.mp4
+https://stream2.filbox.com.tr/live/hls/594.mp4
 #EXTINF:-1 tvg-name="Güzel Çocuk (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7puPuSeje8315Pbdxzo8bxHD6EB.jpg" group-title="DRAM",Güzel Çocuk (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/595.mp4
+https://stream2.filbox.com.tr/live/hls/595.mp4
 #EXTINF:-1 tvg-name="Hamilton 1 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzg4kbVSobZFdQN8RP1094nj3vp.jpg" group-title="GERİLİM",Hamilton 1 (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/596.mp4
+https://stream2.filbox.com.tr/live/hls/596.mp4
 #EXTINF:-1 tvg-name="Hamilton 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vC4UlisGIJAPfpKuMR1krnsUJ79.jpg" group-title="GERİLİM",Hamilton 2 (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/597.mp4
+https://stream2.filbox.com.tr/live/hls/597.mp4
 #EXTINF:-1 tvg-name="Hayalet Avcıları (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p92WwqcS1goU9VpViH6fAwaoXP4.jpg" group-title="AİLE",Hayalet Avcıları (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/598.mp4
+https://stream2.filbox.com.tr/live/hls/598.mp4
 #EXTINF:-1 tvg-name="Hayalet Öğrenciler (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFpmBzHveMHem14xZR9OIz1RtaP.jpg" group-title="KOMEDİ",Hayalet Öğrenciler (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/599.mp4
+https://stream2.filbox.com.tr/live/hls/599.mp4
 #EXTINF:-1 tvg-name="Hayaletler Diyarında Bir Olay (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt9YSQlArAj6849SQQJ5ryNgcJs.jpg" group-title="GİZEM",Hayaletler Diyarında Bir Olay (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/600.mp4
+https://stream2.filbox.com.tr/live/hls/600.mp4
 #EXTINF:-1 tvg-name="Hayat Avcısı (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mH1gbte3UeIOXtoTrpZqjfMIoo.jpg" group-title="GİZEM",Hayat Avcısı (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/601.mp4
+https://stream2.filbox.com.tr/live/hls/601.mp4
 #EXTINF:-1 tvg-name="Hayat Yolculuğu (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeDZV3jD35dYSSbuZgfKWkvxRHN.jpg" group-title="DRAM",Hayat Yolculuğu (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/602.mp4
+https://stream2.filbox.com.tr/live/hls/602.mp4
 #EXTINF:-1 tvg-name="Haysiyet Kolonisi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFmlp1AKv0avKmvDcvt8V4nMUY6.jpg" group-title="TARİH",Haysiyet Kolonisi (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/603.mp4
+https://stream2.filbox.com.tr/live/hls/603.mp4
 #EXTINF:-1 tvg-name="Haysiyet Kolonisi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFmlp1AKv0avKmvDcvt8V4nMUY6.jpg" group-title="GERİLİM",Haysiyet Kolonisi (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/603.mp4
+https://stream2.filbox.com.tr/live/hls/603.mp4
 #EXTINF:-1 tvg-name="Haysiyet Kolonisi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFmlp1AKv0avKmvDcvt8V4nMUY6.jpg" group-title="DRAM",Haysiyet Kolonisi (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/603.mp4
+https://stream2.filbox.com.tr/live/hls/603.mp4
 #EXTINF:-1 tvg-name="Hedef (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hljukhGDRHeGMdQ7KcKzobgxJlR.jpg" group-title="GERİLİM",Hedef (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/604.mp4
+https://stream2.filbox.com.tr/live/hls/604.mp4
 #EXTINF:-1 tvg-name="İbni Sina: Hekim (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6koFQEuyZKNYcBMSVEHYtAeIpUE.jpg" group-title="TARİH",İbni Sina: Hekim (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/605.mp4
+https://stream2.filbox.com.tr/live/hls/605.mp4
 #EXTINF:-1 tvg-name="Hessen Olayı (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jH4GY1EHHWYjcekFj3t40BPlOw.jpg" group-title="TARİH",Hessen Olayı (2009)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/606.mp4
+https://stream2.filbox.com.tr/live/hls/606.mp4
 #EXTINF:-1 tvg-name="Hizmetkâr Albert Nobbs (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e00RBy919cwm67t7u1bubkZU0GE.jpg" group-title="DRAM",Hizmetkâr Albert Nobbs (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/607.mp4
+https://stream2.filbox.com.tr/live/hls/607.mp4
 #EXTINF:-1 tvg-name="John Doe: Vigilante (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bsz5CNrgw84xsx0FTnrDt8Yuub.jpg" group-title="SUÇ",John Doe: Vigilante (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/608.mp4
+https://stream2.filbox.com.tr/live/hls/608.mp4
 #EXTINF:-1 tvg-name="Josephine 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4YYy5OfYOEgo9JQPEb1RkSdNrx.jpg" group-title="KOMEDİ",Josephine 2 (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/609.mp4
+https://stream2.filbox.com.tr/live/hls/609.mp4
 #EXTINF:-1 tvg-name="Jules ve Dolores (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTpawXfV72mMfJYpIgJt4Yd9GZQ.jpg" group-title="KOMEDİ",Jules ve Dolores (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/610.mp4
+https://stream2.filbox.com.tr/live/hls/610.mp4
 #EXTINF:-1 tvg-name="Kader Günü (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNFCkFmgI4Dnv3UpC0lLM7jWhYU.jpg" group-title="BİLİM KURGU",Kader Günü (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/611.mp4
+https://stream2.filbox.com.tr/live/hls/611.mp4
 #EXTINF:-1 tvg-name="Kafesteki Kadın (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHF7236cjkHs9kfiABFaPGyxUC0.jpg" group-title="GİZEM",Kafesteki Kadın (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/612.mp4
+https://stream2.filbox.com.tr/live/hls/612.mp4
 #EXTINF:-1 tvg-name="Kayıp Zamanlar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEO8iRlnk2KNkKRon3P9hksVQnN.jpg" group-title="ROMANTİK",Kayıp Zamanlar (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/613.mp4
+https://stream2.filbox.com.tr/live/hls/613.mp4
 #EXTINF:-1 tvg-name="İmha Timi (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LDh44NHhTa27TfO0ntWiilogKo.jpg" group-title="KOMEDİ",İmha Timi (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/614.mp4
+https://stream2.filbox.com.tr/live/hls/614.mp4
 #EXTINF:-1 tvg-name="Bakıcının Böylesi (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzi8CWFPBFGgDqOyUhfcdf2Jymt.jpg" group-title="KOMEDİ",Bakıcının Böylesi (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/615.mp4
+https://stream2.filbox.com.tr/live/hls/615.mp4
 #EXTINF:-1 tvg-name="Baskı (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36yM8STPPq3X6y6eSLgIP4g62lk.jpg" group-title="TARİH",Baskı (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/616.mp4
+https://stream2.filbox.com.tr/live/hls/616.mp4
 #EXTINF:-1 tvg-name="Beijing New York (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMnqIgnA5V6j9ZzzpT099ELc5OI.jpg" group-title="ROMANTİK",Beijing New York (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/617.mp4
+https://stream2.filbox.com.tr/live/hls/617.mp4
 #EXTINF:-1 tvg-name="Ben Madame Bovary Değilim (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4O72CsRwatZuoWsepuYKPGRJJH.jpg" group-title="KOMEDİ",Ben Madame Bovary Değilim (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/618.mp4
+https://stream2.filbox.com.tr/live/hls/618.mp4
 #EXTINF:-1 tvg-name="Benim 533 Çocuğum Var (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Z9GDYzuQQi79AAzoBfqds6H9Iw.jpg" group-title="KOMEDİ",Benim 533 Çocuğum Var (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/619.mp4
+https://stream2.filbox.com.tr/live/hls/619.mp4
 #EXTINF:-1 tvg-name="Benim Çılgın Düğünüm 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfPqApnLVPsYfdbpSHNnHIxTdmd.jpg" group-title="KOMEDİ",Benim Çılgın Düğünüm 2 (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/620.mp4
+https://stream2.filbox.com.tr/live/hls/620.mp4
 #EXTINF:-1 tvg-name="Beyaz Fırtına (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIzQR963YjJ7OtTH69eaKQ8p2ch.jpg" group-title="GERİLİM",Beyaz Fırtına (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/621.mp4
+https://stream2.filbox.com.tr/live/hls/621.mp4
 #EXTINF:-1 tvg-name="Bir Deniz Efsanesi (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqgYScch2UfAgfUSlf60Wvm7JJj.jpg" group-title="TARİH",Bir Deniz Efsanesi (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/623.mp4
+https://stream2.filbox.com.tr/live/hls/623.mp4
 #EXTINF:-1 tvg-name="Kaçış Planı (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rstzjPL3bOGeIMoh2JbgMBB0HJl.jpg" group-title="GERİLİM",Kaçış Planı (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/625.mp4
+https://stream2.filbox.com.tr/live/hls/625.mp4
 #EXTINF:-1 tvg-name="Kaçış Planı 2: Hades (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbT7AvKATm9vFsY01L5tyK2ZHwl.jpg" group-title="SUÇ",Kaçış Planı 2: Hades (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/626.mp4
+https://stream2.filbox.com.tr/live/hls/626.mp4
 #EXTINF:-1 tvg-name="Kaçış Planı 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnH2oeJAu9Pn5WAWRW7xvT6W4Kv.jpg" group-title="SUÇ",Kaçış Planı 3 (2019)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/627.mp4
-
-
+https://stream2.filbox.com.tr/live/hls/627.mp4
 
 #EXTINF:-1 tvg-name="Bedenimi Kaybettim (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guQyBPiezAwcuPm1ADzsienkswg.jpg" group-title="DRAM",Bedenimi Kaybettim (2019)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/639.mp4
+https://stream2.filbox.com.tr/live/hls/639.mp4
 #EXTINF:-1 tvg-name="Bölgeler (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uZNehV2fAAHx1Rgabkj944odAP.jpg" group-title="GERİLİM",Bölgeler (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/640.mp4
+https://stream2.filbox.com.tr/live/hls/640.mp4
 #EXTINF:-1 tvg-name="Buzun Altında (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5emUKrTqhdn8QFtbEuxie4oOJT.jpg" group-title="GİZEM",Buzun Altında (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/641.mp4
+https://stream2.filbox.com.tr/live/hls/641.mp4
 #EXTINF:-1 tvg-name="Bir Katilin Anıları (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZsBxVlonVjztIBVbquw6uDgYHW.jpg" group-title="SUÇ",Bir Katilin Anıları (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/642.mp4
+https://stream2.filbox.com.tr/live/hls/642.mp4
 #EXTINF:-1 tvg-name="Büyük Düğün (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/silnfmcn3O0y8uNoYwy6iMgzdjp.jpg" group-title="KOMEDİ",Büyük Düğün (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/643.mp4
+https://stream2.filbox.com.tr/live/hls/643.mp4
 #EXTINF:-1 tvg-name="Bostwanga Timsahları (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hur2WyJDF37HqbmA6NCxPqd3BTy.jpg" group-title="KOMEDİ",Bostwanga Timsahları (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/644.mp4
+https://stream2.filbox.com.tr/live/hls/644.mp4
 #EXTINF:-1 tvg-name="Cinler (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rI1yDo1imacSvFd8M3OJX8J7Rc4.jpg" group-title="SAVAŞ",Cinler (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/645.mp4
+https://stream2.filbox.com.tr/live/hls/645.mp4
 #EXTINF:-1 tvg-name="Cesur Zebra (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZWiYUr3x4kBzIHaCSoZfYpElSx.jpg" group-title="AİLE",Cesur Zebra (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/646.mp4
+https://stream2.filbox.com.tr/live/hls/646.mp4
 #EXTINF:-1 tvg-name="El Nino (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOSAcaVdqQoyX7VDigjAy94mMaO.jpg" group-title="SUÇ",El Nino (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/647.mp4
+https://stream2.filbox.com.tr/live/hls/647.mp4
 #EXTINF:-1 tvg-name="Emelie (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HSqJtos2qHVoC00StzNRVpNExe.jpg" group-title="GERİLİM",Emelie (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/648.mp4
+https://stream2.filbox.com.tr/live/hls/648.mp4
 #EXTINF:-1 tvg-name="En Güzel Günüm (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1fG8mi6CVm9KACEA6ED1EWcJCR.jpg" group-title="KOMEDİ",En Güzel Günüm (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/649.mp4
+https://stream2.filbox.com.tr/live/hls/649.mp4
 #EXTINF:-1 tvg-name="En Güzel Gün (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1tBdCMeYt9ZqJ4G79clE9iK9Ku.jpg" group-title="KOMEDİ",En Güzel Gün (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/650.mp4
+https://stream2.filbox.com.tr/live/hls/650.mp4
 #EXTINF:-1 tvg-name="Erkek Aklı (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFI9LR2Bw0R57aobRLiN08rWtpn.jpg" group-title="KOMEDİ",Erkek Aklı (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/651.mp4
+https://stream2.filbox.com.tr/live/hls/651.mp4
 #EXTINF:-1 tvg-name="Esrarengiz Vadi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VyMCJ1HteqYDZoHfCYli3GlDbZ.jpg" group-title="BİLİM KURGU",Esrarengiz Vadi (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/652.mp4
+https://stream2.filbox.com.tr/live/hls/652.mp4
 #EXTINF:-1 tvg-name="Evim Güzel Evim (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgxDDVjk8BNbu4pjG9gebJ6jjcV.jpg" group-title="KOMEDİ",Evim Güzel Evim (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/653.mp4
+https://stream2.filbox.com.tr/live/hls/653.mp4
 #EXTINF:-1 tvg-name="Eyvah Öğretmenim (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4Wce89sp7wYQiFFT64WPafPgE7.jpg" group-title="AİLE",Eyvah Öğretmenim (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/654.mp4
+https://stream2.filbox.com.tr/live/hls/654.mp4
 #EXTINF:-1 tvg-name="Katiller Devri (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNSFl35PqSqc3vpkl0txC3eZLm0.jpg" group-title="TARİH",Katiller Devri (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/656.mp4
+https://stream2.filbox.com.tr/live/hls/656.mp4
 #EXTINF:-1 tvg-name="Katwe Kraliçesi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2nt2peo2UcbXacAEID10fv8xgm.jpg" group-title="DRAM",Katwe Kraliçesi (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/657.mp4
+https://stream2.filbox.com.tr/live/hls/657.mp4
 #EXTINF:-1 tvg-name="Kayıp Nişanlı (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTee5w82bHHXxWCgZ3U4h1GWeBH.jpg" group-title="ROMANTİK",Kayıp Nişanlı (2004)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/658.mp4
+https://stream2.filbox.com.tr/live/hls/658.mp4
 #EXTINF:-1 tvg-name="Kayıp Noel Ruhu (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA0K2xfbJao3lLRe92RMh9zNBLL.jpg" group-title="AİLE",Kayıp Noel Ruhu (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/659.mp4
+https://stream2.filbox.com.tr/live/hls/659.mp4
 #EXTINF:-1 tvg-name="Kayıp Prenses (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0Y2M2FB6XETpQGuRLg8Fz49K9m.jpg" group-title="AİLE",Kayıp Prenses (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/660.mp4
+https://stream2.filbox.com.tr/live/hls/660.mp4
 #EXTINF:-1 tvg-name="Katiller (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJmz7fZiUqNTxHgATEWC1FJm0l.jpg" group-title="SUÇ",Katiller (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/661.mp4
+https://stream2.filbox.com.tr/live/hls/661.mp4
 #EXTINF:-1 tvg-name="Kayıp Umut (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHIAHvWtI11VN5tZepjGj7hbv5r.jpg" group-title="GERİLİM",Kayıp Umut (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/662.mp4
+https://stream2.filbox.com.tr/live/hls/662.mp4
 #EXTINF:-1 tvg-name="Kayıp Yaşamlar (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eblIhVMsJM4StACQsodtF2joawe.jpg" group-title="ROMANTİK",Kayıp Yaşamlar (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/663.mp4
+https://stream2.filbox.com.tr/live/hls/663.mp4
 #EXTINF:-1 tvg-name="Kazara Zengin (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eesCLNfOKZAreIx8wbvG9PRu7qy.jpg" group-title="KOMEDİ",Kazara Zengin (2002)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/664.mp4
+https://stream2.filbox.com.tr/live/hls/664.mp4
 #EXTINF:-1 tvg-name="Kayıp Nehir (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phSUIsb33lMdHKtEKXO1UQdMVds.jpg" group-title="GERİLİM",Kayıp Nehir (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/665.mp4
+https://stream2.filbox.com.tr/live/hls/665.mp4
 #EXTINF:-1 tvg-name="Kayıp Kedi (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rV0mIugkrdLNMS8m3O1OM5TLf63.jpg" group-title="AİLE",Kayıp Kedi (2008)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/666.mp4
+https://stream2.filbox.com.tr/live/hls/666.mp4
 #EXTINF:-1 tvg-name="Kayıp Yol (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkKSPO5CuYogooyUzRlNckoJTkd.jpg" group-title="SUÇ",Kayıp Yol (2008)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/667.mp4
+https://stream2.filbox.com.tr/live/hls/667.mp4
 #EXTINF:-1 tvg-name="Kazı (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfflodRnCnfeyRKqaNNRs5fWAPG.jpg" group-title="TARİH",Kazı (2021)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/668.mp4
+https://stream2.filbox.com.tr/live/hls/668.mp4
 #EXTINF:-1 tvg-name="Kelly Çetesi'nin Gerçek Hikayesi (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTX1IKFNNsOsdzC8JwRIAhYeRJu.jpg" group-title="VAHŞİ BATI",Kelly Çetesi'nin Gerçek Hikayesi (2019)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/669.mp4
+https://stream2.filbox.com.tr/live/hls/669.mp4
 #EXTINF:-1 tvg-name="Kesinlikle, Belki (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9wZIWevVy1ZJUuLWyup8jLHfXU.jpg" group-title="ROMANTİK",Kesinlikle, Belki (2008)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/670.mp4
+https://stream2.filbox.com.tr/live/hls/670.mp4
 #EXTINF:-1 tvg-name="Kesişen Hayatlar (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNTg5J5UM5DeeOFY6MdrSiKRqM5.jpg" group-title="ROMANTİK",Kesişen Hayatlar (1987)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/671.mp4
+https://stream2.filbox.com.tr/live/hls/671.mp4
 #EXTINF:-1 tvg-name="Keşke Otuz Olsam (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxAVPvqKK1U1xfQCCXzroJrb1Mp.jpg" group-title="KOMEDİ",Keşke Otuz Olsam (2004)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/672.mp4
+https://stream2.filbox.com.tr/live/hls/672.mp4
 #EXTINF:-1 tvg-name="Keşke Burada Olsam (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67VYBGxNxtWtNF3wCE1yI8ZfAW0.jpg" group-title="KOMEDİ",Keşke Burada Olsam (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/673.mp4
+https://stream2.filbox.com.tr/live/hls/673.mp4
 #EXTINF:-1 tvg-name="Kibarca Öldürmek (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aBqcogm7tcAEf7ifW5Q77cggvT.jpg" group-title="SUÇ",Kibarca Öldürmek (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/674.mp4
+https://stream2.filbox.com.tr/live/hls/674.mp4
 #EXTINF:-1 tvg-name="Kickboxer: Misilleme (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Y3xPH1cYapT7jXamDJ3viVAV6g.jpg" group-title="AKSİYON",Kickboxer: Misilleme (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/675.mp4
+https://stream2.filbox.com.tr/live/hls/675.mp4
 #EXTINF:-1 tvg-name="Kim Takar! (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVJMlEygJK4kqMEIMzjg0XX9Z0M.jpg" group-title="KOMEDİ",Kim Takar! (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/676.mp4
+https://stream2.filbox.com.tr/live/hls/676.mp4
 #EXTINF:-1 tvg-name="Kime Niyet Kime Kısmet (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUZ6BKsrbLFd65BPuRXkbn8i6ta.jpg" group-title="KOMEDİ",Kime Niyet Kime Kısmet (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/677.mp4
+https://stream2.filbox.com.tr/live/hls/677.mp4
 #EXTINF:-1 tvg-name="Kimse Mükemmel Değildir (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBRoIlvUcGQJNyODHfwsFyNn3EE.jpg" group-title="KOMEDİ",Kimse Mükemmel Değildir (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/678.mp4
+https://stream2.filbox.com.tr/live/hls/678.mp4
 #EXTINF:-1 tvg-name="Kiralık Katil (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuA4ng9thWpFVFpHMR5FtlKaaTD.jpg" group-title="SUÇ",Kiralık Katil (1967)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/680.mp4
+https://stream2.filbox.com.tr/live/hls/680.mp4
 #EXTINF:-1 tvg-name="Amerikalı Bir Kız (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niHi0hJSryO5DpSVNCMASc3EELc.jpg" group-title="AİLE",Amerikalı Bir Kız (2008)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/681.mp4
+https://stream2.filbox.com.tr/live/hls/681.mp4
 #EXTINF:-1 tvg-name="Kite (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnbzXOrqQqlnklpIvQZM4qPzi5R.jpg" group-title="AKSİYON",Kite (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/682.mp4
+https://stream2.filbox.com.tr/live/hls/682.mp4
 #EXTINF:-1 tvg-name="Sihirli Plan (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q125RHUDgR4gjwh1QkfYuJLYkL.jpg" group-title="AİLE",Sihirli Plan (2019)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/683.mp4
+https://stream2.filbox.com.tr/live/hls/683.mp4
 #EXTINF:-1 tvg-name="Klonlar (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1smpoCGlNAO9noy2JShWB2eJOY.jpg" group-title="KORKU",Klonlar (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/684.mp4
+https://stream2.filbox.com.tr/live/hls/684.mp4
 #EXTINF:-1 tvg-name="Kóblic (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJkaGsuvPb4LZciIudFeZgXmApu.jpg" group-title="GERİLİM",Kóblic (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/685.mp4
+https://stream2.filbox.com.tr/live/hls/685.mp4
 #EXTINF:-1 tvg-name="Komplo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WVaq7KNnittRDkgmb58DaDEnK3.jpg" group-title="TARİH",Komplo (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/686.mp4
+https://stream2.filbox.com.tr/live/hls/686.mp4
 #EXTINF:-1 tvg-name="Komşu Sesler (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVSxFFAv7IoTccP7MTk5L92Gfon.jpg" group-title="SUÇ",Komşu Sesler (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/687.mp4
+https://stream2.filbox.com.tr/live/hls/687.mp4
 #EXTINF:-1 tvg-name="Konvoy (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0qxwkxJfIJHlcSUYgNxLZS2fMB.jpg" group-title="GERİLİM",Konvoy (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/688.mp4
+https://stream2.filbox.com.tr/live/hls/688.mp4
 #EXTINF:-1 tvg-name="Koralin ve Gizli Dünya (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg" group-title="AİLE",Koralin ve Gizli Dünya (2009)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/689.mp4
+https://stream2.filbox.com.tr/live/hls/689.mp4
 #EXTINF:-1 tvg-name="Korku Burnu (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8F3frV0RC7hwuStksz1N4OogA6r.jpg" group-title="SUÇ",Korku Burnu (1991)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/690.mp4
+https://stream2.filbox.com.tr/live/hls/690.mp4
 #EXTINF:-1 tvg-name="Korku Kulübü (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9slWyVotwxZNthMcKoeFaK3tgNz.jpg" group-title="KOMEDİ",Korku Kulübü (2004)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/691.mp4
+https://stream2.filbox.com.tr/live/hls/691.mp4
 #EXTINF:-1 tvg-name="Korku Kapanı (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o059PGrYLl28RM3TzHoY955SSH.jpg" group-title="BİLİM KURGU",Korku Kapanı (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/692.mp4
+https://stream2.filbox.com.tr/live/hls/692.mp4
 #EXTINF:-1 tvg-name="Korku Kayıtları (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxTFHGcS0AJab3olU9BjABf5Ogx.jpg" group-title="GİZEM",Korku Kayıtları (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/693.mp4
+https://stream2.filbox.com.tr/live/hls/693.mp4
 
 #EXTINF:-1 tvg-name="Korku Terapisi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luHpMTmU1ygtEgdOTSSj0i9nd8E.jpg" group-title="GİZEM",Korku Terapisi (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/694.mp4
-
+https://stream2.filbox.com.tr/live/hls/694.mp4
 #EXTINF:-1 tvg-name="Korku Yolu (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PrbIySSRpiCoS0wj93sBBV6AsQ.jpg" group-title="GERİLİM",Korku Yolu (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/695.mp4
+https://stream2.filbox.com.tr/live/hls/695.mp4
 #EXTINF:-1 tvg-name="Koruma (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9J1Z83JPZD4HSGaSl1dq8ozUkqV.jpg" group-title="GERİLİM",Koruma (2007)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0696.mp4
+https://stream2.filbox.com.tr/live/hls/696.mp4
 #EXTINF:-1 tvg-name="Korumalar (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2ZhT1B1SkTLy7zL9GfgNr1aEoD.jpg" group-title="SUÇ",Korumalar (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/697.mp4
+https://stream2.filbox.com.tr/live/hls/697.mp4
 #EXTINF:-1 tvg-name="Kriminal Polis (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUqimeu4KzFeqTvblNLvG8Y1DAo.jpg" group-title="SUÇ",Kriminal Polis (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/698.mp4
+https://stream2.filbox.com.tr/live/hls/698.mp4
 #EXTINF:-1 tvg-name="Kristy (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91e7BEQTtPj3TFs4F80I1DnWBMy.jpg" group-title="GERİLİM",Kristy (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/699.mp4
+https://stream2.filbox.com.tr/live/hls/699.mp4
 #EXTINF:-1 tvg-name="Kronik Büyükşehirli (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTodvV3YXQqk1k9x5zOgoq4ywBn.jpg" group-title="KOMEDİ",Kronik Büyükşehirli (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/700.mp4
+https://stream2.filbox.com.tr/live/hls/700.mp4
 #EXTINF:-1 tvg-name="Kuffs (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mF0eKbtnPxMVTPiLeKquUziMW06.jpg" group-title="KOMEDİ",Kuffs (1992)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/701.mp4
+https://stream2.filbox.com.tr/live/hls/701.mp4
 #EXTINF:-1 tvg-name="Kutu Cüceleri: Yaratıklar Aramızda (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxsL05F9SQnTCON0gB0C81tB7yW.jpg" group-title="AİLE",Kutu Cüceleri: Yaratıklar Aramızda (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/702.mp4
+https://stream2.filbox.com.tr/live/hls/702.mp4
 #EXTINF:-1 tvg-name="Kutup Ekspresi (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zc5P0TqXdkBnrUFoLcNt2ZG0ane.jpg" group-title="AİLE",Kutup Ekspresi (2004)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/703.mp4
+https://stream2.filbox.com.tr/live/hls/703.mp4
 #EXTINF:-1 tvg-name="Köstebek (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGRgNBz8ROpL4DjwbDAn1xCZAvE.jpg" group-title="GİZEM",Köstebek (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/704.mp4
+https://stream2.filbox.com.tr/live/hls/704.mp4
 #EXTINF:-1 tvg-name="Köstebek (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsL9UZPCmQKgl88wXwMulKuw9Jh.jpg" group-title="GİZEM",Köstebek (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/705.mp4
+https://stream2.filbox.com.tr/live/hls/705.mp4
 #EXTINF:-1 tvg-name="Kötüler (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Arefq9eI1z94Jtrbbuqzg9p5mf8.jpg" group-title="KOMEDİ",Kötüler (2019)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/706.mp4
+https://stream2.filbox.com.tr/live/hls/706.mp4
 #EXTINF:-1 tvg-name="Küp (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNwm6fpDqQ4WjwhYI8EW6LPklod.jpg" group-title="BİLİM KURGU",Küp (1997)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/707.mp4
+https://stream2.filbox.com.tr/live/hls/707.mp4
 #EXTINF:-1 tvg-name="Küp 2: Hiperküp (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEqqwtwUP7lm56VyeVONhv9JtYu.jpg" group-title="BİLİM KURGU",Küp 2: Hiperküp (2002)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/708.mp4
+https://stream2.filbox.com.tr/live/hls/708.mp4
 #EXTINF:-1 tvg-name="Kılıç Ustası (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OphvDPV3kbWLZDmkDPSLM3MIiA.jpg" group-title="AKSİYON",Kılıç Ustası (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/709.mp4
+https://stream2.filbox.com.tr/live/hls/709.mp4
 #EXTINF:-1 tvg-name="Kır Zincirlerini (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PL3ADi9IUuxC2VRfkJ2DzUaBk7.jpg" group-title="SUÇ",Kır Zincirlerini (2005)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/710.mp4
+https://stream2.filbox.com.tr/live/hls/710.mp4
 #EXTINF:-1 tvg-name="Kırmızı Beyaz Ve Mavi (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNCsRpkp3lq5qsLFYArjiby1SQN.jpg" group-title="GERİLİM",Kırmızı Beyaz Ve Mavi (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/711.mp4
+https://stream2.filbox.com.tr/live/hls/711.mp4
 #EXTINF:-1 tvg-name="Kısa Devre (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3eimdUK6lLe0iaSlLrYVQF3yeL.jpg" group-title="BİLİM KURGU",Kısa Devre (1986)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/712.mp4
+https://stream2.filbox.com.tr/live/hls/712.mp4
 #EXTINF:-1 tvg-name="Kıyamet (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmAq1fsprWHhFARdpPz0A46ylUS.jpg" group-title="BİLİM KURGU",Kıyamet (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/713.mp4
+https://stream2.filbox.com.tr/live/hls/713.mp4
 #EXTINF:-1 tvg-name="Kıyamete Bir Kala (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hC3Yw7hu7G87HY0avTGQyKboLT.jpg" group-title="BİLİM KURGU",Kıyamete Bir Kala (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/714.mp4
+https://stream2.filbox.com.tr/live/hls/714.mp4
 #EXTINF:-1 tvg-name="Earthfall (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCaPFrbKnAjfcz9fUIoX0slelbk.jpg" group-title="BİLİM KURGU",Earthfall (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/715.mp4
+https://stream2.filbox.com.tr/live/hls/715.mp4
 #EXTINF:-1 tvg-name="The Girl King (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJ1UYKX3NTy48YHqMkqLJwu5jt.jpg" group-title="ROMANTİK",The Girl King (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/716.mp4
+https://stream2.filbox.com.tr/live/hls/716.mp4
 #EXTINF:-1 tvg-name="Kızlar Yurdu (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tN8HzauIioA4GUEyVV0ik0QGPkD.jpg" group-title="KOMEDİ",Kızlar Yurdu (2002)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/717.mp4
+https://stream2.filbox.com.tr/live/hls/717.mp4
 #EXTINF:-1 tvg-name="Langırt - Metegol (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmXiZHRiJ3qma0sxh2LpqddlMJo.jpg" group-title="ROMANTİK",Langırt - Metegol (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/718.mp4
+https://stream2.filbox.com.tr/live/hls/718.mp4
 #EXTINF:-1 tvg-name="Lavanta (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAPvkv0XTeLFqlvMgtlFB8mqk3L.jpg" group-title="GERİLİM",Lavanta (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d04/719.mp4
+https://stream2.filbox.com.tr/live/hls/719.mp4
 #EXTINF:-1 tvg-name="Lazarus Etkisi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZNCtjNya3XwlZtL8T0PS4E5ilv.jpg" group-title="BİLİM KURGU",Lazarus Etkisi (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/720.mp4
+https://stream2.filbox.com.tr/live/hls/720.mp4
 #EXTINF:-1 tvg-name="Limehouse'un Gizemli Cinayetleri (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9NnEq4Be7hhwSvkNf6dOAD8ppi.jpg" group-title="GİZEM",Limehouse'un Gizemli Cinayetleri (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/721.mp4
+https://stream2.filbox.com.tr/live/hls/721.mp4
 #EXTINF:-1 tvg-name="Lola ve Yüzen Ev (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioWFCQtsdKKONWteWSG8KTrKO7o.jpg" group-title="AİLE",Lola ve Yüzen Ev (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/722.mp4
+https://stream2.filbox.com.tr/live/hls/722.mp4
 #EXTINF:-1 tvg-name="Mahallede Güzel Bir Gün (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9vCAVhDK375XyobVcKqzqzsUHE.jpg" group-title="AİLE",Mahallede Güzel Bir Gün (2019)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/723.mp4
+https://stream2.filbox.com.tr/live/hls/723.mp4
 #EXTINF:-1 tvg-name="Mahkeme (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYf9u5aaKcZ6FwZq2tAubvPH2PV.jpg" group-title="DRAM",Mahkeme (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/724.mp4
+https://stream2.filbox.com.tr/live/hls/724.mp4
 #EXTINF:-1 tvg-name="Mahşer Günü (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bANCVXN9kf8tIGRcrKNjikZUe0I.jpg" group-title="BİLİM KURGU",Mahşer Günü (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/725.mp4
+https://stream2.filbox.com.tr/live/hls/725.mp4
 #EXTINF:-1 tvg-name="Maigret Ölü Adam (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uQQ8M7SBkEpn68OHdZk8XT8noX.jpg" group-title="GİZEM",Maigret Ölü Adam (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/726.mp4
+https://stream2.filbox.com.tr/live/hls/726.mp4
 #EXTINF:-1 tvg-name="Maine (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTze8m40Zqpg64Amth7VUOhlCDs.jpg" group-title="DRAM",Maine (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/727.mp4
+https://stream2.filbox.com.tr/live/hls/727.mp4
 #EXTINF:-1 tvg-name="Maine'de Beş Gece (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6mjLAX3TNVPWjQo5TYlovkeq88.jpg" group-title="DRAM",Maine'de Beş Gece (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/728.mp4
+https://stream2.filbox.com.tr/live/hls/728.mp4
 #EXTINF:-1 tvg-name="Altın Adam (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjaAtWJqGomsE5qNQStHcHhSzES.jpg" group-title="KOMEDİ",Altın Adam (1963)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/729.mp4
+https://stream2.filbox.com.tr/live/hls/729.mp4
 #EXTINF:-1 tvg-name="Makas Eller (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg" group-title="ROMANTİK",Makas Eller (1990)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/730.mp4
+https://stream2.filbox.com.tr/live/hls/730.mp4
 #EXTINF:-1 tvg-name="Man of Tai Chi (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnuT1D0fsFu7chFLtcQqwPBaBVg.jpg" group-title="AKSİYON",Man of Tai Chi (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/731.mp4
+https://stream2.filbox.com.tr/live/hls/731.mp4
 #EXTINF:-1 tvg-name="Mank (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yzTcAtvzyZLLto4z04xobUK9el.jpg" group-title="TARİH",Mank (2020)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/732.mp4
+https://stream2.filbox.com.tr/live/hls/732.mp4
 #EXTINF:-1 tvg-name="Mara (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQDmXAef1Oc1SXci5mui2x5DJwt.jpg" group-title="SUÇ",Mara (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/733.mp4
+https://stream2.filbox.com.tr/live/hls/733.mp4
 #EXTINF:-1 tvg-name="Marie Kroyer (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwu8fuNhDaE1hrbcp5EEI7xJu8N.jpg" group-title="DRAM",Marie Kroyer (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/734.mp4
+https://stream2.filbox.com.tr/live/hls/734.mp4
 #EXTINF:-1 tvg-name="Marie Francine Aile Evi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfcoM69h0EKLXP8Qb0msvbi5rVB.jpg" group-title="KOMEDİ",Marie Francine Aile Evi (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/735.mp4
+https://stream2.filbox.com.tr/live/hls/735.mp4
 #EXTINF:-1 tvg-name="Marilyn ile Bir Hafta (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p95t2JEj7euDfJTvaOZ0WXgjQCW.jpg" group-title="ROMANTİK",Marilyn ile Bir Hafta (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/739.mp4
+https://stream2.filbox.com.tr/live/hls/739.mp4
 #EXTINF:-1 tvg-name="Masa 19 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crHZY0Ol1jsHUJ4suEKUKWmyLzA.jpg" group-title="KOMEDİ",Masa 19 (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/740.mp4
+https://stream2.filbox.com.tr/live/hls/740.mp4
 #EXTINF:-1 tvg-name="Masaan (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDg9Em9YJtIdIzvjMklmFsTBB0s.jpg" group-title="DRAM",Masaan (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/741.mp4
+https://stream2.filbox.com.tr/live/hls/741.mp4
 #EXTINF:-1 tvg-name="Masumiyetin Dayanılmaz Çekiciliği (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEU7yeCRNVlodphuIeqrTfKUIF0.jpg" group-title="KOMEDİ",Masumiyetin Dayanılmaz Çekiciliği (2019)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/742.mp4
+https://stream2.filbox.com.tr/live/hls/742.mp4
 #EXTINF:-1 tvg-name="Mavi Kadife (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hlgzJXLgyECS1mk3LSN3E72l5N.jpg" group-title="GİZEM",Mavi Kadife (1986)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/743.mp4
+https://stream2.filbox.com.tr/live/hls/743.mp4
 #EXTINF:-1 tvg-name="Cavemen (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjHzJuERChMzXUvc05WmHkf0PKK.jpg" group-title="KOMEDİ",Cavemen (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/744.mp4
+https://stream2.filbox.com.tr/live/hls/744.mp4
 #EXTINF:-1 tvg-name="Meclis (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h49K8pcfoEJWoaKmg9vHm0oKeX8.jpg" group-title="TARİH",Meclis (2007)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/745.mp4
+https://stream2.filbox.com.tr/live/hls/745.mp4
 #EXTINF:-1 tvg-name="Mektuplar (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qnZycQWka7I8TbZ7UcvJ6I3weB.jpg" group-title="DRAM",Mektuplar (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/746.mp4
+https://stream2.filbox.com.tr/live/hls/746.mp4
 #EXTINF:-1 tvg-name="Meleklerin İşareti (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LCEXCm3rZl785ZKelxMpJFuZcw.jpg" group-title="GERİLİM",Meleklerin İşareti (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/747.mp4
+https://stream2.filbox.com.tr/live/hls/747.mp4
 #EXTINF:-1 tvg-name="Merhaba Herman (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbG49b8cPgUBIC1k41o5LiUVDqq.jpg" group-title="DRAM",Merhaba Herman (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/748.mp4
+https://stream2.filbox.com.tr/live/hls/748.mp4
 #EXTINF:-1 tvg-name="Metro Manila (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OHaFLI0vIvW1z2kklNfpQZV2W7.jpg" group-title="SUÇ",Metro Manila (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/749.mp4
+https://stream2.filbox.com.tr/live/hls/749.mp4
 #EXTINF:-1 tvg-name="Mezarlık Kavşağı (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5ItIOSRFzi2huaT3ceNJLK6M1w.jpg" group-title="KOMEDİ",Mezarlık Kavşağı (2010)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/750.mp4
+https://stream2.filbox.com.tr/live/hls/750.mp4
 #EXTINF:-1 tvg-name="Meçhul Aziz (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRZlSz4gvTjhk3gxsOUUcPZCp1D.jpg" group-title="DRAM",Meçhul Aziz (2020)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/751.mp4
+https://stream2.filbox.com.tr/live/hls/751.mp4
 #EXTINF:-1 tvg-name="Meşru Müdafa (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6NBR3VHf6xY082R1EkEj5HTTdE.jpg" group-title="GİZEM",Meşru Müdafa (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/752.mp4
+https://stream2.filbox.com.tr/live/hls/752.mp4
 #EXTINF:-1 tvg-name="Kayıp Karıncalar Vadisi (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOoAoHhOcunlUsB4FXhbfwu52rT.jpg" group-title="AİLE",Kayıp Karıncalar Vadisi (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/753.mp4
+https://stream2.filbox.com.tr/live/hls/753.mp4
 #EXTINF:-1 tvg-name="Mirasçılar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6u9j7A80s5mGuVnFniePGaP5v5.jpg" group-title="DRAM",Mirasçılar (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/754.mp4
-
-
-
-
+https://stream2.filbox.com.tr/live/hls/754.mp4
 
 #EXTINF:-1 tvg-name="Mojave (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZLpBNG84wAI5c9XCQBa7w78ElX.jpg" group-title="GERİLİM",Mojave (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/755.mp4
+https://stream2.filbox.com.tr/live/hls/755.mp4
 #EXTINF:-1 tvg-name="Moxie (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLBo1Ca9PggcWY98ItW5ZkdxTuA.jpg" group-title="KOMEDİ",Moxie (2021)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/756.mp4
+https://stream2.filbox.com.tr/live/hls/756.mp4
 #EXTINF:-1 tvg-name="Mutlu Lazzaro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqiVvS37fAYGA8yA2JLlgdDPjk4.jpg" group-title="DRAM",Mutlu Lazzaro (2018)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/757.mp4
+https://stream2.filbox.com.tr/live/hls/757.mp4
 #EXTINF:-1 tvg-name="Mutlak Kadınlar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A5cWPvPnw7vY1Dfg3DSyLG0k96.jpg" group-title="DRAM",Mutlak Kadınlar (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/758.mp4
+https://stream2.filbox.com.tr/live/hls/758.mp4
 #EXTINF:-1 tvg-name="Ne duruyorsun (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEaVD2RJADGWUhlBkhGV0vQoHrP.jpg" group-title="KOMEDİ",Ne duruyorsun (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/759.mp4
+https://stream2.filbox.com.tr/live/hls/759.mp4
 #EXTINF:-1 tvg-name="Ne Dilersen (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCWKgeKjganJFfzNH9TLdv8CIO9.jpg" group-title="BİLİM KURGU",Ne Dilersen (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/760.mp4
+https://stream2.filbox.com.tr/live/hls/760.mp4
 #EXTINF:-1 tvg-name="Ne Yerde Ne Gökte (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63yQnFQpTUPFxQyyKZRD2Y6eDH.jpg" group-title="SAVAŞ",Ne Yerde Ne Gökte (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/761.mp4
+https://stream2.filbox.com.tr/live/hls/761.mp4
 #EXTINF:-1 tvg-name="Noel Baba'yı Kurtarmak (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzHkq1cscpCPNpuJQcYlEk0abMr.jpg" group-title="AİLE",Noel Baba'yı Kurtarmak (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/762.mp4
+https://stream2.filbox.com.tr/live/hls/762.mp4
 #EXTINF:-1 tvg-name="Palyaço (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXs4j9J8aZN0QEU90eJ5SDpirVu.jpg" group-title="KOMEDİ",Palyaço (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/763.mp4
+https://stream2.filbox.com.tr/live/hls/763.mp4
 #EXTINF:-1 tvg-name="Para Avcısı (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywn2c1sSfdNdJB5O9Hoy3ETfTY2.jpg" group-title="KOMEDİ",Para Avcısı (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/764.mp4
+https://stream2.filbox.com.tr/live/hls/764.mp4
 #EXTINF:-1 tvg-name="Para Çaydanlığı (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6txTmb8OIimrQezgD8ERMmrrbnT.jpg" group-title="KOMEDİ",Para Çaydanlığı (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/765.mp4
+https://stream2.filbox.com.tr/live/hls/765.mp4
 #EXTINF:-1 tvg-name="Paranormal Activity (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fP4fN0TvWjS09NAsEgi0zqrqgtr.jpg" group-title="GİZEM",Paranormal Activity (2007)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/766.mp4
+https://stream2.filbox.com.tr/live/hls/766.mp4
 #EXTINF:-1 tvg-name="Paranormal Activity 3 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nYranPiWdNmbD5PRPPSL7VUFTS.jpg" group-title="GİZEM",Paranormal Activity 3 (2011)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/767.mp4
+https://stream2.filbox.com.tr/live/hls/767.mp4
 #EXTINF:-1 tvg-name="Paranormal Activity: İşaretliler (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJYij92uzM4qP3mveY0zbAHTeEH.jpg" group-title="GİZEM",Paranormal Activity: İşaretliler (2014)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/768.mp4
+https://stream2.filbox.com.tr/live/hls/768.mp4
 #EXTINF:-1 tvg-name="Paranormal Activity 4 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/na5tAslm1kGNcft083AIXMTOsYR.jpg" group-title="KORKU",Paranormal Activity 4 (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/769.mp4
+https://stream2.filbox.com.tr/live/hls/769.mp4
 #EXTINF:-1 tvg-name="Paranormal Activity 5: Hayalet Boyutu (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/noe5qIszoqIldzIoel5IRJXkrc3.jpg" group-title="KORKU",Paranormal Activity 5: Hayalet Boyutu (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/770.mp4
+https://stream2.filbox.com.tr/live/hls/770.mp4
 #EXTINF:-1 tvg-name="Parçalanmış (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27oonhoCgaf0qKWIkNF3EkqsWON.jpg" group-title="GERİLİM",Parçalanmış (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/771.mp4
+https://stream2.filbox.com.tr/live/hls/771.mp4
 #EXTINF:-1 tvg-name="Pervane (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gemWZTvrYSPIDzlRm8a05UyJ6P9.jpg" group-title="SAVAŞ",Pervane (2017)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/772.mp4
+https://stream2.filbox.com.tr/live/hls/772.mp4
 #EXTINF:-1 tvg-name="Pist Dışında (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oU5EewvvB7EZ03ofs6mdzFc2roC.jpg" group-title="KOMEDİ",Pist Dışında (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/773.mp4
+https://stream2.filbox.com.tr/live/hls/773.mp4
 #EXTINF:-1 tvg-name="Randevu (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKAbEgYlxg8rbZAQQPU5tInI5Om.jpg" group-title="ROMANTİK",Randevu (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/774.mp4
+https://stream2.filbox.com.tr/live/hls/774.mp4
 #EXTINF:-1 tvg-name="Rehineler (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxDQZvhD1gOcMr7ywPqIOprVjZY.jpg" group-title="GİZEM",Rehineler (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/775.mp4
+https://stream2.filbox.com.tr/live/hls/775.mp4
 #EXTINF:-1 tvg-name="Rio 2096 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqvJxBR3Tpj9semsPYgCZ2tE3UZ.jpg" group-title="BİLİM KURGU",Rio 2096 (2013)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/776.mp4
+https://stream2.filbox.com.tr/live/hls/776.mp4
 #EXTINF:-1 tvg-name="Robby ve Tobby (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssCEE0bfj5gawzwZeGfqrGQtU3f.jpg" group-title="AİLE",Robby ve Tobby (2016)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/777.mp4
+https://stream2.filbox.com.tr/live/hls/777.mp4
 #EXTINF:-1 tvg-name="Rodencia and The Princess Tooth (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGSGicR20jsVAoNYUwtbikC9Irq.jpg" group-title="MACERA",Rodencia and The Princess Tooth (2012)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/778.mp4
+https://stream2.filbox.com.tr/live/hls/778.mp4
 #EXTINF:-1 tvg-name="Ruhlar Evi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8Btwn93gNycI1tFo29Gy1zB5kv.jpg" group-title="KORKU",Ruhlar Evi (2015)
-https://stream2.filbox.com.tr:443/movie/7d6b0f92687edd8eb008a8b4f223f1d0/779.mp4
+https://stream2.filbox.com.tr/live/hls/779.mp4
 
 
 
@@ -10536,6 +10566,8 @@ https://stream2.filbox.com.tr/live/hls/1000/992.mp4
 https://stream2.filbox.com.tr/live/hls/1000/993.mp4
 #EXTINF:-1 tvg-name="Beklemede (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCtH2uita7BGP9ohGt7yNmbAz8r.jpg" group-title="KOMEDİ",Beklemede (2014)
 https://stream2.filbox.com.tr/live/hls/1000/994.mp4
+#EXTINF:-1 tvg-name="Belalılar (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2xJghA0tanD1pY1at8DTNjzAta.jpg" group-title="KOMEDİ",Belalılar (1974)
+https://stream2.filbox.com.tr/live/hls/995.mp4
 #EXTINF:-1 tvg-name="Beni Suçlu Bulun (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8M0dkX7jOor7exKor1txoUl9Ynu.jpg" group-title="KOMEDİ",Beni Suçlu Bulun (2006)
 https://stream2.filbox.com.tr/live/hls/1000/996.mp4
 #EXTINF:-1 tvg-name="Beni Yargılama (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHCgRQG7WZ5ypKCVpF2awiV9OzK.jpg" group-title="KOMEDİ",Beni Yargılama (2011)
