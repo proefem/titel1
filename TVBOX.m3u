@@ -16,9 +16,9 @@ https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8
 https://anka@tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
-http://amtv1-2.livestreamingcdn.com:80/gt-atv-tv/playlist.m3u8
+http://116.202.238.88:80/ATV_TR/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™yᴇᴅᴇᴋ
-https://anka@bozztv.com/inim03/live1/atv-tv/playlist.m3u8
+https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᵁᴴᴰ⁺™
 https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -31,7 +31,7 @@ https://anka@dogus-live.daioncdn.net/startv/startv_720p.m3u8
 http://amtv1-2.livestreamingcdn.com:80/gt-startv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺™
-http://116.202.238.88/KANALD_TR/playlist.m3u8
+http://116.202.238.88:80/KANALD_TR/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺yᴇᴅᴇᴋ
 http://bozztv.com:80/gin-36bay4/gt-kanald-2/playlist.m3u8
 
@@ -615,6 +615,8 @@ https://canli.haber365.com.tr/tr/tgrtbelgesel/index.m3u8
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 group-title="BELGESEL"  tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg" ,DMAX HD
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 group-title="BELGESEL"  tvg-id="" tvg-logo="https://i.hizliresim.com/g2ytvh9.png" ,LOVE NATURE ᴴᴰ
+http://95.67.12.82:9098
 #EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_424.png" group-title="BELGESEL",DISCOVERY CHANNEL HD
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_423.png" group-title="BELGESEL",DISCOVERY SCIENCE HD
