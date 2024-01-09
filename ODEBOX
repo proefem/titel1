@@ -96,8 +96,14 @@ http://hw1.jemtv.com/app/tv5/playlist.m3u8
 #EXTINF:0 tvg-id="" type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV
 https://anka@live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 
-
-
+#EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN  TV ᴴᴰ
+https://embedlp.b-cdn.net/womantv.m3u8
+#EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://womanlife.tv/images/logo.png" group-title="ULUSAL" ,WOMAN LİFE TV ʜᴅ
+https://yayin30.haber100.com/live/womanlifetv/chunklist.m3u8
+#EXTINF:-1 tvg-id="tvmor.tr"tvg-url="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" aspect-ratio="16:9"    group-title="ULUSAL",MOR TV ᴴᴰ
+https://anka@vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8?
+#EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://www.canlitv.day/kanal/logo/67/13388.jpg" group-title="ULUSAL" ,MODA MAGAZİN TV ᴴᴰ
+https://yayin1.canlitv.day/canlitv/modamagazintv.stream/playlist.m3u8?hash=2d936ceb6df03ae8bf93a1e3bb5c3252
 
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber HD TR" tvg-logo="https://picon-13398.kxcdn.com/trthaberhdtr.jpg"tvg-url="" group-title="HABER",TRT HABER  ᴴᴰ⁺
@@ -299,6 +305,9 @@ https://bozztv.com/inim03/live1/tv8_5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/943.png" group-title="SPOR", TiviBU SPOR ʜᴅ
 https://bozztv.com/gin-36bay3/gt-tivibuspor/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="SPOR", Exxen Sport (maçta açılır)
+http://satscream.000webhostapp.com/GinikoHD.php?ID=801
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/944.jpg" group-title="SPOR", BeIN Sports Haber ʜᴅ
 https://bozztv.com/inim03/live1/beinsportshaber/playlist.m3u8
@@ -885,6 +894,24 @@ http://31.40.155.227:9595/play/Timeless_Dizi_Channel
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/89h44qe.png" aspect-ratio="16:9"  tvg-language="Turkish" group-title="Turkey ➾ Sinema" ,KANALD DRAMA
 http://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="SINEMA TV" tvg-id="Sinema.TV.tr" tvg-logo="https://i.ibb.co/3zdcskY/sinema-tv.png" group-title="SINEMA",SINEMA TV
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/62/ts
+#EXTINF:-1 tvg-name="SINEMA TV 2" tvg-id="Sinema.TV.2.tr" tvg-logo="https://i.ibb.co/WKNvSy4/sinema-tv-2.png" group-title="SINEMA",SINEMA TV 2
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/54/ts
+#EXTINF:-1 tvg-name="SINEMA TV 1002" tvg-id="Sinema.TV.1002.tr" tvg-logo="https://i.ibb.co/XFqDngp/sinema-1002.png" group-title="SINEMA",SINEMA TV 1002
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/47/ts
+#EXTINF:-1 tvg-name="SINEMA TV COMEDY" tvg-id="Sinema.TV.Comedy.tr" tvg-logo="https://i.ibb.co/cJqRc3V/sinema-komedi.png" group-title="SINEMA",SINEMA TV COMEDY
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/46/ts
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON" tvg-id="Sinema.TV.Aksiyon.tr" tvg-logo="https://i.ibb.co/mt49Z2J/sinema-aksiyon.png" group-title="SINEMA",SINEMA TV AKSIYON
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/40/ts
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON 2" tvg-id="Sinema.TV.Aksiyon.2.tr" tvg-logo="https://i.ibb.co/3fvCd4s/sinema-aksiyon-2.png" group-title="SINEMA",SINEMA TV AKSIYON 2
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/41/ts
+#EXTINF:-1 tvg-name="SINEMA TV YERLI 2" tvg-id="Sinema.TV.Yerli.2.tr" tvg-logo="https://i.ibb.co/d2B8dFB/sinema-yerli-2.png" group-title="SINEMA",SINEMA TV YERLI 2
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/32/ts
+#EXTINF:-1 tvg-name="SINEMA TV AILE" tvg-id="Sinema.TV.Aile.tr" tvg-logo="https://i.ibb.co/LP5PxT6/sinema-aile.png" group-title="SINEMA",SINEMA TV AILE
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/59/ts
+#EXTINF:-1 tvg-name="SINEMA TV AILE 2" tvg-id="Sinema.TV.Aile.2.tr" tvg-logo="https://i.ibb.co/FVbtJYt/sinema-aile-2.png" group-title="SINEMA",SINEMA TV AILE 2
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/53/ts
 
 
 
