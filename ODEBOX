@@ -160,6 +160,9 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="HABER",KRT TV ᵁᴴᴰ⁺
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 
+#EXTINF:-1 tvg-id="CADDE TV.TR" tvg-name=" HD TR" tvg-logo="https://www.volotv.com/media/images/tvlogo/caddetv-tvlive-13bp.webp" group-title="HABER",CADDE TVᵁᴴᴰ⁺™
+http://bozztv.com/gin-36bay2/gin-caddetv/index.m3u8
+http://164.132.23.92:22372/cadde/cadde/chunklist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT TR" tvg-logo="https://picon-13398.kxcdn.com/bloomberg.jpg" group-title="HABER",BLOOMBERG HT ᵁᴴᴰ⁺
 https://anka@bloomberght-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
@@ -730,7 +733,26 @@ http://51.159.220.148:8989/90/ts
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="BELGESEL", ENGLISH CLUB TV 
 http://51.159.220.148:8989/92/ts 
 
-
+#EXTINF:0 group-title="BELGESEL" tvg-id="2012" tvg-logo="http://epg.it999.ru/img/2012.png" tvg-rec="3",Viju+ Planet HD
+http://91.207.115.228:5000/c94
+#EXTINF:0 group-title="BELGESEL" tvg-id="521" tvg-logo="http://epg.it999.ru/img/521.png" tvg-rec="3",Viju Explore HD orig
+http://91.207.115.228:5000/c95
+#EXTINF:0 group-title="BELGESEL" tvg-id="277" tvg-logo="http://epg.it999.ru/img/277.png" tvg-rec="3",Viju History HD orig
+http://91.207.115.228:5000/c96
+#EXTINF:0 group-title="BELGESEL" tvg-id="765" tvg-logo="http://epg.it999.ru/img/765.png" tvg-rec="3",Viju Nature orig
+http://91.207.115.228:5000/c97
+#EXTINF:0 group-title="BELGESEL" tvg-id="2283" tvg-logo="http://epg.it999.ru/img/2283.png" tvg-rec="7",Дикий
+http://91.207.115.228:5000/c98
+#EXTINF:0 group-title="BELGESEL" tvg-id="2627" tvg-logo="http://epg.it999.ru/img/2627.png" tvg-rec="3",Диалоги о рыбалке HD
+http://91.207.115.228:5000/c109
+#EXTINF:0 group-title="BELGESEL" tvg-id="3916" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery Channel TR
+http://91.207.115.228:5000/c146
+#EXTINF:0 group-title="BELGESEL" tvg-id="365" tvg-logo="http://epg.it999.ru/img/365.png" tvg-rec="7",Animal Planet HD
+http://91.207.115.228:5000/c147
+#EXTINF:0 group-title="BELGESEL" tvg-id="3918" tvg-logo="http://epg.it999.ru/img/3918.png" tvg-rec="3",Discovery Science TR
+http://91.207.115.228:5000/c148
+#EXTINF:0 group-title="BELGESEL" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery orig
+http://91.207.115.228:5000/c150
 
 
 
@@ -1168,6 +1190,9 @@ https://ythls-v2.onrender.com/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",TiViTURK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",Sinema HD
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/OTT_SPORT/chunklist_w587040219.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="Turkey ➾ Sinema",TELE ON ᴴᴰ
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/playlist.m3u8
