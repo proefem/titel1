@@ -315,10 +315,10 @@ https://bozztv.com/inim03/live1/aspor/playlist.m3u8
 https://bozztv.com/inim03/live1/tv8_5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/943.png" group-title="SPOR", TiviBU SPOR ʜᴅ
-https://bozztv.com/gin-36bay3/gt-tivibuspor/playlist.m3u8
+http://213.172.73.171:8081/nimble_live/1157__TIVIBU_Spor/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="SPOR", Exxen Sport (maçta açılır)
-http://satscream.000webhostapp.com/GinikoHD.php?ID=801
+https://trn10.tulix.tv/gt-exxen1/tracks-v1a1/mono.m3u8?
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/944.jpg" group-title="SPOR", BeIN Sports Haber ʜᴅ
@@ -462,6 +462,14 @@ https://g-350610.google-cd.net/live/15.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; ar
 https://g-350610.google-cd.net/live/3030.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="NeTSPOR",S Sport 2ʜᴅ
 https://g-350610.google-cd.net/live/3031.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="NeTSPOR",Smart Sport 1ʜᴅ
+https://g-350610.google-cd.net/live/8888882.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="NeTSPOR",Smart Sport 2ʜᴅ
+https://g-350610.google-cd.net/live/8888881.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)    
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://picon-13398.kxcdn.com/turkey.jpg" group-title="SelcuKSporT",▬ Turkey [TR]  ▬
@@ -711,16 +719,31 @@ https://trn10.tulix.tv/gt-tlc/index.m3u8
 #EXTINF:-1 group-title="BELGESEL"  tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg" ,DMAX HD
 https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
 https://trn10.tulix.tv/gt-dmax/index.m3u8
+
+#EXTINF:-1,HABITAT TV
+http://proxy.linkeddatafragments.org/http://platinumwep.site/sbots/getrok/play.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYzMzcxNjgyOWZmMmQwN2JlMDg1Zg==
+
 #EXTINF:-1 group-title="BELGESEL"  tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/455023296707170305/IN9p98kp_400x400.jpeg" ,YABAN TV HD
 https://trn10.tulix.tv/gt-yabantv/index.m3u8
-#EXTINF: -1 tvg-id="dt.305" tvg-name="History Channel Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/historyhd.png" group-title="BELGESEL", History CHANNEL ᴴᴰ
-#http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
+
+#EXTINF:-1 group-title="SINEMA HD",BEIN IZ TV |H
+http://proxy.linkeddatafragments.org/http://platinumwep.site/sbots/getrok/play.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MjY4Njc5ZGIyOGVmM2EzNDRk==
+#EXTINF:-1 group-title="SINEMA HD",BEIN GURME |E
+http://proxy.linkeddatafragments.org/http://platinumwep.site/sbots/getrok/play.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUxNTk5ODM5MGNiYjczMTk0NjljNA==
+
 #EXTINF:-1 group-title="BELGESEL"  tvg-id="" tvg-logo="https://i.hizliresim.com/g2ytvh9.png" ,LOVE NATURE ᴴᴰ
 http://95.67.12.82:9098
+#EXTINF:-1 group-title="SINEMA HD",BBC EARTH |H
+http://proxy.linkeddatafragments.org/http://platinumwep.site/sbots/getrok/play.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNTg0NDIyMjIxYjBmMmZjYjM3ZWU==
+
+#EXTINF: -1 tvg-id="dt.305" tvg-name="History Channel Hd" tvg-logo="http://logo.apk-red.com/cdn/haber/historyhd.png" group-title="BELGESEL", History CHANNEL ᴴᴰ
+#http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
+
 #EXTINF:-1 group-title="BELGELSEL HD",HISTORY CHANNEL
-http://platinumwep.site/sbots/getrok/play.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MTQ0NzQxOTM4YTE5ZDFjNmFlYTc==
-#EXTINF:-1 group-title="BELGELSEL HD",VIASAT HISTORY 
-http://platinumwep.site/sbots/getrok/play.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzOTE2Njg2NTUyYzE4NTM0ZWVlZDc==
+http://proxy.linkeddatafragments.org/http://platinumwep.site/sbots/getrok/play.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MTQ0NzQxOTM4YTE5ZDFjNmFlYTc==
+#EXTINF:-1 group-title="BELGELSEL HD",VIASAT HISTORY HD+ |D
+http://proxy.linkeddatafragments.org/http://platinumwep.site/sbots/getrok/play.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwOTM3NjUwMWM3YzMxYjQ0ZjMyMw==
+
 #EXTINF:-1 tvg-name="VIASAT EXPLORE" tvg-id="Viasat.Explore.tr" tvg-logo="https://i.ibb.co/jDB9dc5/viasat-explore.png" group-title="BELGESEL",VIASAT EXPLORE
 http://51.159.220.148:8989/51/ts 
 
@@ -740,6 +763,14 @@ https://edge02.odtv.az/o3/natgeo/playlist.m3u8|User-Agent=ExoPlayer2/2.37
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 https://edge02.odtv.az/o3/natgeowild/playlist.m3u8|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 group-title="BELGELSEL",ANIMAL PLANET FR
+http://proxy.linkeddatafragments.org/http://platinumwep.site/sbots/getrok/play.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0Mjc0MDQzMDc3NmY3MjM0ZGFlYjk==
+#EXTINF:-1 group-title="BELGELSEL HD",SICIENCE VICE FR
+http://proxy.linkeddatafragments.org/http://platinumwep.site/sbots/getrok/play.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcwNzYyNjQ0Njg2MzRiNmJiNDFjOA==
+#EXTINF:-1 group-title="BELGELSEL HD",HISTORY FR
+http://proxy.linkeddatafragments.org/http://platinumwep.site/sbots/getrok/play.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMjU5MDE2OTBlZDhiODllNmY4MTE==
+
+
 #EXTINF:-1 tvg-id=" group-title="BELGESEL" tvg-logo="https://efesdosttv.com.tr/uploads/2023/11/13/170042_ortaalogo.jpg",EFES DOST TV
 http://cdn-efesdosttv.yayin.com.tr/efesdosttv/efesdosttv/chunklist_w23655948.m3u8
 #EXTINF:-1 tvg-id=" group-title="BELGESEL" tvg-logo="https://duckduckgo.com/i/1411c682.png",Horse & Country
@@ -839,22 +870,23 @@ https://ythls-v2.onrender.com/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
 #http://tv56245.ozelip.com:2052/ilkguntv/ilkguntv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Turkey ➾ Sinema", YEŞİLÇAM sinevizyon1 ᴴᴰ
-https://bozztv.com/gin-36bay3/gt-sinevizyon1/playlist.m3u8
+http://gineu10.bozztv.com:80/gin-trn09/gt-sinevizyon-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1218.jpg" group-title="Turkey ➾ Sinema", YEŞİLÇAM sinevizyon2 ᴴᴰ
-https://bozztv.com/gin-36bay3/gt-sinevizyon2/playlist.m3u8
+http://gineu10.bozztv.com:80/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1219.jpg" group-title="Turkey ➾ Sinema", YEŞİLÇAM sinevizyon3 ᴴᴰ
-https://bozztv.com/gin-36bay3/gt-sinevizyon3/playlist.m3u8
+http://gineu10.bozztv.com:80/gin-trn09/gt-sinevizyon-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/207.png" group-title="Turkey ➾ Sinema", YEŞİLÇAM 1 ᴴᴰ
-https://bozztv.com/gin-36bay3/gt-yesilcamtv1/playlist.m3u8
-
+http://gineu10.bozztv.com:80/gin-trn09/gt-yesilcamtv1/tracks-v1a1/mono.m3u8
+#http://trn09.tulix.tv/gt-yesilcamtv1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1215.png" group-title="Turkey ➾ Sinema", YEŞİLÇAM 2 ᴴᴰ
-https://bozztv.com/gin-36bay3/gt-yesilcamtv2/playlist.m3u8
+http://gineu10.bozztv.com:80/gin-trn09/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1216.png" group-title="Turkey ➾ Sinema", YEŞİLÇAM 3 ᴴᴰ
-https://bozztv.com/gin-36bay3/gt-yesilcamtv3/playlist.m3u8
+http://gineu10.bozztv.com:80/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
+#http://trn09.tulix.tv/gt-yesilcamtv3/index.m3u8
 
 #EXTINF:-0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",YESILCAM 1 TV
 https://ythls-v2.onrender.com/channel/UCulg-mlXf314L1pemPqCVng.m3u8
@@ -866,7 +898,7 @@ https://ythls-v2.onrender.com/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="Turkey ➾ Sinema",TELE ON ᴴᴰ
-https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/playlist.m3u8
+https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroups_live_4kultrahd_lisansli/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.farkturktv.com/upload/tema/20211015__5363885760.jpg"group-title="Turkey ➾ Sinema" ,FARKTURK ᴴᴰ
 http://palatv34.ozelip.com:22372/farkturktv/farkturktv/playlist.m3u8
@@ -1099,17 +1131,17 @@ http://51.159.220.148:8989/58/ts
 
 #EXTINF:-1 group-title="BELGESEL"  tvg-id="TRTBelgeselHD.tr" tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"     ,TRT BELGESEL ᴴᴰ
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-https://trn10.tulix.tv/gt-trtbelgesel/index.m3u8
+#https://trn10.tulix.tv/gt-trtbelgesel/index.m3u8
 #EXTINF:-1 group-title="BELGESEL"  tvg-id"tgrtbelgesel.tr" tvg-logo="https://www.canlitv.me/poster/tgrt-belgesel.png"     ,TGRT BELGESEL ᴴᴰ
 https://anka@ensonhaber-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1 tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://i.imgur.com/ve4p5te.png"aspect-ratio="16:9"   group-title="BELGESEL",BIZIM EV ᴴᴰ
 http://pull1-poc.blutv.com/live/M7ZNL3M4/M7ZNL3M4_720p.m3u8
 #EXTINF:-1 group-title="BELGESEL"  tvg-id="TLC.tr"  tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"    ,TLC ᴴᴰ
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8.
-https://trn10.tulix.tv/gt-tlc/index.m3u8
+#https://trn10.tulix.tv/gt-tlc/index.m3u8
 #EXTINF:-1 group-title="BELGESEL"  tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg" ,DMAX ᴴᴰ
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-https://trn10.tulix.tv/gt-dmax/index.m3u8
+#https://trn10.tulix.tv/gt-dmax/index.m3u8
 #EXTINF:-1 group-title="BELGESEL"  tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/455023296707170305/IN9p98kp_400x400.jpeg" ,YABAN TV HD
 https://trn10.tulix.tv/gt-yabantv/index.m3u8
 
@@ -1205,22 +1237,22 @@ https://ythls-v2.onrender.com/video/UCOqe-SFN8ie4ZMQ0.m3u8
 #http://tv56245.ozelip.com:2052/ilkguntv/ilkguntv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Turkey ➾ Sinema", YEŞİLÇAM sinevizyon1 ᴴᴰ
-https://bozztv.com/gin-36bay3/gt-sinevizyon1/playlist.m3u8
+http://bozztv.com:80/gin-trn09/gt-sinevizyon-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1218.jpg" group-title="Turkey ➾ Sinema", YEŞİLÇAM sinevizyon2 ᴴᴰ
-https://bozztv.com/gin-36bay3/gt-sinevizyon2/playlist.m3u8
+http://bozztv.com:80/gin-trn09/gt-sinevizyon-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1219.jpg" group-title="Turkey ➾ Sinema", YEŞİLÇAM sinevizyon3 ᴴᴰ
-https://bozztv.com/gin-36bay3/gt-sinevizyon3/playlist.m3u8
+http://bozztv.com:80/gin-trn09/gt-sinevizyon-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/207.png" group-title="Turkey ➾ Sinema", YEŞİLÇAM 1 ᴴᴰ
-https://bozztv.com/gin-36bay3/gt-yesilcamtv1/playlist.m3u8
+http://bozztv.com:80/gin-trn09/gt-yesilcamtv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1215.png" group-title="Turkey ➾ Sinema", YEŞİLÇAM 2 ᴴᴰ
-https://bozztv.com/gin-36bay3/gt-yesilcamtv2/playlist.m3u8
+http://bozztv.com:80/gin-trn09/gt-yesilcamtv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1216.png" group-title="Turkey ➾ Sinema", YEŞİLÇAM 3 ᴴᴰ
-https://bozztv.com/gin-36bay3/gt-yesilcamtv3/playlist.m3u8
+http://bozztv.com:80/gin-trn09/gt-yesilcam-tv3/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Turkey ➾ Sinema"  tvg-id="gulsahfilm"             tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" ,YESILCAM 4 ᴴᴰ
