@@ -15,7 +15,7 @@ https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
 http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™yᴇᴅᴇᴋ
-https://trn10.tulix.tv/gt-atv-tv/tracks-v1a1/mono.m3u8? 
+http://bozztv.com/gin-trn09/gin-atvv/index.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᴴᴰ⁺™
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
@@ -25,7 +25,7 @@ https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᴴᴰ⁺™
 https://anka@dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺™yᴇᴅᴇᴋ
-https://trn10.tulix.tv/gt-startv/tracks-v1a1/mono.m3u8? 
+http://bozztv.com/gin-trn09/gin-startv/index.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᴴᴰ⁺™
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
@@ -64,7 +64,7 @@ https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8
 https://tv4dvr.blutv.com/blutv_tv4_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" aspect-ratio="16:9"    group-title="ULUSAL",A2 ᵁᴴᴰ⁺
-https://c.fulltvizle.com/a2/index.m3u8
+http://50.7.218.122:8080/a2hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
 http://stream.tvcdn.net/eglence/show-max.m3u8
@@ -226,7 +226,7 @@ https://pull1-poc.blutv.com/live/Z9N2GCPN/Z9N2GCPN_720p.m3u8
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="FlashTV.tr"tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="HABER",FLASH TV ᴴᴰ
-https://c.fulltvizle.com/flash/index.m3u8
+https://flashtvdvr.blutv.com/blutv_flashtv_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="HalkTV.tr"tvg-name="Halk TV TR"  tvg-logo="https://picon-13398.kxcdn.com/halktvtr.jpg" group-title="HABER",HALK TV ᵁᴴᴰ⁺
 https://anka@halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
@@ -1252,6 +1252,9 @@ https://anka@play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",blutv PLAY 2ᴴᴰ
 https://anka@play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
 
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",FILMBOX
+http://185.234.111.229:8000/play/a085
+
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema" tvg-name="",MAX TURK
 http://platinumwep.site/sbots/getrok/play.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NTkyNzk5MjFhYTYxMjVjYTcwYzQ==
@@ -2252,9 +2255,6 @@ https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="myzen-tv"tvg-logo="https://picon.ml/myzen-tv.png" tvg-language="Turkish" group-title="RELAX",MyZen TV ᵁᴴᴰ⁺™
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-name="LOUPE UHD" tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png" group-title="RELAX",LOUPE ᵁᴴᴰ⁺™
-http://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-
 #EXTINF:-1 tvg-name="LOVE NATURE UHD" tvg-id="" tvg-language="Turkish"  tvg-logo="https://www.brouzdal.cz/televize-programova-nabidka/image/sledovanitv-cz-cache-logos256-love-nature.png" group-title="RELAX",LOVE NATURE ᵁᴴᴰ⁺™
 https://d18dyiwu97wm6q.cloudfront.net:443/playlist1080p_1.m3u8
 
@@ -2272,6 +2272,23 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-p
 
 #EXTINF:-1 tvg-name=""tvg-id="" status=""group-title="RELAX",SİBİRYA 4Kᵁᴴᴰ⁺™
 https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
+#EXTINF:-1 tvg-name="LOUPE UHD" tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png" group-title="RELAX",LOUPE ᵁᴴᴰ⁺™
+#http://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Loupe TV
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD
+https://stream.ads.ottera.tv/cl/231009cki5o24nsepl2jh7b2eg/1920x1080_5359200_5_f.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RELAX",Fireplace 4k
+https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://tgtv.ua/images/tgtv_logo.png",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 group-title="RELAX",Stingray Naturescape
+https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="RELAX",Stingray Naturescape US
 https://dai.google.com/linear/hls/pa/event/6RPZlzksTCyB1euPqLcBZQ/stream/57343e70-fce6-4346-b0c8-aca7340978de:GRQ/variant/9a9b2bd00fce20b8043c3566233433cf/bandwidth/5711200.m3u8
