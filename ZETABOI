@@ -1,4 +1,13 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://epg.pw/xmltv/epg_DE.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml,https://iptv-org.github.io/epg/guides/tr.xml,http://epg.it999.ru/epg.xml.gz,https://i.mjh.nz/SamsungTVPlus/de.xml.gz,https://i.mjh.nz/PlutoTV/de.xml.gz,https://iptvx.site/epg_lite.xml.gz" refresh="3600"
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml" 
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz" 
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR2.xml.gz" 
+#EXTM3U x-url-tvg="https://www.bevy.be/bevyfiles/turkey.xml" 
+#EXTM3U x-url-tvg="https://www.bevy.be/bevyfiles/turkeypremium1.xml" 
+#EXTM3U x-url-tvg="https://www.bevy.be/bevyfiles/turkeypremium2.xml" 
+#EXTM3U x-url-tvg="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
+#EXTM3U x-url-tvg="https://epg.pw/xmltv/epg_DE.xml"
+#EXTM3U x-url-tvg="https://i.mjh.nz/SamsungTVPlus/de.xml.gz"
+#EXTM3U x-url-tvg="https://i.mjh.nz/PlutoTV/de.xml.gz"
 
 
 #EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Turkey_flag.png" group-title="ULUSAL",▬ ⓂⒺⓉⒾⓃ 3⃣5⃣[TR]  ▬
@@ -1426,6 +1435,7 @@ https://bozztv.com/inim03/live1/gin-cbcsport-in/playlist.m3u8
 
 #http://static.g-cdn.app/streams/idman-az.png" tvg-rec="7",AZ IDMAN tv ʜᴅ
 #EXTINF:0 group-title="SPOR" tvg-id="idman-az-hd" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg",AZ IDMAN tv  ʜᴅ
+#EXTVLCOPT:http-User-Agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/idman/q_2/playlist.m3u8?|User-Agent=ExoPlayer2/2.37
 #https://trn10.tulix.tv/gt-idmantv/tracks-v1a1/mono.m3u8?
 #http://bozztv.com/gin-dvrfl05/gin-idmantv/tracks-v1a1/playlist.m3u8
@@ -1508,69 +1518,129 @@ https://izle.livev.xyz/bein/index.m3u8
 
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPOR",BeIN Sports  1 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinzirve.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinzirve.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPOR",BeIN Sports  1 ғʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinzirve.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinzirve.m3u8
 #https://corsproxy.org/?https://jankdomains.store/panel/pasha/bein1.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="SPOR",BeIN Sports  2 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb2.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb2.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="SPOR",BeIN Sports  2 ғʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb2.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb2.m3u8
 #https://corsproxy.org/?https://jankdomains.store/panel/pasha/bein2.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="SPOR",BeIN Sports  3 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb3.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb3.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="SPOR",BeIN Sports  3 ғʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb3.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb3.m3u8
 #https://corsproxy.org/?https://jankdomains.store/panel/pasha/bein3.m3u8
 #EXTINF:-1  tvg-id="beIN.SPORTS.4.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="SPOR",BeIN Sports  4 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb4.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb4.m3u8
 #EXTINF:-1  tvg-id="beIN.SPORTS.4.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="SPOR",BeIN Sports  4 ғʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb4.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb4.m3u8
 #https://corsproxy.org/?https://jankdomains.store/panel/pasha/bein4.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg"group-title="SPOR" ,BeIN Sports  5 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb5.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb5.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg"group-title="SPOR" ,BeIN Sports  5 ғʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb5.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinb5.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS MAX HD 1"tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="SPOR" ,BeIN max  1 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinbm1.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinbm1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS MAX HD 2"tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="SPOR",BeIN max  2 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinbm2.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinbm2.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR",Exxen Sports  1 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex1.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex1.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR",Exxen Sports  2 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex2.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex2.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR",Exxen Sports  3 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex3.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex3.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR",Exxen Sports  4 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex4.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex4.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR",Exxen Sports  5 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex5.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex5.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR",Exxen Sports  6 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex6.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex6.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR",Exxen Sports  7 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex7.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex7.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR",Exxen Sports  8 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex8.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex8.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR",Exxen Sports  9 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex9.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex9.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR",Exxen Sports  10 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex10.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinex10.m3u8
 #EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="SPOR",Smart Sport 1ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinsmarts.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinsmarts.m3u8
 #EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="SPOR",Smart Sport 2ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinsms2.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinsms2.m3u8
 #EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SPOR",S Sport 1ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinss.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinss.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SPOR",S Sport 2ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinss2.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinss2.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="SPOR",TiviBU Sport 1 ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayint1.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayint1.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="SPOR",TiviBU Sport 2  ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayint2.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayint2.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="SPOR",TiviBU Sport 3  ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayint3.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayint3.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="SPOR",TiviBU Sport 4  ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayint4.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayint4.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg"group-title="SPOR" ,EUROSPORT1 ʜᴅ
 https://eurosport1.blutv.com:443/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
@@ -1579,7 +1649,9 @@ https://eurosport1.blutv.com:443/blutv_eurosport1/eurosport1_hd.smil/chunklist_b
 https://eurosport2.blutv.com:443/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="SPOR",NBA  ʜᴅ
-https://corsproxy.baby/proxy/?apiurl=https://playhdnew5.buzz/yayinnbatv.m3u8|Referer=https://corsproxy.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://playhdnew5.buzz/yayinnbatv.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="SPOR",NBA  ʜᴅ
 https://webudit.hlsjs.ru/lb/premium404/index.m3u8?|Referer=https://weblivehdplay.ru/&e=.m3u8/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1616,8 +1688,9 @@ https://corsproxy.baby/proxy/?apiurl=https://playhdnew5.buzz/yayinas.m3u8|Refere
 #EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/759.jpg" group-title="ÇakaLSporT", tv8'5 Spor ғʜᴅ
 https://corsproxy.baby/proxy/?apiurl=https://playhdnew5.buzz/yayintv85.m3u8|Referer=https://corsproxy.org/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/943.png" group-title="ÇakaLSporT", TiviBU Spor ʜᴅ
-https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
+https://yayin8.canlitv.day/livetv/tivibuspor.stream/playlist.m3u8
 #EXTINF:0 tvg-id="idman-az-hd" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg"group-title="ÇakaLSporT" ,AZ IDMAN tv  ʜᴅ
+#EXTVLCOPT:http-User-Agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8?|User-Agent=ExoPlayer2/2.37
 #EXTINF:1 tvg-id="" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="ÇakaLSporT"  ,CBC Sport  ʜᴅ
 https://bozztv.com/inim03/live1/gin-cbcsport-in/playlist.m3u8
@@ -1701,45 +1774,103 @@ https://livestream.zazerconer.workers.dev/channel/UCNLO4lpteIloZ4IKb9L2DoA.m3u8
 https://mn-nl.mncdn.com/blutv_byhorses/smil:blutv_byhorses.smil/chunklist_b2064000.m3u8
 
 
+
+#EXTINF:-1 tvg-id="TRT.SPOR.YILDIZ.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="StreaMSPOR", TRT Spor Yıldız* ғʜᴅ
+https://trn10.tulix.tv/gt-trtspor2/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="TRT.SPOR.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/194.jpg" group-title="StreaMSPOR", TRT Spor ғʜᴅ
+https://trn10.tulix.tv/gt-trtspor1/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="A.Spor.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/390.jpg" group-title="StreaMSPOR", a Spor ғʜᴅ
+https://trn10.tulix.tv/gt-aspor/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/759.jpg" group-title="StreaMSPOR", tv8'5 Spor ғʜᴅ
+https://trn10.tulix.tv/gt-tv8_5/tracks-v1a1/mono.m3u8?
+
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="StreaMSPOR",BeIN Sports  1 ʜᴅ
-https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/bein1.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://playhdnew5.buzz/yayinzirve.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="StreaMSPOR",BeIN Sports  1 ʜᴅ
-https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/bein1.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/bein1.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="StreaMSPOR",BeIN Sports  2 ʜᴅ
-https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/bein2.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/bein2.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="StreaMSPOR",BeIN Sports  3 ʜᴅ
-https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/bein3.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/bein3.m3u8
 #EXTINF:-1  tvg-id="beIN.SPORTS.4.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="StreaMSPOR",BeIN Sports  4 ʜᴅ
-https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/bein4.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/bein4.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg"group-title="StreaMSPOR" ,BeIN Sports  5 ʜᴅ
-https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/bein5.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/bein5.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="StreaMSPOR" ,BeIN Max  1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
 https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinbm1.m3u8|Referer=https://corsproxy.org/
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="StreaMSPOR",BeIN Max  2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
 https://corsproxy.baby/proxy/?apiurl=https://cakal.click/yayinbm2.m3u8|Referer=https://corsproxy.org/
 #EXTINF: -1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="StreaMSPOR", EXXEN 1 ʜᴅ
-https://crosproxy.xyz/?url=https://live.streamnet4.xyz/hls/exxen.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://live.streamnet4.xyz/hls/exxen.m3u8
 
 #EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="StreaMSPOR",S Sport 1ʜᴅ
-https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/ssport.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/ssport.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="StreaMSPOR",S Sport 2 ʜᴅ
-https://crosproxy.xyz/?url=https://live.streamnet4.xyz/hls/ssport2.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://live.streamnet4.xyz/hls/ssport2.m3u8
 #EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="StreaMSPOR",S Sport +ʜᴅ
-https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/ssportplus.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/ssportplus.m3u8
 
 #EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="StreaMSPOR",Smart Sport 1ʜᴅ
-https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/sporsmart.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/sporsmart.m3u8
+#EXTINF:-1 tvg-id="Spor.Smart.2.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg"        group-title="StreaMSPOR",Smart Spor 2 ʜᴅ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://playhdnew5.buzz/yayinsms2.m3u8
 
 #EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="StreaMSPOR",TiviBU SPOR  ʜᴅ  
 https://yayin8.canlitv.day/livetv/tivibuspor.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="StreaMSPOR",TiviBU SPOR 1 ʜᴅ  
-https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/tivibu1.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/tivibu1.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="StreaMSPOR",TiviBU SPOR 2 ʜᴅ 
-https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/tivibu2.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/tivibu2.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="StreaMSPOR",TiviBU SPOR 3 ʜᴅ 
-https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/tivibu3.m3u8|Referer=https://justsporthd7.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://https://justsporthd7.xyz/
+https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/tivibu3.m3u8
+#EXTINF:-1 tvg-id="TivibuSpor4.tr" tvg-name="Tivibu Spor 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="StreaMSPOR",TiviBU SPOR 4 ʜᴅ  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://corsproxy.org/
+https://corsproxy.baby/proxy/?apiurl=https://playhdnew5.buzz/yayint4.m3u8
 
 
+#EXTINF:-1 tvg-id="TRT.SPOR.YILDIZ.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="OdinNSporT", TRT Spor Yıldız* ғʜᴅ
+https://trn10.tulix.tv/gt-trtspor2/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="TRT.SPOR.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/194.jpg" group-title="OdinNSporT", TRT Spor ғʜᴅ
+https://trn10.tulix.tv/gt-trtspor1/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="A.Spor.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/390.jpg" group-title="OdinNSporT", a Spor ғʜᴅ
+https://trn10.tulix.tv/gt-aspor/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/759.jpg" group-title="OdinNSporT", tv8'5 Spor ғʜᴅ
+https://trn10.tulix.tv/gt-tv8_5/tracks-v1a1/mono.m3u8?
 
 #EXTINF: -1 tvg-id="beIN.SPORTS.1.tr"   tvg-logo="http://ingwebtv.a0001.net/tv/bein1.png" group-title="OdinNSporT",BeIN Sports  1 ʜᴅ-ODİN
 https://odin.7545c95540dc.shop/1/chunk_hd.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
