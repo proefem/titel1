@@ -51,11 +51,11 @@ https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8
 #https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/37ba3d56-b268-41e4-8577-1a5012848d55/0.m3u8
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
-http://66.160.192.241:80/atvturk/tracks-v1a1/playlist.m3u8
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+#http://50.7.218.122:8080/ATVHD/index.m3u8
+#http://66.160.192.241:80/atvturk/tracks-v1a1/playlist.m3u8
 #https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 #http://62.182.82.104/atv_turk/index.m3u8?token=test
-#http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
-#http://50.7.218.122:8080/ATVHD/index.m3u8
 #http://cors.tundracast.com:2000/https://trn10.tulix.tv/gt-atv-tv/tracks-v1a1/mono.m3u8? 
 #https://izle.livev.xyz/aytv/index.m3u8
 #https://canlitvulusal.xyz/live/atv/index.m3u8
@@ -136,7 +136,7 @@ https://www.youtube.com/watch?v=h59K6mq4VFA
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #http://66.160.192.241:80/kanald/tracks-v1a1/mono.m3u8
-#http://cors.tundracast.com:2000/https://trn10.tulix.tv/gt-kanald/tracks-v1a1/mono.m3u8? 
+#http://cors.tundracast.com:2000/https://trn10.tulix.tv/gt-kanald/tracks-v1a1/mono.m3u8? #
 #https://izle.livev.xyz/kanald/index.m3u8
 #http://satscream.000webhostapp.com/GinikoHD.php?ID=734
 #https://c.fulltvizle.com/kanald/index.m3u8
@@ -210,7 +210,7 @@ https://anka@beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_1080p3500000kbps/index.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001177/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001177&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-#https://i.ibb.co/0DpKtzT/nowtvturk.png
+#https://i.ibb.co/0DpKtzT/nowtvturk.png#
 #EXTINF:-1 tvg-id="Now.tr"tvg-name="Now.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif"group-title="ULUSAL",NOW TV ᵁᴴᴰ⁺™
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 #https://trn10.tulix.tv/gt-foxturktv/tracks-v1a1/mono.m3u8?
@@ -244,10 +244,10 @@ https://anka@demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="ULUSAL",360 TV ꜰʜᴅ⁺™
 https://anka@turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#https://trn10.tulix.tv/gt-sky360/tracks-v1a1/mono.m3u8?
+#https://trn10.tulix.tv/gt-sky360/tracks-v1a1/mono.m3u8?#
 #https://360tvdvr.blutv.com/blutv_360tv_dvr/live_1080p3500000kbps/index.m3u8
 #http://83.77.184.98:7000/play/xx360HD
-#https://bozztv.com/inim03/live1/gin-sky360-in/playlist.m3u8
+#http://bozztv.com:80/gin-dvrfl05/gin-sky360/tracks-v1a1/mono.m3u8
 #https://ythls-v2.onrender.com/channel/UCfqRQZ40fwEdaDWPuR7tvcw.m3u8
 #http://195.142.1.211:4002/udp/224.2.2.58:10001
 #http://mn-nl.mncdn.com:80/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8|User-Agent=Lavf53.32.100 
@@ -402,6 +402,7 @@ https://bozztv.com/inim03/live1/tgrteu/playlist.m3u8
 https://bozztv.com/inim03/live1/tgrtbelgesel/playlist.m3u8
 #https://ensonhaber-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #http://bozztv.com:80/gin-dvrfl05/gin-tgrtbelgesel/playlist.m3u8
+
 #http://31.3.91.134:12005/udp/224.0.0.1:36517/&e=ts
 #https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8#
 #https://anka@tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8|
@@ -445,11 +446,10 @@ https://anka@edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-r0fiC5ccbiA/XtEXUkhrxzI/AAAAAAAANio/4ntG-zo5BKwlaLyrfBIqXqkR0NNBVCrVACLcBGAsYHQ/s200/mugla%2Bturk.png" group-title="ULUSAL" , AFYON TURK TV
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8?
-#https://nimplus4.bozztv.com/amcmusic/amcmusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIzIDExOjQ0OjEzIFBNJmhhc2hfdmFsdWU9eXlpdHNmOHJMaGRNZFhVQnZYTUVndz09JnZhbGlkbWludXRlcz0yODgw==
+#https://nimplus4.bozztv.com/amcmusic/amcmusic/playlist.m3u8?
 
 #EXTINF:-1  tvg-id="tivi6.tr"tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="ULUSAL", TİVİ 6 ᴴᴰ⁺™
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-#https://trn10.tulix.tv/gt-tivi6/index.m3u8
+https://trn10.tulix.tv/gt-tivi6/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://kanallogo2.com/images/ulusal/tv-em.png" aspect-ratio="16:9"   group-title="ULUSAL",TVEM ᴴᴰ⁺™
 https://anka@cdn.yayin.com.tr:443/TVEM/TVEM/chunklist_w140869163.m3u8
@@ -2047,6 +2047,283 @@ https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/tivibu3.m3u8|Referer=https
 
 #EXTINF: -1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="LİVESPOR", EXXEN 1 ʜᴅ
 https://crosproxy.xyz/?url=https://live.streamnet4.xyz/hls/exxen.m3u8|Referer=https://justsporthd7.xyz/
+
+
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="SelcuKSporT", TRT Spor * ʜᴅ@
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/2890/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2890?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="SelcuKSporT", TRT Spor  ʜᴅ@
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/2889/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2889?.m3u8?|Referer=https://www.selcuksportshd891.xyz/&e=.m3u8 
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="SelcuKSporT", A Spor  ʜᴅ@
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/172/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/172?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="SelcuKSporT", tv8'5 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/202/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/202?.m3u8?|Referer=https://yayinizle.shop/&e=.m3u8
+
+#EXTINF:1 tvg-id="" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="SelcuKSporT"  ,CBC Sport  ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/3452/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3452?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8 
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="SelcuKSporT", beiN Sport HABER ʜᴅ@
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/1/i.acdwatercn.shop/chunklist_hd.m3u8|
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/1?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8 
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SelcuKSporT", beiN Sport 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/601/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8 
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SelcuKSporT", beiN Sport 1feed ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/2/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="SelcuKSporT", beiN Sport 2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/602/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/602?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="SelcuKSporT", beiN Sport 3 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/603/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/603?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="SelcuKSporT", beiN Sport 4 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/604/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/604?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="SelcuKSporT", beiN Sport 5 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/705/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/705?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3PdLTqN" group-title="SelcuKSporT", StreaM RadaR ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/605/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/605?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="SelcuKSporT", beiN Sport Max 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/805/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/805?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="SelcuKSporT", beiN Sport Max 2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/806/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/806?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="SelcuKSporT", Tivibu Sport  ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/605/i.acdwatercn.shop/chunklist_hd.m3u8|
+##https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/605?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="SelcuKSporT", Tivibu Sport 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/606/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/606?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="SelcuKSporT", Tivibu Sport 2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/607/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/607?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="SelcuKSporT", Tivibu Sport 3 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/608/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/608?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="SelcuKSporT", Tivibu Sport 4 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/609/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/609?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SelcuKSporT", S Sport 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/3450/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3450?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SelcuKSporT", S Sport 2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/3451/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3451?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="SelcuKSporT", Smart Spor 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/102/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/102?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="SelcuKSporT", Smart Spor 2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/104/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/104?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="SelcuKSporT", Euro Sport 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/132/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/132?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="SelcuKSporT", Euro Sport 2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/142/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/142?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.hizliresim.com/j15t70e.png" group-title="SelcuKSporT", CBC Sport ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/3452/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3452?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="SelcuKSporT", Exxen Sport 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/4101/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4101?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="SelcuKSporT", Exxen Sport 2 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/4102/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4102?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="SelcuKSporT", Exxen Sport 3 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/4103/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4103?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="SelcuKSporT", Exxen Sport 4 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/4104/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4104?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="SelcuKSporT", Exxen Sport 5 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/4105/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4105?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="SelcuKSporT", Exxen Sport 6 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/4106/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4106?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="SelcuKSporT", Exxen Sport 7 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/4107/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4107?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/hdp3t64a" group-title="SelcuKSporT", Exxen Sport 8 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/4108/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4108?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYvFsuwm1IQMThFmS30ocsIfrwC82xgVvnRmZeP" group-title="SelcuKSporT",TAY TV ʜᴅ
+https://new.cache-stream.workers.dev/stream/UCjkRA7KEdp7PDKDUs396XHg/live.m3u8/&e=sec-f5-v1-a1.m3u8
+
+#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/ytc/APkrFKb2HHEhIDwbVBN2lNqSIBBmD8frchEUfu6cmV7WYQ"group-title="SelcuKSporT" , TJK TV ʜᴅ
+https://new.cache-stream.workers.dev/stream/UCNLO4lpteIloZ4IKb9L2DoA/live.m3u8/&e=sec-f5-v1-a1.m3u8
+
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SelcuKSporT",BYHORSES TV ʜᴅ
+https://mn-nl.mncdn.com/blutv_byhorses/smil:blutv_byhorses.smil/chunklist_b2064000.m3u8
+
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="SelcuKSporT",NBA TV ʜᴅ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/112/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/112?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR: Trt Avaz HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/trt_avaz.png" group-title="SelcuKSporT",Trt Avaz ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/2891/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2891?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR: Trt Avaz HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/trt_avaz.png" group-title="SelcuKSporT",Trt 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://https://ia.strmrdrfronf.click/
+https://fa970d9381ed.cf-worker-701c12db3ffb.workers.dev/?https://due.e1a0397cd3a12e2.shop/p/mactanmaca5569.shop/2888/i.acdwatercn.shop/chunklist_hd.m3u8|
+#https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2888?.m3u8?|Referer=https://www.selcuksportshd891.xyz/
+&e=.m3u8
+
+
 
 
 
