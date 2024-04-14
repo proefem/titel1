@@ -309,7 +309,8 @@ https://anka@demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001244/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001244&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="ULUSAL",360 TV ꜰʜᴅ⁺™
-https://anka@turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+http://185.234.111.229:8000/play/a05a
+#https://anka@turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #https://trn10.tulix.tv/gt-sky360/tracks-v1a1/mono.m3u8?#
 #https://360tvdvr.blutv.com/blutv_360tv_dvr/live_1080p3500000kbps/index.m3u8
 #http://83.77.184.98:7000/play/xx360HD
@@ -320,7 +321,8 @@ https://anka@turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001341/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001341&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-4-tr.png" group-title="ULUSAL",TV 4 ꜰʜᴅ⁺™
-https://anka@turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+http://185.234.111.229:8000/play/a05b
+#https://anka@turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #http://83.77.184.98:7000/play/TV4HDxx
 #https://trn10.tulix.tv/gt-tv4/tracks-v1a1/mono.m3u8?
 #http://195.142.1.211:4002/udp/224.2.2.59:10001?mpegts
@@ -1073,7 +1075,8 @@ https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
 #http://195.142.1.211:4002/udp/224.2.2.57:10001|User-Agent=ExoPlayer2/2.37   
 
 #EXTINF:-1 tvg-id="TVNet.tr" tvg-name="TV Net TR" tvg-logo="https://picon-13398.kxcdn.com/tvnettr.jpg" group-title="HABER",TV NET ᵁᴴᴰ⁺™
-https://anka@mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+http://185.234.111.229:8000/play/a044
+#https://anka@mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #https://trn10.tulix.tv/gt-tvnet/tracks-v1a1/mono.m3u8? 
 #https://canlitvulusal.xyz/live/tvnet/index.m3u8
 #https://ythls-v2.onrender.com/channel/UC8rh34IlJTN0lDZlTwzWzjg.m3u8
@@ -1469,6 +1472,9 @@ https://trn10.tulix.tv/gt-aspor/tracks-v1a1/mono.m3u8?
 #https://bozztv.com/inim03/live1/aspor/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" group-title="SPOR",7/24 SPOR TV
+http://185.234.111.229:8000/play/a016
+
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" group-title="SPOR",7/24 SPOR TV
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://view-alientv.online:8080/play/live.php?mac=00:1A:79:AB:5D:B3&stream=376&extension=ts
@@ -1484,6 +1490,9 @@ http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
 #http://50.7.218.122:8080/tv85/playlist.m3u8
 #https://bozztv.com/inim03/live1/tv8tv/playlist.m3u8
 #http://gineu9.bozztv.com:80/gin-36bay2/gin-tv8tv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="SPOR",7/24 SPOR TV
+http://185.234.111.229:8000/play/a016
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/943.png" aspect-ratio="16:9"   group-title="SPOR", TiviBU Spor ʜᴅ
 http://50.7.144.122:1935/livetv/tivibuspor.stream/sec-f5-v1-a1.m3u8
@@ -1682,6 +1691,10 @@ https://corsproxy.baby/proxy/?apiurl=https://playhdnew5.buzz/yayinas.m3u8|Refere
 https://corsproxy.baby/proxy/?apiurl=https://playhdnew5.buzz/yayintv85.m3u8|Referer=https://netsporgiris.pro/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/943.png" group-title="ÇakaLSporT", TiviBU Spor ʜᴅ
 https://yayin8.canlitv.day/livetv/tivibuspor.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="ÇakaLSporT",7/24 SPOR TV
+http://185.234.111.229:8000/play/a016
+
 #EXTINF:0 tvg-id="idman-az-hd" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg"group-title="ÇakaLSporT" ,AZ IDMAN tv  ʜᴅ
 #EXTVLCOPT:http-User-Agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8?|User-Agent=ExoPlayer2/2.37
@@ -1779,6 +1792,8 @@ https://trn10.tulix.tv/gt-aspor/tracks-v1a1/mono.m3u8?
 https://trn10.tulix.tv/gt-tv8_5/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="tivibuspor" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/943.png" group-title="OdiNSporT", TiviBU Spor ʜᴅ
 https://yayin8.canlitv.day/livetv/tivibuspor.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="OdiNSporT",7/24 SPOR TV
+http://185.234.111.229:8000/play/a016
 
 #EXTINF: -1 tvg-id="beIN.SPORTS.1.tr"   tvg-logo="http://ingwebtv.a0001.net/tv/bein1.png" group-title="OdiNSporT",BeIN Sports  1 ʜᴅ-ODİN
 https://d9787da3a6f7.cf-worker-949b8086d55d.workers.dev/?https://odin.cd9184d3e95e6.shop/1/chunk_hd.m3u8
@@ -1850,6 +1865,9 @@ https://trn10.tulix.tv/gt-aspor/tracks-v1a1/mono.m3u8?
 https://trn10.tulix.tv/gt-tv8_5/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="tivibuspor" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/943.png" group-title="JUSTSporT", TiviBU Spor ʜᴅ
 https://yayin8.canlitv.day/livetv/tivibuspor.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="JUSTSporT",7/24 SPOR TV
+http://185.234.111.229:8000/play/a016
+
 #EXTINF:-1 tvg-id="beIN.SPORTS.HABER.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/944.jpg" group-title="JUSTSporT", BeIN Sports Haber ʜᴅ
 http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/index.m3u8
 
@@ -1937,6 +1955,8 @@ https://corsproxy.baby/proxy/?apiurl=https://playhdnew5.buzz/yayint3.m3u8|Refere
 #EXTINF:-1 tvg-id="TivibuSpor4.tr" tvg-name="Tivibu Spor 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="NeTSPOR",TiviBU SPOR 4 ʜᴅ  
 https://corsproxy.baby/proxy/?apiurl=https://playhdnew5.buzz/yayint4.m3u8|Referer=https://corsproxy.org/
 
+
+
 #https://coral-app-mnmfr.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__278177__1__mediaplaylist.m3u8?s=66d21ac55b01dee370f2d2fb1d7e8d4c308ff3508a24ff522048136b17530df8&t=1712951646486&ai=3&av=1025&ui=0&videoid=278177
 #https://coral-app-mnmfr.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__278304__1__mediaplaylist.m3u8?s=8890cb22f2b4951ef19aca80e735d3d339c61d158523cb55176432e6ef3b37da&t=1712951646991&ai=3&av=1025&ui=0&videoid=278304
 #https://www.yayintaraftarium89.site/
@@ -1998,6 +2018,9 @@ https://trn10.tulix.tv/gt-trtspor1/tracks-v1a1/mono.m3u8?
 https://trn10.tulix.tv/gt-aspor/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/759.jpg" group-title="İNaTSporT", tv8'5 Spor ғʜᴅ
 https://trn10.tulix.tv/gt-tv8_5/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" group-title="İNaTSporT",7/24 SPOR TV
+http://185.234.111.229:8000/play/a016
+
 #EXTINF:-1 tvg-id="beIN.SPORTS.HABER.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/944.jpg" group-title="İNaTSporT", BeIN Sports Haber ʜᴅ
 http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/index.m3u8
 #EXTINF:1 tvg-id="beIN.SPORTS.1.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg"group-title="İNaTSporT",BeIN Sports  1 ʜᴅ -İNaT
@@ -2058,6 +2081,10 @@ https://cinque.e1a0397cd3a12e2.shop/p/macizlevip5585.shop/canli-mac-izle/hd-1/17
 https://cinque.e1a0397cd3a12e2.shop/p/macizlevip5585.shop/canli-mac-izle/hd-1/202/a.acdwatercn.shop/chunklist_hd.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://cinque.6a0ec8ce41cae2c.shop/p/macizlevip9745.shop/canli-mac-izle/tv-85-hd/202/a.acdwatercn.shop/chunklist_hd.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/202?.m3u8?|Referer=https://yayinizle.shop/&e=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="SelcuKSporT",7/24 SPOR TV
+http://185.234.111.229:8000/play/a016
+
 
 #EXTINF:1 tvg-id="" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="SelcuKSporT"  ,CBC Sport  ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
