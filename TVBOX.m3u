@@ -39,7 +39,7 @@ https://anka@dogus-live.daioncdn.net/startv/startv_720p.m3u8
 http://hw1.jemtv.com/app/StarTV/chunks.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᴴᴰ⁺™
-http://hw1.jemtv.com/app/KANALD/chunks.m3u8
+http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://bozztv.com/gin-36bay4/gt-kanald-2/playlist.m3u8
 
@@ -190,7 +190,6 @@ https://yayin30.haber100.com/live/yasamtv/chunklist_w2024915114.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://skyhaber.tv/wp-content/uploads/2022/07/tv-sky.png" group-title="ULUSAL", SKY TÜRK ᴴᴰ
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
-
 
 #EXTINF:-1 tvg-id="BizimevTV.tr"tvg-name="BIZIM EV TR"  tvg-logo="https://i.imgur.com/ve4p5te.png"aspect-ratio="16:9"   group-title="ULUSAL",BIZIM EV ᴴᴰ
 #http://pull1-poc.blutv.com/live/M7ZNL3M4/M7ZNL3M4_720p.m3u8
@@ -456,10 +455,10 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.tr" tvg-name="NBATV.tr" tvg-logo="http://www.elahmad.com/tv/images/gin/215.jpg" group-title="SPOR", EDGE SPORT ʜᴅ
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.tr" tvg-name="NBATV.tr" tvg-logo="http://www.elahmad.com/tv/images/gin/215.jpg" group-title="SPOR",EDGE Sportstribal ʜᴅ
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYvFsuwm1IQMThFmS30ocsIfrwC82xgVvnRmZeP" group-title="SPOR",TAY TVʜᴅ
 https://livestream.zazerconer.workers.dev/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
@@ -698,6 +697,7 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="Turkey ➾ Sinema",TELE ON ᴴᴰ
 #EXTVLCOPT:http-user-agent=(Linux;Android) ExoPlayerLib/2.1.1
 https://vsd144.mycdn.me:443/hls/6139853474312.m3u8/sig/HoccUoMMRu4/expires/1712667801220/srcIp/46.223.163.197/urls/185.226.53.63/clientType/0/srcAg/CHROME_ANDROID_TABLET/mid/6863507889672/6139853474312_fullhd/index.m3u8?|user-agent=(Linux;Android) ExoPlayerLib/2.1.1
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="Turkey ➾ Sinema",FILM BOX
 http://185.234.111.229:8000/play/a085
 
