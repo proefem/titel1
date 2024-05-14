@@ -1784,13 +1784,13 @@ https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
 #https://api-tv27.yayin.com.tr:443/kanalavrupa/tracks-v1a1/mono.m3u8
 #http://51.15.2.151/hls/kanalavrupa.m3u8
 
-#EXTINF:0 type="stream"  channelId="-1" tvg-logo="https://i.imgur.com/OjUTb79.png"group="ULUSAL-int", TÜRKMENELİ TV ʜᴅ
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OjUTb79.png" group-title="ULUSAL-int",TÜRKMENELİ TV ʜᴅ
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #https://fubca.com:5443/LiveApp/streams/p9tKao40IwzRAiXw1696067892766.m3u8
 #https://stream.klcsistem.com:5443/LiveApp/streams/512289357781413484749219.m3u8
 #https://137840.global.ssl.fastly.net/6007ebae6349fb1839321e09/live_0f21e9d07bc411ec9940a1f551f87644/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png"group-title="ULUSAL-int",İsviçre TV ʜᴅ
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="ULUSAL-int",İsviçre TV ʜᴅ
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #http://palatv34.ozelip.com:22372/isvicretv/isvicretv/playlist.m3u8
 #http://tv56245.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8
@@ -2499,20 +2499,27 @@ http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/1226
 http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/1228
 
 
+#EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="TRT Spor 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="MYSporT",TRT Spor * ʜᴅ
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="MYSporT", TRT Spor  ʜᴅ
-https://github.com/proefem/yutuber2/raw/main/binTR1TV.m3u8
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+#https://github.com/proefem/yutuber2/raw/main/binTR1TV.m3u8
 
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="MYSporT", A Spor  ʜᴅ
-https://github.com/proefem/yutuber2/raw/main/binASTV.m3u8
+http://stream.tvcdn.net/spor/a-spor.m3u8
+#https://github.com/proefem/yutuber2/raw/main/binASTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="MYSporT", tv8'5 ʜᴅ
-https://github.com/proefem/yutuber2/raw/main/bin85TV.m3u8
+http://50.7.218.122:8080/tv85/playlist.m3u8
+#https://github.com/proefem/yutuber2/raw/main/bin85TV.m3u8
 
 #EXTINF:1 tvg-id="" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="MYSporT"  ,CBC Sport  ʜᴅ
 https://github.com/proefem/yutuber2/raw/main/binCBCTV.m3u8
 
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="MYSporT", beiN Sport HABER ʜᴅ
-https://github.com/proefem/yutuber2/raw/main/binhbrTV.m3u8
+http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/index.m3u8
+#https://github.com/proefem/yutuber2/raw/main/binhbrTV.m3u8
 
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT", beiN Sport 1 ʜᴅ
 https://github.com/proefem/yutuber2/raw/main/bin1TV.m3u8
@@ -2599,10 +2606,10 @@ https://github.com/proefem/yutuber2/raw/main/binEX7TV.m3u8
 https://github.com/proefem/yutuber2/raw/main/binEX8TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYvFsuwm1IQMThFmS30ocsIfrwC82xgVvnRmZeP" group-title="MYSporT",TAY TV ʜᴅ
-https://new.cache-stream.workers.dev/stream/UCjkRA7KEdp7PDKDUs396XHg/live.m3u8/&e=sec-f5-v1-a1.m3u8
+https://new.cache-stream.workers.dev/stream/UCjkRA7KEdp7PDKDUs396XHg/live.m3u8
 
 #EXTINF:-1  tvg-logo="https://yt3.ggpht.com/ytc/APkrFKb2HHEhIDwbVBN2lNqSIBBmD8frchEUfu6cmV7WYQ"group-title="MYSporT" , TJK TV ʜᴅ
-https://new.cache-stream.workers.dev/stream/UCNLO4lpteIloZ4IKb9L2DoA/live.m3u8/&e=sec-f5-v1-a1.m3u8
+https://new.cache-stream.workers.dev/stream/UCNLO4lpteIloZ4IKb9L2DoA/live.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="MYSporT",BYHORSES TV ʜᴅ
 https://mn-nl.mncdn.com/blutv_byhorses/smil:blutv_byhorses.smil/chunklist_b2064000.m3u8
@@ -2657,11 +2664,13 @@ http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  1 ꜰʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://b2.anystreamrectv13.xyz/live2/bs1111/index.m3u8
+https://cdn.anystreamrectv15.xyz/live1/bs111/index.m3u8
+#https://b2.anystreamrectv13.xyz/live2/bs1111/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  1 ꜰʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://b2.anystreamrectv13.xyz/live2/bs11/index.m3u8
+https://cdn.anystreamrectv15.xyz/live1/bs11/index.m3u8
+#https://b2.anystreamrectv13.xyz/live2/bs11/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports 1 ꜰᴇᴇᴅ ʏᴀʏıɴ (MAÇ ANINDA AÇILIR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -2678,38 +2687,47 @@ https://t2.anystreamrectv13.xyz/live/bs1/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  2 ꜰʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://b2.anystreamrectv13.xyz/live2/bs22/index.m3u8
+https://cdn.anystreamrectv15.xyz/live1/bs2/index.m3u8
+#https://b2.anystreamrectv13.xyz/live2/bs22/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  2 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://t2.anystreamrectv13.xyz/live/bs2/index.m3u8
+https://cast.anystreamrectv15.xyz/live2/bs2/index.m3u8
+#https://t2.anystreamrectv13.xyz/live/bs2/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  3 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://b2.anystreamrectv13.xyz/live2/bs33/index.m3u8
+https://cdn.anystreamrectv15.xyz/live1/bs3/index.m3u8
+#https://b2.anystreamrectv13.xyz/live2/bs33/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  3 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://t2.anystreamrectv13.xyz/live/bs3/index.m3u8
+https://cast.anystreamrectv15.xyz/live2/bs3/index.m3u8
+#https://t2.anystreamrectv13.xyz/live/bs3/index.m3u8
 
 #EXTINF:-1  tvg-id="beIN.SPORTS.4.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  4 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://b2.anystreamrectv13.xyz/live2/bs44/index.m3u8
+https://cdn.anystreamrectv15.xyz/live1/bs4/index.m3u8
+#https://b2.anystreamrectv13.xyz/live2/bs44/index.m3u8
 
 #EXTINF:-1  tvg-id="beIN.SPORTS.4.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  4 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://t2.anystreamrectv13.xyz/live/bs4/index.m3u8
+https://cast.anystreamrectv15.xyz/live2/bs4/index.m3u8
+#https://t2.anystreamrectv13.xyz/live/bs4/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"    tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ" ,BeIN Sports  5 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://b2.anystreamrectv13.xyz/live2/bs55/index.m3u8
+https://cdn.anystreamrectv15.xyz/live1/bs5/index.m3u8
+#https://b2.anystreamrectv13.xyz/live2/bs55/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"    tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ" ,BeIN Sports  5 ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://t2.anystreamrectv13.xyz/live/bs5/index.m3u8
+https://cast.anystreamrectv15.xyz/live2/bs5/index.m3u8
+#https://t2.anystreamrectv13.xyz/live/bs5/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.HD.1.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ" ,BeIN Max  1 ʜᴅ
 https://live.anystreamrectv3.live/live/bsmax1.m3u8
+
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.HD.2.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Max  2 ʜᴅ
 https://live.anystreamrectv3.live/live/bsmax2.m3u8
 
@@ -2893,7 +2911,7 @@ https://github.com/proefem/yutuber/raw/main/binfeedTV.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"  tvg-logo="https://img.sport-tv-guide.live/images/stations/a640.png" group-title="ꜱᴘᴏʀ"  ,BeIN Sports  1 ʜᴅ -webudit
 https://webudit.hlsjs.ru/lb/premium62/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #https://webudit.hlsjs.ru/lb/premium62/playlist.m3u8?|referer=https://weblivehdplay.ru/&user-agent=ms.m3u8
-
+#https://ddh2.onlinehdhls.ru/ddh2/premium62/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"  tvg-logo="https://img.sport-tv-guide.live/images/stations/a641.png" group-title="ꜱᴘᴏʀ"  ,BeIN Sports  2 ʜᴅ -webudit
 https://webudit.hlsjs.ru/lb/premium63/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
@@ -5106,6 +5124,99 @@ http://nightmare-tv.xyz:8080/tanju@9080/taylan.6890/491754
 http://nightmare-tv.xyz:8080/tanju@9080/taylan.6890/491755
 
 
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN Bar 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Sky Sport",DAZN Bar 1 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411552&extension=ts
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN Bar 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Sky Sport",DAZN Bar 1 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411550&extension=ts
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN Bar 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Sky Sport",DAZN Bar 2 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411551&extension=ts
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN Bar 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Sky Sport",DAZN Bar 2 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411549&extension=ts
+
+#EXTINF:-1 tvg-id="SkySportUHD.de" tvg-name="Sky Sport UHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="Live: Sky Sport",Sky Sport UHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411603&extension=ts
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnewshd.jpg" group-title="Live: Sky Sport",Sky Sport News FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411604&extension=ts
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1 FHD DE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-f1-359.png" group-title="Live: Sky Sport",Sky Sport F1 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=513132&extension=ts
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1hd.jpg" group-title="Live: Sky Sport",Sky Sport 1 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411602&extension=ts
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1hd.jpg" group-title="Live: Sky Sport",Sky Sport 1 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411601&extension=ts
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Sky Sport",Sky Sport 2 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411600&extension=ts
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Sky Sport",Sky Sport 2 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411599&extension=ts
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport3hd.jpg" group-title="Live: Sky Sport",Sky Sport 3 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411598&extension=ts
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport3hd.jpg" group-title="Live: Sky Sport",Sky Sport 3 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411597&extension=ts
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport4hd.jpg" group-title="Live: Sky Sport",Sky Sport 4 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411596&extension=ts
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport4hd.jpg" group-title="Live: Sky Sport",Sky Sport 4 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411595&extension=ts
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport5hd.jpg" group-title="Live: Sky Sport",Sky Sport 5 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411594&extension=ts
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport5hd.jpg" group-title="Live: Sky Sport",Sky Sport 5 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411593&extension=ts
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport6hd.jpg" group-title="Live: Sky Sport",Sky Sport 6 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411592&extension=ts
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport6hd.jpg" group-title="Live: Sky Sport",Sky Sport 6 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411591&extension=ts
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport7hd.jpg" group-title="Live: Sky Sport",Sky Sport 7 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411590&extension=ts
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport7hd.jpg" group-title="Live: Sky Sport",Sky Sport 7 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411589&extension=ts
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport8hd.jpg" group-title="Live: Sky Sport",Sky Sport 8 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411588&extension=ts
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport8hd.jpg" group-title="Live: Sky Sport",Sky Sport 8 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411587&extension=ts
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport9hd.jpg" group-title="Live: Sky Sport",Sky Sport 9 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411586&extension=ts
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport9hd.jpg" group-title="Live: Sky Sport",Sky Sport 9 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411585&extension=ts
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="Sky Sport 10 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport10hd.jpg" group-title="Live: Sky Sport",Sky Sport 10 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411584&extension=ts
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport11hd.jpg" group-title="Live: Sky Sport",Sky Sport 11 HD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411583&extension=ts
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport12hd.jpg" group-title="Live: Sky Sport",Sky Sport 12 HD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=578801&extension=ts
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport13hd.jpg" group-title="Live: Sky Sport",Sky Sport 13 HD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=578800&extension=ts
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport14hd.jpg" group-title="Live: Sky Sport",Sky Sport 14 HD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=578799&extension=ts
+
+
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Sport",Eurosport 1 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411547&extension=ts
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Sport",Eurosport 2 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411545&extension=ts
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2xtrade.jpg" group-title="Live: Sport",Eurosport 2 Xtra FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411543&extension=ts
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sport1hd-duslelaslu.jpg" group-title="Live: Sport",SPORT1 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411541&extension=ts
+#EXTINF:-1 tvg-id="Sport1Plus.de" tvg-name="Sport 1+ FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sport1plushd.jpg" group-title="Live: Sport",Sport 1+ FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411536&extension=ts
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigitalhd.jpg" group-title="Live: Sport",sportdigital fussball FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411534&extension=ts
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorvision TV DE" tvg-logo="https://picon-13398.kxcdn.com/motorvisiontv.jpg" group-title="Live: Sport",Motorvision TV DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411537&extension=ts
+#EXTINF:-1 tvg-id="eSports1.de" tvg-name="eSports1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ginx.jpg" group-title="Live: Sport",eSports1 FHD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411535&extension=ts
+#EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="Auto Motor und Sport HD DE" tvg-logo="https://picon-13398.kxcdn.com/automotorsporthd.jpg" group-title="Live: Sport",Auto Motor und Sport HD DE
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411380&extension=ts
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="NBA TV HD US" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="Live: Sport",NBA TV HD
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=978677&extension=ts
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD US" tvg-logo="https://picon-13398.kxcdn.com/mlbnetworkus.jpg" group-title="Live: Sport",MLB Network HD US
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=978675&extension=ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Redskins" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: Sport",NFL DAZN HD
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=978673&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Family Chrgd HD CA" tvg-logo="https://picon-13398.kxcdn.com/familychrgdca.jpg" group-title="Live: Sport", CLIPMYHORSE.TV HD
+http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=692608&extension=ts
+
+
+
+
 #EXTINF:-1 group-title="FORMULA 1 + MOTO GP",F1| MOVISTAR F1
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=317783&extension=ts
 #EXTINF:-1 group-title="FORMULA 1 + MOTO GP",F1| MOVISTAR FORMULA 1 HD
@@ -6613,423 +6724,7 @@ http://103.161.34.196:80/store/DE/04/KIDS/9.mkv
 #EXTINF:-1 tvg-id="" tvg-name="10 - " tvg-logo="http://onecentcdn.com/newpicon/store_kapaklar/TR/tr.cocuk.04/10.jpg" group-title="DE ⋅ KIDS",KIDS 10
 http://103.161.34.196:80/store/DE/04/KIDS/10.mkv
 
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",##### TR SINEMA/DIZI #####
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913334&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES TURK HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913333&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES FAMILY HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913332&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES STARS HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913331&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES ACTION HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913330&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES ACTION 2 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913329&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES PREMIERE HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913328&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES PREMIERE 2 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913327&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN SERIES 1 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913325&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN SERIES 2 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913326&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN SERIES 3 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913323&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN SERIES 4 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913324&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN BOX OFFICE 1 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1175357&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN BOX OFFICE 2 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1175356&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| BEIN BOX OFFICE 3 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1175355&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEMA TV HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913322&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEMA TV2 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913321&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEMA TV YERLI HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913320&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEMA TV YERLI2 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913319&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEMA TV AILE HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913318&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEMA TV AILE2 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913317&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEMA TV KOMEDI HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913316&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEMA TV KOMEDI2 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913315&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEMA TV AKSIYON HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913314&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEMA TV AKSIYON2 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913313&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEMA TV 1001 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913312&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEMA TV 1002 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913311&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| DIZI SMART PREMIUM HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913307&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| DIZI SMART MAX HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913306&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| FX HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913305&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| FILMBOX KEMAL SUNAL
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=913209&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| LOCA 1 FHD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1423980&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX PREMIER 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395474&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX ACTION 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395475&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX FANTASTIC 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395477&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX SCI-FI 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395476&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX FAMILY 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395482&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX ROMANTIC 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395481&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX COMEDY 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395480&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX HORROR 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395479&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX DRAMA 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395478&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX CUNEYT ARKIN 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395490&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX ILYAS SALMAN 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395489&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX KADIR INANIR 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395488&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX TARIK AKAN 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395487&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX ZEKI & METIN 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395486&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX SENER SEN 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395485&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX YESILCAM 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395484&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",FILMBOX YERLI 
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1395483&extension=ts
 
-
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 1 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1384240&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 2 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1100327&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 3 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1100328&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 4 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1100329&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 5 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1100330&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 6 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1100331&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 7 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1100332&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 8 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1100333&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 9 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1100334&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 10 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1100335&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 11 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1384250&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 12 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1384249&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 13 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1384248&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 14 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1384247&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 15 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1384246&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 16 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1384245&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 17 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1384244&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 18 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1384243&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 19 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1384242&extension=ts
-#EXTINF:-1 group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 20 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1384241&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="##### TR SINEMA/DIZI #####" group-title="TR| SINEMA KANALLARI",##### TR SINEMA/DIZI #####
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913334&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN MOVIES TURK HD" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES TURK HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913333&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN MOVIES FAMILY HD" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES FAMILY HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913332&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN MOVIES STARS HD" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES STARS HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913331&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES ACTION HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913330&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN MOVIES ACTION 2 HD" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES ACTION 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913329&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN MOVIES PREMIERE HD" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES PREMIERE HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913328&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN MOVIES PREMIERE 2 HD" group-title="TR| SINEMA KANALLARI",TR| BEIN MOVIES PREMIERE 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913327&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN SERIES 1 HD" group-title="TR| SINEMA KANALLARI",TR| BEIN SERIES 1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913325&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN SERIES 2 HD" group-title="TR| SINEMA KANALLARI",TR| BEIN SERIES 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913326&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN SERIES 3 HD" group-title="TR| SINEMA KANALLARI",TR| BEIN SERIES 3 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913323&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN SERIES 4 HD" group-title="TR| SINEMA KANALLARI",TR| BEIN SERIES 4 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913324&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN BOX OFFICE 1 HD" group-title="TR| SINEMA KANALLARI",TR| BEIN BOX OFFICE 1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1175357&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN BOX OFFICE 2 HD" group-title="TR| SINEMA KANALLARI",TR| BEIN BOX OFFICE 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1175356&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| BEIN BOX OFFICE 3 HD" group-title="TR| SINEMA KANALLARI",TR| BEIN BOX OFFICE 3 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1175355&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEMA TV HD" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913322&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEMA TV2 HD" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913321&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEMA TV YERLI HD" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV YERLI HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913320&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEMA TV YERLI2 HD" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV YERLI2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913319&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEMA TV AILE HD" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV AILE HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913318&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEMA TV AILE2 HD" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV AILE2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913317&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEMA TV KOMEDI HD" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV KOMEDI HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913316&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEMA TV KOMEDI2 HD" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV KOMEDI2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913315&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEMA TV AKSIYON HD" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV AKSIYON HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913314&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEMA TV AKSIYON2 HD" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV AKSIYON2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913313&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEMA TV 1001 HD" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV 1001 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913312&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEMA TV 1002 HD" group-title="TR| SINEMA KANALLARI",TR| SINEMA TV 1002 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913311&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| DIZI SMART PREMIUM HD" group-title="TR| SINEMA KANALLARI",TR| DIZI SMART PREMIUM HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913307&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| DIZI SMART MAX HD" group-title="TR| SINEMA KANALLARI",TR| DIZI SMART MAX HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913306&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| FX HD" group-title="TR| SINEMA KANALLARI",TR| FX HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913305&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| FILMBOX KEMAL SUNAL" group-title="TR| SINEMA KANALLARI",TR| FILMBOX KEMAL SUNAL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=913209&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| LOCA 1 FHD" group-title="TR| SINEMA KANALLARI",TR| LOCA 1 FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1423980&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX PREMIER \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX PREMIER \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395474&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ACTION \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX ACTION \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395475&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FANTASTIC \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX FANTASTIC \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395477&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SCI-FI \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX SCI-FI \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395476&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FAMILY \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX FAMILY \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395482&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ROMANTIC \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX ROMANTIC \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395481&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX COMEDY \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX COMEDY \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395480&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HORROR \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX HORROR \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395479&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX DRAMA \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX DRAMA \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395478&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX CUNEYT ARKIN \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX CUNEYT ARKIN \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395490&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ILYAS SALMAN \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX ILYAS SALMAN \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395489&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX KADIR INANIR \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX KADIR INANIR \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395488&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX TARIK AKAN \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX TARIK AKAN \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395487&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ZEKI & METIN \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX ZEKI & METIN \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395486&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SENER SEN \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX SENER SEN \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395485&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX YESILCAM \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX YESILCAM \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395484&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX YERLI \u1d34\u1d30" group-title="TR| SINEMA KANALLARI",FILMBOX YERLI \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1395483&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 1 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1384240&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 2 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1100327&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 3 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 3 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1100328&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 4 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 4 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1100329&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 5 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 5 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1100330&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 6 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 6 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1100331&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 7 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 7 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1100332&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 8 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 8 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1100333&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 9 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 9 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1100334&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 10 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 10 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1100335&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 11 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 11 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1384250&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 12 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 12 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1384249&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 13 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 13 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1384248&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 14 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 14 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1384247&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 15 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 15 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1384246&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 16 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 16 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1384245&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 17 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 17 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1384244&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 18 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 18 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1384243&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 19 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 19 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1384242&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR| SINEVIZYON 20 HD" group-title="TR| SINEMA KANALLARI",TR| SINEVIZYON 20 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:82:B4:92&stream=1384241&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TR | Marvel Studios 1ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/0a2de2af7074c1060a1663df4c2452d2.png" group-title="|TR| SINEMA",TR | Marvel Studios 1ⓧ HD
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/62721
@@ -7325,6 +7020,9 @@ http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/62728
 #EXTINF:-1 tvg-id="" tvg-name="TR | Universal Box Office 7ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/3c31e0c8580852a4286eb2c8745e5d2c.png" group-title="|TR| SINEMA",TR | Universal Box Office 7ⓧ FHD
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/62729
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="☾☆ Sinema ☾☆" tvg-logo="http://logo.apk-red.com/kare/Doplayf.png" group-title="► Sinema",☾☆ Sinema ☾☆
 http://filbox505.com:8080/Mert@Kaan/Afatsum@77/1891
 #EXTINF:-1 tvg-id="vipchannel.tr" tvg-name="Vip Channel HD" tvg-logo="http://logo.apk-red.com/cdn/vipchannel.png" group-title="► Sinema",Vip Channel HD
@@ -7351,6 +7049,18 @@ http://filbox505.com:8080/Mert@Kaan/Afatsum@77/205288
 http://filbox505.com:8080/Mert@Kaan/Afatsum@77/205304
 #EXTINF:-1 tvg-id="netfilixwestern.ad" tvg-name="Netflix Western HD" tvg-logo="http://logo.apk-red.com/cdn/netfilix-sinema/western.png" group-title="► Sinema",Netflix Western HD
 http://filbox505.com:8080/Mert@Kaan/Afatsum@77/205305
+#EXTINF:-1 tvg-id="" tvg-name="FİL TV HD" tvg-logo="http://logo.apk-red.com/filspor/filtv.jpg" group-title="► Sinema",FİL TV HD
+http://filbox505.com:8080/Mert@Kaan/Afatsum@77/319625
+#EXTINF:-1 tvg-id="" tvg-name="FilmClub HD" tvg-logo="http://logo.apk-red.com/filspor/filmclub.jpg" group-title="► Sinema",FilmClub HD
+http://filbox505.com:8080/Mert@Kaan/Afatsum@77/319626
+#EXTINF:-1 tvg-id="" tvg-name="FilmClub Aksiyon HD" tvg-logo="http://logo.apk-red.com/filspor/filnclubaksiyon.jpg" group-title="► Sinema",FilmClub Aksiyon HD
+http://filbox505.com:8080/Mert@Kaan/Afatsum@77/319627
+#EXTINF:-1 tvg-id="" tvg-name="FilmClub Komedi HD" tvg-logo="http://logo.apk-red.com/filspor/ffilmclupkomedi.jpg" group-title="► Sinema",FilmClub Komedi HD
+http://filbox505.com:8080/Mert@Kaan/Afatsum@77/319628
+#EXTINF:-1 tvg-id="" tvg-name="FiLMAX HD" tvg-logo="http://logo.apk-red.com/filspor/filmax.jpg" group-title="► Sinema",FiLMAX HD
+http://filbox505.com:8080/Mert@Kaan/Afatsum@77/319629
+#EXTINF:-1 tvg-id="" tvg-name="FilmClub Family HD" tvg-logo="http://logo.apk-red.com/filspor/filmclubfamily.jpg" group-title="► Sinema",FilmClub Family HD
+http://filbox505.com:8080/Mert@Kaan/Afatsum@77/319630
 #EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="beIN Movies Türk HD" tvg-logo="http://logo.apk-red.com/lg/beinmoviesturk.jfif" group-title="► Sinema",beIN Movies Türk HD
 http://filbox505.com:8080/Mert@Kaan/Afatsum@77/236515
 #EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="beIN Movies Stars HD" tvg-logo="http://logo.apk-red.com/lg/beinmoviesstar.jfif" group-title="► Sinema",beIN Movies Stars HD
@@ -7453,7 +7163,7 @@ http://filbox505.com:8080/Mert@Kaan/Afatsum@77/224095
 http://filbox505.com:8080/Mert@Kaan/Afatsum@77/224096
 #EXTINF:-1 tvg-id="" tvg-name="Şener Şen HD" tvg-logo="http://logo.apk-red.com/lg/senersen.jpg" group-title="► Sinema",Şener Şen HD
 http://filbox505.com:8080/Mert@Kaan/Afatsum@77/224097
-#EXTINF:-1 tvg-id="" tvg-name="Banu Alkan HD" tvg-logo="" group-title="► Sinema",Banu Alkan HD
+#EXTINF:-1 tvg-id="" tvg-name="Banu Alkan HD" tvg-logo="http://logo.apk-red.com/lg/yerlisinema.png" group-title="► Sinema",Banu Alkan HD
 http://filbox505.com:8080/Mert@Kaan/Afatsum@77/224098
 #EXTINF:-1 tvg-id="" tvg-name="Turist Ömer HD" tvg-logo="http://logo.apk-red.com/lg/turistomer.jpg" group-title="► Sinema",Turist Ömer HD
 http://filbox505.com:8080/Mert@Kaan/Afatsum@77/224099
@@ -7551,18 +7261,8 @@ http://filbox505.com:8080/Mert@Kaan/Afatsum@77/224153
 http://filbox505.com:8080/Mert@Kaan/Afatsum@77/224154
 #EXTINF:-1 tvg-id="" tvg-name="Sinemix Yabancı Korku HD 3" tvg-logo="http://logo.apk-red.com/lg/yabancisinema.jpg" group-title="► Sinema",Sinemix Yabancı Korku HD 3
 http://filbox505.com:8080/Mert@Kaan/Afatsum@77/224155
-#EXTINF:-1 tvg-id="" tvg-name="FİL TV HD" tvg-logo="http://logo.apk-red.com/filspor/filtv.jpg" group-title="► Sinema",FİL TV HD
-http://filbox505.com:8080/Mert@Kaan/Afatsum@77/319625
-#EXTINF:-1 tvg-id="" tvg-name="FilmClub HD" tvg-logo="http://logo.apk-red.com/filspor/filmclub.jpg" group-title="► Sinema",FilmClub HD
-http://filbox505.com:8080/Mert@Kaan/Afatsum@77/319626
-#EXTINF:-1 tvg-id="" tvg-name="FilmClub Aksiyon HD" tvg-logo="http://logo.apk-red.com/filspor/filnclubaksiyon.jpg" group-title="► Sinema",FilmClub Aksiyon HD
-http://filbox505.com:8080/Mert@Kaan/Afatsum@77/319627
-#EXTINF:-1 tvg-id="" tvg-name="FilmClub Komedi HD" tvg-logo="http://logo.apk-red.com/filspor/ffilmclupkomedi.jpg" group-title="► Sinema",FilmClub Komedi HD
-http://filbox505.com:8080/Mert@Kaan/Afatsum@77/319628
-#EXTINF:-1 tvg-id="" tvg-name="FiLMAX HD" tvg-logo="http://logo.apk-red.com/filspor/filmax.jpg" group-title="► Sinema",FiLMAX HD
-http://filbox505.com:8080/Mert@Kaan/Afatsum@77/319629
-#EXTINF:-1 tvg-id="" tvg-name="FilmClub Family HD" tvg-logo="http://logo.apk-red.com/filspor/filmclubfamily.jpg" group-title="► Sinema",FilmClub Family HD
-http://filbox505.com:8080/Mert@Kaan/Afatsum@77/319630
+
+
 #EXTINF:-1 tvg-id="" tvg-name="☾☆ Boxset Sinema ☾☆" tvg-logo="http://logo.apk-red.com/kare/Doplayf.png" group-title="► Boxset Sinema",☾☆ Boxset Sinema ☾☆
 http://filbox505.com:8080/Mert@Kaan/Afatsum@77/163086
 #EXTINF:-1 tvg-id="" tvg-name="Çakallarla Dans" tvg-logo="http://logo.apk-red.com/lg/cakallarladans.png" group-title="► Boxset Sinema",Çakallarla Dans
@@ -9101,95 +8801,5 @@ http://edge-01-pub.persik.by:82/live/Ch001pub/index.m3u8
 #EXTINF:-1 group-title="Müzik",MIXM TV HD
 http://89.179.247.144/mixm.m3u8
 
-
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN Bar 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Sky Sport",DAZN Bar 1 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411552&extension=ts
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN Bar 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Sky Sport",DAZN Bar 1 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411550&extension=ts
-#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN Bar 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Sky Sport",DAZN Bar 2 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411551&extension=ts
-#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN Bar 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Sky Sport",DAZN Bar 2 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411549&extension=ts
-
-#EXTINF:-1 tvg-id="SkySportUHD.de" tvg-name="Sky Sport UHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="Live: Sky Sport",Sky Sport UHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411603&extension=ts
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnewshd.jpg" group-title="Live: Sky Sport",Sky Sport News FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411604&extension=ts
-#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1 FHD DE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-f1-359.png" group-title="Live: Sky Sport",Sky Sport F1 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=513132&extension=ts
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1hd.jpg" group-title="Live: Sky Sport",Sky Sport 1 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411602&extension=ts
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1hd.jpg" group-title="Live: Sky Sport",Sky Sport 1 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411601&extension=ts
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Sky Sport",Sky Sport 2 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411600&extension=ts
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Sky Sport",Sky Sport 2 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411599&extension=ts
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport3hd.jpg" group-title="Live: Sky Sport",Sky Sport 3 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411598&extension=ts
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport3hd.jpg" group-title="Live: Sky Sport",Sky Sport 3 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411597&extension=ts
-#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport4hd.jpg" group-title="Live: Sky Sport",Sky Sport 4 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411596&extension=ts
-#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport4hd.jpg" group-title="Live: Sky Sport",Sky Sport 4 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411595&extension=ts
-#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport5hd.jpg" group-title="Live: Sky Sport",Sky Sport 5 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411594&extension=ts
-#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport5hd.jpg" group-title="Live: Sky Sport",Sky Sport 5 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411593&extension=ts
-#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport6hd.jpg" group-title="Live: Sky Sport",Sky Sport 6 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411592&extension=ts
-#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport6hd.jpg" group-title="Live: Sky Sport",Sky Sport 6 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411591&extension=ts
-#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport7hd.jpg" group-title="Live: Sky Sport",Sky Sport 7 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411590&extension=ts
-#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport7hd.jpg" group-title="Live: Sky Sport",Sky Sport 7 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411589&extension=ts
-#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport8hd.jpg" group-title="Live: Sky Sport",Sky Sport 8 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411588&extension=ts
-#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport8hd.jpg" group-title="Live: Sky Sport",Sky Sport 8 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411587&extension=ts
-#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport9hd.jpg" group-title="Live: Sky Sport",Sky Sport 9 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411586&extension=ts
-#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport9hd.jpg" group-title="Live: Sky Sport",Sky Sport 9 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411585&extension=ts
-#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="Sky Sport 10 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport10hd.jpg" group-title="Live: Sky Sport",Sky Sport 10 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411584&extension=ts
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport11hd.jpg" group-title="Live: Sky Sport",Sky Sport 11 HD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411583&extension=ts
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport12hd.jpg" group-title="Live: Sky Sport",Sky Sport 12 HD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=578801&extension=ts
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport13hd.jpg" group-title="Live: Sky Sport",Sky Sport 13 HD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=578800&extension=ts
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport14hd.jpg" group-title="Live: Sky Sport",Sky Sport 14 HD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=578799&extension=ts
-
-
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Sport",Eurosport 1 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411547&extension=ts
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Sport",Eurosport 2 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411545&extension=ts
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2xtrade.jpg" group-title="Live: Sport",Eurosport 2 Xtra FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411543&extension=ts
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sport1hd-duslelaslu.jpg" group-title="Live: Sport",SPORT1 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411541&extension=ts
-#EXTINF:-1 tvg-id="Sport1Plus.de" tvg-name="Sport 1+ FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sport1plushd.jpg" group-title="Live: Sport",Sport 1+ FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411536&extension=ts
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigitalhd.jpg" group-title="Live: Sport",sportdigital fussball FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411534&extension=ts
-#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorvision TV DE" tvg-logo="https://picon-13398.kxcdn.com/motorvisiontv.jpg" group-title="Live: Sport",Motorvision TV DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411537&extension=ts
-#EXTINF:-1 tvg-id="eSports1.de" tvg-name="eSports1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ginx.jpg" group-title="Live: Sport",eSports1 FHD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411535&extension=ts
-#EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="Auto Motor und Sport HD DE" tvg-logo="https://picon-13398.kxcdn.com/automotorsporthd.jpg" group-title="Live: Sport",Auto Motor und Sport HD DE
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=411380&extension=ts
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="NBA TV HD US" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="Live: Sport",NBA TV HD
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=978677&extension=ts
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD US" tvg-logo="https://picon-13398.kxcdn.com/mlbnetworkus.jpg" group-title="Live: Sport",MLB Network HD US
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=978675&extension=ts
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Redskins" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: Sport",NFL DAZN HD
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=978673&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Family Chrgd HD CA" tvg-logo="https://picon-13398.kxcdn.com/familychrgdca.jpg" group-title="Live: Sport", CLIPMYHORSE.TV HD
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:A7:ED:02&stream=692608&extension=ts
 
 
