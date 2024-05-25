@@ -266,7 +266,7 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
 
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="HABER",KRT TV ᵁᴴᴰ⁺
-https://krtdvr.blutv.com/blutv_krt_live_dvr/live.m3u8
+https://krttv-live.daioncdn.net/krttv/krttv.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="HABER",T24 BİRGÜN TV 
 http://stream.tvcdn.net/diger/birgun-tv.m3u8
@@ -378,7 +378,7 @@ https://bozztv.com/inim03/live1/trtturk/playlist.m3u8
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowTurk.tr"tvg-name="Show Turk TR"  tvg-logo="https://i.imgur.com/UsMsmA7.png"  group-title="ULUSAL-int",SHOW TURK ᴴᴰ
-https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+http://bozztv.com:80/gin-dvrfl05/gin-showtvturk/index.m3u8
 
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="EuroStar TR" tvg-logo="https://picon-13398.kxcdn.com/eurostartr.jpg"   group-title="ULUSAL-int",EURO STAR ᴴᴰ
 https://github.com/rideordie16/YouTube/raw/main/ch/eurostar.m3u8
@@ -393,7 +393,7 @@ https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 https://github.com/rideordie16/YouTube/raw/main/ch/kanal7eu.m3u8
 
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRT EU TR" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url=""aspect-ratio="16:9"  group-title="ULUSAL-int",TGRT EU  ᴴᴰ
-https://ensonhaber-live.ercdn.net/tgrteu/tgrteu.m3u8
+https://bozztv.com/inim03/live1/tgrteu/playlist.m3u8
     
 #EXTINF:-1 tvg-id="KanalAvrupa.tr"tvg-name="Kanal Avrupa TR"   tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_avrupa.png" group-title="ULUSAL-int",KANAL AVRUPA ᴴᴰ
 https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
@@ -426,6 +426,125 @@ https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_
 #EXTINF:-1 tvg-id"" tvg-logo=""group-title="ULUSAL-int"  ,TATARİSTAN TV
 https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 
+
+
+#EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="TRT Spor 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="MYSporT",TRT Spor * ʜᴅ
+https://trn10.tulix.tv/gt-trtspor2/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="MYSporT", TRT Spor  ʜᴅ
+https://trn10.tulix.tv/gt-trtspor1/tracks-v1a1/mono.m3u8?
+#https://github.com/proefem/yutuber2/raw/main/binTR1TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="MYSporT", A Spor  ʜᴅ
+https://trn10.tulix.tv/gt-aspor/tracks-v1a1/mono.m3u8?
+#https://github.com/proefem/yutuber2/raw/main/binASTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="MYSporT", tv8'5 ʜᴅ
+http://50.7.218.122:8080/tv85/playlist.m3u8
+#https://github.com/proefem/yutuber2/raw/main/bin85TV.m3u8
+
+#EXTINF:1 tvg-id="" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="MYSporT"  ,CBC Sport  ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binCBCTV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="MYSporT", beiN Sport HABER ʜᴅ
+http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/index.m3u8
+#https://github.com/proefem/yutuber2/raw/main/binhbrTV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT", beiN Sport 1 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/bin1TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT", beiN Sport 1feed ʜᴅ
+#https://github.com/proefem/yutuber2/raw/main/binfeedTV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="MYSporT", beiN Sport 2 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/bin2TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="MYSporT", beiN Sport 3 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/bin3TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="MYSporT", beiN Sport 4 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/bin4TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="MYSporT", beiN Sport 5 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/bin5TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3PdLTqN" group-title="MYSporT", StreaM RadaR ʜᴅ
+#https://github.com/proefem/yutuber2/raw/main/bin1TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="MYSporT", beiN Sport Max 1 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binMX1TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="MYSporT", beiN Sport Max 2 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binMX2TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" aspect-ratio="16:9"  group-title="MYSporT", Tivibu Sport  ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binTTV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="MYSporT", Tivibu Sport 1 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binT1TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="MYSporT", Tivibu Sport 2 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binT2TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="MYSporT", Tivibu Sport 3 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binT3TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="MYSporT", Tivibu Sport 4 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binT4TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="MYSporT", S Sport 1 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binS1TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="MYSporT", S Sport 2 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binS2TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="MYSporT", Smart Spor 1 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binSM1TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="MYSporT", Smart Spor 2 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binSM2TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="MYSporT", Euro Sport 1 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binEU1TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="MYSporT", Euro Sport 2 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binEU1TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT", Exxen Sport 1 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binEX1TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT", Exxen Sport 2 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binEX2TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT", Exxen Sport 3 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binEX3TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT", Exxen Sport 4 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binEX4TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT", Exxen Sport 5 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binEX5TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT", Exxen Sport 6 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binEX6TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT", Exxen Sport 7 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binEX7TV.m3u8
+
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT", Exxen Sport 8 ʜᴅ
+https://github.com/proefem/yutuber2/raw/main/binEX8TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYvFsuwm1IQMThFmS30ocsIfrwC82xgVvnRmZeP" group-title="MYSporT",TAY TV ʜᴅ
+https://new.cache-stream.workers.dev/stream/UCjkRA7KEdp7PDKDUs396XHg/live.m3u8
+
+#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/ytc/APkrFKb2HHEhIDwbVBN2lNqSIBBmD8frchEUfu6cmV7WYQ"group-title="MYSporT" , TJK TV ʜᴅ
+https://new.cache-stream.workers.dev/stream/UCNLO4lpteIloZ4IKb9L2DoA/live.m3u8
+
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="MYSporT",BYHORSES TV ʜᴅ
+https://mn-nl.mncdn.com/blutv_byhorses/smil:blutv_byhorses.smil/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="MYSporT",NBA TV ʜᴅ 
+https://github.com/proefem/yutuber2/raw/main/binNBATV.m3u8
 
 
 
@@ -641,12 +760,12 @@ https://live.anystreamrectv3.live/live/discs.m3u8
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id"NatGeoHD tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="BELGESEL" ,NATIONAL GEOGRAPHIC  ʜᴅ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://live.anystreamrectv3.live/live/natgeo.m3u8
+https://edge02.odtv.az/o3/natgeo/playlist.m3u8|User-Agent=ExoPlayer2/2.37   
+#https://live.anystreamrectv3.live/live/natgeo.m3u8
 
 #EXTINF:-1 tvg-id"NatGeoWild.tr" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg"  group-title="BELGESEL"    ,NATIONAL GEOGRAPHIC WILD  ʜᴅ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://live.anystreamrectv3.live/live/natgeowild.m3u8
+https://edge02.odtv.az/o3/natgeowild/playlist.m3u8|User-Agent=ExoPlayer2/2.37   
+#https://live.anystreamrectv3.live/live/natgeowild.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png" group-title="BELGESEL",Kültür Sanat TV ʜᴅ
 http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
