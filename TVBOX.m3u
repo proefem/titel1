@@ -36,11 +36,11 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᴴᴰ⁺™
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-https://new.cache-stream.workers.dev/stream/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8
+http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #http://dygvideo.dygdigital.com/live/hls/stardai?m3u8/?web
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᴴᴰ⁺™
-https://anka@live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://bozztv.com/gin-36bay4/gt-kanald-2/playlist.m3u8
 
@@ -440,8 +440,10 @@ https://trn10.tulix.tv/gt-aspor/tracks-v1a1/mono.m3u8?
 #https://github.com/proefem/yutuber2/raw/main/binASTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="MYSporT",7/24 SPOR ʜᴅ
-https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/24spor.m3u8
+http://185.234.111.229:8000/play/a016
 
+#EXTINF: -1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9"    group-title="MYSporT",EXXEN TV ʜᴅ
+https://github.com/proefem/yutuber/raw/main/binEXTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="MYSporT", tv8'5 ʜᴅ
 http://50.7.218.122:8080/tv85/playlist.m3u8
@@ -566,7 +568,10 @@ https://github.com/proefem/yutuber/raw/main/binTR1TV.m3u8
 https://github.com/proefem/yutuber/raw/main/binASTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="SelcuKSporT",7/24 SPOR ʜᴅ
-https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/24spor.m3u8
+http://185.234.111.229:8000/play/a016
+
+#EXTINF: -1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9"    group-title="SelcuKSporT",EXXEN TV ᵁᴴᴰ⁺™
+https://github.com/proefem/yutuber/raw/main/binEXTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="SelcuKSporT", tv8'5 ʜᴅ
 https://github.com/proefem/yutuber/raw/main/bin85TV.m3u8
@@ -811,19 +816,20 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
 
 
-
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/48cfc17a-8120-431a-8c01-1b78291c022f.jpg" group-title="Dizi-Youtube",TOLGSHOW
+http://stream.tvcdn.net/dizi-youtube/tolgshow.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c8b09a02-18e2-4952-8ba3-5a5f8b2c5f2e.png" group-title="Dizi-Youtube",Cennet Mahallesi
 http://stream.tvcdn.net/dizi-youtube/cennet-mahallesi.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/842192cc-760c-41d6-ba34-78cf50bb6d14.png" group-title="Dizi-Youtube",Behzat Ç.
-http://stream.tvcdn.net/dizi-youtube/behzat-c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ee85b275-edd1-463f-8274-3030a6834429.png" group-title="Dizi-Youtube",Kurtlar Vadisi
-http://stream.tvcdn.net/dizi-youtube/kurtlar-vadisi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7f29a6f5-5ae4-4bcb-a9d6-26a11b781dd9.png" group-title="Dizi-Youtube",Güldür Güldür
 http://stream.tvcdn.net/dizi-youtube/guldur-guldur.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e83f6574-4011-4247-b034-c5b4b2f02f71.png" group-title="Dizi-Youtube",Çok Güzel Hareketler Bunlar
 http://stream.tvcdn.net/dizi-youtube/cghb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ea14170-18a5-4953-9601-dacfdaf70a13.png" group-title="Dizi-Youtube",Emret Komutanım
 http://stream.tvcdn.net/dizi-youtube/emret-komutanim.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/842192cc-760c-41d6-ba34-78cf50bb6d14.png" group-title="Dizi-Youtube",Behzat Ç.
+http://stream.tvcdn.net/dizi-youtube/behzat-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ee85b275-edd1-463f-8274-3030a6834429.png" group-title="Dizi-Youtube",Kurtlar Vadisi
+http://stream.tvcdn.net/dizi-youtube/kurtlar-vadisi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c9893fec-8914-49a5-9b85-e17a5ac9cbc9.png" group-title="Dizi-Youtube",Kiralık Aşk
 http://stream.tvcdn.net/dizi-youtube/kiralik-ask.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8ae6bd1c-9cb4-4ecf-921e-1e42a1e9f623.png" group-title="Dizi-Youtube",Kızılcık Şerbeti
@@ -860,8 +866,6 @@ http://stream.tvcdn.net/dizi-youtube/meleklerin-aski.m3u8
 http://stream.tvcdn.net/dizi-youtube/sefirin-kizi.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bebad468-4a36-4543-9c9e-32d915390d3f.jpeg" group-title="Dizi-Youtube",Sihirli Annem
 http://stream.tvcdn.net/dizi-youtube/sihirli-annem.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/48cfc17a-8120-431a-8c01-1b78291c022f.jpg" group-title="Dizi-Youtube",TOLGSHOW
-http://stream.tvcdn.net/dizi-youtube/tolgshow.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ce570c18-78f1-4844-a650-f38a59e36d42.png" group-title="Dizi-Youtube",Yeni Gelin
 http://stream.tvcdn.net/dizi-youtube/yeni-gelin.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c22b5e28-b221-4aa2-b5d6-c590f3d0f57c.jpeg" group-title="Dizi-Youtube",Zemheri
@@ -872,7 +876,54 @@ http://stream.tvcdn.net/dizi-youtube/zalim-istanbul.m3u8
 http://stream.tvcdn.net/dizi-youtube/siyah-beyaz-ask.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/66321b58-16e7-444e-a56a-422e8c6878a7.jpg" group-title="Dizi-Youtube",Tatlı İntikam
 http://stream.tvcdn.net/dizi-youtube/tatli-intikam.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube", KUZEY GÜNEY
+https://ythls.armelin.one/channel/UC2sr0q_shuQKijWoebuRvcA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",ÖYLE BİR GEÇER ZAMAN Kİ
+https://ythls.armelin.one/channel/UCldUX3aGPR_yWuiKkkTu56A.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",ERKENCİ KUŞ
+https://ythls.armelin.one/channel/UC64mzacdticc87zH870bQGA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",UFAK TEFEK CİNAYETLER
+https://ythls.armelin.one/channel/UCYpbJJdypj-c8uqUqKg3euw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",İSTANBULLU GELİN
+https://ythls.armelin.one/channel/UC7xHX82HI2XR_yoL-ru6SmQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",GENİŞ AİLE
+https://ythls.armelin.one/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",FATMA GÜLÜN SUÇU NE?
+https://ythls.armelin.one/channel/UCmeIlUqcw49tOsE82LXz_zg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",EŞKİYA DÜNYAYA HÜKÜMDAR OLMAZ
+https://ythls.armelin.one/channel/UCeLBNGSG9w5qEbzQqZjqjuw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",EN SON BABALAR DUYAR
+https://ythls.armelin.one/channel/UC-vSQU6Ak0kyleh6OEcJSKw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",DOLUNAY
+https://ythls.armelin.one/channel/UCXygCN-u5CrdX4GJctowTVw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",AVRUPA YAKASI
+https://ythls.armelin.one/channel/UCgc3VJYdM_R8oKGRuXxUbKQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",ADANALI
+https://ythls.armelin.one/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",GÜVERCİN
+https://ythls.armelin.one/channel/UCFl99iZxISGjhqBB0Zhm9SQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",İKİ AİLE
+https://ythls.armelin.one/channel/UCk6YiXhDuMiLHWvO1MLS0Ug.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",ŞAHANE DAMAT
+https://ythls.armelin.one/channel/UChz9YBGflFbhkCFMF_luVzQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",ÜÇ KURUŞ
+https://ythls.armelin.one/channel/UC-9ki_1Lsef3ZMLiJAHD7eQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",YALAN DÜNYA
+https://ythls.armelin.one/channel/UCN2Q-lSzQa7RjrCxQZ8DzbA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",YAPRAK DÖKÜMÜ
+https://ythls.armelin.one/channel/UCi-nK74pBX9Ou66z1j7KYPQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",TÜRK MALI
+https://ythls.armelin.one/channel/UCpSOc0PBZP3eVjEAhFoq3rg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",ALEMİN KRALI
+https://ythls.armelin.one/channel/UC7X6WuvzdVTFtAAAly9ldcw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",MUHTEŞEM YÜZYIL
+https://ythls.armelin.one/channel/UCkRY4J8G__K8SEWZRLbke-Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",İŞLER GÜÇLER
+https://ythls.armelin.one/channel/UCALHvpjqmBwdRwYPc3qVezw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",BABİL
+https://ythls.armelin.one/channel/UCL7VMojYM3_srnvOBnc-5ow.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="Dizi-Youtube",ÇOÇUK
+https://ythls.armelin.one/channel/UCXGbSMPiI5WnTrDZDms1zyA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="TR ➾ SINEMA", YEŞİLÇAM sine1 ᴴᴰ
 http://stream.tvcdn.net/diger-eglence/cagri-tv.m3u8
