@@ -75,6 +75,10 @@ https://hw1.jemtv.com/app/A2HD/chunks.m3u8
 #EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
 https://github.com/rideordie16/YouTube/raw/main/ch/showmax.m3u8
 
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="ULUSAL",TELE ON ᴴᴰ
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8(Linux;Android) ExoPlayerLib/2.1.1
+https://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9" group-title="ULUSAL",EXXEN TV ᴴᴰ⁺™
 https://github.com/proefem/yutuber/raw/main/binEXTV.m3u8
 #EXTINF: -1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9" group-title="ULUSAL",EXXEN TV ᴴᴰ⁺™ʏᴇᴅᴇᴋ
@@ -82,6 +86,9 @@ https://github.com/proefem/yutuber/raw/main/TestTV.m3u8
 
 #EXTINF:-1 tvg-id="AkilliTV.tr"tvg-name="AKILLI TV TR"   tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg"aspect-ratio="16:9"   group-title="ULUSAL",AKILLI  ᴴᴰ
 https://m3u-editor.com/serve/deathless-sund-box/1172976409
+
+#EXTINF:-1 tvg-id="Filodi.tr"tvg-name="FİLODİ TR"  tvg-logo="https://logo.filbox.com.tr/FİLODİ.png" group-title="ULUSAL",FİLODİ ᵁᴴᴰ⁺
+https://live.filbox.com.tr/filodi/index.m3u8
 
 #EXTINF:0 tvg-id=""tvg-url="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38"group-title="ULUSAL", MMN TURK TV ᴴᴰ⁺
 http://anka@mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist.m3u8
@@ -339,7 +346,8 @@ http://stream.tvcdn.net/diger/birgun-tv.m3u8
 #EXTINF:-1 tvg-id="CADDE TV.TR" tvg-name=" HD TR" tvg-logo="https://canlitv.center/channels/cadde-tv.png" group-title="HABER",CADDE TV ᵁᴴᴰ⁺™
 http://185.234.111.229:8000/play/a00x
 
-#EXTINF:-1 tvg-id="CNBC.tr" tvg-name="CNBC FHD TR" tvg-logo="https://www.canlitv.day/kanal/logo/67/13406.jpg" group-title="HABER",CNBC E ᵁᴴᴰ⁺™
+#https://www.canlitv.day/kanal/logo/67/13406.jpg#
+#EXTINF:-1 tvg-id="CNBC.tr" tvg-name="CNBC FHD TR" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/cnbcelogo_0AAADFA7-1B4C-4530-9C6C-941D80FD2A60.png" group-title="HABER",CNBC E ᵁᴴᴰ⁺™
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT TR" tvg-logo="https://picon-13398.kxcdn.com/bloomberg.jpg" group-title="HABER",BLOOMBERG HT ᵁᴴᴰ⁺
@@ -874,6 +882,10 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh_tur.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://95.67.12.82:9098_tur.m3u8
 #https://live.anystreamrectv3.live/live/lovenature.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Docubox" tvg-logo="https://logo.filbox.com.tr/DOCUMAX.png" group-title="BELGESEL",Documax ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://live.filbox.com.tr/documax/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Docubox" tvg-logo="https://picon-13398.kxcdn.com/skydocumentariesuk.jpg" group-title="BELGESEL",Docubox ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
