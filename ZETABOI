@@ -1,9 +1,16 @@
-#EXTM3U x-url-tvg="https://www.bevy.be/bevyfiles/turkey.xml" (tvplus.com.tr)
-#EXTM3U x-url-tvg="https://www.bevy.be/bevyfiles/turkeypremium1.xml" (digiturk.com.tr)
-#EXTM3U x-url-tvg="https://www.bevy.be/bevyfiles/turkeypremium2.xml" (dsmart.com.tr)
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz" (tvplus.com.tr)
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR2.xml.gz" (digiturk.com.tr)
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz" (dsmart.com.tr)       
+#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml"
+#EXTM3U x-url-tvg="https://www.bevy.be/bevyfiles/turkey.xml" 
+#(tvplus.com.tr)
+#EXTM3U x-url-tvg="https://www.bevy.be/bevyfiles/turkeypremium1.xml" 
+#(digiturk.com.tr)
+#EXTM3U x-url-tvg="https://www.bevy.be/bevyfiles/turkeypremium2.xml" 
+#(dsmart.com.tr)
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz" 
+#(tvplus.com.tr)
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR2.xml.gz" 
+#(digiturk.com.tr)
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz" 
+#(dsmart.com.tr)       
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml" 
 #EXTM3U x-url-tvg="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
 #EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml"
@@ -289,8 +296,8 @@ https://anka@demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001244/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001244&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360.tr" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="ULUSAL",360 TV ꜰʜᴅ⁺™
-http://185.234.111.229:8000/play/a05a
-#https://anka@turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+https://anka@turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#http://185.234.111.229:8000/play/a05a
 #https://trn10.tulix.tv/gt-sky360/tracks-v1a1/mono.m3u8?#
 #https://360tvdvr.blutv.com/blutv_360tv_dvr/live_1080p3500000kbps/index.m3u8
 #http://83.77.184.98:7000/play/xx360HD
@@ -301,8 +308,8 @@ http://185.234.111.229:8000/play/a05a
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001341/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001341&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-4-tr.png" group-title="ULUSAL",TV 4 ꜰʜᴅ⁺™
-http://185.234.111.229:8000/play/a05b
-#https://anka@turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+https://anka@turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#http://185.234.111.229:8000/play/a05b
 #http://83.77.184.98:7000/play/TV4HDxx
 #https://trn10.tulix.tv/gt-tv4/tracks-v1a1/mono.m3u8?
 #http://195.142.1.211:4002/udp/224.2.2.59:10001?mpegts
@@ -337,14 +344,14 @@ http://50.7.218.122:8080/a2hd/index.m3u8
 https://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF: -1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9"    group-title="ULUSAL",EXXEN1 TV @⁺™
+#EXTINF: -1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9"    group-title="ULUSAL",EXXEN 1 @⁺™
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://github.com/proefem/yutuber/raw/main/binEXTV.m3u8
 #https://nove.6a0ec8ce41cae2c.shop/p/macizlevip9745.shop/canli-mac-izle/exxen-tv-hd/4011/i.acdwatercn.shop/chunklist_hd.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #https://sei.1da87064b1b25605.shop/p/belestepe5749.shop/canli-mac-izle/exxen-tv-hd/4011/e.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 
 
-#EXTINF: -1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png" aspect-ratio="16:9"    group-title="ULUSAL",EXXEN2 TV @⁺™
+#EXTINF: -1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png" aspect-ratio="16:9"    group-title="ULUSAL",EXXEN 2 @⁺™
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://uno.1da87064b1b25605.shop/p/mac-izle/exxen-tv-hd/4011/i.acdwatercn.shop/chunklist_hd.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://anywhere.pwisetthon.com/https://uno.1da87064b1b25605.shop/p/mac-izle/exxen-tv-hd/4011/i.acdwatercn.shop/chunklist_hd.m3u8
@@ -352,7 +359,6 @@ https://anywhere.pwisetthon.com/https://uno.1da87064b1b25605.shop/p/mac-izle/exx
 #http://laurakaren.serv00.net/STBMag.php?Host=elit64.xyz:80&Mac=00:1A:79:31:2E:E0&HLS=http://localhost/ch/234804
 #http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:4D:54:E5&stream=161405&extension=ts
 #http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:AB:58:0E&stream=629214&extension=ts
-#EXTINF:-1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png"aspect-ratio="16:9"    group-title="ULUSAL",EXXEN TV 1 ᵁᴴᴰ⁺™
 #http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AF:F7:D3&stream=721509&extension=ts
 #http://pars01.com:8080/play/live.php?mac=00:1A:79:73:1F:16&stream=475884&extension=ts
 #http://laurakaren.serv00.net/STBMag.php?Host=pars01.live:8080&Mac=00:1A:79:4D:03:71&HLS=http://localhost/ch/475884
@@ -363,7 +369,6 @@ https://anywhere.pwisetthon.com/https://uno.1da87064b1b25605.shop/p/mac-izle/exx
 #http://tvizle.nl:8080/play/live.php?mac=00:1A:79:40:24:DE&stream=726222&extension=ts
 #http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:AB:58:0E&stream=721509&extension=ts
 #http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:AB:58:0E&stream=505690&extension=ts
-#EXTINF:-1 tvg-id="Exen.tr"tvg-name="EXXEN TV"tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png"aspect-ratio="16:9"    group-title="ULUSAL",EXXEN TV yedek 1 ᴴᴰ⁺™
 #http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AF:F7:D3&stream=721510&extension=ts
 #http://tvizle.nl:8080/play/live.php?mac=00:1A:79:40:24:DE&stream=726223&extension=ts
 #http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:AB:58:0E&stream=721510&extension=ts
@@ -942,8 +947,8 @@ https://live.anystreamrectv3.live/live/cnnturk.m3u8?|User-Agent=ExoPlayer2/2.37
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001153/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001153&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://picon-13398.kxcdn.com/haberglobaltr.jpg" group-title="HABER",HABER GLOBAL ᵁᴴᴰ⁺™
-http://185.234.111.229:8000/play/a05x
-#http://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
+http://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
+#http://185.234.111.229:8000/play/a05x
 #https://canlitvulusal.xyz/live/haberglobal/index.m3u8
 #https://trn10.tulix.tv/gt-haberglobal/tracks-v1a1/mono.m3u8
 #http://gineu10.bozztv.com/gin-36bay3/gt-haberglobal/index.m3u8
@@ -1048,11 +1053,10 @@ https://trn10.tulix.tv/gt-ntvtv/tracks-v1a1/mono.m3u8
 https://helga.iptv2022.com/ekol_tv/index.m3u8
 
 #EXTINF:-1 tvg-name="Akit TV" tvg-id="AkitTV.tr" tvg-logo="https://i.ibb.co/MBwzD2b/akit-tv.png" group-title="HABER",AKIT TV ᵁᴴᴰ⁺™
-http://185.234.111.229:8000/play/a05m
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
 #EXTINF:-1 tvg-name="BENGUTURK TV" tvg-id="BenguturkTV.tr" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="HABER",BENGU TURK ᵁᴴᴰ⁺™
-http://185.234.111.229:8000/play/a05u
-#https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
+https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 
 #EXTINF:-1 tvg-id="LiderTV.tr" tvg-name="LiderTV.tr"  tvg-logo="http://assets.tvcdn.net/0e7781ec-13ea-4dc4-963c-fa1925b5d965.png" group-title="HABER",LİDER HABER ᴴᴰ⁺™
 https://ip252.ozelip.com:22524/lidertv/lidertv/playlist.m3u8
