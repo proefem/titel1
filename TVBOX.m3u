@@ -21,7 +21,7 @@ https://mn-nl.mncdn.com/blutv_trt4k/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᴴᴰ⁺
 https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-https://live.anystreamrectv3.live/live/trt1.m3u8?|User-Agent=ExoPlayer2/2.37 
+https://tv-trt1.medya.trt.com.tr:443/master_1080p.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
 https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
@@ -918,7 +918,7 @@ https://live.anystreamrectv3.live/live/discs.m3u8
 
 #EXTINF:-1 tvg-id="24.tr" tvg-name="TR: DISCOVERY ID" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_413.png" group-title="BELGESEL",DISCOVERY ID ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://live.anystreamrectv3.live/live/discovery.m3u8
+https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id"NatGeoHD tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="BELGESEL" ,NATIONAL GEOGRAPHIC  ʜᴅ
 #https://edge02.odtv.az/o3/natgeo/playlist.m3u8|User-Agent=FMP (Linux) ExoPlayerLib/2.10.8
@@ -955,6 +955,9 @@ http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="BELGESEL",Çiftçi TV  ʜᴅ
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="BELGESEL",AnimalPlanet ʜᴅ
+http://103.110.110.11:8081/live/AnimalPlanet/playlist.m3u8
 
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/48cfc17a-8120-431a-8c01-1b78291c022f.jpg" group-title="Dizi-Youtube",TOLGSHOW
