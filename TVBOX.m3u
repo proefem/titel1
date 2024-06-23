@@ -1160,7 +1160,10 @@ http://stream.tvcdn.net/diger-eglence/cagri-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/gopsen-tv.m3u8
 
 #EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/04/Cine5_logosu.png" group-title="TR ➾ SINEMA",CİNE5 ᴴᴰ
-https://anka@cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8?_=1
+https://live.euromediacenter.com/cine5tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="Cine5TV.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/04/Cine5_logosu.png" group-title="TR ➾ SINEMA",CİNE5 ᴴᴰ
+http://116.202.117.244:1935/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://cine1.com.tr/images/main-dark-logo.png"group-title="TR ➾ SINEMA",CiNE1+ ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
