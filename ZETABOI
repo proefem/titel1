@@ -71,13 +71,15 @@ https://anka@d1u68oyra9spme.cloudfront.net/master.m3u8
 #https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/37ba3d56-b268-41e4-8577-1a5012848d55/0.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
-http://elit64.xyz:80/play/live.php?mac=00:1A:79:31:2E:E0&stream=5&extension=ts
-#http://116.202.238.88:80/ATV_TR/tracks-v1a1/playlist.m3u8
-#http://185.180.222.123/play/live.php?mac=00:1A:79:4D:54:E5&stream=3054&extension=ts
+https://canlitvulusal.xyz/live/atv/index.m3u8
+#https://c.fulltvizle.com/aytv/tracks-v1a1/mono.m3u8
+#http://elit64.xyz:80/play/live.php?mac=00:1A:79:31:2E:E0&stream=5&extension=ts
 #http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AF:F7:D3&stream=4&extension=ts
 #http://tvizle.nl:8080/play/live.php?mac=00:1A:79:40:24:DE&stream=726177&extension=ts
 #http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:AB:58:0E&stream=505701&extension=m3u8
+#http://185.180.222.123/play/live.php?mac=00:1A:79:4D:54:E5&stream=3054&extension=ts
 #http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:4D:54:E5&stream=3054&extension=ts
+#http://116.202.238.88:80/ATV_TR/tracks-v1a1/playlist.m3u8
 #https://live.anystreamrectv3.live/live/atv1.m3u8?|User-Agent=ExoPlayer2/2.37 
 #https://trn10.tulix.tv/gt-atv-tv/tracks-v1a1/mono.m3u8? 
 #http://laurakaren.serv00.net/Furrera.php?HLS=3392?|user-agent=FMP (Linux) ExoPlayerLib/2.10.8
@@ -88,7 +90,6 @@ http://elit64.xyz:80/play/live.php?mac=00:1A:79:31:2E:E0&stream=5&extension=ts
 #http://50.7.218.122:8080/ATVHD/index.m3u8
 #https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 #http://62.182.82.104/atv_turk/index.m3u8?token=test
-#https://c.fulltvizle.com/aytv/tracks-v1a1/mono.m3u8
 #https://izle.livev.xyz/aytv/index.m3u8
 #https://canlitvulusal.xyz/live/atv/index.m3u8
 #http://satscream.000webhostapp.com/GinikoHD.php?ID=732
@@ -442,7 +443,9 @@ https://anka@kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001207/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001207&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="ULUSAL",EKOL TV ᴴᴰ⁺™
-https://helga.iptv2022.com/ekol_tv/index.m3u8
+https://helga.iptv2022.com/sh/ekol_tv/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3v4
+#https://helga.iptv2022.com/ekol_tv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Akit TV" tvg-name="AkitTV.tr" tvg-logo="https://picon-13398.kxcdn.com/akittvtr.jpg" group-title="ULUSAL",AKIT TV ᵁᴴᴰ⁺™
 https://anka@akittv-live.ercdn.net/akittv/akittv_720p.m3u8
@@ -912,11 +915,13 @@ https://ensonhaber-live.ercdn.net/trthaber/trthaber_1080p.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="HABER",A HABER ᵁᴴᴰ⁺™
 http://135.181.115.81:8000/play/a00w/index.m3u8?token=livetv
-#https://koprulu.global.ssl.fastly.net/ythls/kanal/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
-#https://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
-#https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/ahaber.m3u8
-#https://trn10.tulix.tv/gt-ahaber/tracks-v1a1/mono.m3u8
 #https://c.fulltvizle.com/ahaber/index.m3u8
+#https://koprulu.global.ssl.fastly.net/ythls/kanal/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+#https://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8 
+#https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/ahaber.m3u8
+#https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
+#https://trn10.tulix.tv/gt-ahaber/tracks-v1a1/mono.m3u8
+#http://135.181.115.81:8000/play/a00w/index.m3u8?token=livetv
 #https://bozztv.com/inim03/live1/ahaber/playlist.m3u8
 #http://bozztv.com:80/gin-dvrfl05/gin-ahaber/tracks-v1a1/mono.m3u8
 #https://canlitvulusal.xyz/live/ahaber/index.m3u8
@@ -932,7 +937,9 @@ http://135.181.115.81:8000/play/a00w/index.m3u8?token=livetv
 #http://satscream.000webhostapp.com/GinikoHD.php?ID=775
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="HABER",CNN TURK ᵁᴴᴰ⁺™
-https://koprulu.global.ssl.fastly.net/ythls/kanal/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
+https://bozztv.com/gin-dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8
+#http://hw1.jemtv.com/app/cnnturk/playlist.m3u8
+#https://koprulu.global.ssl.fastly.net/ythls/kanal/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #https://live.anystreamrectv3.live/live/cnnturk.m3u8?|User-Agent=ExoPlayer2/2.37 
 #https://new.cache-stream.workers.dev/stream/UCV6zcRug6Hqp1UX_FdyUeBg/live.m3u8
 #https://koprulu.global.ssl.fastly.net/ythls/video/X_EWYemclKA.m3u8
@@ -940,9 +947,11 @@ https://koprulu.global.ssl.fastly.net/ythls/kanal/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #https://trn10.tulix.tv/gt-cnnturk/tracks-v1a1/mono.m3u8
 #https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/cnnturk.m3u8
 #http://51.195.5.44:80/cnnturk/playlist.m3u8
+#http://50.7.218.122:8080/cnnturk/index.m3u8
 #http://anka@195.142.1.211:4002/udp/224.2.2.10:10001
 #http://213.172.73.133:8081/nimble_live/9107_CNN_Turk_HD/playlist.m3u8
 #http://anka@116.202.238.88/CNNTURK_TR/tracks-v1a1/mono.m3u8
+#https://bozztv.com/gin-dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8
 #https://bozztv.com:80/gin-dvrfl05/gin-cnnturk/playlist.m3u8
 #https://bozztv.com/inim03/live1/cnnturk/playlist.m3u8|User-Agent=NetSurf/2.0 (RISC OS; armv3l)&Referer=https://www.cnnturk.com.tr/
 #https://edge02.odtv.az/odtv.az/o8/cnnturk/playlist.m3u8?|User-Agent=FMP (Linux) ExoPlayerLib/2.10.8
@@ -9878,19 +9887,19 @@ https://koprulu.global.ssl.fastly.net/ythls/video/yM3iJ1DZW6c.m3u8
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKDG_Zy1WiRpZ1ZxERX1pM88/ts
 #EXTINF: -1 tvg-name="TR | Kanal D HD" group-title="DeaTHLesS TR ULUSAL", TR | Kanal D HD
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKHdw62fR9Vt2ef9x_hXHrgo/m3u8
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKHdw62fR9Vt2ef9x_hXHrgo/ts
+#http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKHdw62fR9Vt2ef9x_hXHrgo/ts
 #EXTINF: -1 tvg-name="TR | Star Tv HD" group-title="DeaTHLesS TR ULUSAL", TR | Star Tv HD
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKHxzCfS5EvZQ6BiJw94a6O4/ts
 #EXTINF: -1 tvg-name="TR | Fox Tv HD" group-title="DeaTHLesS TR ULUSAL", TR | Fox Tv HD
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKGFXEk0LbXb8-Ptu1f9t6Zs/ts
 #EXTINF: -1 tvg-name="TR | Show Tv HD" group-title="DeaTHLesS TR ULUSAL", TR | Show Tv HD
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKDXTGXJdUZx_mmBdQS2HvJE/ts
-https://m3u-editor.com/serve/deathless-sund-box/1172976397
+#https://m3u-editor.com/serve/deathless-sund-box/1172976397
 #EXTINF: -1 tvg-name="TR | TV8 HD" group-title="DeaTHLesS TR ULUSAL", TR | TV8 HD
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKDLRNF2EUMKwW-cFwsrM864/ts
 #EXTINF: -1 tvg-name="TR | TV 8 5 HD" group-title="DeaTHLesS TR ULUSAL", TR | TV 8 5 HD
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKAjFxGL4Y3z8xjmCipLvHJ4/m3u8
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKAjFxGL4Y3z8xjmCipLvHJ4/ts
+#http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKAjFxGL4Y3z8xjmCipLvHJ4/ts
 #EXTINF: -1 tvg-name="TR | ATV HD" group-title="DeaTHLesS TR ULUSAL", TR | ATV HD
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKP95QJAMga1uarwfK7DZ17g/ts
 #EXTINF: -1 tvg-name="TR | A2 TV HD" group-title="DeaTHLesS TR ULUSAL", TR | A2 TV HD
@@ -9911,7 +9920,6 @@ https://m3u-editor.com/serve/deathless-sund-box/1172976407
 https://m3u-editor.com/serve/deathless-sund-box/1172976408
 #EXTINF: -1 tvg-name="TR | KOY TV" group-title="DeaTHLesS TR ULUSAL", TR | KOY TV
 https://m3u-editor.com/serve/deathless-sund-box/1172976409
-http://62.210.113.236:25461/auth/SMmKPsswPwv9oskMfkDRkDH58v2iJvl4vF2tOImMPpqpPURh5sFega97bPa13JKnZTYRmbE1jBVCfgnWJuiXU4D45YPlCYgVpxTiusaASrlVrxe2g2y0KwmONjGSvl0kN1wOd02ruGOQVwH2zwLtEkUHEjWstSSDn89tS8vsnfmBPhfhWCqF6uxwEZY0o5vih-yUOPMeT-LVgzVty7lvdNiop0HXZF3Jk_l7NWCVPUAlSw6mbS0ib88ZOh_qz5o3U6D5ZFa6i7o-jJc1sdw_b5rExx2j4EsM1beHWuEF6kM7CtTwVvCRWZbikAAAJoAq5ZHWKxgb7lF_OrPAGHuirimzVgGuvk6yB2zWeQ4P2I3ArnCxlPSi7tZJ9TUnT7KYYphOYGaCQv4FU-Zazyho4nX1upw5Dz3ldoy_Fo3bttqV7-5goCN8gszjzpyP6E4-nAh_qSfnWkS_nqteh0d_LVPdJMCTS0F39H7NOUIF5DpYL23dmF1AtSOP5xW3I13GScdv0JzCBTmik9cSz3UwAkvbTV6nqsBklQCiNpWW3HUZMLqzhjpA52CQqMkmycFaGYKNtWAJ7AlnQg6cZzEK8iHhASzzuhcoA1DYsSj15Zc_CQRRm8VQR2sWkz2ZtNLRob6AC2CPwSFlg1f6oyO9z0qBpHCtqtNf8f75fFXkTguOKfBBkxUmCIjVS5lJc9azpnjJcLAKCbciHi0kIF--gw
 #EXTINF: -1 tvg-name="TR | Kabe TV" group-title="DeaTHLesS TR ULUSAL", TR | Kabe TV
 https://m3u-editor.com/serve/deathless-sund-box/1172976410
 #EXTINF: -1 tvg-name="TR | Mavi Karadeniz TV" group-title="DeaTHLesS TR ULUSAL", TR | Mavi Karadeniz TV
