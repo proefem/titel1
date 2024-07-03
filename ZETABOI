@@ -61,7 +61,7 @@ https://tv-trt1.medya.trt.com.tr/master_1080p.m3u8
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?=&sid=6jgw33gr1hl1&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
-https://tv-trt1-dai.medya.trt.com.tr:443/master_1080p.m3u8
+#https://tv-trt1-dai.medya.trt.com.tr:443/master_1080p.m3u8
 #https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
 #https://live.anystreamrectv3.live/live/trt1.m3u8?|User-Agent=ExoPlayer2/2.37  
@@ -72,7 +72,7 @@ https://tv-trt1-dai.medya.trt.com.tr:443/master_1080p.m3u8
 #https://c.fulltvizle.com/trt1/index.m3u8
 #https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #http://amtv1-2.livestreamingcdn.com:80/gt-trt1/playlist.m3u8
-#http://anka@116.202.238.88/TRT1_TR/tracks-v1a1/mono.m3u8
+#http://116.202.238.88/TRT1_TR/tracks-v1a1/mono.m3u8
 #http://anka@stream.suboroiptv.tv/TRT1/playlist.m3u8
 #https://playhdnew5.buzz/yayintrt1.m3u8
 #https://koprulu.global.ssl.fastly.net/ythls/kanal/UCvFudBDDILdDljN4VIZ4Msw.m3u8
@@ -151,8 +151,8 @@ https://anka@ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001199/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001199&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV HD " tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺™
-https://new.cache-stream.workers.dev/channel/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8
-#https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#https://new.cache-stream.workers.dev/channel/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8
 #https://live.anystreamrectv3.live/live/startv.m3u8?|User-Agent=ExoPlayer2/2.37 
 #https://yayin8.canlitv.day/livetv/startv.stream/index.m3u8
 #https://new.cache-stream.workers.dev/channel/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8
@@ -188,8 +188,8 @@ https://new.cache-stream.workers.dev/channel/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001226/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001226&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="KanalD.tr"tvg-name="Kanal D HD"  tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="ULUSAL",KANAL D ᵁᴴᴰ⁺™
-http://bozztv.com/gin-36bay4/gt-kanald-2/playlist.m3u8
-#https://c.fulltvizle.com/kanald/tracks-v1a1/mono.m3u8 
+https://c.fulltvizle.com/kanald/tracks-v1a1/mono.m3u8 
+#http://bozztv.com/gin-36bay4/gt-kanald-2/playlist.m3u8 
 #https://live.anystreamrectv3.live/live/kanald.m3u8?|User-Agent=ExoPlayer2/2.37 
 #http://g-350610.google-cd.net@65.108.239.207:8080/stream/turkcell/kanaldhd/stream.m3u8?uid=2035704216?|user-agent=FMP (Linux) ExoPlayerLib/2.10.8
 #http://bozztv.com:80/gin-36bay4/gt-kanald-2/playlist.m3u8
@@ -335,6 +335,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001851/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001851&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=4&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg"aspect-ratio="16:9"    group-title="ULUSAL",A2 ᵁᴴᴰ⁺™
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://homeip.biz/TR_A2/index.m3u8
 #http://50.7.218.122:8080/a2hd/index.m3u8
 #https://live.anystreamrectv3.live/live/a2.m3u8?|User-Agent=ExoPlayer2/2.37 
