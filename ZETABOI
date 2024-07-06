@@ -28,18 +28,19 @@ https://mn-nl.mncdn.com/blutv_trt4k/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8
+http://tv-trt1-dai.medya.trt.com.tr/master_1080p.m3u8
+http://tv-trt1-dai.medya.trt.com.tr/master_720p.m3u8
 #http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:4D:54:E5&stream=2838&extension=m3u8
 #http://116.202.238.88/TRT1_TR/playlist.m3u8
 #https://canlitvulusal.xyz/live/trt1/index.m3u8
 #http://hw1.jemtv.com/app/trt1/playlist.m3u8
+#https://izle.livev.xyz/trt1/index.m3u8
 #https://c.fulltvizle.com/trt1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺™
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AF:F7:D3&stream=41&extension=ts
 #https://trt.daioncdn.net/trt-1/master_1080p.m3u8?=&sid=6jgw33gr1hl1&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
-#https://tv-trt1-dai.medya.trt.com.tr:443/master_1080p.m3u8
 #https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
 #https://live.anystreamrectv3.live/live/trt1.m3u8?|User-Agent=ExoPlayer2/2.37  
 #https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
 #https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
@@ -66,6 +67,7 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AF:F7:D3&stream=41&extensi
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
 https://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 #https://c.fulltvizle.com/aytv/tracks-v1a1/mono.m3u8
+#https://izle.livev.xyz/aytv/index.m3u8
 #http://116.202.238.88:80/ATV_TR/tracks-v1a1/playlist.m3u8
 #https://canlitvulusal.xyz/live/atv/index.m3u8
 #https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
@@ -448,7 +450,8 @@ https://anka@akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001124/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001124&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:1 tvg-id="Benguturk TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png"group-title="ULUSAL",BENGUTURK TV ᵁᴴᴰ⁺™
-https://anka@ensonhaber-live.ercdn.net/benguturk/benguturk_720p.m3u8
+https://github.com/droidlive/YTM/raw/main/tvbenguturk.m3u8
+#https://anka@ensonhaber-live.ercdn.net/benguturk/benguturk_720p.m3u8
 #https://live.anystreamrectv3.live/live/benguturk.m3u8?|User-Agent=ExoPlayer2/2.37 
 #https://trn10.tulix.tv/gt-benguturk/tracks-v1a1/mono.m3u8
 #https://ythls-v2.onrender.com/channel/UChNgvcVZ_ggDdZ0zCcuuzFw.m3u8
@@ -2319,6 +2322,8 @@ https://live.anystreamrectv3.live/live/nbatv.m3u8
 
 
 
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="SelcuKSporT",TRT1 ᴴᴰ⁺
+https://github.com/proefem/yutuber/raw/main/binTRT1TV.m3u8
 
 #EXTINF: -1 tvg-id=""   tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="SelcuKSporT", TRT Spor ★ ʜᴅ
 https://github.com/proefem/yutuber/raw/main/binTR2TV.m3u8
@@ -2449,6 +2454,8 @@ https://github.com/proefem/yutuber/raw/main/binNBATV.m3u8
 
 
 
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="MYSporT",TRT1 ᴴᴰ⁺
+https://github.com/proefem/yutuber2/raw/main/binTRT1TV.m3u8
 
 #EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="TRT Spor 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="MYSporT",TRT Spor * ʜᴅ
 https://github.com/proefem/yutuber2/raw/main/binTR2TV.m3u8
