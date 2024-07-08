@@ -1397,7 +1397,7 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" aspect-ratio="16:9" group-title="ULUSAL", TRT1  
-http://hw1.jemtv.com/app/trt1/playlist.m3u8
+http://hw1.jemtv.com/app/trt1/playlist.m3u8?&aspect-ratio="16:9"
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ULUSAL", ATV  
 http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 #http://50.7.218.122:8080/ATVHD/index.m3u8
@@ -2174,6 +2174,7 @@ http://m.ktlsattv.com:80/play/live.php?mac=00:1A:79:C2:99:8F&stream=170872&exten
 
 #EXTINF:-1 tvg-id="TRT.SPOR.YILDIZ.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="SPOR-X", TRT Spor☆ ʜᴅ
 https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayintrtspor2.m3u8
+#https://tpbcors.herokuapp.com/https://playhdnew5.buzz/yayintrtspor2.m3u8
 #EXTINF:-1 tvg-id="TRT.Spor.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1161.jpg" group-title="SPOR-X", TRT Spor ʜᴅ
 http://149.13.0.66:4000/trtsporhd
 #https://edge02.odtv.az/o6/trtspor/playlist.m3u8?|User-Agent=ExoPlayer2/2.37 
@@ -2205,10 +2206,10 @@ https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinzirve.m3u8
 https://odin.cd9184d3e95e6.shop/1/chunk_hd.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPOR-X",BeIN Sports 1 ʜᴅ inat
 https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayininat.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPOR-X",BeIN Sports 1 ʜᴅ trgoals
+https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayin1.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPOR-X",BeIN Sports 1 ʜᴅ star
 https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinstar.m3u8
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPOR-X",BeIN Sports 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayin1.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="SPOR-X",BeIN Sports 2 ʜᴅ
 https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinb2.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="SPOR-X",BeIN Sports 2 ʜᴅ
@@ -2269,7 +2270,7 @@ https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayineu1.m3u8
 https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayineu2.m3u8
 #https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="SPORTS TV" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="SPOR-X",SPORTS TV ʜᴅ
-https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYvFsuwm1IQMThFmS30ocsIfrwC82xgVvnRmZeP" group-title="SPOR-X",TAY TV ʜᴅ
 https://livestream.zazerconer.workers.dev/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
@@ -2278,13 +2279,126 @@ https://livestream.zazerconer.workers.dev/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCNLO4lpteIloZ4IKb9L2DoA.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SPOR-X",BYHORSES TVʜᴅ
-https://mn-nl.mncdn.com/blutv_byhorses/smil:blutv_byhorses.smil/chunklist_b2064000.m3u8
+https://byhorses.blutv.com/blutv_byhorses/smil:blutv_byhorses.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="SPOR-X",NBA  ʜᴅ
 https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinnbatv.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sport F1 UHD" tvg-name="Sky Sport F1 " tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="SPOR-X",Sky Sport F1 ʜᴅ 
 https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinf1.m3u8
+
+
+#EXTINF:-1 tvg-id="TRT.SPOR.YILDIZ.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="MYSporT-X", TRT Spor☆ ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayintrtspor2.m3u8
+#https://tpbcors.herokuapp.com/https://playhdnew5.buzz/yayintrtspor2.m3u8
+#EXTINF:-1 tvg-id="TRT.Spor.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1161.jpg" group-title="MYSporT-X", TRT Spor ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayintrtspor.m3u8
+#http://149.13.0.66:4000/trtsporhd
+#https://edge02.odtv.az/o6/trtspor/playlist.m3u8?|User-Agent=ExoPlayer2/2.37 
+#EXTINF:-1 tvg-id="A.Spor.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/390.jpg" group-title="MYSporT-X", a Spor ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinas.m3u8
+#https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
+#EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/759.jpg" group-title="MYSporT-X", tv8'5 Spor ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayintv85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="MYSporT-X",7/24 SPOR ʜᴅ
+https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/24spor.m3u8
+#EXTINF:0 tvg-id="idman-az-hd" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg"group-title="MYSporT-X" ,AZ IDMAN tv  ʜᴅ
+https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8?|User-Agent=ExoPlayer2/2.37
+#EXTINF:1 tvg-id="" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="MYSporT-X"  ,CBC Sport  ʜᴅ
+https://bozztv.com/inim03/live1/gin-cbcsport-in/playlist.m3u8
+#EXTINF:-1 tvg-id="GS.TV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/gs-tv.png" group-title="MYSporT-X", GS tv ʜᴅ
+https://owifavo5.rocketcdn.com:443/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:-1 tvg-id="FB.TV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/fb-tv.png" group-title="MYSporT-X", FB tv ʜᴅ
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-id=""  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="MYSporT-X", beiN Sport HABER ʜᴅ
+https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="MYSporT-X", BeIN Sport 1 HABER ʜᴅ 
+http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ zirve
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinzirve.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ odin
+https://odin.cd9184d3e95e6.shop/1/chunk_hd.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ inat
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayininat.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT",BeIN Sports 1 ʜᴅ trgoals
+https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayin1.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT",BeIN Sports 1 ʜᴅ star
+https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinstar.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="MYSporT-X",BeIN Sports 2 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinb2.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="MYSporT-X",BeIN Sports 3 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinb3.m3u8
+#EXTINF:-1  tvg-id="beIN.SPORTS.4.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="MYSporT-X",BeIN Sports 4 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinb4.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg"group-title="MYSporT-X" ,BeIN Sports 5 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinb5.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS MAX HD 1"tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="MYSporT-X" ,BeIN max 1 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinbm1.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS MAX HD 2"tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="MYSporT-X",BeIN max 2 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinbm2.m3u8
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="MYSporT-X",Smart Sport 1 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinsmarts.m3u8
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="MYSporT-X",Smart Sport 2 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinsms2.m3u8
+#EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="MYSporT-X",S Sport 1 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinss.m3u8
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="MYSporT-X",S Sport 2 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinss2.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="MYSporT-X",TiviBU Sport 1 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayint1.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="MYSporT-X",TiviBU Sport 2  ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayint2.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="MYSporT-X",TiviBU Sport 3  ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayint3.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="MYSporT-X",TiviBU Sport 4  ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayint4.m3u8
+#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  1 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex1.m3u8
+#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  2 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex2.m3u8
+#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  3 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex3.m3u8
+#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  4 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex4.m3u8
+#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  5 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex5.m3u8
+#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  6 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex6.m3u8
+#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  7 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex7.m3u8
+#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  8 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex8.m3u8
+#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  9 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex9.m3u8
+#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  10 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex10.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg"group-title="MYSporT-X" ,EUROSPORT1 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayineu1.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg"group-title="MYSporT-X" ,EUROSPORT2 ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayineu2.m3u8
+
+#EXTINF:-1 tvg-name="SPORTS TV" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="MYSporT-X",SPORTS TV ʜᴅ
+https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYvFsuwm1IQMThFmS30ocsIfrwC82xgVvnRmZeP" group-title="MYSporT-X",TAY TV ʜᴅ
+https://livestream.zazerconer.workers.dev/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
+
+#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/ytc/APkrFKb2HHEhIDwbVBN2lNqSIBBmD8frchEUfu6cmV7WYQ"group-title="MYSporT-X" , TJK TV ʜᴅ
+https://livestream.zazerconer.workers.dev/channel/UCNLO4lpteIloZ4IKb9L2DoA.m3u8
+
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="MYSporT-X",BYHORSES TVʜᴅ
+https://byhorses.blutv.com/blutv_byhorses/smil:blutv_byhorses.smil/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="MYSporT-X",NBA  ʜᴅ
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinnbatv.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport F1 UHD" tvg-name="Sky Sport F1 " tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="MYSporT-X",Sky Sport F1 ʜᴅ 
+https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinf1.m3u8
+
 
 
 
@@ -2308,7 +2422,6 @@ https://github.com/proefem/yutuber/raw/main/binASTV.m3u8
 https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/24spor.m3u8
 #http://185.234.111.229:8000/play/a016
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="SelcuKSporT", tv8'5 ʜᴅ
 https://github.com/proefem/yutuber/raw/main/bin85TV.m3u8
 
@@ -2320,7 +2433,8 @@ https://bozztv.com/inim03/live1/gin-cbcsport-in/playlist.m3u8
 https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8?|User-Agent=ExoPlayer2/2.37
 
 #EXTINF: -1 tvg-id=""   tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="SelcuKSporT", beiN Sport HABER ʜᴅ
-https://github.com/proefem/yutuber/raw/main/binhbrTV.m3u8
+https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
+#https://github.com/proefem/yutuber/raw/main/binhbrTV.m3u8
 
 #EXTINF: -1 tvg-id=""   tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SelcuKSporT", beiN Sport 1 ʜᴅ
 https://github.com/proefem/yutuber/raw/main/bin1TV.m3u8
@@ -2423,118 +2537,6 @@ https://github.com/proefem/yutuber/raw/main/binNBATV.m3u8
 
 #EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR: Trt Avaz HD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/trt_avaz.png" group-title="SelcuKSporT",Trt 1 ʜᴅ
 #https://github.com/proefem/yutuber/raw/main/binTRTTV.m3u8
-
-
-#EXTINF:-1 tvg-id="TRT.SPOR.YILDIZ.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="MYSporT-X", TRT Spor☆ ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayintrtspor2.m3u8
-#https://tpbcors.herokuapp.com/https://playhdnew5.buzz/yayintrtspor2.m3u8
-#EXTINF:-1 tvg-id="TRT.Spor.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1161.jpg" group-title="MYSporT-X", TRT Spor ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayintrtspor.m3u8
-#http://149.13.0.66:4000/trtsporhd
-#https://edge02.odtv.az/o6/trtspor/playlist.m3u8?|User-Agent=ExoPlayer2/2.37 
-#EXTINF:-1 tvg-id="A.Spor.HD.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/390.jpg" group-title="MYSporT-X", a Spor ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinas.m3u8
-#https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
-#EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/759.jpg" group-title="MYSporT-X", tv8'5 Spor ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayintv85.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="MYSporT-X",7/24 SPOR ʜᴅ
-https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/24spor.m3u8
-#EXTINF:0 tvg-id="idman-az-hd" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg"group-title="MYSporT-X" ,AZ IDMAN tv  ʜᴅ
-https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8?|User-Agent=ExoPlayer2/2.37
-#EXTINF:1 tvg-id="" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="MYSporT-X"  ,CBC Sport  ʜᴅ
-https://bozztv.com/inim03/live1/gin-cbcsport-in/playlist.m3u8
-#EXTINF:-1 tvg-id="GS.TV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/gs-tv.png" group-title="MYSporT-X", GS tv ʜᴅ
-https://owifavo5.rocketcdn.com:443/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
-#EXTINF:-1 tvg-id="FB.TV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/fb-tv.png" group-title="MYSporT-X", FB tv ʜᴅ
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-
-#EXTINF: -1 tvg-id=""  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="MYSporT-X", beiN Sport HABER ʜᴅ
-https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="MYSporT-X", BeIN Sport 1 HABER ʜᴅ 
-http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/index.m3u8
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ zirve
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinzirve.m3u8
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ odin
-https://odin.cd9184d3e95e6.shop/1/chunk_hd.m3u8
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ inat
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayininat.m3u8
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ star
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinstar.m3u8
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayin1.m3u8
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="MYSporT-X",BeIN Sports 2 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinb2.m3u8
-#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="MYSporT-X",BeIN Sports 3 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinb3.m3u8
-#EXTINF:-1  tvg-id="beIN.SPORTS.4.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="MYSporT-X",BeIN Sports 4 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinb4.m3u8
-#EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg"group-title="MYSporT-X" ,BeIN Sports 5 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinb5.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS MAX HD 1"tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="MYSporT-X" ,BeIN max 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinbm1.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS MAX HD 2"tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="MYSporT-X",BeIN max 2 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinbm2.m3u8
-#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="MYSporT-X",Smart Sport 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinsmarts.m3u8
-#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="MYSporT-X",Smart Sport 2 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinsms2.m3u8
-#EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="MYSporT-X",S Sport 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinss.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="MYSporT-X",S Sport 2 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinss2.m3u8
-#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="MYSporT-X",TiviBU Sport 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayint1.m3u8
-#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="MYSporT-X",TiviBU Sport 2  ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayint2.m3u8
-#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="MYSporT-X",TiviBU Sport 3  ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayint3.m3u8
-#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="MYSporT-X",TiviBU Sport 4  ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayint4.m3u8
-#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex1.m3u8
-#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  2 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex2.m3u8
-#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  3 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex3.m3u8
-#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  4 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex4.m3u8
-#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  5 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex5.m3u8
-#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  6 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex6.m3u8
-#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  7 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex7.m3u8
-#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  8 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex8.m3u8
-#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  9 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex9.m3u8
-#EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  10 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex10.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg"group-title="MYSporT-X" ,EUROSPORT1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayineu1.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg"group-title="MYSporT-X" ,EUROSPORT2 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayineu2.m3u8
-
-#EXTINF:-1 tvg-name="SPORTS TV" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="MYSporT-X",SPORTS TV ʜᴅ
-https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYvFsuwm1IQMThFmS30ocsIfrwC82xgVvnRmZeP" group-title="MYSporT-X",TAY TV ʜᴅ
-https://livestream.zazerconer.workers.dev/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
-
-#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/ytc/APkrFKb2HHEhIDwbVBN2lNqSIBBmD8frchEUfu6cmV7WYQ"group-title="MYSporT-X" , TJK TV ʜᴅ
-https://livestream.zazerconer.workers.dev/channel/UCNLO4lpteIloZ4IKb9L2DoA.m3u8
-
-#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="MYSporT-X",BYHORSES TVʜᴅ
-https://mn-nl.mncdn.com/blutv_byhorses/smil:blutv_byhorses.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="MYSporT-X",NBA  ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinnbatv.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport F1 UHD" tvg-name="Sky Sport F1 " tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="MYSporT-X",Sky Sport F1 ʜᴅ 
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinf1.m3u8
 
 
 
