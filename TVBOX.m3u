@@ -215,7 +215,7 @@ https://anka@edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="http://kar-beyaz.access.ly:54381/images/33f7685d729ff996fc7ef0862e24d0af.png"group-title="ULUSAL" ,ANTALYA TV ᴴᴰ
 https://anka@cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" logo=".png",gurmetv
+#EXTINF:0 type="stream" tvg-logo="" group-title="ULUSAL" logo=".png",gurmetv
 https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" logo=".png",balkanturktv
@@ -532,26 +532,28 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="SPOR-X",TRT1 ᴴᴰ⁺
-https://createbabacim.global.ssl.fastly.net/yayintrt1.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayintrt1.m3u8
+#https://createbabacim.global.ssl.fastly.net/yayintrt1.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="SPOR-X", TRT Spor☆ ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayintrtspor2.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayintrtspor2.m3u8
 #https://tpbcors.herokuapp.com/https://playhdnew5.buzz/yayintrtspor2.m3u8
 #https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinzirve.m3u8
 #https://createbabacim.global.ssl.fastly.net/yayinzirve.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1161.jpg" group-title="SPOR-X", TRT Spor ʜᴅ
 http://149.13.0.66:4000/trtsporhd
 #https://edge02.odtv.az/o6/trtspor/playlist.m3u8?|User-Agent=ExoPlayer2/2.37 
+#https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayintrtspor.m3u8
 #https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayintrtspor.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/390.jpg" group-title="SPOR-X", a Spor ʜᴅ
 https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
 #https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinas.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/759.jpg" group-title="SPOR-X", tv8'5 Spor ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayintv85.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayintv85.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="SPOR-X",7/24 SPOR ʜᴅ
 https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/24spor.m3u8
-#EXTINF:-1 tvg-id="idman-az-hd" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg"group-title="SPOR-X" ,AZ IDMAN tv  ʜᴅ
+#EXTINF:-1 tvg-id="IdmanTV.az" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg"group-title="SPOR-X" ,AZ IDMAN tv  ʜᴅ
 https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8?|User-Agent=ExoPlayer2/2.37
-#EXTINF:1 tvg-id="" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="SPOR-X"  ,CBC Sport  ʜᴅ
+#EXTINF:1 tvg-id="CBCSportHD.az" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="SPOR-X"  ,CBC Sport  ʜᴅ
 https://bozztv.com/inim03/live1/gin-cbcsport-in/playlist.m3u8
 #EXTINF:-1 tvg-id="GSTV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/gs-tv.png" group-title="SPOR-X", GS tv ʜᴅ
 https://owifavo5.rocketcdn.com:443/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
@@ -564,73 +566,73 @@ https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="SPOR-X", BeIN Sport 1 HABER ʜᴅ 
 http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/index.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPOR-X",BeIN Sports 1 ʜᴅ zirve
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinzirve.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinzirve.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPOR-X",BeIN Sports 1 ʜᴅ odin
 https://odin.cd9184d3e95e6.shop/1/chunk_hd.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPOR-X",BeIN Sports 1 ʜᴅ inat
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayininat.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayininat.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPOR-X",BeIN Sports 1 ʜᴅ trgoals
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayin1.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayin1.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPOR-X",BeIN Sports 1 ʜᴅ star
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinstar.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinstar.m3u8
 #EXTINF:-1 tvg-id="beINSports2.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="SPOR-X",BeIN Sports 2 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinb2.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinb2.m3u8
 #EXTINF:-1 tvg-id="beINSports2.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="SPOR-X",BeIN Sports 2 ʜᴅ
 https://odin.cd9184d3e95e6.shop/2/chunk_hd.m3u8
 #EXTINF:-1 tvg-id="beINSports3.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="SPOR-X",BeIN Sports 3 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinb3.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinb3.m3u8
 #EXTINF:-1 tvg-id="beINSports3.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="SPOR-X",BeIN Sports 3 ʜᴅ
 https://odin.cd9184d3e95e6.shop/3/chunk_hd.m3u8
 #EXTINF:-1  tvg-id="beINSports4.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="SPOR-X",BeIN Sports 4 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinb4.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinb4.m3u8
 #EXTINF:-1 tvg-id="beINSports5.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg"group-title="SPOR-X" ,BeIN Sports 5 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinb5.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinb5.m3u8
 #EXTINF:-1 tvg-id="beINSportsMax1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="SPOR-X" ,BeIN max 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinbm1.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinbm1.m3u8
 #EXTINF:-1 tvg-id="beINSportsMax2.tr"tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="SPOR-X",BeIN max 2 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinbm2.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinbm2.m3u8
 #EXTINF:-1 tvg-id="SporSmart.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="SPOR-X",Smart Sport 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinsmarts.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinsmarts.m3u8
 #EXTINF:-1 tvg-id="SporSmart2.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="SPOR-X",Smart Sport 2 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinsms2.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinsms2.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SPOR-X",S Sport 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinss.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinss.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SPOR-X",S Sport 2 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinss2.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinss2.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="SPOR-X",TiviBU Sport 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayint1.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayint1.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="SPOR-X",TiviBU Sport 2  ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayint2.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayint2.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="SPOR-X",TiviBU Sport 3  ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayint3.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayint3.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="SPOR-X",TiviBU Sport 4  ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayint4.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayint4.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR-X",Exxen Sports  1 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinex1.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinex1.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR-X",Exxen Sports  2 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinex2.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinex2.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR-X",Exxen Sports  3 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinex3.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinex3.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR-X",Exxen Sports  4 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinex4.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinex4.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR-X",Exxen Sports  5 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinex5.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinex5.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR-X",Exxen Sports  6 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinex6.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinex6.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR-X",Exxen Sports  7 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinex7.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinex7.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR-X",Exxen Sports  8 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinex8.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinex8.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR-X",Exxen Sports  9 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinex9.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinex9.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="SPOR-X",Exxen Sports  10 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinex10.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinex10.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg"group-title="SPOR-X" ,EUROSPORT1 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayineu1.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayineu1.m3u8
 #https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg"group-title="SPOR-X" ,EUROSPORT2 ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayineu2.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayineu2.m3u8
 #https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="SPOR-X",SPORTS TV ʜᴅ
 https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
@@ -641,36 +643,36 @@ https://livestream.zazerconer.workers.dev/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKb2HHEhIDwbVBN2lNqSIBBmD8frchEUfu6cmV7WYQ"group-title="SPOR-X" , TJK TV ʜᴅ
 https://livestream.zazerconer.workers.dev/channel/UCNLO4lpteIloZ4IKb9L2DoA.m3u8
 
-#EXTINF:0  tvg-id="ByhorsesTV.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SPOR-X",BYHORSES TVʜᴅ
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SPOR-X",BYHORSES TVʜᴅ
 https://byhorses.blutv.com/blutv_byhorses/smil:blutv_byhorses.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="SPOR-X",NBA  ʜᴅ
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinnbatv.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinnbatv.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sport F1 " tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="SPOR-X",Sky Sport F1 ʜᴅ 
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinf1.m3u8
-
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinf1.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="MYSporT-X",TRT1 ᴴᴰ⁺
-https://createbabacim.global.ssl.fastly.net/yayintrt1.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayintrt1.m3u8
+#https://createbabacim.global.ssl.fastly.net/yayintrt1.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="MYSporT-X", TRT Spor☆ ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayintrtspor2.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayintrtspor2.m3u8
 #https://tpbcors.herokuapp.com/https://playhdnew5.buzz/yayintrtspor2.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/1161.jpg" group-title="MYSporT-X", TRT Spor ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayintrtspor.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayintrtspor.m3u8
 #http://149.13.0.66:4000/trtsporhd
 #https://edge02.odtv.az/o6/trtspor/playlist.m3u8?|User-Agent=ExoPlayer2/2.37 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/390.jpg" group-title="MYSporT-X", a Spor ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinas.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinas.m3u8
 #https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/gin/759.jpg" group-title="MYSporT-X", tv8'5 Spor ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayintv85.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayintv85.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="MYSporT-X",7/24 SPOR ʜᴅ
 https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/24spor.m3u8
-#EXTINF:0 tvg-id="IdmanTV.az" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg"group-title="MYSporT-X" ,AZ IDMAN tv  ʜᴅ
+#EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg"group-title="MYSporT-X" ,AZ IDMAN tv  ʜᴅ
 https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8?|User-Agent=ExoPlayer2/2.37
 #EXTINF:1 tvg-id="CBCSportHD.az" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="MYSporT-X"  ,CBC Sport  ʜᴅ
 https://bozztv.com/inim03/live1/gin-cbcsport-in/playlist.m3u8
@@ -685,69 +687,69 @@ https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="MYSporT-X", BeIN Sport 1 HABER ʜᴅ 
 http://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/index.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ zirve
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinzirve.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinzirve.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ odin
 https://odin.cd9184d3e95e6.shop/1/chunk_hd.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ inat
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayininat.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayininat.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ trgoals
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayin1.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayin1.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="MYSporT-X",BeIN Sports 1 ʜᴅ star
-https://hs-cors.herokuapp.com/https://sonhafta.tvbom5.online/yayinstar.m3u8
+https://anywhere.pwisetthon.com/https://sonhafta.tvbom5.online/yayinstar.m3u8
 #EXTINF:-1 tvg-id="beINSports2.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="MYSporT-X",BeIN Sports 2 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinb2.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinb2.m3u8
 #EXTINF:-1 tvg-id="beINSports3.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="MYSporT-X",BeIN Sports 3 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinb3.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinb3.m3u8
 #EXTINF:-1  tvg-id="beINSports4.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="MYSporT-X",BeIN Sports 4 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinb4.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinb4.m3u8
 #EXTINF:-1 tvg-id="beINSports5.tr"tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg"group-title="MYSporT-X" ,BeIN Sports 5 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinb5.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinb5.m3u8
 #EXTINF:-1 tvg-id="beINSportsMax1.tr"tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="MYSporT-X" ,BeIN max 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinbm1.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinbm1.m3u8
 #EXTINF:-1 tvg-id="beINSportsMax2.tr"tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="MYSporT-X",BeIN max 2 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinbm2.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinbm2.m3u8
 #EXTINF:-1 tvg-id="SporSmart.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="MYSporT-X",Smart Sport 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinsmarts.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinsmarts.m3u8
 #EXTINF:-1 tvg-id="SporSmart2.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="MYSporT-X",Smart Sport 2 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinsms2.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinsms2.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="MYSporT-X",S Sport 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinss.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinss.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="MYSporT-X",S Sport 2 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinss2.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinss2.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="MYSporT-X",TiviBU Sport 1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayint1.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayint1.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="MYSporT-X",TiviBU Sport 2  ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayint2.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayint2.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="MYSporT-X",TiviBU Sport 3  ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayint3.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayint3.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="MYSporT-X",TiviBU Sport 4  ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayint4.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayint4.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex1.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinex1.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  2 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex2.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinex2.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  3 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex3.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinex3.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  4 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex4.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinex4.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  5 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex5.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinex5.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  6 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex6.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinex6.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  7 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex7.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinex7.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  8 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex8.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinex8.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  9 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex9.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinex9.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor.tr" tvg-name="Exxen Spor HD 1" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="MYSporT-X",Exxen Sports  10 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinex10.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinex10.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg"group-title="MYSporT-X" ,EUROSPORT1 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayineu1.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayineu1.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg"group-title="MYSporT-X" ,EUROSPORT2 ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayineu2.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayineu2.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="MYSporT-X",SPORTS TV ʜᴅ
 https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
@@ -762,10 +764,11 @@ https://livestream.zazerconer.workers.dev/channel/UCNLO4lpteIloZ4IKb9L2DoA.m3u8
 https://byhorses.blutv.com/blutv_byhorses/smil:blutv_byhorses.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="MYSporT-X",NBA  ʜᴅ
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinnbatv.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinnbatv.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sport F1 " tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="MYSporT-X",Sky Sport F1 ʜᴅ 
-https://hs-cors.herokuapp.com/https://playhdnew5.buzz/yayinf1.m3u8
+https://anywhere.pwisetthon.com/https://playhdnew5.buzz/yayinf1.m3u8
+
 
 
 
@@ -2604,6 +2607,596 @@ http://cdnua06.hls.tv/476/hls/eyvczx9hgsoi0wr2da45jb7mkf86tpu3/458/stream.m3u8
 http://edge-01-pub.persik.by:82/live/Ch001pub/index.m3u8
 #EXTINF:-1 group-title="Müzik",MIXM TV HD
 http://89.179.247.144/mixm.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/19848268.jpg" group-title="ULUSAL" ,Geceden Korkun ▪ Fear the Night ⇦™➱ 2023
+http://laurakaren.serv00.net/OkRU.php?HLS=8378543909284&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1194271.jpg" group-title="ULUSAL" ,Karanlığa Karşı ▪ Against the Dark ⇦™➱ 2009
+http://laurakaren.serv00.net/OkRU.php?HLS=7016301144473&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0882978.jpg" group-title="ULUSAL" ,Üç Hanedan: Ejderin Dirilişi ▪ Saam gwok dzi gin lung se gap ⇦™➱ 2008
+http://laurakaren.serv00.net/OkRU.php?HLS=3759050467683&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0947802.jpg" group-title="ULUSAL" ,Gözcü ▪ Lakeview Terrace ⇦™➱ 2008
+http://laurakaren.serv00.net/OkRU.php?HLS=2620478204324&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0275947.jpg" group-title="ULUSAL" ,Angelonun Öcü ▪ Avenging Angelo ⇦™➱ 2002
+http://laurakaren.serv00.net/OkRU.php?HLS=3043712510452&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/9015188.jpg" group-title="ULUSAL" ,Yakın Takip ▪ Bumperkleef ⇦™➱ 2019
+http://laurakaren.serv00.net/OkRU.php?HLS=7951178475871&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0307466.jpg" group-title="ULUSAL" ,İntikam ▪ Sin ⇦™➱ 2003
+http://laurakaren.serv00.net/OkRU.php?HLS=8383464024484&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://tr.web.img4.acsta.net/c_310_4...37/0591773.jpg" group-title="ULUSAL" ,Lohusa ⇦™➱ 2024
+http://laurakaren.serv00.net/OkRU.php?HLS=7185453164995&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0106977.jpg" group-title="ULUSAL" ,Kaçak ▪ The Fugitive ⇦™➱ 1993
+http://laurakaren.serv00.net/OkRU.php?HLS=7332600293768&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/4556370.jpg" group-title="ULUSAL" ,İrtifa ▪ Altitude ⇦™➱ 2017
+http://laurakaren.serv00.net/OkRU.php?HLS=3929503443444&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0102915.jpg" group-title="ULUSAL" ,Küçük Tokyo Harekatı ▪ Showdown in Little Tokyo ⇦™➱ 1991
+http://laurakaren.serv00.net/OkRU.php?HLS=3895574735312&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/7832848.jpg" group-title="ULUSAL" ,İçerdeki Adam Muhbir ▪ Inside Man: Most Wanted ⇦™➱ 2019
+http://laurakaren.serv00.net/OkRU.php?HLS=1926061762886&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1210801.jpg" group-title="ULUSAL" ,Ölümcül Performans ▪ Command Performance ⇦™➱ 2009
+http://laurakaren.serv00.net/OkRU.php?HLS=3333636565412&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0245803.jpg" group-title="ULUSAL" ,Kurşun Geçirmez ▪ Bulletproof Monk ⇦™➱ 2003
+http://laurakaren.serv00.net/OkRU.php?HLS=3001821243726&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/0280896.jpg" group-title="ULUSAL" ,Mağlup Edilemeyenler ⇦™➱ 1976
+http://laurakaren.serv00.net/OkRU.php?HLS=1282486315459&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/0183338.jpg" group-title="ULUSAL" ,Kara Murat: Fatihin Fermanı ⇦™➱ 1973
+http://laurakaren.serv00.net/OkRU.php?HLS=1272569997763&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0183725.jpg" group-title="ULUSAL" ,Rüzgar ⇦™➱ 1980
+http://laurakaren.serv00.net/OkRU.php?HLS=2403551553849&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1957993.jpg" group-title="ULUSAL" ,Paramparça ⇦™➱ 1985
+http://laurakaren.serv00.net/OkRU.php?HLS=1267672885584&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0279678.jpg" group-title="ULUSAL" ,Baskın ⇦™➱ 1977
+http://laurakaren.serv00.net/OkRU.php?HLS=3506950580537&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0392223.jpg" group-title="ULUSAL" ,Kara Murat Denizler Hakimi ⇦™➱ 1977
+http://laurakaren.serv00.net/OkRU.php?HLS=2585747401017&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/2934388.jpg" group-title="ULUSAL" ,Şoför ⇦™➱ 1976
+http://laurakaren.serv00.net/OkRU.php?HLS=4702709229886&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0427418.jpg" group-title="ULUSAL" ,Kahır ⇦™➱ 1983
+http://laurakaren.serv00.net/OkRU.php?HLS=2923882490169&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0490414.jpg" group-title="ULUSAL" ,Feryada Gücüm Yok ⇦™➱ 1981
+http://laurakaren.serv00.net/OkRU.php?HLS=1163034110353&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0287906.jpg" group-title="ULUSAL" ,Alev Alev ⇦™➱ 1984
+http://laurakaren.serv00.net/OkRU.php?HLS=1248251881939&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/0478011.jpg" group-title="ULUSAL" ,Oyun Bitti ⇦™➱ 1972
+http://laurakaren.serv00.net/OkRU.php?HLS=5041133267299&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/4283934.jpg" group-title="ULUSAL" ,Benim Gibi Sevenler ⇦™➱ 1978
+http://laurakaren.serv00.net/OkRU.php?HLS=6670191176117&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/0491983.jpg" group-title="ULUSAL" ,Durdurun Dünyayı ⇦™➱ 1980
+http://laurakaren.serv00.net/OkRU.php?HLS=4742973499834&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/0276752.jpg" group-title="ULUSAL" ,Acı Hayat ⇦™➱ 1973
+http://laurakaren.serv00.net/OkRU.php?HLS=1449142724224&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/12214912.jpg" group-title="ULUSAL" ,İşte Bizim Hikayemiz ⇦™➱ 1978
+http://laurakaren.serv00.net/OkRU.php?HLS=1906899301113&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/0184615.jpg" group-title="ULUSAL" ,İnsan Avcısı ⇦™➱ 1975
+http://laurakaren.serv00.net/OkRU.php?HLS=3514638149945&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/0182749.jpg" group-title="ULUSAL" ,Ayrı Dünyalar ⇦™➱ 1974
+http://laurakaren.serv00.net/OkRU.php?HLS=1266459814224&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/1401253.jpg" group-title="ULUSAL" ,Vahşi Gelin ⇦™➱ 1978
+http://laurakaren.serv00.net/OkRU.php?HLS=2561828268345&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/1705105.jpg" group-title="ULUSAL" ,Derbeder ⇦™➱ 1978
+http://laurakaren.serv00.net/OkRU.php?HLS=6654495893941&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1839591.jpg" group-title="ULUSAL" ,Hepinizi Mıhlayacağım ▪ Recoil ⇦™➱ 2011
+http://laurakaren.serv00.net/OkRU.php?HLS=6836544547142&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/1563719.jpg" group-title="ULUSAL" ,Ölüm Avı ▪ Hunt to Kill ⇦™➱ 2010
+http://laurakaren.serv00.net/OkRU.php?HLS=1033216338254&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/1603257.jpg" group-title="ULUSAL" ,Uyarısız Şiddet: ATM ▪ ATM ⇦™➱ 2012
+http://laurakaren.serv00.net/OkRU.php?HLS=590160537934&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/0102526.jpg" group-title="ULUSAL" ,Zehirli Sokaklar ▪ New Jack City ⇦™➱ 1991
+http://laurakaren.serv00.net/OkRU.php?HLS=1063494625614&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/1919090.jpg" group-title="ULUSAL" ,Zula Evi ▪ Stash House ⇦™➱ 2012
+http://laurakaren.serv00.net/OkRU.php?HLS=227890768208&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/0493402.jpg" group-title="ULUSAL" ,Kaçış Yolu ▪ Boarding Gate ⇦™➱ 2007
+http://laurakaren.serv00.net/OkRU.php?HLS=1045004364110&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/5834874.jpg" group-title="ULUSAL" ,Tetikte ▪ Trigger Warning ⇦™➱ 2024
+http://laurakaren.serv00.net/OkRU.php?HLS=8427236632996&Kalite=FHD&video.mp4
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/14060094.jpg" group-title="ULUSAL" ,Blacklight ⇦™➱ 2022
+http://laurakaren.serv00.net/OkRU.php?HLS=3988058745306&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/4998632.jpg" group-title="ULUSAL" ,Ambulans ▪ Ambulance ⇦™➱ 2020
+http://laurakaren.serv00.net/OkRU.php?HLS=4389701102042&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/7153488.jpg" group-title="ULUSAL" ,Bir Orduya Bedel ▪ Army of One ⇦™➱ 2020
+http://laurakaren.serv00.net/OkRU.php?HLS=4375748094426&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/7221772.jpg" group-title="ULUSAL" ,Rehin ▪ Seized ⇦™➱ 2020
+http://laurakaren.serv00.net/OkRU.php?HLS=4267957234135&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0397535.jpg" group-title="ULUSAL" ,Bir Geyşanın Anıları ▪ Memoirs of a Geisha ⇦™➱ 2005
+http://laurakaren.serv00.net/OkRU.php?HLS=293745338768&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/16253418.jpg" group-title="ULUSAL" ,Çıkış Yok ▪ No Way Up ⇦™➱ 2024
+http://laurakaren.serv00.net/OkRU.php?HLS=7455899593178&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0252389.jpg" group-title="ULUSAL" ,Dokunmayın Şabanıma ⇦™➱ 1979
+http://laurakaren.serv00.net/OkRU.php?HLS=2999196657977&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0263102.jpg" group-title="ULUSAL" ,Banker Bilo ⇦™➱ 1980
+http://laurakaren.serv00.net/OkRU.php?HLS=188524669286&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0254001.jpg" group-title="ULUSAL" ,Üç Kağıtçı ⇦™➱ 1981
+http://laurakaren.serv00.net/OkRU.php?HLS=3836767185311&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0182663.jpg" group-title="ULUSAL" ,Küçük Sevgilim ⇦™➱ 1971
+http://laurakaren.serv00.net/OkRU.php?HLS=4919868729844&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0182673.jpg" group-title="ULUSAL" ,Adını Anmayacağım ⇦™➱ 1971
+http://laurakaren.serv00.net/OkRU.php?HLS=3835592780191&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/4819648.jpg" group-title="ULUSAL" ,Kara Murat: Fatih'in Fedaisi ⇦™➱ 1972
+http://laurakaren.serv00.net/OkRU.php?HLS=1287644850627&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0282140.jpg" group-title="FİLM" ,Savulun Battal Gazi Geliyor ⇦™➱ 1973
+http://laurakaren.serv00.net/OkRU.php?HLS=178151303431&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0182765.jpg" group-title="FİLM" ,Battal Gazi Destanı ⇦™➱ 1971
+http://laurakaren.serv00.net/OkRU.php?HLS=3140357007673&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0182764.jpg" group-title="FİLM" ,Battal Gazi'nin Oğlu ⇦™➱ 1974
+http://laurakaren.serv00.net/OkRU.php?HLS=4935671556596&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1184952.jpg" group-title="FİLM" ,Battal Gazi'nin İntikamı ⇦™➱ 1972
+http://laurakaren.serv00.net/OkRU.php?HLS=4943821744628&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0274931.jpg" group-title="FİLM" ,Tarkan ⇦™➱ 1969
+http://laurakaren.serv00.net/OkRU.php?HLS=3796007659935&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0274932.jpg" group-title="FİLM" ,Tarkan: Viking Kanı ⇦™➱ 1971
+http://laurakaren.serv00.net/OkRU.php?HLS=314198141428&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0274935.jpg" group-title="FİLM" ,Tarkan: Güçlü Kahraman ⇦™➱ 1973
+http://laurakaren.serv00.net/OkRU.php?HLS=3796008053151&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0274933.jpg" group-title="FİLM" ,Tarkan: Altın Madalyon ⇦™➱ 1973
+http://laurakaren.serv00.net/OkRU.php?HLS=255172880794&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0274934.jpg" group-title="FİLM" ,Tarkan: Gümüş Eyer ⇦™➱ 1970
+http://laurakaren.serv00.net/OkRU.php?HLS=3796007922079&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0486051.jpg" group-title="FİLM" ,Ölümden Daha Soğuk ▪ Wind Chill ⇦™➱ 2007
+http://laurakaren.serv00.net/OkRU.php?HLS=8171427539364&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0091637.jpg" group-title="FİLM" ,Acımak Yok ▪ No Mercy ⇦™➱ 1986
+http://laurakaren.serv00.net/OkRU.php?HLS=8213972527524&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1893195.jpg" group-title="FİLM" ,Katil Polisler ▪ ACAB: All Cops Are Bastards ⇦™➱ 2012
+http://laurakaren.serv00.net/OkRU.php?HLS=227743246672&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/3831810.jpg" group-title="FİLM" ,Big Driver ⇦™➱ 2014
+http://laurakaren.serv00.net/OkRU.php?HLS=7706757114276&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/22016156.jpg" group-title="FİLM" ,Avgrunden ⇦™➱ 2023
+http://laurakaren.serv00.net/OkRU.php?HLS=7698771421604&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0082353.jpg" group-title="FİLM" ,Şahit ▪ Eyewitness ⇦™➱ 1981
+http://laurakaren.serv00.net/OkRU.php?HLS=8237804956068&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/26861992.jpg" group-title="FİLM" ,Mea Culpa ⇦™➱ 2024
+http://laurakaren.serv00.net/OkRU.php?HLS=8244832381348&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1446072.jpg" group-title="FİLM" ,Game of Death ▪ Ölüm Oyunu ⇦™➱ 2011
+http://laurakaren.serv00.net/OkRU.php?HLS=8185822063012&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1423995.jpg" group-title="FİLM" ,Şantaj ▪ Stone ⇦™➱ 2010
+http://laurakaren.serv00.net/OkRU.php?HLS=8096221964708&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0127357.jpg" group-title="FİLM" ,Afrika Kaplanı ▪ Wo shi shei ⇦™➱ 1998
+http://laurakaren.serv00.net/OkRU.php?HLS=8237542877604&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/18071320.jpg" group-title="FİLM" ,Yasa Dışı ▪ Inside Man ⇦™➱ 2023
+http://laurakaren.serv00.net/OkRU.php?HLS=7764467722660&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/5796838.jpg" group-title="FİLM" ,Roxanne Roxanne ⇦™➱ 2017
+http://laurakaren.serv00.net/OkRU.php?HLS=7794745551268&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/21991654.jpg" group-title="FİLM" ,Şeytana Sempati ▪ Sympathy for the Devil ⇦™➱ 2023
+http://laurakaren.serv00.net/OkRU.php?HLS=7820476950948&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/4392770.jpg" group-title="FİLM" ,Tehlikeli Arkadaşlık ▪ Always Shine ⇦™➱ 2016
+http://laurakaren.serv00.net/OkRU.php?HLS=7823509694884&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0075314.jpg" group-title="FİLM" ,Taksi Şoförü ▪ Taxi Driver ⇦™➱ 1976
+http://laurakaren.serv00.net/OkRU.php?HLS=7845155121572&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0383222.jpg" group-title="FİLM" ,Bloodrayne ⇦™➱ 2005
+http://laurakaren.serv00.net/OkRU.php?HLS=5854645332388&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/2351310.jpg" group-title="FİLM" ,Grip ▪ Flu ⇦™➱ 2013
+http://laurakaren.serv00.net/OkRU.php?HLS=227559483768&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1838556.jpg" group-title="FİLM" ,Dürüst Hırsız ▪ Honest Thief ⇦™➱ 2020
+http://laurakaren.serv00.net/OkRU.php?HLS=3101359417764&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/6079772.jpg" group-title="FİLM" ,Himaye ▪ The Protégé ⇦™➱ 2021
+http://laurakaren.serv00.net/OkRU.php?HLS=4664810482084&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/2268419.jpg" group-title="FİLM" ,Kasabadaki Ölü ▪ Dead in Tombstone ⇦™➱ 2013
+http://laurakaren.serv00.net/OkRU.php?HLS=598655576327&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/13322120.jpg" group-title="FİLM" ,Amerikan Suikastçi ▪ American Sicario ⇦™➱ 2021
+http://laurakaren.serv00.net/OkRU.php?HLS=4243455814052&Kalite=FHD&video.mp4
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/2004432.jpg" group-title="FİLM" ,Kurt Kapanı 2 ▪ Wolf Creek 2 ⇦™➱ 2013
+http://laurakaren.serv00.net/OkRU.php?HLS=240741788141&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0355954.jpg" group-title="FİLM" ,Ölüm Yolu ▪ Riding the Bullet ⇦™➱ 2004
+http://laurakaren.serv00.net/OkRU.php?HLS=61373295038&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/2944198.jpg" group-title="FİLM" ,Ölüm Ormanı ▪ Backcountry ⇦™➱ 2014
+http://laurakaren.serv00.net/OkRU.php?HLS=38885730750&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/15241758.jpg" group-title="FİLM" ,Hounded ⇦™➱ 2022
+http://laurakaren.serv00.net/OkRU.php?HLS=5436164483492&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0087578.jpg" group-title="FİLM" ,Dinamit Kardeşler ▪ Kuai can che ⇦™➱ 1984
+http://laurakaren.serv00.net/OkRU.php?HLS=7326081034632&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0083944.jpg" group-title="FİLM" ,Rambo ▪ First Blood ⇦™➱ 1982
+http://laurakaren.serv00.net/OkRU.php?HLS=1235186297276&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0116367.jpg" group-title="FİLM" ,Gün Batımından Şafağa ▪ From Dusk Till Dawn ⇦™➱ 1996
+http://sultansmart.serv00.net/vidMO.php?HLS=ijtb40yvro0l&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0060315.jpg" group-title="FİLM" ,Cango'nun İntikamı ▪ Django ⇦™➱ 1966
+http://laurakaren.serv00.net/OkRU.php?HLS=2716482808282&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0271027.jpg" group-title="FİLM" ,Ejderin Öpücüğü ▪ Kiss of the Dragon ⇦™➱ 2001
+http://laurakaren.serv00.net/OkRU.php?HLS=5996934343065&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/2118775.jpg" group-title="FİLM" ,Özel Kimlik ▪ Te shu shen fen ⇦™➱ 2013
+http://laurakaren.serv00.net/OkRU.php?HLS=6545405716980&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0363547.jpg" group-title="FİLM" ,Ölülerin Şafağı ▪ Ölülerin Şafağı ⇦™➱ 2004
+http://laurakaren.serv00.net/OkRU.php?HLS=7334214052166&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1182921.jpg" group-title="FİLM" ,Ninja ⇦™➱ 2009
+http://laurakaren.serv00.net/OkRU.php?HLS=2031480285581&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1186367.jpg" group-title="FİLM" ,Ninja'nın İntikamı ▪ Ninja Assassin ⇦™➱ 2009
+http://laurakaren.serv00.net/OkRU.php?HLS=5319502932282&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0106697.jpg" group-title="FİLM" ,Cezalandırıcı ▪ Demolition Man ⇦™➱ 1993
+http://laurakaren.serv00.net/OkRU.php?HLS=6095995349466&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0092675.jpg" group-title="FİLM" ,Kan Sporu ▪ Bloodsport ⇦™➱ 1988
+http://laurakaren.serv00.net/OkRU.php?HLS=1118362151246&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/2401807.jpg" group-title="FİLM" ,Tokarev ⇦™➱ 2014
+http://laurakaren.serv00.net/OkRU.php?HLS=2252514011636&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0181865.jpg" group-title="FİLM" ,Trafik ▪ Traffic ⇦™➱ 2000
+http://laurakaren.serv00.net/OkRU.php?HLS=255161870666&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1386932.jpg" group-title="FİLM" ,Ip Man 2 ▪ Yip Man 2 ⇦™➱ 2010
+http://laurakaren.serv00.net/OkRU.php?HLS=1002982287684&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/film/200/0806027.jpg" group-title="FİLM" ,Son Vampir ▪ Blood: The Last Vampire ⇦™➱ 2009
+http://laurakaren.serv00.net/OkRU.php?HLS=5233591068986&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1527788.jpg" group-title="FİLM" ,Mazisi Olmayan Adam ▪ Ajeossi ⇦™➱ 1997
+http://laurakaren.serv00.net/OkRU.php?HLS=229473069339&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/6589464.jpg" group-title="FİLM" ,Hapishane ▪ The Prison ⇦™➱ 2017
+http://laurakaren.serv00.net/OkRU.php?HLS=1238783240528&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0097202.jpg" group-title="FİLM" ,Acımasız Katil ▪ Dip huet seung hung ⇦™➱ 1989
+http://laurakaren.serv00.net/OkRU.php?HLS=568131135815&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1236370.jpg" group-title="FİLM" ,Efsanevi Katil ▪ Long nga ⇦™➱ 2008
+http://laurakaren.serv00.net/OkRU.php?HLS=174835902893&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1442571.jpg" group-title="FİLM" ,14 Bıçak ▪ Jin yi wei ⇦™➱ 2010
+http://laurakaren.serv00.net/OkRU.php?HLS=2281967921652&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0120828.jpg" group-title="FİLM" ,Altı Gün Yedi Gece ▪ Six Days Seven Nights ⇦™➱ 1998
+http://laurakaren.serv00.net/OkRU.php?HLS=6885762673032&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0341495.jpg" group-title="FİLM" ,Ölüm Melekleri ▪ Chek law dak gung ⇦™➱ 2002
+http://laurakaren.serv00.net/OkRU.php?HLS=5746630797626&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0118771.jpg" group-title="FİLM" ,Tuzak ▪ Breakdown ⇦™➱ 1997
+http://laurakaren.serv00.net/OkRU.php?HLS=7302641101192&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0418819.jpg" group-title="FİLM" ,Ölüler Ülkesi ▪ Land of the Dead ⇦™➱ 2005
+http://laurakaren.serv00.net/OkRU.php?HLS=2495643462106&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0079315.jpg" group-title="FİLM" ,Korkusuz Sırtlan ▪ Xiao quan guai zhao ⇦™➱ 1979
+http://laurakaren.serv00.net/OkRU.php?HLS=249285257492&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0100029.jpg" group-title="FİLM" ,Aslan Yürek ▪ Lionheart ⇦™➱ 1990
+http://laurakaren.serv00.net/OkRU.php?HLS=84369158761&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0462499.jpg" group-title="FİLM" ,John Rambo ▪ Rambo ⇦™➱ 2008
+http://laurakaren.serv00.net/OkRU.php?HLS=6876163483977&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/3663040.jpg" group-title="FİLM" ,Kanlı Kaçış ▪ Heatstroke ⇦™➱ 2013
+http://laurakaren.serv00.net/OkRU.php?HLS=539007527358&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1360767.jpg" group-title="FİLM" ,Tehlikeli Adam ▪ A Dangerous Man ⇦™➱ 2009
+http://laurakaren.serv00.net/OkRU.php?HLS=253039290662&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0067824.jpg" group-title="FİLM" ,Büyük Patron ▪ Tang shan da xiong ⇦™➱ 1971
+http://laurakaren.serv00.net/OkRU.php?HLS=642087659816&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0070034.jpg" group-title="FİLM" ,Ejder Kalesi ▪ Enter the Dragon ⇦™➱ 1973
+http://laurakaren.serv00.net/OkRU.php?HLS=6360589216073&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0068935.jpg" group-title="FİLM" ,Ejder'in Yolu ▪ Meng long guo jiang ⇦™➱ 1972
+http://laurakaren.serv00.net/OkRU.php?HLS=2495643462106&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0076709.jpg" group-title="FİLM" ,Ölüm Kulesi ▪ Si wang ta ⇦™➱ 1981
+http://laurakaren.serv00.net/OkRU.php?HLS=227920980344&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0116908.jpg" group-title="FİLM" ,İyi Geceler Öpücüğü ▪ The Long Kiss Goodnight ⇦™➱ 1996
+http://laurakaren.serv00.net/OkRU.php?HLS=245723834815&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0079501.jpg" group-title="FİLM" ,Çılgın Maks ▪ Mad Max ⇦™➱ 1979
+http://laurakaren.serv00.net/OkRU.php?HLS=392118282669&Kalite=FHD&video.mp4
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0082694.jpg" group-title="FİLM" ,Çılgın Maks 2: Savaşcı ▪ Mad Max 2 ⇦™➱ 1981
+http://laurakaren.serv00.net/OkRU.php?HLS=392118282669&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0089530.jpg" group-title="FİLM" ,Mad Max 3 ▪ Mad Max Beyond Thunderdome ⇦™➱ 1985
+http://laurakaren.serv00.net/OkRU.php?HLS=1697378085261&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/3882082.jpg" group-title="FİLM" ,Lanetli Çocuk ▪ The Boy ⇦™➱ 2016
+http://laurakaren.serv00.net/OkRU.php?HLS=538853714348&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1300851.jpg" group-title="FİLM" ,Şehrin Azizleri 2 : Azizler Günü ▪ The Boondock Saints II: All Saints Day ⇦™➱ 2009
+http://laurakaren.serv00.net/OkRU.php?HLS=532840130863&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0762073.jpg" group-title="FİLM" ,Kan Arzusu ▪ Bakjwi ⇦™➱ 2009
+http://laurakaren.serv00.net/OkRU.php?HLS=5627825760665&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0460791.jpg" group-title="FİLM" ,Düşüş ▪ The Fall ⇦™➱ 2006
+http://laurakaren.serv00.net/OkRU.php?HLS=438551456120&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0090342.jpg" group-title="FİLM" ,Amansız Takip ▪ Xia ri fu xing ⇦™➱ 1985
+http://laurakaren.serv00.net/OkRU.php?HLS=3103253211492&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0085127.jpg" group-title="FİLM" ,A Projesi ▪ 'A' gai wak ⇦™➱ 1983
+http://laurakaren.serv00.net/OkRU.php?HLS=7312921405832&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0373926.jpg" group-title="FİLM" ,Çevirmen ▪ The Interpreter ⇦™➱ 2005
+http://laurakaren.serv00.net/OkRU.php?HLS=827335452996&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0288045.jpg" group-title="FİLM" ,Madalyon ▪ The Medallion ⇦™➱ 2003
+http://laurakaren.serv00.net/OkRU.php?HLS=5255977511226&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0095963.jpg" group-title="FİLM" ,Kızıl Ateş ▪ Red Heat ⇦™➱ 1988
+http://laurakaren.serv00.net/OkRU.php?HLS=1361567951172&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0105399.jpg" group-title="FİLM" ,Ikiz Ejderler ▪ Shuang long hui ⇦™➱ 1992
+http://laurakaren.serv00.net/OkRU.php?HLS=6738225080649&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1259521.jpg" group-title="FİLM" ,Dehşet Kapanı ▪ The Cabin in the Woods ⇦™➱ 2011
+http://laurakaren.serv00.net/OkRU.php?HLS=7328371124616&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0844708.jpg" group-title="FİLM" ,Soldaki Son Ev ▪ The Last House on the Left ⇦™➱ 2009
+http://laurakaren.serv00.net/OkRU.php?HLS=7327955822984&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0219965.jpg" group-title="FİLM" ,Haydut ▪ Bandits ⇦™➱ 2001
+http://laurakaren.serv00.net/OkRU.php?HLS=7376034015624&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1562568.jpg" group-title="FİLM" ,Üst Mertebe ▪ Higher Ground ⇦™➱ 2011
+http://laurakaren.serv00.net/OkRU.php?HLS=240832883062&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1214962.jpg" group-title="FİLM" ,İntikamın Bedeli ▪ Seeking Justice ⇦™➱ 2011
+http://laurakaren.serv00.net/OkRU.php?HLS=57423636963&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0065988.jpg" group-title="FİLM" ,Küçük Dev Adam ▪ Little Big Man ⇦™➱ 1970
+http://laurakaren.serv00.net/OkRU.php?HLS=7395858524634&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1582507.jpg" group-title="FİLM" ,Sokağın Sonundaki Ev ▪ House at the End of the Street ⇦™➱ 2012
+http://laurakaren.serv00.net/OkRU.php?HLS=66150541676&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/2119474.jpg" group-title="FİLM" ,Maksimum Tehlike ▪ Maximum Conviction ⇦™➱ 2012
+http://laurakaren.serv00.net/OkRU.php?HLS=1287701801227&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0308383.jpg" group-title="FİLM" ,İnsan Lekesi ▪ The Human Stain ⇦™➱ 2003
+http://laurakaren.serv00.net/OkRU.php?HLS=251614800363&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0465602.jpg" group-title="FİLM" ,Hepsini Vur ▪ Shoot 'Em Up ⇦™➱ 2007
+http://laurakaren.serv00.net/OkRU.php?HLS=568131135815&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/0258463.jpg" group-title="FİLM" ,Geçmişi Olmayan Adam ▪ The Bourne Identity ⇦™➱ 2002
+http://laurakaren.serv00.net/OkRU.php?HLS=6668882815450&Kalite=FHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/2204340.jpg" group-title="FİLM" ,Efsane Dörtlü ▪ Si da ming bu ⇦™➱ 2012
+http://laurakaren.serv00.net/OkRU.php?HLS=229755202042&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/3058674.jpg" group-title="FİLM" ,Kayboluş ▪ VANish ⇦™➱ 2015
+http://laurakaren.serv00.net/OkRU.php?HLS=224270625082&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1881024.jpg" group-title="FİLM" ,Mafya Savaşı ▪ One in the Chamber ⇦™➱ 2012
+http://laurakaren.serv00.net/OkRU.php?HLS=231482403091&Kalite=UHD&video.mp4
+
+
+#EXTINF:0 type="stream" tvg-logo="http://turkcealtyazi.org/images/poster/1884457.jpg" group-title="FİLM" ,Teslimat ▪ The Package ⇦™➱ 2013
+http://laurakaren.serv00.net/OkRU.php?HLS=242814626197&Kalite=FHD&video.mp4
+
+
 
 #EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/02/sampiyon_16x9-1599054703.jpg" group-title="Filmler",Bizim İçin Şampiyon
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816371_0B81DC13&SecretKey=NtvApiSecret2014*&.m3u8
