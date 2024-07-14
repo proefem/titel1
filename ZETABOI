@@ -263,7 +263,7 @@ https://live.anystreamrectv3.live/live/foxtv.m3u8?|User-Agent=Dart&Mozilla/5.0
 #https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=i_d6kw7irvxwJlOZQN0-3w&e=1707959173
 #http://g-350610.google-cd.net@65.108.239.207:8080/stream/turkcell/foxtvhd/stream.m3u8?uid=2035704216?|user-agent=FMP (Linux) ExoPlayerLib/2.10.8
 #https://c.fulltvizle.com/fox/index.m3u8
-#http://bozztv.com:80/gin-36bay2/gin-turkfoxtv/playlist.m3u8
+#http://bozztv.com:80/gin-dvrfl05/gin-turkfoxtv/playlist.m3u8#
 #http://bozztv.com:80/gin-trn09/gin-turkfoxtv/playlist.m3u8
 #https://bozztv.com/inim03/live1/turkfoxtv/playlist.m3u8
 #http://amtv1-2.livestreamingcdn.com:80/gt-show-tv/playlist.m3u8
@@ -5150,7 +5150,6 @@ http://bozztv.com:80/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleon.at.ua/digitalontime02.png" group-title="TR ➾ SINEMA",TELE ON ᴴᴰ
-#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8(Linux;Android) ExoPlayerLib/2.1.1
 https://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ SINEMA",CİNE BOX
@@ -5255,12 +5254,14 @@ https://bozztv.com/ssh101/ssh101/tv70/chunks.m3u8
 #EXTINF:0  tvg-id="TV 90.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ SINEMA",TV 90 
 https://anka@tv90-live.cdnnew.com/tv90/tv90.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ SINEMA",blutv PLAY 1
-https://anka@play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
-#https://play1.blutv.com/blutv_play1/live.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ SINEMA",blutv PLAY 2
-https://anka@play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
-#https://play2.blutv.com/blutv_play2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ SINEMA",TR: BLUTV PLAY 1 ʜᴅ
+https://play1.blutv.com/blutv_play1/live.m3u8
+#https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 2" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ SINEMA",TR: BLUTV PLAY 2 ʜᴅ
+https://play2.blutv.com/blutv_play2/live.m3u8
+#https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index_1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhT4qdNM0bD5wEcx7DI7G6LmfOPvnybv_ipzfuSbMEsu1p8afVsG3eE4HGucmahWOGzFUKfH1JVmVbgY4MESbHjZcajG_-jzudCGMG215prp3s-aKbnmNW0RvgKxdvmMBoZJrLJPkHnzpQOmZeYRG2pbGCUOT6bRmUy2OjKeb3jbzxgrQ3sEMOLkFd3pA=w124-h35" group-title="TR ➾ SINEMA",LİDER TV
 http://stream.tvcdn.net/diger/lider-haber.m3u8
 
@@ -5313,12 +5314,12 @@ https://live.filbox.com.tr/dogutv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title=" TR ✦ SINEMA  ",TR: BLUTV PLAY 1 ʜᴅ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
-https://play1.blutv.com/blutv_play1/live_720p2000000kbps/index.m3u8?
+https://play1.blutv.com/blutv_play1/live.m3u8
+#https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 2" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title=" TR ✦ SINEMA  ",TR: BLUTV PLAY 2 ʜᴅ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
-https://play2.blutv.com/blutv_play2/live_720p2000000kbps/index.m3u8
+https://play2.blutv.com/blutv_play2/live.m3u8
+#https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FX FHD" tvg-logo="https://i.ibb.co/zVNs103/fx.png" group-title=" TR ✦ SINEMA  ",FX  ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
