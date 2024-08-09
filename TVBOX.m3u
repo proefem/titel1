@@ -97,7 +97,7 @@ https://github.com/proefem/yutuber/raw/main/TestTV.m3u8
 #https://m3u-editor.com/serve/deathless-sund-box/1172976409
 
 #EXTINF:-1 tvg-id="Filodi.tr"tvg-name="FİLODİ TR"  tvg-logo="https://logo.filbox.com.tr/FİLODİ.png" group-title="ULUSAL",FİLODİ ᵁᴴᴰ⁺™
-#https://live.filbox.com.tr/filodi/index.m3u8
+#https://live.filbox.com.tr/filodi/index.m3u8?|User-agent=Mozilla/5.0 FMP (Linux;Android) ExoPlayerLib/2.10.8
 
 #EXTINF:0 tvg-id=""tvg-url="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38"group-title="ULUSAL", MMN TURK TV ᴴᴰ⁺
 #http://anka@mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist.m3u8
@@ -112,13 +112,13 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
 #EXTINF:1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png"group-title="ULUSAL",BENGUTURK TV ᵁᴴᴰ⁺
-https://bozztv.com:80/gin-trn10/gt-benguturk/playlist.m3u8?|User-agent=Mozilla/5.0 FMP (Linux;Android) ExoPlayerLib/2.10.8
+https://bozztv.com:80/gin-trn10/gt-benguturk/playlist.m3u8
 
 #EXTINF:1 tvg-id="TrakyaTurkTV.tr" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/06/balkan-turk-tv.png" group-title="ULUSAL",Balkan Türk TV ᴴᴰ⁺™
 https://live.euromediacenter.com/balkanturktv/index.m3u8
 
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU ᴴᴰ⁺ 
-https://new.cache-stream.workers.dev/stream/UCnwi4koEwXv4A5xTvkiWzWw/live.m3u8
+https://bozztv.com/inim03/live1/tgrteu/playlist.m3u8
 
 #EXTINF:1 tvg-id="Kanal68.tr" tvg-logo="http://assets.tvcdn.net/4dbccb66-328c-41b2-ae3e-ad3b3475dc49.png" group-title="ULUSAL",Kanal 68ᴴᴰ⁺™
 https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
@@ -201,7 +201,6 @@ https://anka@edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:0  tvg-id="kanaltvo.tr" channelId="-1" tvg-logo="http://kar-beyaz.access.ly:54381/images/33f7685d729ff996fc7ef0862e24d0af.png"group-title="ULUSAL" ,ANTALYA TV ᴴᴰ
 https://anka@cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 
-
 #EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN  TV ᴴᴰ
 https://embedlp.b-cdn.net/womantv.m3u8j
 
@@ -244,7 +243,7 @@ https://hw1.jemtv.com/app/AHaber/playlist.m3u8
 http://162.212.179.32/gin-dvrfl05/gin-cnnturk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="HABER",HABER GLOBAL ᵁᴴᴰ⁺
-https://haberglobal.blutv.com/blutv_haberglobal2/live.m3u8
+https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="HABER",ULKE TV ᴴᴰ⁺
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
@@ -407,7 +406,8 @@ https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 http://bozztv.com:80/gin-dvrfl05/gin-showtvturk/index.m3u8
 
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="EuroStar TR" tvg-logo="https://picon-13398.kxcdn.com/eurostartr.jpg"   group-title="ULUSAL-int",EURO STAR ᴴᴰ
-https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/eurostartv.m3u8
+https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/eurostar.m3u8
+#https://raw.githubusercontent.com/master-90/YOUTUBE-LIVE-STREAM/main/streams/eurostartv.m3u8
 
 #EXTINF:-1 tvg-id="EuroD.tr"tvg-name="Euro D TR"   tvg-logo="https://i.imgur.com/4cr2gol.png"  group-title="ULUSAL-int",EURO D ᴴᴰ
 https://new.cache-stream.workers.dev/video/n6BJbjjBmW8/live.m3u8
