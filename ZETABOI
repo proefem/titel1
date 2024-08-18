@@ -200,7 +200,7 @@ https://hw1.jemtv.com/app/tv5/playlist.m3u8
 
 #EXTINF:1 tvg-id="TrakyaTurkTV.tr" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/06/trakya-turk-tv.png" group-title="ULUSAL",Trakya Türk tv ᴴᴰ⁺™
 https://live.euromediacenter.com/trakyaturk/index.m3u8
-
+https://panel4.euromediacenter.com:3710/live/trakyaturklive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/06/mugla-turk-tv.png" group-title="ULUSAL" , M TURK tv  ᴴᴰ⁺™
 https://anka@edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 
@@ -904,470 +904,816 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:C3:50:DB&stream=191749&e
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="TR | ✦●✦●      SP⚽RT      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/flags/turkey.png" group-title="TR | SPOR",TR | ✦●✦●      SP⚽RT      ✦●✦●
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=181533&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS MAÇ SAATI (FEED)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/565.png?53881" group-title="TR | SPOR",TR | BEIN SPORTS MAÇ SAATI (FEED)
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=423613&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS MAÇ SAATI (FEED) 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/565.png?53881" group-title="TR | SPOR",TR | BEIN SPORTS MAÇ SAATI (FEED) 4K
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=423612&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR  | VIP TITAN PLUS 1  HD" tvg-logo="" group-title="TR | SPOR",TR  | VIP TITAN PLUS 1  HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=423484&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR  | VIP TITAN PLUS 1 FHD" tvg-logo="" group-title="TR | SPOR",TR  | VIP TITAN PLUS 1 FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=423483&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR  | VIP TITAN PLUS 2  HD" tvg-logo="" group-title="TR | SPOR",TR  | VIP TITAN PLUS 2  HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=423482&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR  | VIP TITAN PLUS 2 FHD" tvg-logo="" group-title="TR | SPOR",TR  | VIP TITAN PLUS 2 FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=423481&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR  | VIP BETERRO SPORTS FEED FHD" tvg-logo="" group-title="TR | SPOR",TR  | VIP BETERRO SPORTS FEED FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=423480&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/beinsport1hd.png" group-title="TR | SPOR",TR | BEIN SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=423479&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | VIP BEIN SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/beinsport.png" group-title="TR | SPOR",TR | VIP BEIN SPORTS FEED 4K ᵁᴴᴰ
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=423478&extension=m3u8
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR | SPORSMART HD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | SPORSMART HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=220009&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | SPORSMART 2 HD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | SPORSMART 2 HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=220010&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR | BEIN SPORT 1 HD+" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_1.png" group-title="TR | SPOR",TR | BEIN SPORT 1 HD+
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=18663&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR | BEIN SPORT 2 HD+" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_2.png" group-title="TR | SPOR",TR | BEIN SPORT 2 HD+
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=18648&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR | BEIN SPORT 3 HD+" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_3.png" group-title="TR | SPOR",TR | BEIN SPORT 3 HD+
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2065&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR | BEIN SPORT 1  " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_1.png" group-title="TR | SPOR",TR | BEIN SPORT 1  
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=18655&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR | BEIN SPORT 1  " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_1.png" group-title="TR | SPOR",TR | BEIN SPORT 1  
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=18656&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR | BEIN SPORT 2 " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_2.png" group-title="TR | SPOR",TR | BEIN SPORT 2 
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2064&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR | BEIN SPORT 2  " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_2.png" group-title="TR | SPOR",TR | BEIN SPORT 2  
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=18646&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR | BEIN SPORT 3" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_3.png" group-title="TR | SPOR",TR | BEIN SPORT 3
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=18639&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR | BEIN SPORT 3 " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_3.png" group-title="TR | SPOR",TR | BEIN SPORT 3 
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=18640&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR | BEIN SPORT 4" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_4.png" group-title="TR | SPOR",TR | BEIN SPORT 4
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=18643&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR | BEIN SPORT 4  " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_4.png" group-title="TR | SPOR",TR | BEIN SPORT 4  
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2066&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORT 5" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | BEIN SPORT 5
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=269056&extension=m3u8
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR | BEIN SPORT HABER" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sp_haber.png" group-title="TR | SPOR",TR | BEIN SPORT HABER
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2067&extension=m3u8
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR | BEIN SPORT MAX 1" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_max_1.png" group-title="TR | SPOR",TR | BEIN SPORT MAX 1
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2068&extension=m3u8
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR | BEIN SPORT MAX 2" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_max_2.png" group-title="TR | SPOR",TR | BEIN SPORT MAX 2
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2069&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | SARANSPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/ed/S_Sport_2_logo.jpg/1200px-S_Sport_2_logo.jpg" group-title="TR | SPOR",TR | SARANSPORT 2
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=101940&extension=m3u8
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR | SPORTSTV" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | SPORTSTV
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=101943&extension=m3u8
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR | TRT SPOR  " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/trt_spor.png" group-title="TR | SPOR",TR | TRT SPOR  
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2083&extension=m3u8
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR | TRT SPOR 2" tvg-logo="https://images.daznservices.com/di/library/GOAL/d9/5d/trt-spor-2-logo_5luf5g44k6881g6nt2ahtgas3.jpg?t=1396214181&quality=70&w=1280" group-title="TR | SPOR",TR | TRT SPOR 2
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=101944&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | TRT SPOR YILDIZ HD+" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | TRT SPOR YILDIZ HD+
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=267259&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | TRT SPOR YILDIZ HD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | TRT SPOR YILDIZ HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:C3:50:DB&stream=267260&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | TJK TV " tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/tjk.png" group-title="TR | SPOR",TR | TJK TV 
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=101947&extension=m3u8
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR |  FB TV" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/fbtv_fenerbahce.png" group-title="TR | SPOR",TR |  FB TV
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2089&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | GS TV" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/gstv.png" group-title="TR | SPOR",TR | GS TV
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2092&extension=m3u8
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR | NBA TV" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/nba.png" group-title="TR | SPOR",TR | NBA TV
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2043&extension=m3u8
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR | NBA  " tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/nba.png" group-title="TR | SPOR",TR | NBA  
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2071&extension=m3u8
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR | S SPORT  " tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/ssport.png" group-title="TR | SPOR",TR | S SPORT  
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2073&extension=m3u8
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR | S SPORT 2  " tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/ssport.png" group-title="TR | SPOR",TR | S SPORT 2  
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2075&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT+ 1" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/ssport.png" group-title="TR | SPOR",TR | S SPORT+ 1
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=351371&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT+ 2" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/ssport.png" group-title="TR | SPOR",TR | S SPORT+ 2
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=351372&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT+ 3" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/ssport.png" group-title="TR | SPOR",TR | S SPORT+ 3
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=351373&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT+ 4" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/ssport.png" group-title="TR | SPOR",TR | S SPORT+ 4
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=351374&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT+ 5" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/ssport.png" group-title="TR | SPOR",TR | S SPORT+ 5
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=351375&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT+ 6" tvg-logo="" group-title="TR | SPOR",TR | S SPORT+ 6
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=351376&extension=m3u8
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR | SMART SPOR" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/spor_smart.png" group-title="TR | SPOR",TR | SMART SPOR
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2077&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBU SPOR" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/tivibu_spor.png" group-title="TR | SPOR",TR | TIVIBU SPOR
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2081&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBU SPOR 1  " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/tivibu_spor.png" group-title="TR | SPOR",TR | TIVIBU SPOR 1  
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2078&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBU SPOR 2 " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/tivibu_spor_2.png" group-title="TR | SPOR",TR | TIVIBU SPOR 2 
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2079&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBU SPOR 3  " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/tivibu_spor_3.png" group-title="TR | SPOR",TR | TIVIBU SPOR 3  
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2080&extension=m3u8
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR | EUROSPORT 1  " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/eurosport1.png" group-title="TR | SPOR",TR | EUROSPORT 1  
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2087&extension=m3u8
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR | EUROSPORT 2 " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/eurosport2.png" group-title="TR | SPOR",TR | EUROSPORT 2 
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2088&extension=m3u8
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR | SPORTS TV" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/sports_tv.png" group-title="TR | SPOR",TR | SPORTS TV
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2084&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | TAY TV" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/tay_tv.png" group-title="TR | SPOR",TR | TAY TV
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2086&extension=m3u8
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR | A SPOR " tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/a_spor.png" group-title="TR | SPOR",TR | A SPOR 
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=2090&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | B.SPOR MAX 1" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtIsiPOfQJ3Sujaoqg8Q8w884EPwqSUJVtMVkvLg=s900-c-k-c0x00ffffff-no-rj" group-title="TR | SPOR",TR | B.SPOR MAX 1
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190977&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | B.SPOR 4 HD 2" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtIsiPOfQJ3Sujaoqg8Q8w884EPwqSUJVtMVkvLg=s900-c-k-c0x00ffffff-no-rj" group-title="TR | SPOR",TR | B.SPOR 4 HD 2
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190976&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | VIP SPORTS HD 1 " tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | VIP SPORTS HD 1 
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190932&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | VIP S-SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | VIP S-SPORT
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190955&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | VIP S SPOR 2 4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | VIP S SPOR 2 4K
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190956&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | VIP TIVIBU SPOR 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="TR | SPOR",TR | VIP TIVIBU SPOR 2
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190957&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | B.SPOR 1 FHD 1" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtIsiPOfQJ3Sujaoqg8Q8w884EPwqSUJVtMVkvLg=s900-c-k-c0x00ffffff-no-rj" group-title="TR | SPOR",TR | B.SPOR 1 FHD 1
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190965&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | B.SPOR 1 HD 1" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtIsiPOfQJ3Sujaoqg8Q8w884EPwqSUJVtMVkvLg=s900-c-k-c0x00ffffff-no-rj" group-title="TR | SPOR",TR | B.SPOR 1 HD 1
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190966&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | B.SPOR 1 HD 2" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtIsiPOfQJ3Sujaoqg8Q8w884EPwqSUJVtMVkvLg=s900-c-k-c0x00ffffff-no-rj" group-title="TR | SPOR",TR | B.SPOR 1 HD 2
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190967&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | B.SPOR 1 HD 3" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtIsiPOfQJ3Sujaoqg8Q8w884EPwqSUJVtMVkvLg=s900-c-k-c0x00ffffff-no-rj" group-title="TR | SPOR",TR | B.SPOR 1 HD 3
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190968&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | B.SPOR 1 SD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtIsiPOfQJ3Sujaoqg8Q8w884EPwqSUJVtMVkvLg=s900-c-k-c0x00ffffff-no-rj" group-title="TR | SPOR",TR | B.SPOR 1 SD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190969&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | B.SPOR 2 FHD 1" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtIsiPOfQJ3Sujaoqg8Q8w884EPwqSUJVtMVkvLg=s900-c-k-c0x00ffffff-no-rj" group-title="TR | SPOR",TR | B.SPOR 2 FHD 1
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190970&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | B.SPOR 2 HD 2" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtIsiPOfQJ3Sujaoqg8Q8w884EPwqSUJVtMVkvLg=s900-c-k-c0x00ffffff-no-rj" group-title="TR | SPOR",TR | B.SPOR 2 HD 2
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190971&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | B.SPOR MAX 2 HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtIsiPOfQJ3Sujaoqg8Q8w884EPwqSUJVtMVkvLg=s900-c-k-c0x00ffffff-no-rj" group-title="TR | SPOR",TR | B.SPOR MAX 2 HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=190978&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | FILSPOR 1" tvg-logo="https://r.resimlink.com/ZDi7TUcOh.png" group-title="TR | SPOR",TR | FILSPOR 1
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=396275&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | FILSPOR 2" tvg-logo="https://r.resimlink.com/ZDi7TUcOh.png" group-title="TR | SPOR",TR | FILSPOR 2
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=396274&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | FILSPOR 3" tvg-logo="https://r.resimlink.com/ZDi7TUcOh.png" group-title="TR | SPOR",TR | FILSPOR 3
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=396273&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | FILSPOR 4" tvg-logo="https://r.resimlink.com/ZDi7TUcOh.png" group-title="TR | SPOR",TR | FILSPOR 4
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=396272&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | FILSPOR 5" tvg-logo="https://r.resimlink.com/ZDi7TUcOh.png" group-title="TR | SPOR",TR | FILSPOR 5
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=396271&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | ✦●✦●      EXXEN SP⚽RT      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/flags/turkey.png" group-title="TR | EXXEN SPORT",TR | ✦●✦●      EXXEN SP⚽RT      ✦●✦●
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=214750&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 1 4K+" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 1 4K+
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191746&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 2 4K+" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 2 4K+
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191747&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 3 4K+" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 3 4K+
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191748&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 4 4K+" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 4 4K+
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191749&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 1 HD " tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 1 HD 
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191243&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 1 " tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 1 
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191244&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 1 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 1 HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191245&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 1" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 1
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191248&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 1 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 1 HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191249&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 2 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 2 HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191246&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 2" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 2
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191250&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 2 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 2 HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191251&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 3 HD " tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 3 HD 
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191247&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 3" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 3
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191252&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 3 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 3 HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191253&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 4" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 4
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191254&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 4 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 4 HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191255&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 4 FHD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 4 FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191256&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 5" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 5
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191257&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 5 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 5 HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191258&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 5 FHD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 5 FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191259&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 6" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 6
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191260&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORT 6 FHD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="TR | EXXEN SPORT",TR | EXXEN SPORT 6 FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:C3:50:DB&stream=191261&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD+" group-title="TR | BEIN SPORT",TR: TRT SPOR HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=283&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=283&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD+" group-title="TR | BEIN SPORT",TR: A SPOR HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=284&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=284&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 HD+" group-title="TR | BEIN SPORT",TR: TV 8.5 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=222&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=222&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sport 4K" group-title="TR | BEIN SPORT",TR: Platinum X Sport 4K
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=106810&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports HEVC" group-title="TR | BEIN SPORT",TR: Platinum X Sports HEVC
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=116091&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports Ultimate" group-title="TR | BEIN SPORT",TR: Platinum X Sports Ultimate
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125161&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FEED HD+" group-title="TR | BEIN SPORT",TR: FEED HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=126525&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: Betorro FEED" group-title="TR | BEIN SPORT",TR: Betorro FEED
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125160&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: Betorro FEED HD+" group-title="TR | BEIN SPORT",TR: Betorro FEED HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=142061&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TR: Betorro FEED HD" group-title="TR | BEIN SPORT",TR: TR: Betorro FEED HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=207540&extension=m3u8|user-agent=Lavf53.32.100
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT 1 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=361367&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=361367&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT 1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=405957&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=405957&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 2 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT 2 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=289&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=289&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 2 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=262&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=262&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 3 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT 3 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=290&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=290&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 3 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT 3 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=263&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=263&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 4 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT 4 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=291&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=291&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 4 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT 4 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=264&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=264&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 5 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT 5 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=117043&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=117043&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 5 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT 5 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=290639&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=290639&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT HABER HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT HABER HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=285&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=285&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT HABER HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT HABER HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=267&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=267&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RTS MAX 1 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RTS MAX 1 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=292&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=292&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT MAX 1 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT MAX 1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=265&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=265&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT MAX 2 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT MAX 2 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=293&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=293&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT MAX 2 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT MAX 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=266&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=266&extension=m3u8|user-agent=Lavf53.32.100
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sport 4K" group-title="TR | BEIN SPORT FEED",TR: Platinum X Sport 4K
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=106810&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports HEVC" group-title="TR | BEIN SPORT FEED",TR: Platinum X Sports HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=116091&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports Ultimate" group-title="TR | BEIN SPORT FEED",TR: Platinum X Sports Ultimate
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125161&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FEED HD+" group-title="TR | BEIN SPORT FEED",TR: FEED HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=126525&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Betorro FEED" group-title="TR | BEIN SPORT FEED",TR: Betorro FEED
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125160&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Betorro FEED HD+" group-title="TR | BEIN SPORT FEED",TR: Betorro FEED HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=142061&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TR: Betorro FEED HD" group-title="TR | BEIN SPORT FEED",TR: TR: Betorro FEED HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=207540&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 1 HD+" group-title="TR | S-SPORT",TR: S-SPORT 1 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=305&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 1 HD" group-title="TR | S-SPORT",TR: S-SPORT 1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=294&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 1 SD" group-title="TR | S-SPORT",TR: S-SPORT 1 SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=271&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 2 HD" group-title="TR | S-SPORT",TR: S-SPORT 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=116073&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 2 HD+" group-title="TR | S-SPORT",TR: S-SPORT 2 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=295&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+1 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+1 Mac Saati
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125105&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+2 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+2 Mac Saati
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125106&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+3 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+3 Mac Saati
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125107&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+4 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+4 Mac Saati
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125108&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+5 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+5 Mac Saati
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=275452&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+6 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+6 Mac Saati
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362929&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+7 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+7 Mac Saati
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362930&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+8 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+8 Mac Saati
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362931&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+9 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+9 Mac Saati
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362932&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+10 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+10 Mac Saati
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362933&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 1 HD+" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR 1 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=298&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR HD" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125109&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 HD" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=268&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 2 HD+" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR 2 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=299&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 2 HD" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=269&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 3 HD+" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR 3 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=300&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 3 HD" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 3 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=270&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 4(maczamani)" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 4(maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=182418&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD" group-title="TR | SPOR",TR: A SPOR HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=280&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" group-title="TR | SPOR",TR: TRT SPOR HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=281&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD+" group-title="TR | SPOR",TR: TRT SPOR YILDIZ HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=114887&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD" group-title="TR | SPOR",TR: TRT SPOR YILDIZ HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=282&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 3 SPOR" group-title="TR | SPOR",TR: TRT 3 SPOR
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=114885&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPORT SMART 1 HD++" group-title="TR | SPOR",TR: SPORT SMART 1 HD++
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=297&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPORT SMART 1 HD+" group-title="TR | SPOR",TR: SPORT SMART 1 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=301&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 HD" group-title="TR | SPOR",TR: SPOR SMART 1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=272&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 SD" group-title="TR | SPOR",TR: SPOR SMART 1 SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=124764&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 HD+" group-title="TR | SPOR",TR: SPOR SMART 2 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=69715&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPORT SMART 2 HD" group-title="TR | SPOR",TR: SPORT SMART 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=302&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 1 HD" group-title="TR | SPOR",TR: FiLSPOR 1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362950&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 2 HD" group-title="TR | SPOR",TR: FiLSPOR 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362951&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 3 HD" group-title="TR | SPOR",TR: FiLSPOR 3 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362952&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 4 HD" group-title="TR | SPOR",TR: FiLSPOR 4 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362955&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 5 HD" group-title="TR | SPOR",TR: FiLSPOR 5 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362954&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD+" group-title="TR | SPOR",TR: NBA TV HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=296&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" group-title="TR | SPOR",TR: NBA TV HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=274&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EDGESPORT HD+" group-title="TR | SPOR",TR: EDGESPORT HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362959&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: UFC AX" group-title="TR | SPOR",TR: UFC AX
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=390440&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT BOX HD+" group-title="TR | SPOR",TR: FIGHT BOX HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362958&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD+" group-title="TR | SPOR",TR: EUROSPORT 1 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=275&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD" group-title="TR | SPOR",TR: EUROSPORT 1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362948&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD+" group-title="TR | SPOR",TR: EUROSPORT 2 HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=276&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD" group-title="TR | SPOR",TR: EUROSPORT 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362949&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" group-title="TR | SPOR",TR: FB TV HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=259&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV HD" group-title="TR | SPOR",TR: GS TV HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=277&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ICTiMAL TV HD+" group-title="TR | SPOR",TR: ICTiMAL TV HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362963&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CBC SPORT HD+" group-title="TR | SPOR",TR: CBC SPORT HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362962&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTSTV HD" group-title="TR | SPOR",TR: SPORTSTV HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=278&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV HD+" group-title="TR | SPOR",TR: TAY TV HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362964&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV HD+" group-title="TR | SPOR",TR: TJK TV HD+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=279&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN TV FHD" group-title="TR | E-X-X-E-N SPORT",TR: EXXEN TV FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=390014&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HEVC (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 1 HEVC (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=361630&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 1 HD+ (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=361629&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 1 HD (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362939&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 SD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 1 SD (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362940&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 2 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 2 HD+ (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125073&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 2 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 2 HD (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362941&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 3 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 3 HD+ (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125857&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 3 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 3 HD (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362942&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 4 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 4 HD+ (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=141719&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 4 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 4 HD (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362943&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 5 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 5 HD+ (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=141720&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 5 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 5 HD (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362944&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 6 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 6 HD+ (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=141721&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 6 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 6 HD (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362945&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 7 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 7 HD+ (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=361631&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 7 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 7 HD (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362946&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 8 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 8 HD+ (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=141924&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 8 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 8 HD (maczamani)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362947&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 1 maczamani" group-title="TR | BEIN SPORT",TR: bieN CONNECT 1 maczamani
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=117040&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 2 maczamani" group-title="TR | BEIN SPORT",TR: bieN CONNECT 2 maczamani
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=117041&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 3 maczamani" group-title="TR | BEIN SPORT",TR: bieN CONNECT 3 maczamani
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=117042&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 4 maczamani" group-title="TR | BEIN SPORT",TR: bieN CONNECT 4 maczamani
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=285966&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 5 maczamani" group-title="TR | BEIN SPORT",TR: bieN CONNECT 5 maczamani
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=285967&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 6 maczamani" group-title="TR | BEIN SPORT",TR: bieN CONNECT 6 maczamani
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=285968&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 1 maczamani" group-title="TR | BEIN SPORT (VIP)",TR: bieN CONNECT 1 maczamani
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=117040&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 2 maczamani" group-title="TR | BEIN SPORT (VIP)",TR: bieN CONNECT 2 maczamani
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=117041&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 3 maczamani" group-title="TR | BEIN SPORT (VIP)",TR: bieN CONNECT 3 maczamani
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=117042&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 4 maczamani" group-title="TR | BEIN SPORT (VIP)",TR: bieN CONNECT 4 maczamani
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=285966&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 5 maczamani" group-title="TR | BEIN SPORT (VIP)",TR: bieN CONNECT 5 maczamani
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=285967&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 6 maczamani" group-title="TR | BEIN SPORT (VIP)",TR: bieN CONNECT 6 maczamani
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=285968&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (HEVC)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (HEVC)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=349693&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=349693&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (1080)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (1080)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362212&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362212&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (720)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (720)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=286&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=286&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (640)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (640)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=222303&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=222303&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (576)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (576)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=117044&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=117044&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (480)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (480)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=349694&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=349694&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (360)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (360)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=349695&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=349695&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (SUPERONLINE)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (SUPERONLINE)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=349722&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=349722&extension=m3u8|user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (TTNET)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (TTNET)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=349721&extension=ts
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=349721&extension=m3u8|user-agent=Lavf53.32.100
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 1 HD+" group-title="TR | S-SPORT",TR: S-SPORT 1 HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=305&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 1 HD" group-title="TR | S-SPORT",TR: S-SPORT 1 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=294&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 1 SD" group-title="TR | S-SPORT",TR: S-SPORT 1 SD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=271&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 2 HD" group-title="TR | S-SPORT",TR: S-SPORT 2 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=116073&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 2 HD+" group-title="TR | S-SPORT",TR: S-SPORT 2 HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=295&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+1 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+1 Mac Saati
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125105&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+2 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+2 Mac Saati
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125106&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+3 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+3 Mac Saati
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125107&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+4 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+4 Mac Saati
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125108&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+5 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+5 Mac Saati
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=275452&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+6 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+6 Mac Saati
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362929&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+7 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+7 Mac Saati
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362930&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+8 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+8 Mac Saati
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362931&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+9 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+9 Mac Saati
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362932&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+10 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+10 Mac Saati
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362933&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 1 HD+" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR 1 HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=298&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR HD" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125109&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 HD" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 1 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=268&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 2 HD+" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR 2 HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=299&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 2 HD" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 2 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=269&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 3 HD+" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR 3 HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=300&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 3 HD" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 3 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=270&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 4(maczamani)" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 4(maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=182418&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD" group-title="TR | SPOR",TR: A SPOR HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=280&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" group-title="TR | SPOR",TR: TRT SPOR HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=281&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD+" group-title="TR | SPOR",TR: TRT SPOR YILDIZ HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=114887&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD" group-title="TR | SPOR",TR: TRT SPOR YILDIZ HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=282&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 3 SPOR" group-title="TR | SPOR",TR: TRT 3 SPOR
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=114885&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORT SMART 1 HD++" group-title="TR | SPOR",TR: SPORT SMART 1 HD++
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=297&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORT SMART 1 HD+" group-title="TR | SPOR",TR: SPORT SMART 1 HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=301&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 HD" group-title="TR | SPOR",TR: SPOR SMART 1 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=272&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 SD" group-title="TR | SPOR",TR: SPOR SMART 1 SD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=124764&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 HD+" group-title="TR | SPOR",TR: SPOR SMART 2 HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=69715&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORT SMART 2 HD" group-title="TR | SPOR",TR: SPORT SMART 2 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=302&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 1 HD" group-title="TR | SPOR",TR: FiLSPOR 1 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362950&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 2 HD" group-title="TR | SPOR",TR: FiLSPOR 2 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362951&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 3 HD" group-title="TR | SPOR",TR: FiLSPOR 3 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362952&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 4 HD" group-title="TR | SPOR",TR: FiLSPOR 4 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362955&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 5 HD" group-title="TR | SPOR",TR: FiLSPOR 5 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362954&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD+" group-title="TR | SPOR",TR: NBA TV HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=296&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" group-title="TR | SPOR",TR: NBA TV HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=274&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EDGESPORT HD+" group-title="TR | SPOR",TR: EDGESPORT HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362959&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: UFC AX" group-title="TR | SPOR",TR: UFC AX
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=390440&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT BOX HD+" group-title="TR | SPOR",TR: FIGHT BOX HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362958&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD+" group-title="TR | SPOR",TR: EUROSPORT 1 HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=275&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD" group-title="TR | SPOR",TR: EUROSPORT 1 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362948&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD+" group-title="TR | SPOR",TR: EUROSPORT 2 HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=276&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD" group-title="TR | SPOR",TR: EUROSPORT 2 HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362949&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" group-title="TR | SPOR",TR: FB TV HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=259&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV HD" group-title="TR | SPOR",TR: GS TV HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=277&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: ICTiMAL TV HD+" group-title="TR | SPOR",TR: ICTiMAL TV HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362963&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: CBC SPORT HD+" group-title="TR | SPOR",TR: CBC SPORT HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362962&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTSTV HD" group-title="TR | SPOR",TR: SPORTSTV HD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=278&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV HD+" group-title="TR | SPOR",TR: TAY TV HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362964&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV HD+" group-title="TR | SPOR",TR: TJK TV HD+
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=279&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN TV FHD" group-title="TR | E-X-X-E-N SPORT",TR: EXXEN TV FHD
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=390014&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HEVC (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 1 HEVC (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=361630&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 1 HD+ (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=361629&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 1 HD (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362939&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 SD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 1 SD (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362940&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 2 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 2 HD+ (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125073&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 2 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 2 HD (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362941&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 3 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 3 HD+ (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=125857&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 3 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 3 HD (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362942&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 4 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 4 HD+ (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=141719&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 4 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 4 HD (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362943&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 5 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 5 HD+ (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=141720&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 5 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 5 HD (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362944&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 6 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 6 HD+ (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=141721&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 6 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 6 HD (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362945&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 7 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 7 HD+ (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=361631&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 7 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 7 HD (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362946&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 8 HD+ (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 8 HD+ (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=141924&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 8 HD (maczamani)" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 8 HD (maczamani)
+http://sippaket.xyz:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=362947&extension=m3u8|user-agent=Lavf53.32.100
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD+" group-title="TR | BEIN SPORT",TR: TRT SPOR YILDIZ HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=114887&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD+" group-title="TR | BEIN SPORT",TR: TRT SPOR HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=283&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD+" group-title="TR | BEIN SPORT",TR: A SPOR HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=284&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR | TV 8.5ʳᵉᶜ" tvg-logo="" group-title="TR | BEIN SPORT",TR | TV 8.5
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=222&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FEED HD+" group-title="TR | BEIN SPORT",TR: FEED HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=126525&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: Betorro FEED" group-title="TR | BEIN SPORT",TR: Betorro FEED
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=125160&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: Betorro FEED HD+" group-title="TR | BEIN SPORT",TR: Betorro FEED HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=142061&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TR: Betorro FEED HD" group-title="TR | BEIN SPORT",TR: TR: Betorro FEED HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=207540&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sport 4K" group-title="TR | BEIN SPORT",TR: Platinum X Sport 4K
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=106810&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports HEVC" group-title="TR | BEIN SPORT",TR: Platinum X Sports HEVC
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=116091&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports Ultimate" group-title="TR | BEIN SPORT",TR: Platinum X Sports Ultimate
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=125161&extension=m3u8|user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT 1 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=361367&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT 1 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=405957&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 2 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT 2 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=289&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 2 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT 2 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=262&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 3 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT 3 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=290&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 3 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT 3 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=263&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 4 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT 4 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=291&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 4 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT 4 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=264&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 5 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT 5 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=117043&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 5 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT 5 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=290639&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT HABER HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT HABER HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=285&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT HABER HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT HABER HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=267&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RTS MAX 1 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RTS MAX 1 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=292&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT MAX 1 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT MAX 1 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=265&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT MAX 2 HD+" group-title="TR | BEIN SPORT",TR: bieN SP0RT MAX 2 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=293&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT MAX 2 HD" group-title="TR | BEIN SPORT",TR: bieN SP0RT MAX 2 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=266&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 1 maczamani" group-title="TR | BEIN SPORT",TR: bieN CONNECT 1 maczamani
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=117040&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 2 maczamani" group-title="TR | BEIN SPORT",TR: bieN CONNECT 2 maczamani
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=117041&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 3 maczamani" group-title="TR | BEIN SPORT",TR: bieN CONNECT 3 maczamani
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=117042&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 4 maczamani" group-title="TR | BEIN SPORT",TR: bieN CONNECT 4 maczamani
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=285966&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 5 maczamani" group-title="TR | BEIN SPORT",TR: bieN CONNECT 5 maczamani
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=285967&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 6 maczamani" group-title="TR | BEIN SPORT",TR: bieN CONNECT 6 maczamani
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=285968&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (HEVC)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (HEVC)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=349693&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (1080)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (1080)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362212&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (720)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (720)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=286&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (640)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (640)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=222303&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (576)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (576)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=117044&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (480)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (480)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=349694&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (360)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (360)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=349695&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (SUPERONLINE)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (SUPERONLINE)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=349722&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (TTNET)" group-title="TR | BEIN SPORT (VIP)",TR: bieN SP0RT 1 (TTNET)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=349721&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 1 HD+" group-title="TR | S-SPORT",TR: S-SPORT 1 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=305&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 1 HD" group-title="TR | S-SPORT",TR: S-SPORT 1 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=294&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 1 SD" group-title="TR | S-SPORT",TR: S-SPORT 1 SD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=271&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 2 HD" group-title="TR | S-SPORT",TR: S-SPORT 2 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=116073&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 2 HD+" group-title="TR | S-SPORT",TR: S-SPORT 2 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=295&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+1 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+1 Mac Saati
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=125105&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+2 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+2 Mac Saati
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=125106&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+3 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+3 Mac Saati
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=125107&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+4 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+4 Mac Saati
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=125108&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+5 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+5 Mac Saati
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=275452&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+6 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+6 Mac Saati
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362929&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+7 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+7 Mac Saati
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362930&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+8 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+8 Mac Saati
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362931&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+9 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+9 Mac Saati
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362932&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+10 Mac Saati" group-title="TR | S-SPORT",TR: S Sport+10 Mac Saati
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362933&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 1 HD+" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR 1 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=298&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR HD" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=125109&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 HD" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 1 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=268&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 2 HD+" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR 2 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=299&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 2 HD" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 2 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=269&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 3 HD+" group-title="TR | TIVIBU SPORT",TR: TiViBUSPOR 3 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=300&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 3 HD" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 3 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=270&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 4(maczamani)" group-title="TR | TIVIBU SPORT",TR: TIVIBUSPOR 4(maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=182418&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORT SMART 1 HD++" group-title="TR | SPOR",TR: SPORT SMART 1 HD++
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=297&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORT SMART 1 HD+" group-title="TR | SPOR",TR: SPORT SMART 1 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=301&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 HD" group-title="TR | SPOR",TR: SPOR SMART 1 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=272&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 SD" group-title="TR | SPOR",TR: SPOR SMART 1 SD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=124764&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 HD+" group-title="TR | SPOR",TR: SPOR SMART 2 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=69715&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORT SMART 2 HD" group-title="TR | SPOR",TR: SPORT SMART 2 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=302&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD" group-title="TR | SPOR",TR: A SPOR HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=280&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" group-title="TR | SPOR",TR: TRT SPOR HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=281&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD" group-title="TR | SPOR",TR: TRT SPOR YILDIZ HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=282&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 3 SPOR" group-title="TR | SPOR",TR: TRT 3 SPOR
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=114885&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD+" group-title="TR | SPOR",TR: NBA TV HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=296&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" group-title="TR | SPOR",TR: NBA TV HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=274&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EDGESPORT HD+" group-title="TR | SPOR",TR: EDGESPORT HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362959&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT BOX HD+" group-title="TR | SPOR",TR: FIGHT BOX HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362958&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD+" group-title="TR | SPOR",TR: EUROSPORT 1 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=275&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD" group-title="TR | SPOR",TR: EUROSPORT 1 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362948&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD+" group-title="TR | SPOR",TR: EUROSPORT 2 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=276&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD" group-title="TR | SPOR",TR: EUROSPORT 2 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362949&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" group-title="TR | SPOR",TR: FB TV HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=259&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV HD" group-title="TR | SPOR",TR: GS TV HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=277&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: ICTiMAL TV HD+" group-title="TR | SPOR",TR: ICTiMAL TV HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362963&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: CBC SPORT HD+" group-title="TR | SPOR",TR: CBC SPORT HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362962&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTSTV HD" group-title="TR | SPOR",TR: SPORTSTV HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=278&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV HD+" group-title="TR | SPOR",TR: TAY TV HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362964&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV HD+" group-title="TR | SPOR",TR: TJK TV HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=279&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 1 HD" group-title="TR | FiLSPOR",TR: FiLSPOR 1 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362950&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 2 HD" group-title="TR | FiLSPOR",TR: FiLSPOR 2 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362951&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 3 HD" group-title="TR | FiLSPOR",TR: FiLSPOR 3 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362952&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 4 HD" group-title="TR | FiLSPOR",TR: FiLSPOR 4 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362955&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiLSPOR 5 HD" group-title="TR | FiLSPOR",TR: FiLSPOR 5 HD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362954&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 1 HD+" group-title="TR | TABii SPOR",TR: tabii Spor 1 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=429633&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 2 HD+" group-title="TR | TABii SPOR",TR: tabii Spor 2 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=429634&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 3 HD+" group-title="TR | TABii SPOR",TR: tabii Spor 3 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=429635&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 4 HD+" group-title="TR | TABii SPOR",TR: tabii Spor 4 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=429636&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 5 HD+" group-title="TR | TABii SPOR",TR: tabii Spor 5 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=429637&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 6 HD+" group-title="TR | TABii SPOR",TR: tabii Spor 6 HD+
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=429638&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN TV FHD" group-title="TR | EX-XEN SPORT",TR: EXXEN TV FHD
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=390014&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HEVC (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 1 HEVC (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=361630&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HD+ (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 1 HD+ (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=361629&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HD (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 1 HD (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362939&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 SD (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 1 SD (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362940&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 2 HD+ (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 2 HD+ (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=125073&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 2 HD (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 2 HD (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362941&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 3 HD+ (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 3 HD+ (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=125857&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 3 HD (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 3 HD (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362942&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 4 HD+ (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 4 HD+ (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=141719&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 4 HD (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 4 HD (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362943&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 5 HD+ (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 5 HD+ (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=141720&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 5 HD (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 5 HD (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362944&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 6 HD+ (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 6 HD+ (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=141721&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 6 HD (maczamani)" group-title="TR | EX-XEN SPORT",TR: EXXEN 6 HD (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362945&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 7 HD+ (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 7 HD+ (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=361631&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 7 HD (maczamani)" group-title="TR | EX-XEN SPORT",TR: EXXEN 7 HD (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362946&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 8 HD+ (maczamani)" group-title="TR | EX-XEN SPORT",TR: E-X-X-E-N 8 HD+ (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=141924&extension=m3u8|user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 8 HD (maczamani)" group-title="TR | EX-XEN SPORT",TR: EXXEN 8 HD (maczamani)
+http://ourprime.xyz:8080/play/live.php?mac=00:1A:79:91:90:06&stream=362947&extension=m3u8|user-agent=Lavf53.32.100
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="===TR SPOR===" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TURK_BAYRAGI_ORIGI.png" group-title="TR • SPORT",===TR SPOR===
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/24484
+#EXTINF:-1 tvg-id="" tvg-name="TR • TRT SPOR YILDIZ HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/trt-spor-yildiz-tr.png" group-title="TR • SPORT",TR • TRT SPOR YILDIZ HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/19805
+#EXTINF:-1 tvg-id="" tvg-name="TR • TRT SPOR HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/trt-spor-tr.png" group-title="TR • SPORT",TR • TRT SPOR HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/49
+#EXTINF:-1 tvg-id="" tvg-name="TR • A SPOR HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/a-spor-tr.png" group-title="TR • SPORT",TR • A SPOR HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/52
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR • TRT SPOR FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/trt-spor-tr.png" group-title="TR • SPORT",TR • TRT SPOR FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/163515
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR • BEIN SPORTS 1 SD" tvg-logo="http://niltvplus.xyz:8080/images/76195d40cdfe754c7a7365016da21cad.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 1 SD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151109
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR • BEIN SPORTS 1 HD" tvg-logo="http://niltvplus.xyz:8080/images/76195d40cdfe754c7a7365016da21cad.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 1 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151110
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR • BEIN SPORTS 1 FHD" tvg-logo="http://niltvplus.xyz:8080/images/76195d40cdfe754c7a7365016da21cad.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 1 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151108
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR • BEIN SPORTS 1 FHD¹ 50 FPS" tvg-logo="http://niltvplus.xyz:8080/images/76195d40cdfe754c7a7365016da21cad.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 1 FHD¹ 50 FPS
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151111
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR • BEIN SPORTS 1 4K HEVC" tvg-logo="http://niltvplus.xyz:8080/images/cf46d47c660545230be933b03d3005f0.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 1 4K HEVC
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151113
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR • BEIN SPORTS 1 4K UYDU" tvg-logo="http://niltvplus.xyz:8080/images/cf46d47c660545230be933b03d3005f0.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 1 4K UYDU
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151112
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR • BEIN SPORTS 2 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_2.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 2 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151114
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR • BEIN SPORTS 2 FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_2.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 2 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151115
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR • BEIN SPORTS 2 SD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_2.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 2 SD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151116
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR • BEIN SPORTS 3 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_3.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 3 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151117
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR • BEIN SPORTS 3 FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_3.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 3 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151118
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR • BEIN SPORTS 4 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_4.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 4 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151119
+#EXTINF:-1 tvg-id="" tvg-name="TR • BEIN SPORTS 4 FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_4.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 4 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151120
+#EXTINF:-1 tvg-id="" tvg-name="TR • BEIN SPORTS 5" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_5.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS 5
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151121
+#EXTINF:-1 tvg-id="" tvg-name="TR • BEIN CONNECT 1" tvg-logo="https://ia802802.us.archive.org/9/items/bein-connect-app-logo-562x470/bein%20logos/bein-connect-app-logo-562x470.png" group-title="TR • B**N SPORTS",TR • BEIN CONNECT 1
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/211316
+#EXTINF:-1 tvg-id="" tvg-name="TR • BEIN SPORTS MAX 1 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_Max_1.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS MAX 1 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151122
+#EXTINF:-1 tvg-id="" tvg-name="TR • BEIN SPORTS MAX 2 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_Max_2.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS MAX 2 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151123
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR • BEIN SPORTS HABER FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_Haber.png" group-title="TR • B**N SPORTS",TR • BEIN SPORTS HABER FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/151124
+#EXTINF:-1 tvg-id="" tvg-name="TR • EXXEN SPORTS 1 SD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TREXXENORIGINAL/EXXEN_1.png" group-title="TR • EX**N SPOR",TR • EXXEN SPORTS 1 SD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/78260
+#EXTINF:-1 tvg-id="" tvg-name="TR • EXXEN SPORTS 1 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TREXXENORIGINAL/EXXEN_1.png" group-title="TR • EX**N SPOR",TR • EXXEN SPORTS 1 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/80821
+#EXTINF:-1 tvg-id="" tvg-name="TR • EXXEN SPORTS 1 FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TREXXENORIGINAL/EXXEN_1.png" group-title="TR • EX**N SPOR",TR • EXXEN SPORTS 1 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/144832
+#EXTINF:-1 tvg-id="" tvg-name="TR • EXXEN SPORTS 1 YEDEK" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TREXXENORIGINAL/EXXEN_1.png" group-title="TR • EX**N SPOR",TR • EXXEN SPORTS 1 YEDEK
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/165148
+#EXTINF:-1 tvg-id="" tvg-name="TR • EXXEN SPORTS 2 FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TREXXENORIGINAL/EXXEN_2.png" group-title="TR • EX**N SPOR",TR • EXXEN SPORTS 2 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/78312
+#EXTINF:-1 tvg-id="" tvg-name="TR • EXXEN SPORTS 3 FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TREXXENORIGINAL/EXXEN_3.png" group-title="TR • EX**N SPOR",TR • EXXEN SPORTS 3 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/78313
+#EXTINF:-1 tvg-id="" tvg-name="TR • EXXEN SPORTS 4 FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TREXXENORIGINAL/EXXEN_4.png" group-title="TR • EX**N SPOR",TR • EXXEN SPORTS 4 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/80671
+#EXTINF:-1 tvg-id="" tvg-name="TR • EXXEN SPORTS 5 FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TREXXENORIGINAL/EXXEN_5.png" group-title="TR • EX**N SPOR",TR • EXXEN SPORTS 5 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/80672
+#EXTINF:-1 tvg-id="" tvg-name="TR • EXXEN SPORTS 6 FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TREXXENORIGINAL/EXXEN_6.png" group-title="TR • EX**N SPOR",TR • EXXEN SPORTS 6 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/80673
+#EXTINF:-1 tvg-id="" tvg-name="TR • EXXEN SPORTS 7 FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TREXXENORIGINAL/EXXEN_7.png" group-title="TR • EX**N SPOR",TR • EXXEN SPORTS 7 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/165133
+#EXTINF:-1 tvg-id="" tvg-name="TR • EXXEN SPORTS 8 FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TREXXENORIGINAL/EXXEN_8.png" group-title="TR • EX**N SPOR",TR • EXXEN SPORTS 8 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/165134
+#EXTINF:-1 tvg-id="" tvg-name="TR • TABII SPOR 1" tvg-logo="https://seeklogo.com/images/T/tabii-logo-60B8BC0D5D-seeklogo.com.png" group-title="TR • SPORT",TR • TABII SPOR 1
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/224104
+#EXTINF:-1 tvg-id="" tvg-name="TR • TABII SPOR 2" tvg-logo="https://seeklogo.com/images/T/tabii-logo-60B8BC0D5D-seeklogo.com.png" group-title="TR • SPORT",TR • TABII SPOR 2
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/224105
+#EXTINF:-1 tvg-id="" tvg-name="TR • TABII SPOR 3" tvg-logo="https://seeklogo.com/images/T/tabii-logo-60B8BC0D5D-seeklogo.com.png" group-title="TR • SPORT",TR • TABII SPOR 3
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/224106
+#EXTINF:-1 tvg-id="" tvg-name="TR • TABII SPOR 4" tvg-logo="https://seeklogo.com/images/T/tabii-logo-60B8BC0D5D-seeklogo.com.png" group-title="TR • SPORT",TR • TABII SPOR 4
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/224107
+#EXTINF:-1 tvg-id="" tvg-name="TR • TABII SPOR 5" tvg-logo="https://seeklogo.com/images/T/tabii-logo-60B8BC0D5D-seeklogo.com.png" group-title="TR • SPORT",TR • TABII SPOR 5
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/224108
+#EXTINF:-1 tvg-id="" tvg-name="TR • TABII SPOR 6" tvg-logo="https://seeklogo.com/images/T/tabii-logo-60B8BC0D5D-seeklogo.com.png" group-title="TR • SPORT",TR • TABII SPOR 6
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/224109
+#EXTINF:-1 tvg-id="" tvg-name="TR • S-SPORT HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/s-sport-tr.png" group-title="TR • SPORT",TR • S-SPORT HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/42
+#EXTINF:-1 tvg-id="" tvg-name="TR • S-SPORT 2 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/s-sport-2-tr.png" group-title="TR • SPORT",TR • S-SPORT 2 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/43
+#EXTINF:-1 tvg-id="" tvg-name="TR • S-SPORT + LIVE" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/SARAN_SPORT_PLUS.png" group-title="TR • SPORT",TR • S-SPORT + LIVE
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/145478
+#EXTINF:-1 tvg-id="" tvg-name="TR • S-SPORT+1 MAC SAATI" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/SARAN_SPORT_PLUS.png" group-title="TR • SPORT",TR • S-SPORT+1 MAC SAATI
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/124631
+#EXTINF:-1 tvg-id="" tvg-name="TR • S-SPORT+2 MAC SAATI" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/SARAN_SPORT_PLUS.png" group-title="TR • SPORT",TR • S-SPORT+2 MAC SAATI
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/124632
+#EXTINF:-1 tvg-id="" tvg-name="TR • S-SPORT+3 MAC SAATI" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/SARAN_SPORT_PLUS.png" group-title="TR • SPORT",TR • S-SPORT+3 MAC SAATI
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/124633
+#EXTINF:-1 tvg-id="" tvg-name="TR • S-SPORT+4 MAC SAATI" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/SARAN_SPORT_PLUS.png" group-title="TR • SPORT",TR • S-SPORT+4 MAC SAATI
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/124634
+#EXTINF:-1 tvg-id="" tvg-name="TR • S-SPORT+5 MAC SAATI" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/SARAN_SPORT_PLUS.png" group-title="TR • SPORT",TR • S-SPORT+5 MAC SAATI
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/124635
+#EXTINF:-1 tvg-id="" tvg-name="TR • S-SPORT+6 MAC SAATI" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/SARAN_SPORT_PLUS.png" group-title="TR • SPORT",TR • S-SPORT+6 MAC SAATI
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/124636
+#EXTINF:-1 tvg-id="" tvg-name="TR • SMART SPOR  1 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/spor-smart-hd-tr.png" group-title="TR • SPORT",TR • SMART SPOR  1 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/124629
+#EXTINF:-1 tvg-id="" tvg-name="TR • SMART SPOR 1 FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/spor-smart-hd-tr.png" group-title="TR • SPORT",TR • SMART SPOR 1 FHD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/61326
+#EXTINF:-1 tvg-id="" tvg-name="TR • SMART SPOR  2 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/spor-smart-hd-tr.png" group-title="TR • SPORT",TR • SMART SPOR  2 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/124630
+#EXTINF:-1 tvg-id="" tvg-name="TR • SMART SPOR  2 FHD (Macta Aktif)" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/spor-smart-hd-tr.png" group-title="TR • SPORT",TR • SMART SPOR  2 FHD (Macta Aktif)
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/41
+#EXTINF:-1 tvg-id="" tvg-name="TR • TIVIBU SPOR HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/TIVIBU_SPOR_1.png" group-title="TR • SPORT",TR • TIVIBU SPOR HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/140035
+#EXTINF:-1 tvg-id="" tvg-name="TR • TIVIBU SPOR 1 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/TIVIBU_SPOR_1.png" group-title="TR • SPORT",TR • TIVIBU SPOR 1 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/44
+#EXTINF:-1 tvg-id="" tvg-name="TR • TIVIBU SPOR 2 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/TIVIBU_SPOR_2.png" group-title="TR • SPORT",TR • TIVIBU SPOR 2 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/45
+#EXTINF:-1 tvg-id="" tvg-name="TR • TIVIBU SPOR 3 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/TIVIBU_SPOR_3.png" group-title="TR • SPORT",TR • TIVIBU SPOR 3 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/46
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR • EUROSPORT 1 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Eurosport_1.png" group-title="TR • SPORT",TR • EUROSPORT 1 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/39
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR • EUROSPORT 2 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Eurosport_2.png" group-title="TR • SPORT",TR • EUROSPORT 2 HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/40
+#EXTINF:-1 tvg-id="" tvg-name="TR • TJK TV HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/tjk-tv-tr.png" group-title="TR • SPORT",TR • TJK TV HD
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/119412
+#EXTINF:-1 tvg-id="" tvg-name="TR • NBA TV" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/NBA_TV.png" group-title="TR • SPORT",TR • NBA TV
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/102899
+#EXTINF:-1 tvg-id="" tvg-name="TR • FB TV" tvg-logo="http://niltvplus.xyz:8080/images/422cca42f1c6069c429eaa30b57109ea.png" group-title="TR • SPORT",TR • FB TV
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/56
+#EXTINF:-1 tvg-id="" tvg-name="TR • GS TV" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/galatasaray-tv-tr.png" group-title="TR • SPORT",TR • GS TV
+http://4k.xyz103.link:8080/ediz89/cK23shxNuW6H/57
+
+
 
 
 
@@ -2067,155 +2413,251 @@ https://live.anystreamrectv3.live/live/edgesport.m3u8?|user-agent=Dart&Mozilla/5
 
 
 
-#EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://picon-13398.kxcdn.com/beinmediagroupflag.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",▬ GOL TV ▬
+#EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://picon-13398.kxcdn.com/beinmediagroupflag.jpg" group-title="RECSporT",▬ GOL TV ▬
 https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/goltv.m3u8
 
-#EXTINF: -1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ", TRT SPOR ☆ʜᴅ
+#EXTINF: -1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="RECSporT", TRT SPOR ☆ʜᴅ
 http://bozztv.com/gin-dvrfl05/gin-trtspor2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ", TRT SPOR 3 ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="RECSporT", TRT SPOR 3 ʜᴅ
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ", TRT SPOR ʜᴅ
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="RECSporT", TRT SPOR ʜᴅ
 https://live.anystreamrectv3.live/live/trtspor.m3u8?|user-agent=Dart&Mozilla/5.0  
 #http://149.13.0.66:4000/trtsporhd
 #https://live.anystreamrectv3.live/live/trtspor.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ", a SPOR ʜᴅ
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="RECSporT", a SPOR ʜᴅ
 https://live.anystreamrectv3.live/live/aspor.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ", tv8'5 ʜᴅ
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="RECSporT", tv8'5 ʜᴅ
 https://live.anystreamrectv3.live/live/tv85.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF: -1 tvg-id="exxen.tr" tvg-name="TR: Exxen Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",Exxen Sport HD
+#EXTINF: -1 tvg-id="exxen.tr" tvg-name="TR: Exxen Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="RECSporT",Exxen Sport HD
 https://skypeadresimiz.zonemarketing2.xyz/sexxensports1hd/index.m3u8
 
-#EXTINF:-1 tvg-id="tivibuspor" tvg-name="" tvg-logo="https://golvar2247.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp" auth=aspect-ratio="16:9" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ", TiviBU SPOR ʜᴅ
+#EXTINF:-1 tvg-id="tivibuspor" tvg-name="" tvg-logo="https://golvar2247.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp" auth=aspect-ratio="16:9" group-title="RECSporT", TiviBU SPOR ʜᴅ
 http://50.7.144.122:1935/livetv/tivibuspor.stream/sec-f5-v1-a1.m3u8
 #https://uzunmuhalefet.serv00.net/canlitv2.php?id=12843&.m3u8?auth=aspect-ratio="16:9" 
 #https://yayin8.canlitv.day/livetv/tivibuspor.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",7/24 SPOR ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="RECSporT",7/24 SPOR ʜᴅ
 http://185.234.111.229:8000/play/a016
 
-#EXTINF:0 tvg-id="idman-az-hd" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg"group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ" ,AZ IDMAN tv  ʜᴅ
+#EXTINF:0 tvg-id="idman-az-hd" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg"group-title="RECSporT" ,AZ IDMAN tv  ʜᴅ
 https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8?|user-agent=Dart&Mozilla/5.0 ExoPlayerLib/2.10.8
 
-#EXTINF:1 tvg-id="cbcsport" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ"  ,CBC Sport  ʜᴅ
+#EXTINF:1 tvg-id="cbcsport" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="RECSporT"  ,CBC Sport  ʜᴅ
 https://bozztv.com/inim03/live1/gin-cbcsport-in/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GS.TV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/gs-tv.png" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ", GS tv ʜᴅ
+#EXTINF:-1 tvg-id="GS.TV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/gs-tv.png" group-title="RECSporT", GS tv ʜᴅ
 https://owifavo5.rocketcdn.com:443/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 
-#EXTINF:-1 tvg-id="FB.TV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/fb-tv.png" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ", FB tv ʜᴅ
-https://live.anystreamrectv3.live/live/fbtv.m3u8?|user-agent=Dart&Mozilla/5.0  
+#EXTINF:-1 tvg-id="FB.TV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/fb-tv.png" group-title="RECSporT", FB tv ʜᴅ
+https://live.anystreamrectv3.xyz.live/live/fbtv.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ", BeIN Sport HABER ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="RECSporT", BeIN Sport HABER ʜᴅ 
 https://bozztv.com:80/gin-dvrfl05/gin-beinsportshaber/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  1 ꜰʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="RECSporT",BeIN Sports  1 ꜰʜᴅ
 https://tv.anystreamrectv16.xyz/live/bs1/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://104.21.48.28:8080/live/bs1/index.m3u8?|User-Agent=Dart&Mozilla/5.0 
 #https://cdn.anystreamrectv15.xyz/live1/bs11/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://b2.anystreamrectv13.xyz/live2/bs11/index.m3u8?|user-agent=Dart
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  1 ꜰʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="RECSporT",BeIN Sports  1 ꜰʜᴅ
 http://bal.pst.streaming-elbrus.su:8880/bigteisti3/FAST_FUN_BOX_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #https://cdn.anystreamrectv15.xyz/live1/bs111/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://b2.anystreamrectv13.xyz/live2/bs1111/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  1 ꜰʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="RECSporT",BeIN Sports  1 ꜰʜᴅ
 #https://t2.anystreamrectv13.xyz/live/bs1/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  2 ʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="RECSporT",BeIN Sports  2 ʜᴅ
 https://tv.anystreamrectv16.xyz/live/bs2/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://cast.anystreamrectv15.xyz/live2/bs2/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://t2.anystreamrectv13.xyz/live/bs2/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  2 ꜰʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg"group-title="RECSporT",BeIN Sports  2 ꜰʜᴅ
 http://bal.pst.streaming-elbrus.su:8880/bigteisti3/FLASH_TV_HD_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #https://cdn.anystreamrectv15.xyz/live1/bs2/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://b2.anystreamrectv13.xyz/live2/bs22/index.m3u8?|user-agent=Dart
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  3 ʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="RECSporT",BeIN Sports  3 ʜᴅ
 https://tv.anystreamrectv16.xyz/live/bs3/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #http://bal.pst.streaming-elbrus.su:8880/bigteisti3/TURKSAT_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #https://cast.anystreamrectv15.xyz/live2/bs3/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://t2.anystreamrectv13.xyz/live/bs3/index.m3u8?|user-agent=Dart
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  3 ʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="RECSporT",BeIN Sports  3 ʜᴅ
 http://bal.pst.streaming-elbrus.su:8880/bigteisti3/AKILLI_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #https://cdn.anystreamrectv15.xyz/live1/bs3/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://b2.anystreamrectv13.xyz/live2/bs33/index.m3u8?|user-agent=Dart
 
-#EXTINF:-1  tvg-id="beIN.SPORTS.4.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  4 ʜᴅ
+#EXTINF:-1  tvg-id="beIN.SPORTS.4.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="RECSporT",BeIN Sports  4 ʜᴅ
 https://tv.anystreamrectv16.xyz/live/bs4/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://cast.anystreamrectv15.xyz/live2/bs4/index.m3u8?|User-Agent=Dart&Mozilla/5.0 
 #https://t2.anystreamrectv13.xyz/live/bs4/index.m3u8?|user-agent=Dart
 
-#EXTINF:-1  tvg-id="beIN.SPORTS.4.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Sports  4 ʜᴅ
+#EXTINF:-1  tvg-id="beIN.SPORTS.4.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="RECSporT",BeIN Sports  4 ʜᴅ
 http://bal.pst.streaming-elbrus.su:8880/bigteisti3/YENI_KOCAELI_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #https://cdn.anystreamrectv15.xyz/live1/bs4/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://b2.anystreamrectv13.xyz/live2/bs44/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"    tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ" ,BeIN Sports  5 ʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"    tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="RECSporT" ,BeIN Sports  5 ʜᴅ
 https://tv.anystreamrectv16.xyz/live/bs5/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://cdn.anystreamrectv15.xyz/live1/bs5/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://b2.anystreamrectv13.xyz/live2/bs55/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"    tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ" ,BeIN Sports  5 ʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.5.tr"    tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="RECSporT" ,BeIN Sports  5 ʜᴅ
 #https://cast.anystreamrectv15.xyz/live2/bs5/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://t2.anystreamrectv13.xyz/live/bs5/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.HD.1.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ" ,BeIN Max  1 ʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.HD.1.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="RECSporT" ,BeIN Max  1 ʜᴅ
 https://tv.anystreamrectv16.xyz/live/bsmax1/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://live.anystreamrectv3.live/live/bsmax1.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.HD.2.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",BeIN Max  2 ʜᴅ
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.HD.2.tr"   tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="RECSporT",BeIN Max  2 ʜᴅ
 https://tv.anystreamrectv16.xyz/live/bsmax2/index.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://live.anystreamrectv3.live/live/bsmax2.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",TiviBU SPOR 1 ʜᴅ  
+#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="RECSporT",TiviBU SPOR 1 ʜᴅ  
 https://live.anystreamrectv3.live/live/tivi1.m3u8?|user-agent=Dart&Mozilla/5.0  
-#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",TiviBU SPOR 2 ʜᴅ 
+#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="RECSporT",TiviBU SPOR 2 ʜᴅ 
 https://live.anystreamrectv3.live/live/tivi2.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",TiviBU SPOR 3 ʜᴅ 
+#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="RECSporT",TiviBU SPOR 3 ʜᴅ 
 https://live.anystreamrectv3.live/live/tivi3.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="TivibuSpor4.tr" tvg-name="Tivibu Spor 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",TiviBU SPOR 4 ʜᴅ  
+#EXTINF:-1 tvg-id="TivibuSpor4.tr" tvg-name="Tivibu Spor 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg"   group-title="RECSporT",TiviBU SPOR 4 ʜᴅ  
 https://live.anystreamrectv3.live/live/tivi4.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",S Sport 1 ʜᴅ
+#EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="RECSporT",S Sport 1 ʜᴅ
 https://live.anystreamrectv3.live/live/ssport.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",S Sport 2 ʜᴅ
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="RECSporT",S Sport 2 ʜᴅ
 https://live.anystreamrectv3.live/live/ssport2.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",Smart Sport 1ʜᴅ
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="RECSporT",Smart Sport 1ʜᴅ
 https://live.anystreamrectv3.live/live/smart1.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",Smart Sport 2 ʜᴅ
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="RECSporT",Smart Sport 2 ʜᴅ
 http://live.anystreamrectv3.live/live/smart2.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg"group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ" ,EUROSPORT1 ʜᴅ
+#EXTINF:-1 tvg-id="Eurosport1.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg"group-title="RECSporT" ,EUROSPORT1 ʜᴅ
 https://live.anystreamrectv3.live/live/euro1.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg"group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ" ,EUROSPORT2 ʜᴅ
+#EXTINF:-1 tvg-id="Eurosport2.tr"  tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg"group-title="RECSporT" ,EUROSPORT2 ʜᴅ
 https://live.anystreamrectv3.live/live/euro2.m3u8?|user-agent=Dart&Mozilla/5.0  
 #https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
 
-#EXTINF:0  tvg-id="3792"   tvg-name="FightBox TR" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ" tvg-logo="http://streaming-elbrus.su/img/logos/turk/fightbox.png",FightBox TR
+#EXTINF:0  tvg-id="3792"   tvg-name="FightBox TR" group-title="RECSporT" tvg-logo="http://streaming-elbrus.su/img/logos/turk/fightbox.png",FightBox TR
 http://bal.pst.streaming-elbrus.su:8880/bigteisti3/FIGHTBOX_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 #http://bigteisti3.kfc.lifeyosso.fun:8080/FIGHTBOX_TR/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 
 
-#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",NBA TV ʜᴅ
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="RECSporT",NBA TV ʜᴅ
 https://live.anystreamrectv3.live/live/nbatv.m3u8?|user-agent=Dart&Mozilla/5.0  
 
-#EXTINF:-1 tvg-id="EDGETV.us" tvg-logo="https://m.rectv1240.xyz/uploads/cache/channel_thumb/uploads/png/8a761a4bafa75df9317e78baa2210221.png" group-title="ʀᴇᴄ~ꜱᴘᴏʀᴛ",EDGE SPORT ʜᴅ
+#EXTINF:-1 tvg-id="EDGETV.us" tvg-logo="https://m.rectv1240.xyz/uploads/cache/channel_thumb/uploads/png/8a761a4bafa75df9317e78baa2210221.png" group-title="RECSporT",EDGE SPORT ʜᴅ
 https://live.anystreamrectv3.live/live/edgesport.m3u8?|user-agent=Dart&Mozilla/5.0  
+
+
+
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg"group-title="BOSSSporT",TRT Spor ʜᴅ
+https://bos092s.b-cdn.net/live/3068.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="BOSSSporT",A Spor ʜᴅ
+https://bos092s.b-cdn.net/live/8888883.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="BOSSSporT" ,BeIN Sports 1 ʜᴅ
+https://jyayintv48.live/cdn/bein_sports_1_hd/main.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="BOSSSporT" ,BeIN Sports 1 ʜᴅ
+https://bos092s.b-cdn.net/live/99.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="BOSSSporT",BeIN Sports 2 ʜᴅ
+https://jyayintv48.live/cdn/bein_sports_2_hd/main.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="BOSSSporT",BeIN Sports 2 ʜᴅ
+https://bos092s.b-cdn.net/live/11.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="BOSSSporT",BeIN Sports 3 ʜᴅ
+https://jyayintv48.live/cdn/bein_sports_3_hd/main.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="BOSSSporT",BeIN Sports 3 ʜᴅ
+https://bos092s.b-cdn.net/live/13.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="BOSSSporT", BeIN Sports 4 ʜᴅ
+https://jyayintv48.live/cdn/bein_sports_4_hd/main.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="BOSSSporT", BeIN Sports 4 ʜᴅ
+https://bos092s.b-cdn.net/live/14.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="BOSSSporT", BeIN Sports 5 ʜᴅ
+https://jyayintv48.live/cdn/bein_sports_5_hd/main.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="BOSSSporT", BeIN Sports 5 ʜᴅ
+https://bos092s.b-cdn.net/live/15.m3u8
+#EXTINF:-1, tvg-logo="https://bit.ly/2X3QhNt" group-title="BOSSSporT",BEIN MAX 1 ʜᴅ
+https://jyayintv48.live/cdn/bein_sports_max_1_hd/main.m3u8
+#EXTINF:-1,  tvg-logo="https://bit.ly/3175vmj" group-title="BOSSSporT",BEIN MAX 2 ʜᴅ
+https://jyayintv48.live/cdn/bein_sports_max_2_hd/main.m3u8
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="BOSSSporT",Smart Spor 1 ʜᴅ
+https://s1.inattvcom194.xyz/cdn/sporsmart.m3u8
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="BOSSSporT",Smart Spor 1 ʜᴅ
+https://bos092s.b-cdn.net/live/8888882.m3u8
+
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="BOSSSporT",Smart Spor 2 ʜᴅ
+https://s1.inattvcom194.xyz/cdn/sporsmart2.m3u8
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="BOSSSporT",Smart Spor 2 ʜᴅ
+https://bos092s.b-cdn.net/live/8888881.m3u8
+
+#EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSSSporT",S Sport 1 ʜᴅ
+https://s1.inattvcom194.xyz/cdn/ssport.m3u8
+#EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSSSporT",S Sport 1 ʜᴅ
+https://bos092s.b-cdn.net/live/3030.m3u8
+
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSSSporT",S Sport 2 ʜᴅ
+https://s1.inattvcom194.xyz/cdn/ssport2.m3u8
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSSSporT",S Sport 2 ʜᴅ
+https://bos092s.b-cdn.net/live/3031.m3u8
+
+#EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSSSporT",S Sport 1 ʜᴅ
+https://jyayintv48.live/cdn/s_sport_1_hd/main.m3u8?
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="BOSSSporT",S Sport 2 ʜᴅ
+https://jyayintv48.live/cdn/s_sport_2_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 1 ʜᴅ
+https://jyayintv48.live/cdn/s_sport_plus_1_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 2 ʜᴅ
+https://jyayintv48.live/cdn/s_sport_plus_2_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 3 ʜᴅ
+https://jyayintv48.live/cdn/s_sport_plus_3_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 4 ʜᴅ
+https://jyayintv48.live/cdn/s_sport_plus_4_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 5 ʜᴅ
+https://jyayintv48.live/cdn/s_sport_plus_5_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 6 ʜᴅ
+https://jyayintv48.live/cdn/s_sport_plus_6_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 7 ʜᴅ
+https://jyayintv48.live/cdn/s_sport_plus_7_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 8 ʜᴅ
+https://jyayintv48.live/cdn/s_sport_plus_8_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 9 ʜᴅ
+https://jyayintv48.live/cdn/s_sport_plus_9_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1" tvg-logo="https://i.hizliresim.com/3dwm0rs.png" group-title="BOSSSporT",S Sport + Plus 10 ʜᴅ
+https://jyayintv48.live/cdn/s_sport_plus_10_hd/main.m3u8?_dc=
+
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 1 ʜᴅ
+https://jyayintv48.live/cdn/exxen_sports_1_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 2 ʜᴅ
+https://jyayintv48.live/cdn/exxen_sports_2_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 3 ʜᴅ
+https://jyayintv48.live/cdn/exxen_sports_3_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 4 ʜᴅ
+https://jyayintv48.live/cdn/exxen_sports_4_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 5 ʜᴅ
+https://jyayintv48.live/cdn/exxen_sports_5_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 6 ʜᴅ
+https://jyayintv48.live/cdn/exxen_sports_6_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 7 ʜᴅ
+https://jyayintv48.live/cdn/exxen_sports_7_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 8 ʜᴅ
+https://jyayintv48.live/cdn/exxen_sports_8_hd/main.m3u8?_dc=
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor HD 1" tvg-logo="https://i.hizliresim.com/c1nf4m0.png" group-title="BOSSSporT",Exxen Spor 9 ʜᴅ
+https://jyayintv48.live/cdn/exxen_sports_9_hd/main.m3u8?_dc=
+
 
 
 
