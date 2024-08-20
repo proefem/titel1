@@ -29,7 +29,7 @@ https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8?|User-agent=Mozilla/5.0 FMP
 https://bos092s.b-cdn.net/live/3067.m3u8?|User-agent=Mozilla/5.0 FMP (Linux;Android) ExoPlayerLib/2.10.8
 
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᴴᴰ⁺™
-https://bozztv.com/gin-trn09/gin-atvv/playlist.m3u8?|User-agent=Mozilla/5.0 FMP (Linux;Android) ExoPlayerLib/2.10.8
+https://bozztv.com/inim03/live1/atv-tv/chunks.m3u8?|User-agent=Mozilla/5.0 FMP (Linux;Android) ExoPlayerLib/2.10.8
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 https://bos092s.b-cdn.net/live/050.m3u8?|User-agent=Mozilla/5.0 FMP (Linux;Android) ExoPlayerLib/2.10.8
 
@@ -410,6 +410,7 @@ http://162.212.179.32/gin-dvrfl05/gin-eurod/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8International.tr" tvg-name="TV8 Int TR"  tvg-logo="https://picon-13398.kxcdn.com/tv8inltr.jpg" group-title="ULUSAL-int",TV8 INT ᴴᴰ
 http://162.212.179.32/gin-dvrfl05/gin-tv8int/playlist.m3u8
+#https://bozztv.com/inim03/live1/tv8int/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr"tvg-name="KANAL 7 Avrupa TR"   tvg-logo="https://picon-13398.kxcdn.com/kanal7avrupatr.jpg" group-title="ULUSAL-int",KANAL 7 AVRUPA ᴴᴰ
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
@@ -827,21 +828,24 @@ http://195.189.62.140:8002/play/a01m
 https://live.anystreamrectv3.live/live/docubox.m3u8?|User-Agent=Dart/Mozilla/5.0 
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/GQMLWrp/bbce.png" group-title="BELGESEL", BBC EARTH TV ʜᴅ
+http://195.189.62.140:8002/play/a00z
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://one.a5b4b1b50e70ec.shop/live/bbcearth/playlist.m3u8?|user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#https://one.a5b4b1b50e70ec.shop/live/bbcearth/playlist.m3u8?|user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #https://live.anystreamrectv3.live/live/bbc.m3u8?|User-Agent=Dart/Mozilla/5.0 
 #https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=TjIyZ1R6UXF4SnpkYzFyVVAwQ0RXK3BxVk9xRktXY2pKek04bE5UVzJkdlpHcSt2b2pSNDBrc1ZJTE5lN2ZobQ==
 
 
 #EXTINF:0  tvg-id="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/History1_Channel.png" group-title="BELGESEL",HISTORY CHANNEL ʜᴅ
+http://sv1.modyoiptv.xyz/HISTORY-CHANNEL-UHD/video.m3u8?token=kqyXWponsX09a2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://one.a5b4b1b50e70ec.shop/live/history/playlist.m3u8?|user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#https://one.a5b4b1b50e70ec.shop/live/history/playlist.m3u8?|user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #https://live.anystreamrectv3.live/live/history.m3u8?|User-Agent=Dart/Mozilla/5.0 
 #https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=VElVNmdEalBFTTF6SmpRWFFicTE4NWwvVDN1THdOYXc0M1FVRytXL2tCY3dtZG9NWmMzZUYxZGhWZUpWeVRMSw==
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/DDcbwMh/viasath.png" group-title="BELGESEL",VIASAT HISTORY ʜᴅ 
 https://live.anystreamrectv3.live/live/viasathistory.m3u8?|User-Agent=Dart/Mozilla/5.0 
 #http://185.234.111.229:8000/play/a02a
+#http://195.189.62.140:8002/play/a006
 
 #EXTINF:-1 tvg-name="VIASAT EXPLORE" tvg-id="Viasat.Explore.tr" tvg-logo="https://i.ibb.co/jDB9dc5/viasat-explore.png" group-title="BELGESEL",VIASAT EXPLORE ʜᴅ
 https://live.anystreamrectv3.live/live/viasatexplore.m3u8?|User-Agent=Dart/Mozilla/5.0 
