@@ -61,7 +61,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 http://149.13.0.66:4002/tv8hd
 
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᴴᴰ⁺™
-http://bozztv.com:80/gin-dvrfl05/gin-tv8_5/playlist.m3u8
+http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᴴᴰ⁺™ʏᴇᴅᴇᴋ
 http://hw1.jemtv.com/app/tv85/playlist.m3u8
 
@@ -91,6 +91,12 @@ https://hw1.jemtv.com/app/A2HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowMax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
 https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/showmax.m3u8
+
+#EXTINF:0 type="stream" channelId="-1"tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png"  group-title="ULUSAL" logo=".png",CİNE5 tv ᴴᴰ
+http://116.202.117.244:1935/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
+
+#EXTINF:0 tvg-id=""tvg-url="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38"group-title="ULUSAL", MMN TURK TV ᴴᴰ⁺
+http://mmn.mypsx.net:1935/live/mmnhdradioturky/playlist.m3u8  
 
 #EXTINF: -1 tvg-id="EXXEN TV"tvg-name="EXXEN TV"tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9"    group-title="ULUSAL",EXXEN  ᵁᴴᴰ⁺™
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -532,30 +538,50 @@ https://fl1002.bozztv.com/ssh101/srxan1994/index.m3u8
 http://91.89.245.233:9981/stream/channelid/1364086029?profile=pass
 #EXTINF:-1 group-title="GERMAN TV" tvg-logo="http://91.89.245.233:9981/imagecache/693" tvg-id="cee941fec0ccbc35da252a88a3c9ac3c" tvg-chno="1",Das Erste HD
 http://91.89.245.233:9981/stream/channelid/2118248910?profile=pass
+#EXTINF:-1 group-title="GERMAN TV" tvg-logo="http://91.89.245.233:9981/imagecache/693" tvg-id="cee941fec0ccbc35da252a88a3c9ac3c" tvg-chno="1",Das Erste HD
+http://laurakaren.serv00.net/German.php?ID=750&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/694" tvg-id="8a6800410d3c7d41abefd656147d44a6" tvg-chno="2",ZDF HD
 http://91.89.245.233:9981/stream/channelid/1090545802?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/694" tvg-id="8a6800410d3c7d41abefd656147d44a6" tvg-chno="2",ZDF HD
+http://laurakaren.serv00.net/German.php?ID=751&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/606" tvg-id="5d4f2acc12282de90cc40f58a7d59db2" tvg-chno="346",SWR  BW
 http://91.89.245.233:9981/stream/channelid/1277841245?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/657" tvg-id="cd160e8b65ee7b6c6112a1ffd42853fa" tvg-chno="303",RTL
 http://91.89.245.233:9981/stream/channelid/185472717?profile=pass
-#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/591" tvg-id="5f00cfef74428abdbe9da79d79ecd75e" tvg-chno="308",RTLZWEI
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/657" tvg-id="cd160e8b65ee7b6c6112a1ffd42853fa" tvg-chno="303",RTL
+http://laurakaren.serv00.net/German.php?ID=754&e=.m3u8|user-agent=FMP/2.5 (Linux)
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/591" tvg-id="5f00cfef74428abdbe9da79d79ecd75e" tvg-chno="308",RTL.2
 http://91.89.245.233:9981/stream/channelid/1875837023?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/591" tvg-id="5f00cfef74428abdbe9da79d79ecd75e" tvg-chno="308",RTL.2
+http://laurakaren.serv00.net/German.php?ID=755&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/590" tvg-id="057188f5f7a5ddd1df943583cfb8f7a2" tvg-chno="304",SAT.1
 http://91.89.245.233:9981/stream/channelid/1971876101?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/590" tvg-id="057188f5f7a5ddd1df943583cfb8f7a2" tvg-chno="304",SAT.1
+http://laurakaren.serv00.net/German.php?ID=758&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/661" tvg-id="1555bc53e0a3a44c712856f5d47bdf9f" tvg-chno="305",ProSieben
 http://91.89.245.233:9981/stream/channelid/1404851477?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/661" tvg-id="1555bc53e0a3a44c712856f5d47bdf9f" tvg-chno="305",ProSieben
+http://laurakaren.serv00.net/German.php?ID=753|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/664" tvg-id="09d685e4d1202a85acfa9d87c3429d82" tvg-chno="306",VOX
 http://91.89.245.233:9981/stream/channelid/1686492681?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/664" tvg-id="09d685e4d1202a85acfa9d87c3429d82" tvg-chno="306",VOX
+http://laurakaren.serv00.net/German.php?ID=760&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/682" tvg-id="14f33f0f511110d1c2a56c2047ee8a63" tvg-chno="307",kabel eins
 http://91.89.245.233:9981/stream/channelid/255849236?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/682" tvg-id="14f33f0f511110d1c2a56c2047ee8a63" tvg-chno="307",kabel eins
+http://laurakaren.serv00.net/German.php?ID=761&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/684" tvg-id="0476c1fbff14b540edebccf2f7e6ddc7" tvg-chno="505",sixx
 http://91.89.245.233:9981/stream/channelid/2076276228?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/662" tvg-id="05f159063eec09f828080409c8086a7e" tvg-chno="506",ProSieben MAXX
 http://91.89.245.233:9981/stream/channelid/106557701?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/577" tvg-id="84674194647701ccd60867c59b5d465e" tvg-chno="501",NITRO
 http://91.89.245.233:9981/stream/channelid/339830660?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/577" tvg-id="84674194647701ccd60867c59b5d465e" tvg-chno="501",NITRO
+http://laurakaren.serv00.net/German.php?ID=756&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/592" tvg-id="7ecb3b19d99e9335f5de3e793ce645f3" tvg-chno="502",SAT.1 Gold
 http://91.89.245.233:9981/stream/channelid/423349118?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/592" tvg-id="7ecb3b19d99e9335f5de3e793ce645f3" tvg-chno="502",SAT.1 Gold
+http://laurakaren.serv00.net/German.php?ID=759&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/675" tvg-id="c3608ad67ae3d7cdb82835fd925eb043" tvg-chno="503",TELE 5
 http://91.89.245.233:9981/stream/channelid/1451909315?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/685" tvg-id="b1a1dfaf0a67b4e400e4a3f209c47a68" tvg-chno="507",RTLup
@@ -606,18 +632,30 @@ http://176.10.117.3:5000/play/a00x/index.m3u8
 http://91.89.245.233:9981/stream/channelid/1933120497?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/696" tvg-id="779adafeee54e573d72c474a567fbdad" tvg-chno="10",arte HD
 http://91.89.245.233:9981/stream/channelid/2128255607?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/696" tvg-id="779adafeee54e573d72c474a567fbdad" tvg-chno="10",arte HD
+http://laurakaren.serv00.net/German.php?ID=770&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/578" tvg-id="b49f30a6e33c937f09e44f9daaf91573" tvg-chno="11",DF1 HD
 http://91.89.245.233:9981/stream/channelid/640720820?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/695" tvg-id="71873657042c1afc349e9e84571a3808" tvg-chno="20",WDR HD Köln
 http://91.89.245.233:9981/stream/channelid/1463191409?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/695" tvg-id="71873657042c1afc349e9e84571a3808" tvg-chno="20",WDR HD Köln
+http://laurakaren.serv00.net/German.php?ID=775&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/703" tvg-id="10c30222efcecc3469184d1926303377" tvg-chno="31",hr-fernsehen HD
 http://91.89.245.233:9981/stream/channelid/570606352?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/703" tvg-id="10c30222efcecc3469184d1926303377" tvg-chno="31",hr-fernsehen HD
+http://laurakaren.serv00.net/German.php?ID=796&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/700" tvg-id="199c1e108e8e17c1b5f396c7f56b4cc8" tvg-chno="32",BR Süd HD
 http://91.89.245.233:9981/stream/channelid/270441497?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/700" tvg-id="199c1e108e8e17c1b5f396c7f56b4cc8" tvg-chno="32",BR Süd HD
+http://laurakaren.serv00.net/German.php?ID=794&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/701" tvg-id="590fe209c49c30ab571b7b3f52b4b34d" tvg-chno="34",MDR Sachsen HD
 http://91.89.245.233:9981/stream/channelid/165810009?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/701" tvg-id="590fe209c49c30ab571b7b3f52b4b34d" tvg-chno="34",MDR Sachsen HD
+http://laurakaren.serv00.net/German.php?ID=772&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/702" tvg-id="9a9f26d39655ac8d02ecf4b7ed5afa9e" tvg-chno="37",NDR FS NDS HD
 http://91.89.245.233:9981/stream/channelid/1395040154?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/702" tvg-id="9a9f26d39655ac8d02ecf4b7ed5afa9e" tvg-chno="37",NDR FS NDS HD
+http://laurakaren.serv00.net/German.php?ID=771&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/645" tvg-id="75c0195c5f23cd6e19047822f8627174" tvg-chno="42",rbb Berlin HD
 http://91.89.245.233:9981/stream/channelid/1545191541?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/677" tvg-id="4397cd5e1296cc6c987c658d6974227d" tvg-chno="43",SR Fernsehen HD
@@ -637,8 +675,12 @@ http://91.89.245.233:9981/stream/channelid/2017951337?profile=pass
 http://91.89.245.233:9981/stream/channelid/1787578552?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/705" tvg-id="a03aebf44b0ae5227d584a0a9d5e8e87" tvg-chno="200",zdf_neo HD
 http://91.89.245.233:9981/stream/channelid/1961573024?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/705" tvg-id="a03aebf44b0ae5227d584a0a9d5e8e87" tvg-chno="200",zdf_neo HD
+http://laurakaren.serv00.net/German.php?ID=752&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/704" tvg-id="83b3edc768ed8f4e853bf203b16de0a3" tvg-chno="208",ONE HD
 http://91.89.245.233:9981/stream/channelid/1206760323?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/704" tvg-id="83b3edc768ed8f4e853bf203b16de0a3" tvg-chno="208",ONE HD
+http://laurakaren.serv00.net/German.php?ID=793&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/706" tvg-id="9c7751fac6d8ec7999a30aa159b2faf8" tvg-chno="261",PHOENIX HD
 http://91.89.245.233:9981/stream/channelid/2052159388?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/621" tvg-id="223fee09a1b58eb4ec1cfe4e93696c07" tvg-chno="264",tagesschau24 HD
@@ -647,6 +689,8 @@ http://91.89.245.233:9981/stream/channelid/166608674?profile=pass
 http://91.89.245.233:9981/stream/channelid/1734728769?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"   tvg-logo="http://91.89.245.233:9981/imagecache/663" tvg-id="93df0a899ce275335c58acebbd29e178" tvg-chno="562",ntv
 http://91.89.245.233:9981/stream/channelid/151707539?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"   tvg-logo="http://91.89.245.233:9981/imagecache/663" tvg-id="93df0a899ce275335c58acebbd29e178" tvg-chno="562",ntv
+http://laurakaren.serv00.net/German.php?ID=765&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/608" tvg-id="64c55bd49b2ffcff7e57a1c569404718" tvg-chno="320",WDR Köln
 http://91.89.245.233:9981/stream/channelid/1415300452?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/603" tvg-id="ee7cc2462da468c437e947202093be99" tvg-chno="321",WDR Aachen
@@ -704,9 +748,9 @@ http://91.89.245.233:9981/stream/channelid/1911775870?profile=pass
 http://91.89.245.233:9981/stream/channelid/2097943961?profile=pass
 
 #EXTINF:-1 group-title="GERMAN TV" tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg"  ,Sky Sport F1 HD
-http://laurakaren.serv00.net/German.php?ID=814&e=.m3u8
+http://laurakaren.serv00.net/German.php?ID=814&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 tvg-logo="http://91.89.245.233:9981/imagecache/638" tvg-id="91d906bd79dd5356e4eb829ca24d9fd4"  group-title="GERMAN TV",Sport1 HD
-http://laurakaren.serv00.net/German.php?ID=792&e=.m3u8
+http://laurakaren.serv00.net/German.php?ID=792&e=.m3u8|user-agent=FMP/2.5 (Linux)
 
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/638" tvg-id="91d906bd79dd5356e4eb829ca24d9fd4" tvg-chno="540",SPORT1
 http://91.89.245.233:9981/stream/channelid/1023859089?profile=pass
@@ -716,9 +760,12 @@ http://91.89.245.233:9981/stream/channelid/1756052700?profile=pass
 http://176.65.146.175:8001/play/History_HD/index.m3u8
 #EXTINF:-1 group-title="GERMAN TV" ,NatGeo Wild HD PR
 http://176.65.146.175:8001/play/natgeoWild_HD/index.m3u8
-
+#EXTINF:-1 group-title="GERMAN TV" ,Servus tv
+http://laurakaren.serv00.net/German.php?ID=769&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/680" tvg-id="6db512f26d04103f0faa4a94b2725ad5" tvg-chno="420",DMAX
 http://91.89.245.233:9981/stream/channelid/1913828717?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/680" tvg-id="6db512f26d04103f0faa4a94b2725ad5" tvg-chno="420",DMAX
+http://laurakaren.serv00.net/German.php?ID=766
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/679" tvg-id="97d0a3ed6b39da6c34b53c821d8af900" tvg-chno="422",TLC
 http://91.89.245.233:9981/stream/channelid/1839452311?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/604" tvg-id="af57e8c63f3b413e7ddda2b1eed2f819" tvg-chno="421",ZDFinfo
@@ -746,28 +793,30 @@ http://91.89.245.233:9981/stream/channelid/286319576?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/674" tvg-id="54fb97c9f4209e00a197b27e23c14309" tvg-chno="480",Super RTL
 http://91.89.245.233:9981/stream/channelid/1234697044?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/674" tvg-id="54fb97c9f4209e00a197b27e23c14309" tvg-chno="480",Super RTL
-http://laurakaren.serv00.net/German.php?ID=757
+http://laurakaren.serv00.net/German.php?ID=757&e=.m3u8|user-agent=FMP/2.5 (Linux)
 
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/665" tvg-id="91eea9882bc0c9e087210b8877379030" tvg-chno="481",KiKA
 http://91.89.245.233:9981/stream/channelid/145354385?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/665" tvg-id="91eea9882bc0c9e087210b8877379030" tvg-chno="481",KiKA
-http://laurakaren.serv00.net/German.php?ID=762&e=.m3u8
+http://laurakaren.serv00.net/German.php?ID=762&e=.m3u8|user-agent=FMP/2.5 (Linux)
 
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/659" tvg-id="5a3efb312b8b8c0e496fb3180240a982" tvg-chno="504",Disney Channel
 http://91.89.245.233:9981/stream/channelid/838549082?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/659" tvg-id="5a3efb312b8b8c0e496fb3180240a982" tvg-chno="504",Disney Channel
-http://laurakaren.serv00.net/German.php?ID=763&e=.m3u8
+http://laurakaren.serv00.net/German.php?ID=763&e=.m3u8|user-agent=FMP/2.5 (Linux)
 
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/676" tvg-id="e462b35ac9fe31341075c6c7a7fd73ef" tvg-chno="483",TOGGO plus
 http://91.89.245.233:9981/stream/channelid/1521705700?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/676" tvg-id="e462b35ac9fe31341075c6c7a7fd73ef" tvg-chno="483",TOGGO plus
-http://laurakaren.serv00.net/German.php?ID=764&e=.m3u8
+http://laurakaren.serv00.net/German.php?ID=764&e=.m3u8|user-agent=FMP/2.5 (Linux)
 
 #EXTINF:-1 tvg-logo="" group-title="GERMAN TV",Mascha und der Bär
-http://laurakaren.serv00.net/German.php?ID=795&e=.m3u8
+http://laurakaren.serv00.net/German.php?ID=795&e=.m3u8|user-agent=FMP/2.5 (Linux)
 
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/584" tvg-id="924926bad0920c02b66644f1d2448453" tvg-chno="461",DELUXE MUSIC
 http://91.89.245.233:9981/stream/channelid/975587730?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/584" tvg-id="924926bad0920c02b66644f1d2448453" tvg-chno="461",DELUXE MUSIC
+http://laurakaren.serv00.net/German.php?ID=767&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/616" tvg-id="7b9fac4aa0b7200009c07ef725fb9d87" tvg-chno="462",DMF
 http://91.89.245.233:9981/stream/channelid/1252827003?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/646" tvg-id="b67f405c22dc58e5d2d8de1b7c75b686" tvg-chno="463",MTV
@@ -787,6 +836,8 @@ http://91.89.245.233:9981/stream/channelid/773839987?profile=pass
 http://91.89.245.233:9981/stream/channelid/863849835?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/617" tvg-id="35dd3b818559fb0e591083e95be66572" tvg-chno="103",HSE HD
 http://91.89.245.233:9981/stream/channelid/20700469?profile=pass
+#EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/617" tvg-id="35dd3b818559fb0e591083e95be66572" tvg-chno="103",HSE HD
+http://laurakaren.serv00.net/German.php?ID=773&e=.m3u8|user-agent=FMP/2.5 (Linux)
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/666" tvg-id="5436640ff947fa4bccbb391fdd6bd4ce" tvg-chno="104",sonnenklar.TV HD
 http://91.89.245.233:9981/stream/channelid/258225748?profile=pass
 #EXTINF:-1 group-title="GERMAN TV"  tvg-logo="http://91.89.245.233:9981/imagecache/629" tvg-id="b2a1e7189247a5ebd9ef7b7aa83ed0c9" tvg-chno="105",1-2-3.tv HD
@@ -1543,151 +1594,164 @@ https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=Y09KZTd1U3ppZ1gyTHIrZ1FQQm5p
 https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ADANALI
-https://ythls.armelin.one/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ADINI FERİHA KOYDUM
-https://ythls.armelin.one/channel/UCtkp8YehDHBNJ63CS9xwIQg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ADINI SEN KOY
-https://ythls.armelin.one/channel/UCtCMe3lkIfx000rJHH_GyZw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",AH NEREDE
-https://ythls.armelin.one/channel/UCOXkDMW4vQyEdEa3_gn0ItA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ALEMİN KRALI
-https://ythls.armelin.one/channel/UC7X6WuvzdVTFtAAAly9ldcw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ARKADAŞIM HOŞGELDİN
-https://ythls.armelin.one/channel/UCOYerJedhQqSyhXkev8QRFA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ARZU FİLM
-https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",AVLU
-https://ythls.armelin.one/channel/UCVgeIzj6TgseOnQirWqkibg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",AVRUPA YAKASI
-https://ythls.armelin.one/channel/UCgc3VJYdM_R8oKGRuXxUbKQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",BABİL
-https://ythls.armelin.one/channel/UCL7VMojYM3_srnvOBnc-5ow.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",BANA SEVMEYİ ANLAT
-https://ythls.armelin.one/channel/UCMeOYvURKOthHHGTp_cZiSA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",BEHSAT Ç
-https://ythls.armelin.one/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",BEN DE ÖZLEDİM
-https://ythls.armelin.one/channel/UCw3lo7RxmuVtpLm0xNIxMQg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",CENNET MAHALLESİ
-https://ythls.armelin.one/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ÇİLEK KOKUSU
-https://ythls.armelin.one/channel/UC3uB257qcHNt-Ri-iPx7uVA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ÇOÇUK DİZİSİ
-https://ythls.armelin.one/channel/UCXGbSMPiI5WnTrDZDms1zyA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",DİLA HANIM
-https://ythls.armelin.one/channel/UC4d5RWLhTHDmQfxXjQVcA5A.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",DOKTORLAR
-https://ythls.armelin.one/channel/UC9EsDuCew6Z1QP6X6s0HJeA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",DOLUNAY
-https://ythls.armelin.one/channel/UCXygCN-u5CrdX4GJctowTVw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",EEE SONRA
-https://ythls.armelin.one/channel/UCt28gd-5rh24_UPRwf-dulQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",EMRET KOMUTANIM
-https://ythls.armelin.one/channel/UCGKPVBUcJcEMvqceX3Pl5Lw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",EN SON BABALAR DUYAR
-https://ythls.armelin.one/channel/UC-vSQU6Ak0kyleh6OEcJSKw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ERKENCİ KUŞ
-https://ythls.armelin.one/channel/UC64mzacdticc87zH870bQGA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",FATMA GÜLÜN SUÇU NE?
-https://ythls.armelin.one/channel/UCmeIlUqcw49tOsE82LXz_zg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",FAZİLET HANIM VE KIZLARI
-https://ythls.armelin.one/channel/UChLCKO4_cMjRYtZ_LrlfmSQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",FİLM ATÖLYESİ
-https://ythls.armelin.one/channel/UCulg-mlXf314L1pemPqCVng.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",GELİN DİZİSİ
-https://ythls.armelin.one/channel/UC0vRwRiJdcIKoa2bbQZzo2Q.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",GENİŞ AİLE
-https://ythls.armelin.one/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",GÜLDÜR GÜLDÜR
-https://ythls.armelin.one/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",GÜLŞAH FİLM
-https://ythls.armelin.one/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",GÜVERCİN
-https://ythls.armelin.one/channel/UCFl99iZxISGjhqBB0Zhm9SQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",HANIM KÖYLÜ
-https://ythls.armelin.one/channel/UC_TJpm39qinehTWcINFZpsA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",HAYAT BAZEN TATLIDIR
-https://ythls.armelin.one/channel/UC45ktxmhFf9sBR4LknKSh7g.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",HZ.YUSUF
-https://ythls.armelin.one/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",İKİ AİLE
-https://ythls.armelin.one/channel/UCk6YiXhDuMiLHWvO1MLS0Ug.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",İSTANBULLU GELİN
-https://ythls.armelin.one/channel/UC7xHX82HI2XR_yoL-ru6SmQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",İŞLER GÜÇLER
-https://ythls.armelin.one/channel/UCALHvpjqmBwdRwYPc3qVezw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KALBİMİ SULTANI
-https://ythls.armelin.one/channel/UCmHjujUw9zAtdT30kDYgETw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KAN ÇİÇEKLERİ
-https://ythls.armelin.one/channel/UCrj5zWUY4cZn5Oq9eEJVrbw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KARDEŞLERİM
-https://ythls.armelin.one/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KAZARA  AŞK
-https://ythls.armelin.one/channel/UC_tY5OsppFOkvotBFZKh7Sg.m3u8
+#EXTINF:1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="TR ➾ YOUTUBE",TRT 2 ʜᴅ
+http://stream.tvcdn.net/eglence/trt-2.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="TR ➾ YOUTUBE",Dizi Film TV ʜᴅ
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png" group-title="TR ➾ YOUTUBE",Kültür Sanat TV ʜᴅ
+http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png" group-title="TR ➾ YOUTUBE",Belgesel TV ʜᴅ
+http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b46f11bf-bd55-4203-974c-ac36d14dc7d3.png" group-title="TR ➾ YOUTUBE",Sağlıklı Günler TV ʜᴅ
+http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="TR ➾ YOUTUBE",Tarih TV ʜᴅ
+http://stream.tvcdn.net/eglence/tarih-tv.m3u8
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",FX ʜᴅ
+https://lives.anystreamrectv3.live/live/fx.m3u8?|User-Agent=Dart/Mozilla/5.0 
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",Epic Drama ʜᴅ
+https://lives.anystreamrectv3.live/live/epicdrama.m3u8?|User-Agent=Dart/Mozilla/5.0 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KEMAL SUNAL FİLMLERİ
-https://ythls.armelin.one/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KİRALIK AŞK
-https://ythls.armelin.one/channel/UCVKo-TGjnJPwq_vDzz8rcMg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KISMETSE OLUR
-https://ythls.armelin.one/channel/UCW0OoKDNMH7b6HcWINTqqzA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KIZIL GONCALAR
-https://ythls.armelin.one/channel/UCvMf-BavX_3YjG-JPrpPqLw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KIZILÇIK ŞERBETİ
-https://ythls.armelin.one/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KOMEDİ DÜKKANI
-https://ythls.armelin.one/channel/UCZJXR4VXvJ4GPd4y0GJcUYg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KURT SEYİT ŞURA
-https://ythls.armelin.one/channel/UC2C8NjaSAVrzDE4YvD9TIkw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KURT SEYİT VE ŞURA
-https://ythls.armelin.one/channel/UC2C8NjaSAVrzDE4YvD9TIkw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KUZEY GÜNEY
-https://ythls.armelin.one/channel/UC2sr0q_shuQKijWoebuRvcA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KUZEY YILDIZI İLK AŞK
-https://ythls.armelin.one/channel/UCCzteqZRzsr87Lfh2wUKw5Q.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",MARAŞLI
-https://ythls.armelin.one/channel/UCTZPwwg5VF8aB5GN5snPqwA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",MASUMLAR APARTMANI
-https://ythls.armelin.one/channel/UC1wRZwOGxBpJNQsC_1w7AbA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",MELEKLERİN AŞKI
-https://ythls.armelin.one/channel/UCL6qxa1I7HnfhYGZaGDjdOg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",MUCİZE DOKTOR
-https://ythls.armelin.one/channel/UCWFSXbEYo0PmWWokRjHdSSQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",MUHTEŞEM YÜZYIL
-https://ythls.armelin.one/channel/UCkRY4J8G__K8SEWZRLbke-Q.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",RUHUN DUYMAZ
-https://ythls.armelin.one/channel/UCA_wJ5a15uGSZ3Mdq4XF72g.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",RÜZGARLI TEPE
-https://ythls.armelin.one/channel/UCyKVO8GBKR9ahmMy6v1pb7A.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",SEFİRİN KIZI
-https://ythls.armelin.one/channel/UCYKPH4JKMEdCWLaEZdj42Cg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",SELENA
-https://ythls.armelin.one/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",SİHİRLİ ANNEM
-https://ythls.armelin.one/channel/UCNjRKDlSvo1H38XTkbIrMsA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",SÖZ DİZİSİ
-https://ythls.armelin.one/channel/UCJkBcPylctTT0_jVC5XMFIg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ŞAHANE DAMAT
-https://ythls.armelin.one/channel/UChz9YBGflFbhkCFMF_luVzQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",TOLGSHOW
-https://ythls.armelin.one/channel/UCfyPw7vYwIVb6OuDIf7qeOQ.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",YEŞİLÇAM FİLMLERİ 1
+https://ythls.kekikakademi.org/youtube/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",YEŞİLÇAM FİLMLERİ 2
+https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",YEŞİLÇAM FİLMLERİ 3
+https://ythls.kekikakademi.org/youtube/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",YEŞİLÇAM FİLMLERİ 4
+https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",GÜLDÜR GÜLDÜR
+https://ythls.kekikakademi.org/youtube/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",İŞLER GÜÇLER
+https://ythls.kekikakademi.org/youtube/channel/UCALHvpjqmBwdRwYPc3qVezw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",TÜRK MALI
-https://ythls.armelin.one/channel/UCpSOc0PBZP3eVjEAhFoq3rg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",TÜRKFİLMLERİ TV
-https://ythls.armelin.one/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCpSOc0PBZP3eVjEAhFoq3rg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ALEMİN KRALI
+https://ythls.kekikakademi.org/youtube/channel/UC7X6WuvzdVTFtAAAly9ldcw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",TOLGSHOW
+https://ythls.kekikakademi.org/youtube/channel/UCfyPw7vYwIVb6OuDIf7qeOQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ARKADAŞIM HOŞGELDİN
+https://ythls.kekikakademi.org/youtube/channel/UCOYerJedhQqSyhXkev8QRFA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KOMEDİ DÜKKANI
+https://ythls.kekikakademi.org/youtube/channel/UCZJXR4VXvJ4GPd4y0GJcUYg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",CENNET MAHALLESİ
+https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",AVRUPA YAKASI
+https://ythls.kekikakademi.org/youtube/channel/UCgc3VJYdM_R8oKGRuXxUbKQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ADANALI
+https://ythls.kekikakademi.org/youtube/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ADINI FERİHA KOYDUM
+https://ythls.kekikakademi.org/youtube/channel/UCtkp8YehDHBNJ63CS9xwIQg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ADINI SEN KOY
+https://ythls.kekikakademi.org/youtube/channel/UCtCMe3lkIfx000rJHH_GyZw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",AH NEREDE
+https://ythls.kekikakademi.org/youtube/channel/UCOXkDMW4vQyEdEa3_gn0ItA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",AVLU
+https://ythls.kekikakademi.org/youtube/channel/UCVgeIzj6TgseOnQirWqkibg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",BABİL
+https://ythls.kekikakademi.org/youtube/channel/UCL7VMojYM3_srnvOBnc-5ow.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",BANA SEVMEYİ ANLAT
+https://ythls.kekikakademi.org/youtube/channel/UCMeOYvURKOthHHGTp_cZiSA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",BEHSAT Ç
+https://ythls.kekikakademi.org/youtube/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",BEN DE ÖZLEDİM
+https://ythls.kekikakademi.org/youtube/channel/UCw3lo7RxmuVtpLm0xNIxMQg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ÇİLEK KOKUSU
+https://ythls.kekikakademi.org/youtube/channel/UC3uB257qcHNt-Ri-iPx7uVA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ÇOÇUK DİZİSİ
+https://ythls.kekikakademi.org/youtube/channel/UCXGbSMPiI5WnTrDZDms1zyA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",DİLA HANIM
+https://ythls.kekikakademi.org/youtube/channel/UC4d5RWLhTHDmQfxXjQVcA5A.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",DOKTORLAR
+https://ythls.kekikakademi.org/youtube/channel/UC9EsDuCew6Z1QP6X6s0HJeA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",DOLUNAY
+https://ythls.kekikakademi.org/youtube/channel/UCXygCN-u5CrdX4GJctowTVw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",EEE SONRA
+https://ythls.kekikakademi.org/youtube/channel/UCt28gd-5rh24_UPRwf-dulQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",EMRET KOMUTANIM
+https://ythls.kekikakademi.org/youtube/channel/UCGKPVBUcJcEMvqceX3Pl5Lw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",EN SON BABALAR DUYAR
+https://ythls.kekikakademi.org/youtube/channel/UC-vSQU6Ak0kyleh6OEcJSKw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ERKENCİ KUŞ
+https://ythls.kekikakademi.org/youtube/channel/UC64mzacdticc87zH870bQGA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",FATMA GÜLÜN SUÇU NE?
+https://ythls.kekikakademi.org/youtube/channel/UCmeIlUqcw49tOsE82LXz_zg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",FAZİLET HANIM VE KIZLARI
+https://ythls.kekikakademi.org/youtube/channel/UChLCKO4_cMjRYtZ_LrlfmSQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",GELİN DİZİSİ
+https://ythls.kekikakademi.org/youtube/channel/UC0vRwRiJdcIKoa2bbQZzo2Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",GENİŞ AİLE
+https://ythls.kekikakademi.org/youtube/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",GÜVERCİN
+https://ythls.kekikakademi.org/youtube/channel/UCFl99iZxISGjhqBB0Zhm9SQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",HANIM KÖYLÜ
+https://ythls.kekikakademi.org/youtube/channel/UC_TJpm39qinehTWcINFZpsA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",HAYAT BAZEN TATLIDIR
+https://ythls.kekikakademi.org/youtube/channel/UC45ktxmhFf9sBR4LknKSh7g.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",HZ.YUSUF
+https://ythls.kekikakademi.org/youtube/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",İKİ AİLE
+https://ythls.kekikakademi.org/youtube/channel/UCk6YiXhDuMiLHWvO1MLS0Ug.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",İSTANBULLU GELİN
+https://ythls.kekikakademi.org/youtube/channel/UC7xHX82HI2XR_yoL-ru6SmQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KALBİMİ SULTANI
+https://ythls.kekikakademi.org/youtube/channel/UCmHjujUw9zAtdT30kDYgETw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KAN ÇİÇEKLERİ
+https://ythls.kekikakademi.org/youtube/channel/UCrj5zWUY4cZn5Oq9eEJVrbw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KARDEŞLERİM
+https://ythls.kekikakademi.org/youtube/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KAZARA  AŞK
+https://ythls.kekikakademi.org/youtube/channel/UC_tY5OsppFOkvotBFZKh7Sg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KİRALIK AŞK
+https://ythls.kekikakademi.org/youtube/channel/UCVKo-TGjnJPwq_vDzz8rcMg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KISMETSE OLUR
+https://ythls.kekikakademi.org/youtube/channel/UCW0OoKDNMH7b6HcWINTqqzA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KIZIL GONCALAR
+https://ythls.kekikakademi.org/youtube/channel/UCvMf-BavX_3YjG-JPrpPqLw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KIZILÇIK ŞERBETİ
+https://ythls.kekikakademi.org/youtube/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KURT SEYİT VE ŞURA
+https://ythls.kekikakademi.org/youtube/channel/UC2C8NjaSAVrzDE4YvD9TIkw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KUZEY GÜNEY
+https://ythls.kekikakademi.org/youtube/channel/UC2sr0q_shuQKijWoebuRvcA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",KUZEY YILDIZI İLK AŞK
+https://ythls.kekikakademi.org/youtube/channel/UCCzteqZRzsr87Lfh2wUKw5Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",MARAŞLI
+https://ythls.kekikakademi.org/youtube/channel/UCTZPwwg5VF8aB5GN5snPqwA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",MASUMLAR APARTMANI
+https://ythls.kekikakademi.org/youtube/channel/UC1wRZwOGxBpJNQsC_1w7AbA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",MELEKLERİN AŞKI
+https://ythls.kekikakademi.org/youtube/channel/UCL6qxa1I7HnfhYGZaGDjdOg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",MUCİZE DOKTOR
+https://ythls.kekikakademi.org/youtube/channel/UCWFSXbEYo0PmWWokRjHdSSQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",MUHTEŞEM YÜZYIL
+https://ythls.kekikakademi.org/youtube/channel/UCkRY4J8G__K8SEWZRLbke-Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",RUHUN DUYMAZ
+https://ythls.kekikakademi.org/youtube/channel/UCA_wJ5a15uGSZ3Mdq4XF72g.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",RÜZGARLI TEPE
+https://ythls.kekikakademi.org/youtube/channel/UCyKVO8GBKR9ahmMy6v1pb7A.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",SEFİRİN KIZI
+https://ythls.kekikakademi.org/youtube/channel/UCYKPH4JKMEdCWLaEZdj42Cg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",SELENA
+https://ythls.kekikakademi.org/youtube/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",SİHİRLİ ANNEM
+https://ythls.kekikakademi.org/youtube/channel/UCNjRKDlSvo1H38XTkbIrMsA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",SÖZ DİZİSİ
+https://ythls.kekikakademi.org/youtube/channel/UCJkBcPylctTT0_jVC5XMFIg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ŞAHANE DAMAT
+https://ythls.kekikakademi.org/youtube/channel/UChz9YBGflFbhkCFMF_luVzQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ÜÇ KURUŞ
-https://ythls.armelin.one/channel/UC-9ki_1Lsef3ZMLiJAHD7eQ.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UC-9ki_1Lsef3ZMLiJAHD7eQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",YALAN DÜNYA
-https://ythls.armelin.one/channel/UCN2Q-lSzQa7RjrCxQZ8DzbA.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCN2Q-lSzQa7RjrCxQZ8DzbA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",YAPRAK DÖKÜMÜ
-https://ythls.armelin.one/channel/UCi-nK74pBX9Ou66z1j7KYPQ.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCi-nK74pBX9Ou66z1j7KYPQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",YENİ GELİN
-https://ythls.armelin.one/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",YÜKSEK SOSYETE
-https://ythls.armelin.one/channel/UC17odVjZPxXeC9MqSoinJww.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UC17odVjZPxXeC9MqSoinJww.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ➾ YOUTUBE",ZEMHERİ
-https://ythls.armelin.one/channel/UCF2PZvbvfUq3rahxOwCJ7hg.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCF2PZvbvfUq3rahxOwCJ7hg.m3u8
 
 
 
