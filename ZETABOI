@@ -95,7 +95,6 @@ https://tre.2b4a9bb526bd2acb.shop/i/56dHxgg4KHGHmwotoE/4011/playlist.m3u8?|user-
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
 https://github.com/proefem/yutuber/raw/main/binEXTV.m3u8?live=true
 
-
 #EXTINF:-1 tvg-id="EXXEN TV"tvg-name="EXXEN TV"tvg-logo="http://kaliteli.tv/files/cloud/Video/vod/TR-LOGO/Exxen.png"aspect-ratio="16:9"    group-title="ULUSAL",BaBaLa tv ᵁᴴᴰ⁺™
 http://185.180.222.123/play/live.php?mac=00:1A:79:4D:54:E5&stream=143114&extension=m3u8&live=true
 
@@ -1736,7 +1735,7 @@ http://laurakaren.serv00.net/Giniko.php?ID=785&e=.ts
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="a Spor" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="MOR ➾ SPORT", a Spor ʜᴅ 
 http://laurakaren.serv00.net/Giniko.php?ID=822&e=.ts
 
-#https://deathless-betsman-vlc-player.tiiny.io?url=709&.m3u8
+#https://deathless-betsman-vlc-player.tiiny.io?url=709&.ts
 #https://titantv-zirveye-hep-beraber.tiiny.io/?url=709&.m3u8
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="MOR ➾ SPORT",TV8'5 ʜᴅ 
 http://laurakaren.serv00.net/Giniko.php?ID=733&e=.ts
@@ -1935,12 +1934,13 @@ http://laurakaren.serv00.net/Giniko.php?ID=797&e=.m3u8
 
 #EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://picon-13398.kxcdn.com/idmanaz.jpg"group-title="SELÇUK ➾ SPORT" ,AZ IDMAN tv  ʜᴅ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
-http://edge02.odtv.az/o7/idman/q_0/playlist.m3u8
+https://github.com/proefem/yutuber/raw/main/binIDMTV.m3u8
+#http://edge02.odtv.az/o7/idman/q_0/playlist.m3u8
 
 #EXTINF:1 tvg-id="CBCSportHD.az" tvg-name="" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="SELÇUK ➾ SPORT"  ,CBC Sport  ʜᴅ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
-http://bozztv.com/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
-#https://github.com/proefem/yutuber/raw/main/binCBCTV.m3u8
+https://github.com/proefem/yutuber/raw/main/binCBCTV.m3u8
+#http://bozztv.com/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="SELÇUK ➾ SPORT", beiN Sport 1& HABER ʜᴅ
 https://bozztv.com/dvrfl05/gin-beinsportshaber/playlist.m3u8
