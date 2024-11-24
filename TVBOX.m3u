@@ -174,6 +174,7 @@ https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSALʏᴇᴅᴇᴋ",TGRT EU ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 https://canli.tgrteu.com/tgrteu.m3u8
 
+
 #EXTINF:1 tvg-id="EkolTV.tr" tvg-language="Turkish" tvg-logo="https://www.volotv.com/media/images/tvlogo/ekol-tv-tvlive-swwl.webp" group-title="ULUSAL",EKOL TV ᵁᴴᴰ⁺™
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
@@ -195,8 +196,8 @@ https://rumelitv-live.ercdn.net:443/rumelitv/rumelitv_576p.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/25ef5555-706d-45bc-8cf3-e2606b12d9a9.png" group-title="ULUSAL",Tek Rumeli TVᴴᴰ⁺™
 https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 
-#EXTINF:1 tvg-id="TrakyaTurkTV.tr" tvg-logo="http://assets.tvcdn.net/2cab54cd-868f-478a-8c5b-4fb0c4f4fa4c.png" group-title="ULUSAL",Balkan Türk TVᴴᴰ⁺™
-https://live.euromediacenter.com/balkanturktv/playlist.m3u8
+#EXTINF:1 tvg-id="TrakyaTurkTV.tr" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/06/balkan-turk-tv.png" group-title="ULUSAL",BALKAN TURK tv ᴴᴰ⁺™
+https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="TrakyaTurkTV.tr" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/06/trakya-turk-tv.png" group-title="ULUSAL",Trakya Türk TV ᴴᴰ⁺™
 http://195.142.3.105/artidijital_trakyaturk/trakyaturk/chunks.m3u8?autoplay=1
@@ -214,7 +215,8 @@ https://edge1.socialsmart.tv/frttv/bant1/playlist.m3u8
 #https://anka@tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.canlitv.me/poster/bir-tv-canli.png"  group-title="ULUSAL",BİR TV ᴴᴰ⁺
-http://195.142.3.105/artidijital_birtv/birtv/chunks.m3u8?autoplay=1
+https://ht-144-76-157-47.socialsmart.tv/birtv/bant1/chunks.m3u8
+#http://195.142.3.105/artidijital_birtv/birtv/chunks.m3u8?autoplay=1
 
 #EXTINF:-1 tvg-id="aktueltv.tr"tvg-id="" tvg-logo="https://canlitv.center/channels/life-tv.png"group-title="ULUSAL"    ,LIFE TV ᴴᴰ⁺
 http://stream.tvcdn.net/yerel/life-tv-kayseri.m3u8
@@ -337,7 +339,7 @@ https://ulusalkanal.blutv.com/blutv_ulusalkanal/blutv_ulusalkanal/playlist.m3u8
 https://szctv.blutv.com/blutv_szctv/live.m3u8
 
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="HABER",KRT TV ᵁᴴᴰ⁺
-https://krttv-live.daioncdn.net/krttv/krttv_720p.m3u8
+https://krt.blutv.com/blutv_krt_live/live.m3u8
 
 #EXTINF:-1 tvg-id="FlashTV.tr"tvg-url="" tvg-name="FlashTV.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Flash-tv-hd-izle-vipotv-turkiye.png" group-title="HABER",FLASH TV  ᴴᴰ⁺™
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
@@ -2723,14 +2725,14 @@ https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
 #EXTINF:-1 tvg-id="TLC.tr"  tvg-logo="https://www.canlitv.me/poster/tlc-tv.png" group-title="TR ➾ BELGESEL"     ,TLC ʜᴅ
 http://hw1.jemtv.com/app/tlchd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"group-title="TR ➾ BELGESEL"   ,DMAX ʜᴅ
+#EXTINF:-1 tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg" group-title="TR ➾ BELGESEL"   ,DMAX ʜᴅ
 https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
-#EXTINF:-1 tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"group-title="TR ➾ BELGESEL"   ,DMAX ʜᴅ
+#EXTINF:-1 tvg-id="DMAX.tr"  tvg-logo="https://canlitv.com/kanal/logo/12979.jpg" group-title="TR ➾ BELGESEL"   ,DMAX ʜᴅ
 http://hw1.jemtv.com/app/Dmax/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/455023296707170305/IN9p98kp_400x400.jpeg" group-title="TR ➾ BELGESEL"  ,YABAN TV ʜᴅ
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&e=.m3u8
+https://asds.tech/ch/yaban.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/455023296707170305/IN9p98kp_400x400.jpeg" group-title="TR ➾ BELGESEL"  ,YABAN TV ʜᴅ
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&e=.m3u8
 
@@ -2742,12 +2744,12 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist.m3
 
 #EXTINF: -1 tvg-id="" tvg-logo="http://m.reddxc.com/tr/beiniz.png" group-title="TR ➾ BELGESEL", BEIN IZ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
+#EXTVLCOPT:http-referer=https://dizi5.life/
 https://one.a5b4b1b50e70ec.shop/live/beiniz/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 
 #EXTINF: -1 tvg-id="" tvg-logo="http://m.reddxc.com/tr/beiniz.png" group-title="TR ➾ BELGESEL", BEIN IZ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
+#EXTVLCOPT:http-referer=https://dizi5.life/
 https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="TR ➾ BELGESEL",Tarih TV ʜᴅ
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
@@ -2784,13 +2786,16 @@ https://lives.anystreamrectv3.live/live/docubox.m3u8?|user-agent=Dart/Mozilla/5.
 https://lives.anystreamrectv3.live/live/bbc.m3u8?|user-agent=Dart/Mozilla/5.0 (m3u-ip.tv 2.2.4)
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/GQMLWrp/bbce.png" group-title="TR ➾ BELGESEL", BBC EARTH TV ʜᴅ
 http://195.189.62.140:8002/play/a00z
-###https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/GQMLWrp/bbce.png" group-title="TR ➾ BELGESEL", BBC EARTH TV ʜᴅ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 
 
 #EXTINF:0  tvg-id="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/History1_Channel.png" group-title="TR ➾ BELGESEL",HISTORY CHANNEL ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/history/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+https://one.fbf1eb5f21ff67.shop/live/history/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:0  tvg-id="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/History1_Channel.png" group-title="TR ➾ BELGESEL",HISTORY CHANNEL ʜᴅ
 #EXTVLCOPT:http-user-agent=Dart & Mozilla/5.0 (m3u-ip.tv 2.2.4)
 https://lives.anystreamrectv3.live/live/history.m3u8?|user-agent=Dart/Mozilla/5.0 (m3u-ip.tv 2.2.4)
@@ -2837,6 +2842,9 @@ https://lives.anystreamrectv3.live/live/natgeowild.m3u8?|user-agent=Dart/Mozilla
 #EXTINF:-1 tvg-id"NatGeoWild.tr" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg"  group-title="TR ➾ BELGESEL"    ,NATIONAL GEOGRAPHIC WILD  ʜᴅ
 http://edge02.odtv.az/o3/natgeowild/playlist.m3u8?|user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.4) Android
 
+#EXTINF:0  tvg-id="" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" group-title="TR ➾ BELGESEL",SDM TV BELGESEL ᴴᴰ
+https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
+
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png" group-title="TR ➾ BELGESEL",Kültür Sanat TV ʜᴅ
 http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
 
@@ -2867,6 +2875,48 @@ https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=Y09KZTd1U3ppZ1gyTHIrZ1FQQm5p
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://duckduckgo.com/i/1411c682.png" group-title="TR ➾ BELGESEL" ,Horse & Country ʜᴅ
 https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
+
+
+#EXTINF:-1 group-title="RADAR ➾ BELGESEL", NAT GEO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/natgeo/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTINF:-1 group-title="RADAR ➾ BELGESEL", NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/natgeowild/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTINF:-1 group-title="RADAR ➾ BELGESEL", HISTORY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/history/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTINF:-1 group-title="RADAR ➾ BELGESEL", DISCOVERY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/discovery/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTINF:-1 group-title="RADAR ➾ BELGESEL", CNBC-E HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/discoveryscience/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTINF:-1 group-title="RADAR ➾ BELGESEL", BEIN IZ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTINF:-1 group-title="RADAR ➾ BELGESEL", BEIN VIASAT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/viasat/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTINF:-1 group-title="RADAR ➾ BELGESEL", BBC EARTH HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTINF:-1 group-title="RADAR ➾ BELGESEL", DMAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/dmax/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTINF:-1 group-title="RADAR ➾ BELGESEL", TRT BELGESEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/trtbelgesel/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 
 
 
@@ -3114,17 +3164,25 @@ https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ TIVIBU ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title=" TR ✦ SINEMA",✦●✦ SINEMA ✦●✦
 #http://arastv.org:8080/dost3678/3678d/213861
 
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , YEŞİLÇAM MEGATV HD
+https://Megayesilcam.justhost.online:3889/hybrid/play.m3u8
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , ŞABAN MEGATV HD
+https://Sabantv.justhost.online:3264/hybrid/play.m3u8
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , SİNEMA MEGATV HD
+https://tivi208.radyotelekom.com.tr:3578/hybrid/play.m3u8
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , RETRO SİNEMA MEGATV HD
+https://tivi208.radyotelekom.com.tr:3698/hybrid/play.m3u8
+#EXTINF:-1 group-title="TR ✦ SINEMA"  tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" ,SDM TV Sinema ᴴᴰ
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 1 BOX HD
-https://cdn8.video.az/storage/movie/22/22054/video.mp4
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 2 BOX HD
-https://cdn8.video.az/storage/movie/22/22061/video.mp4
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 3 BOX HD
 https://github.com/megasmartgence90/RESTREAM/raw/main/megakino-1.m3u8
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 4 BOX HD
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 2 BOX HD
 https://github.com/megasmartgence90/RESTREAM/raw/main/megakino-2.m3u8
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 5 BOX HD
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 3 BOX HD
 https://github.com/megasmartgence90/RESTREAM/raw/main/megakino-3.m3u8
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 6 BOX HD
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , VIZYON 4 BOX HD
 https://github.com/megasmartgence90/RESTREAM/raw/main/megakino-4.m3u8
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TR ✦ SINEMA",FX ʜᴅ
@@ -3134,58 +3192,58 @@ https://lives.anystreamrectv3.live/live/fx.m3u8?|User-Agent=Dart/Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Dart & Mozilla/5.0 FMP/2.5  
 https://lives.anystreamrectv3.live/live/epicdrama.m3u8?|User-Agent=Dart/Mozilla/5.0 
 
-#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN BOX HD
+#EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN BOX 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/boxoffice1/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/boxoffice1/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN BOX 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/boxoffice2/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/boxoffice2/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN BOX 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/boxoffice3/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/boxoffice3/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN SERIES 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/beinseries1/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/beinseries1/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN SERIES 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/beinseries2/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/beinseries2/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN SERIES 3  HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/beinseries3/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/beinseries3/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , beIN TURK  HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/beinmoviesturk/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/beinmoviesturk/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , BEIN STARS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/beinmoviesstars/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/beinmoviesstars/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , BEIN PREMIER HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/beinmoviespremiere/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/beinmoviespremiere/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , BEIN PREMIER 2  HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/beinmoviespremiere2/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/beinmoviespremiere2/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , BEIN FAMILY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/beinmoviesfamily/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/beinmoviesfamily/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , BEIN ACTION HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/beinmoviesaction/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/beinmoviesaction/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 #EXTINF:-1 group-title="TR ✦ SINEMA" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" , BEIN ACTION 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://dizi5.life/
-https://one.fbf1eb5f21ff67.shop/live/beinmoviesaction2/playlist.m3u8?live=true?|referrer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+#EXTVLCOPT:http-referer=https://dizi5.life/
+https://one.fbf1eb5f21ff67.shop/live/beinmoviesaction2/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title=" TR ✦ SINEMA",TR: BLUTV PLAY 1 ʜᴅ
@@ -17945,7 +18003,7 @@ http://kralpopwmp.radyotvonline.com/;
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", KRAL POP
 https://ssldyg2.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
 
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", KURAN MEAL RADYO
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="?? RADIO / TURKEY", KURAN MEAL RADYO
 http://37.247.98.8/stream/33/
 
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", KURDİ FM
