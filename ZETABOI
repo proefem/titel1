@@ -213,11 +213,11 @@ https://c.fulltvizle.com/fox/playlist.m3u8
 http://116.202.238.88/FOXTV_TR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BeyazTV.tr" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL", BEYAZ TV ᵁᴴᴰ⁺™
-http://trn03.tulix.tv/gt-beyaztv/tracks-v1a1/mono.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="YEDEK ➾ ULUSAL", BEYAZ TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋtrue
 http://195.142.1.211:4022/udp/224.2.2.73:10001/playlist.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="YEDEK ➾ ULUSAL", BEYAZ TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+http://trn03.tulix.tv/gt-beyaztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="YEDEK ➾ ULUSAL", BEYAZ TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
@@ -349,15 +349,17 @@ https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #http://stream01.tv35.com.tr/hls2/tv35izmir.m3u8
 
 #EXTINF:1 tvg-id="birtv.tr" tvg-language="Turkish" tvg-logo="https://www.canlitv.day/kanal/logo/67/13343.jpg"  group-title="ULUSAL",İZMİR TÜRK tv ᴴᴰ⁺
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13343&e=.ts
+#https://uzunmuhalefet.serv00.net/canlitv2.php?id=13343&e=.ts
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/557c3d07-ac1f-49ec-95ab-8171f782580f.png" group-title="ULUSAL",İzmir Time 35 tv ᴴᴰ⁺™
-https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
+http://stream.tvcdn.net/yerel/izmir-time-35.m3u8
+#https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fdd32b72-e1c5-4d16-8530-d6705a2d57b8.png" group-title="ULUSAL",FRT Fethiye tv ᴴᴰ⁺™
 https://edge1.socialsmart.tv/frttv/bant1/playlist.m3u8
 
 #EXTINF:1 tvg-id="RumeliTV.tr" tvg-logo="http://assets.tvcdn.net/42d14653-3a07-4663-bbcc-03b286ca76b7.png" group-title="ULUSAL",Rumeli tv ᴴᴰ⁺™
+http://stream.tvcdn.net/yerel/rumeli-tv.m3u8
 #https://rumelitv-live.ercdn.net/rumelitv/rumelitv_576p.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/25ef5555-706d-45bc-8cf3-e2606b12d9a9.png" group-title="ULUSAL",Tek Rumeli tv ᴴᴰ⁺™
@@ -395,7 +397,7 @@ https://anka@edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/07/kanal-19-2.png" group-title="ULUSAL" , KANAL 19 ᴴᴰ⁺™
-https://panel4.euromediacenter.com:3710/live/kanal19live.m3u8
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_130.png" tvg-name="Tempo TV" group-title="ULUSAL",Tempo TV
 http://195.142.3.105/artidijital_tempotv/tempotv/chunks.m3u8?autoplay=1
@@ -411,7 +413,6 @@ https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET tv  ᴴᴰ⁺™
 https://195.142.3.105/artidijital_anadolunet/anadolunet/chunks.m3u8?autoplay=1
-
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://canlitv.center/channels/deniz-postasi-tv.png"  group-title="ULUSAL",DENİZ POSTASI ᴴᴰ⁺™
 http://195.142.3.105/artidijital_denizpostasi/denizpostasi/chunks.m3u8?autoplay=1
 
@@ -428,10 +429,11 @@ https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
 #https://streaming.netdirekt.com.tr/35757/msyapi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KanalB.tr" tvg-name="KANAL B TR" tvg-logo="https://picon-13398.kxcdn.com/kanalbtr.jpg" aspect-ratio="16:9" group-title="ULUSAL",KANAL B ᴴᴰ⁺™
-https://kanalb.blutv.com/blutv_kanalb2/live.m3u8
+http://stream.tvcdn.net/diger/kanal-b.m3u8
+#https://kanalb.blutv.com/blutv_kanalb2/live.m3u8
 
 #EXTINF:-1 tvg-id="Kanal5.tr" tvg-name="KANAL B TR" tvg-logo="http://kanal5.com.tr/wp-content/uploads/2020/02/kanal-logoSD.png" aspect-ratio="16:9" group-title="ULUSAL",KANAL 5 ᴴᴰ⁺™
-https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/kanal5.m3u8
+#https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/kanal5.m3u8
 
 #EXTINF:1 tvg-id="tv48.tr" tvg-language="Türkçe" tvg-logo="https://www.tv48.com.tr/images/genel/sociallogo_1.png" group-title="ULUSAL",TV 48 ᴴᴰ
 https://anka@ajansplay.com:5443/LiveApp/streams/tv48.m3u8
@@ -1338,62 +1340,65 @@ http://line.linehunt.org:80/play/live.php?mac=00:1A:79:00:93:11&stream=1438087&e
 http://line.linehunt.org:80/play/live.php?mac=00:1A:79:00:93:11&stream=1438088&extension=ts&play_token=JtAGGYN1zE
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/radyogol-logo.png" group-title="TODAY ➾ SPORT", RADYO GOL ғʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
-#https://de-cdn-0001.gurbetstream.cfd/radyogol/index.m3u8
+#https://de-cdn-0001.gurbetstream.cfd/radyogol/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/beinsportshaber.png" group-title="TODAY ➾ SPORT", BEİN Sport Haber ғʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="TODAY ➾ SPORT", BEİN Sport Haber ғʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://trn03.tulix.tv/gt-beinsportshaber/playlist.m3u8
-#https://de-cdn-0001.gurbetstream.cfd/beinsportshaber/index.m3u8
+https://trn03.tulix.tv/gt-beinsportshaber/tracks-v1a1/mono.m3u8
+#https://de-cdn-0001.gurbetstream.cfd/beinsportshaber/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="TODAY ➾ SPORT", TRT Spor ☆ ғʜᴅ 
-https://trn03.tulix.tv/gt-trtspor2/playlist.m3u8
+https://trn03.tulix.tv/gt-trtspor2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1036.png" group-title="TODAY ➾ SPORT", TRT Spor ☆ ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/trtspor2/tracks-v1a1/mono.m3u8
+https://de-cdn-0001.gurbetstream.cfd/trtspor2/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/trtspor.png" group-title="TODAY ➾ SPORT", TRT  Spor ғʜᴅ 
-https://helga.iptv2022.com/trt_spor/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/trtspor.png" group-title="TODAY ➾ SPORT", TRT  Spor ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="TODAY ➾ SPORT", TRT  Spor ғʜᴅ 
+https://trn03.tulix.tv/gt-trtspor1/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#https://helga.iptv2022.com/trt_spor/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="TODAY ➾ SPORT", TRT  Spor ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/trtspor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/aspor.png" group-title="TODAY ➾ SPORT", A Spor ғʜᴅ 
-https://trn03.tulix.tv/gt-aspor/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/aspor.png" group-title="TODAY ➾ SPORT", A Spor ʜᴅ 
+https://de-cdn-0001.gurbetstream.cfd/trtspor/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="TODAY ➾ SPORT", A Spor ғʜᴅ 
+https://trn03.tulix.tv/gt-aspor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="TODAY ➾ SPORT", A Spor ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/aspor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/tv8.5.png" group-title="TODAY ➾ SPORT", TV 8'5 ʜᴅ 
+https://de-cdn-0001.gurbetstream.cfd/aspor/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="TODAY ➾ SPORT", TV 8'5 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/tv85/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/htspor.png" group-title="TODAY ➾ SPORT", HT Spor ʜᴅ 
+https://de-cdn-0001.gurbetstream.cfd/tv85/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="TODAY ➾ SPORT", HT Spor ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/htspor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc//gstv.png" group-title="TODAY ➾ SPORT", GSTV ʜᴅ 
+https://de-cdn-0001.gurbetstream.cfd/htspor/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvizle.me/kanallar/gs-tv.png" group-title="TODAY ➾ SPORT", GSTV ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/gstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/fbtv.png" group-title="TODAY ➾ SPORT", FBTV ʜᴅ 
+https://de-cdn-0001.gurbetstream.cfd/gstv/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvizle.me/kanallar/fb-tv.png" group-title="TODAY ➾ SPORT", FBTV ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/fbtv/tracks-v1a1/mono.m3u8
+https://de-cdn-0001.gurbetstream.cfd/fbtv/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 1 Turkey" tvg-logo="https://img.sport-tv-guide.live/images/stations/a640.png" group-title="TODAY ➾ SPORT",beIN SPORTS 1 ʜᴅ-webudit
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
@@ -1417,59 +1422,70 @@ https://xyzdddd.mizhls.ru/lb/premium64/index.m3u8
 https://xyzdddd.mizhls.ru/lb/premium67/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="TODAY ➾ SPORT", BEİN Sport 1 ʜᴅ 
-#EXTVLCOPT:http-referrer=https://livecdn.xyz/
-#EXTVLCOPT:http-origin=https://livecdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/601/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="TODAY ➾ SPORT", BEİN Sport 1 ʜᴅ 
-#EXTVLCOPT:http-referrer=https://livecdn.xyz/
-#EXTVLCOPT:http-origin=https://livecdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://tr-cdn-1.varsportscdn1.lol/601/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="TODAY ➾ SPORT", BEİN Sport 1 ʜᴅ 
-#EXTVLCOPT:http-referrer=https://livecdn.xyz/
-#EXTVLCOPT:http-origin=https://livecdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://us-cdn-1.varsportscdn1.lol/601/tracks-v1a1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TODAY ➾ SPORT",BeIN Sports 1 ʜᴅ 
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/158
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="TODAY ➾ SPORT",BeIN Sports 2 ʜᴅ
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-2-turkey/159
+#EXTINF:-1 tvg-id="beINSports3.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="TODAY ➾ SPORT",BeIN Sports 3 ʜᴅ
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-3-turkey/160
+#EXTINF:-1 tvg-id="beINSports4.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="TODAY ➾ SPORT",BeIN Sports 4 ʜᴅ
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-4-turkey/161
+#EXTINF:-1 tvg-id="beINSports5.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="TODAY ➾ SPORT" ,BeIN Sports 5 ʜᴅ
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-5-turkey/212
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/beinsports2.png" group-title="TODAY ➾ SPORT", BEİN Sport 2 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 1 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/602/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/beinsports3.png" group-title="TODAY ➾ SPORT", BEİN Sport 3 ʜᴅ 
+https://tr-cdn-1.varsportscdn1.lol/601/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 1 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/603/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/beinsports4.png" group-title="TODAY ➾ SPORT", BEİN Sport 4 ʜᴅ 
+https://us-cdn-1.varsportscdn1.lol/601/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 1 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/604/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/beinsports5.png" group-title="TODAY ➾ SPORT", BEİN Sport 5 ʜᴅ 
-#EXTVLCOPT:http-referrer=https://livecdn.xyz/
-#EXTVLCOPT:http-origin=https://livecdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/605/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/601/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/beinsportsmax1.png" group-title="TODAY ➾ SPORT", BEİN Sport max 1 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 2 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/801/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.logo-cdn.cc/beinsportsmax2.png" group-title="TODAY ➾ SPORT", BEİN Sport max 2 ʜᴅ 
+https://de-cdn-0001.gurbetstream.cfd/602/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 3 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/802/tracks-v1a1/mono.m3u8
+https://de-cdn-0001.gurbetstream.cfd/603/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 4 ʜᴅ 
+#EXTVLCOPT:http-referrer=https://livecdn.xyz/
+#EXTVLCOPT:http-origin=https://livecdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://de-cdn-0001.gurbetstream.cfd/604/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="TODAY ➾ SPORT", BEİN Sport 5 ʜᴅ 
+#EXTVLCOPT:http-referrer=https://livecdn.xyz/
+#EXTVLCOPT:http-origin=https://livecdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://de-cdn-0001.gurbetstream.cfd/605/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="TODAY ➾ SPORT", BEİN Sport max 1 ʜᴅ 
+#EXTVLCOPT:http-referrer=https://livecdn.xyz/
+#EXTVLCOPT:http-origin=https://livecdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://de-cdn-0001.gurbetstream.cfd/801/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="TODAY ➾ SPORT", BEİN Sport max 2 ʜᴅ 
+#EXTVLCOPT:http-referrer=https://livecdn.xyz/
+#EXTVLCOPT:http-origin=https://livecdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://de-cdn-0001.gurbetstream.cfd/802/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport + HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Sport + ʜᴅ
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/tabii/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/tabii/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 #https://fr-cdn-1.varsportscdn1.lol/tabii/index.m3u8
 #https://us-cdn-1.varsportscdn1.lol/tabii/index.m3u8
 
@@ -1477,103 +1493,104 @@ https://de-cdn-0001.gurbetstream.cfd/tabii/index.m3u8
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/tabii1/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/tabii1/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 2 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Sport 2  ʜᴅ
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/tabii2/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/tabii2/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 3 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Sport 3  ʜᴅ
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/tabii3/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/tabii3/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 4 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Sport 4  ʜᴅ
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/tabii4/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/tabii4/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 5 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Sport 5  ʜᴅ
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/tabii5/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/tabii5/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: Tâbii Sport 6 HD" tvg-logo="https://i.hizliresim.com/e6hi8ak.png" group-title="TODAY ➾ SPORT",Tâbii Sport 6  ʜᴅ
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/tabii6/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/tabii6/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/ssports1.png" group-title="TODAY ➾ SPORT", SARAN Sport 1 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="TODAY ➾ SPORT", SARAN Sport 1 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/607/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/ssports2.png" group-title="TODAY ➾ SPORT", SARAN Sport 2 ʜᴅ 
-#EXTVLCOPT:http-referrer=https://livecdn.xyz/
-#EXTVLCOPT:http-origin=https://livecdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/608/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/607/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/sporsmart1.png" group-title="TODAY ➾ SPORT", SMART Spor 1 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="TODAY ➾ SPORT", SARAN Sport 2 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/609/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/sporsmart2.png" group-title="TODAY ➾ SPORT", SMART Spor 2 ʜᴅ 
-#EXTVLCOPT:http-referrer=https://livecdn.xyz/
-#EXTVLCOPT:http-origin=https://livecdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/610/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/608/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/tivibuspor-1.png" group-title="TODAY ➾ SPORT", TİVİBU Spor 1 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="TODAY ➾ SPORT", SMART Spor 1 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/701/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/tivibuspor-2.png" group-title="TODAY ➾ SPORT", TİVİBU Spor 2 ʜᴅ 
+https://de-cdn-0001.gurbetstream.cfd/609/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="TODAY ➾ SPORT", SMART Spor 2 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/702/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/tivibuspor-3.png" group-title="TODAY ➾ SPORT", TİVİBU Spor 3 ʜᴅ 
-#EXTVLCOPT:http-referrer=https://livecdn.xyz/
-#EXTVLCOPT:http-origin=https://livecdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/703/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/tivibuspor-4.png" group-title="TODAY ➾ SPORT", TİVİBU Spor 4 ʜᴅ 
-#EXTVLCOPT:http-referrer=https://livecdn.xyz/
-#EXTVLCOPT:http-origin=https://livecdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/704/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/610/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/eurosport1.png" group-title="TODAY ➾ SPORT", EUROSport 1 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="TODAY ➾ SPORT", TİVİBU Spor 1 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/eurosport1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/eurosport2.png" group-title="TODAY ➾ SPORT", EUROSport 2 ʜᴅ 
+https://de-cdn-0001.gurbetstream.cfd/701/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="TODAY ➾ SPORT", TİVİBU Spor 2 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/eurosport2/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/702/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="TODAY ➾ SPORT", TİVİBU Spor 3 ʜᴅ 
+#EXTVLCOPT:http-referrer=https://livecdn.xyz/
+#EXTVLCOPT:http-origin=https://livecdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://de-cdn-0001.gurbetstream.cfd/703/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="TODAY ➾ SPORT", TİVİBU Spor 4 ʜᴅ 
+#EXTVLCOPT:http-referrer=https://livecdn.xyz/
+#EXTVLCOPT:http-origin=https://livecdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://de-cdn-0001.gurbetstream.cfd/704/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/f1.webp" group-title="TODAY ➾ SPORT", SKY F1 ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="TODAY ➾ SPORT", EUROSport 1 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/f1/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/eurosport1/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="TODAY ➾ SPORT", EUROSport 2 ʜᴅ 
+#EXTVLCOPT:http-referrer=https://livecdn.xyz/
+#EXTVLCOPT:http-origin=https://livecdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://de-cdn-0001.gurbetstream.cfd/eurosport2/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.xyz/kanalresim/nbatv.png" group-title="TODAY ➾ SPORT", NBA TV ʜᴅ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="TODAY ➾ SPORT", SKY F1 ʜᴅ 
 #EXTVLCOPT:http-referrer=https://livecdn.xyz/
 #EXTVLCOPT:http-origin=https://livecdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://de-cdn-0001.gurbetstream.cfd/nbatv/index.m3u8
+https://de-cdn-0001.gurbetstream.cfd/f1/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="TODAY ➾ SPORT", NBA TV ʜᴅ 
+#EXTVLCOPT:http-referrer=https://livecdn.xyz/
+#EXTVLCOPT:http-origin=https://livecdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://de-cdn-0001.gurbetstream.cfd/nbatv/tracks-v1a1/mono.m3u8|referrer=https://livecdn.xyz/
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 1 Turkey" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="TODAY ➾ SPORT",beIN SPORTS 1 Turkey
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
@@ -1596,6 +1613,16 @@ https://xyzdddd.mizhls.ru/lb/premium64/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium67/index.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/DAZN-logo.png" group-title="TODAY ➾ SPORT",SKY DAZN 1
+http://garaveli.serv00.net/Freeshot?ID=/dazn-1/231&e=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/DAZN-logo.png" group-title="TODAY ➾ SPORT",SKY DAZN 1
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/231
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/DAZN-logo.png" group-title="TODAY ➾ SPORT",SKY DAZN 2
+http://garaveli.serv00.net/Freeshot?ID=/dazn-2/232&e=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/DAZN-logo.png" group-title="TODAY ➾ SPORT",SKY DAZN 2
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/232
+
 #EXTINF:-1 tvg-id="DAZN1(src01).de" tvg-name="DAZN 1 Bar DE" tvg-logo="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="TODAY ➾ SPORT",DAZN 1 Bar DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -1606,6 +1633,12 @@ https://xyzdddd.mizhls.ru/lb/premium426/index.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium427/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-bundesliga-logo.png" group-title="TODAY ➾ SPORT",SKY SPORT BUNDESLİGA
+http://garaveli.serv00.net/Freeshot?ID=/sky-sport-bundesliga-de/25&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-bundesliga-logo.png" group-title="TODAY ➾ SPORT",SKY SPORT BUNDESLİGA
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/25
+
 #EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="TODAY ➾ SPORT",Sky Sport Top Event DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -1622,6 +1655,31 @@ https://xyzdddd.mizhls.ru/lb/premium640/index.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium641/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/sky_sport-news-logo.png" group-title="TODAY ➾ SPORT",SKY SPORT NEWS
+http://garaveli.serv00.net/Freeshot?ID=/sky-sports-news-de/353&e=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/sky_sport-news-logo.png" group-title="TODAY ➾ SPORT",SKY SPORT NEWS
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/353
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/SkySportPremierLeague-logo.png" group-title="TODAY ➾ SPORT",sky-sport-premier-league-de
+http://garaveli.serv00.net/Freeshot?ID=/sky-sport-premier-league-de/354&e=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/SkySportPremierLeague-logo.png" group-title="TODAY ➾ SPORT",sky-sport-premier-league-de
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/354
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/sky-sport-top-event.png" group-title="TODAY ➾ SPORT",sky-sport-top-event-de
+http://garaveli.serv00.net/Freeshot?ID=/sky-sport-top-event-de/243&e=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/sky-sport-top-event.png" group-title="TODAY ➾ SPORT",sky-sport-top-event-de
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/243
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/Eurosport_1_logo.png" group-title="TODAY ➾ SPORT",eurosport-1-de
+http://garaveli.serv00.net/Freeshot?ID=/eurosport-1-de/398&e=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/Eurosport_1_logo.png" group-title="TODAY ➾ SPORT",eurosport-1-de
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/398
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/Eurosport_2_logo.png" group-title="TODAY ➾ SPORT",eurosport-2-de
+http://garaveli.serv00.net/Freeshot?ID=/eurosport-2-de/399&e=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/Eurosport_2_logo.png" group-title="TODAY ➾ SPORT",eurosport-2-de
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/399
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="TODAY ➾ SPORT",SKY F1
+http://garaveli.serv00.net/Freeshot?ID=/sky-sport-f1-de/379&e=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="▬ Turkey [TR]  ▬" tvg-logo="https://www.freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="TODAY ➾ SPORT",SKY F1
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/379
+
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="TODAY ➾ SPORT",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -1696,169 +1754,169 @@ https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayintrt1.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayintrt1.m3u8|referrer=https://markajtv.pages.dev/
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/atv.png" tvg-url="" group-title="MARKAJ ➾ SPORT",ATV ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinatv.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinatv.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/tv8.png" tvg-url="" group-title="MARKAJ ➾ SPORT",TV8 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayintv8.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayintv8.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/tv8-5.png" tvg-url="" group-title="MARKAJ ➾ SPORT",TV8'5 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayintv85.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayintv85.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/aspor.png" tvg-url="" group-title="MARKAJ ➾ SPORT",a SPOR ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinas.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinas.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/trtspor.png" tvg-url="" group-title="MARKAJ ➾ SPORT",TRT SPOR ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayintrtspor.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayintrtspor.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/trtsporyildiz.png" tvg-url="" group-title="MARKAJ ➾ SPORT",TRT SPOR 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayintrtspor2.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayintrtspor2.m3u8
 #EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://excpicon.cfd/tr/beinsportshaber.png" tvg-url="" group-title="MARKAJ ➾ SPORT", beiN Sport HABER ʜᴅ
 https://dvrfl05.tulix.tv/gin-beinsportshaber/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/beinsports1.png" tvg-url="" group-title="MARKAJ ➾ SPORT",beIN SPORTS 1  ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinzirve.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinzirve.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/beinsports1.png" tvg-url="" group-title="MARKAJ ➾ SPORT",beIN SPORTS 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayint24.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayint24.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/beinsports1.png" tvg-url="" group-title="MARKAJ ➾ SPORT",beIN SPORTS 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayininat.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayininat.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/beinsports1.png" tvg-url="" group-title="MARKAJ ➾ SPORT",beIN SPORTS 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayin1.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayin1.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/beinsports2.png" tvg-url="" group-title="MARKAJ ➾ SPORT",beIN SPORTS 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinb2.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinb2.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/beinsports3.png" tvg-url="" group-title="MARKAJ ➾ SPORT",beIN SPORTS 3 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinb3.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinb3.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/beinsports4.png" tvg-url="" group-title="MARKAJ ➾ SPORT",beIN SPORTS 4 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinb4.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinb4.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/beinsports5.png" tvg-url="" group-title="MARKAJ ➾ SPORT",beIN SPORTS 5 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinb5.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinb5.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/beinsportsmax1.png" tvg-url="" group-title="MARKAJ ➾ SPORT",beIN SPORTS MAX 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinbm1.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinbm1.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/beinsportsmax2.png" tvg-url="" group-title="MARKAJ ➾ SPORT",beIN SPORTS MAX 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinbm2.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinbm2.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" tvg-url="" group-title="MARKAJ ➾ SPORT",TABİİ  ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinex7.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinex7.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" tvg-url="" group-title="MARKAJ ➾ SPORT",TABİİ 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinex1.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinex1.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" tvg-url="" group-title="MARKAJ ➾ SPORT",TABİİ 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinex2.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinex2.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" tvg-url="" group-title="MARKAJ ➾ SPORT",TABİİ 3 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinex3.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinex3.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" tvg-url="" group-title="MARKAJ ➾ SPORT",TABİİ 4 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinex4.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinex4.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" tvg-url="" group-title="MARKAJ ➾ SPORT",TABİİ 5 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinex5.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinex5.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://i.hizliresim.com/tbwyrvb.jpeg" tvg-url="" group-title="MARKAJ ➾ SPORT",TABİİ 6 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinex6.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinex6.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" tvg-url="" group-title="MARKAJ ➾ SPORT",EXXEN 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinex8.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinex8.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/ssport1.png" tvg-url="" group-title="MARKAJ ➾ SPORT",S SPORT ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinss.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinss.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/ssport2.png" tvg-url="" group-title="MARKAJ ➾ SPORT",S SPORT 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinss2.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinss2.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/tivibuspor1.png" tvg-url="" group-title="MARKAJ ➾ SPORT",TIVIBUSPOR 1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayint1.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayint1.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/tivispor2.png" tvg-url=""      group-title="MARKAJ ➾ SPORT",TIVIBUSPOR 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayint2.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayint2.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/tivibuspor3.png" tvg-url="" group-title="MARKAJ ➾ SPORT",TIVIBUSPOR 3 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayint3.m3u8?|referrer=https://markajtv.pages.dev/ 
+http://garaveli.serv00.net/MarkajTV?ID=yayint3.m3u8?|referrer=https://markajtv.pages.dev/ 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/tivibuspor4.png" tvg-url="" group-title="MARKAJ ➾ SPORT",TIVIBUSPOR 4 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayint4.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayint4.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/sporsmart1.png" tvg-url="" group-title="MARKAJ ➾ SPORT",spor SMART ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinsmarts.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinsmarts.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/sporsmart2.png" tvg-url="" group-title="MARKAJ ➾ SPORT",spor SMART 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinsms2.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinsms2.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png"  tvg-url="" group-title="MARKAJ ➾ SPORT",SPORTS TV ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
@@ -1870,22 +1928,22 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayineu1.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayineu1.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/eurosport2.png" tvg-url="" group-title="MARKAJ ➾ SPORT",EUROSPORT 2 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayineu2.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayineu2.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://excpicon.cfd/tr/nbatv.png" tvg-url="" group-title="MARKAJ ➾ SPORT",NBA TV ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinnbatv.m3u8
+http://garaveli.serv00.net/MarkajTV?ID=yayinnbatv.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD"  tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" tvg-url="" group-title="MARKAJ ➾ SPORT",sky SPORTS F1 ʜᴅ
 #EXTVLCOPT:http-referrer=https://markajtv.pages.dev/
 #EXTVLCOPT:http-origin=https://markajtv.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://raalbatros.serv00.net/MarkajTV?ID=yayinf1.m3u8?
+http://garaveli.serv00.net/MarkajTV?ID=yayinf1.m3u8?
 
 
 
