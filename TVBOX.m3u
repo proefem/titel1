@@ -117,9 +117,9 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 http://116.202.238.88/BEYAZTV_TR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="ULUSAL",NOW TV ᵁᴴᴰ⁺™
-http://66.160.192.241:80/foxturk/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="ULUSAL",NOW TV ᵁᴴᴰ⁺™
 http://162.212.179.34:80/gin-trn09/gin-turkfoxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="ULUSAL",NOW TV ᵁᴴᴰ⁺™
+http://66.160.192.241:80/foxturk/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="ULUSAL",NOW TV ᵁᴴᴰ⁺™
 https://c.fulltvizle.com/fox/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox.tr"   tvg-logo="http://www.giniko.com/logos/190x110/195.gif" group-title="ULUSALʏᴇᴅᴇᴋ",NOW TV ᵁᴴᴰ⁺™ʏᴇᴅᴇᴋ
@@ -180,7 +180,7 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 https://tre.2b4a9bb526bd2acb.shop/i/56dHxgg4KHGHmwotoE/4011/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
 
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/330px-Just_For_Laughs_Gags.png" aspect-ratio="16:9" group-title="ULUSAL", Gags Network ⁺™   
-http://hls127.homeiptv.org:8880/Gagsnetwork/video.m3u8
+#http://hls127.homeiptv.org:8880/Gagsnetwork/video.m3u8
 
 
 #EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺™
@@ -216,14 +216,14 @@ http://185.234.111.229:8000/play/a023
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/25ef5555-706d-45bc-8cf3-e2606b12d9a9.png" group-title="ULUSAL",Tek Rumeli tv ᴴᴰ⁺™
 http://185.234.111.229:8000/play/a014
 
-#EXTINF:1 tvg-id="TrakyaTurkTV.tr" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/06/balkan-turk-tv.png" group-title="ULUSAL",BALKAN TURK tv ᴴᴰ⁺™
+#EXTINF:1 tvg-id="balkan-turkTV.tr" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/06/balkan-turk-tv.png" group-title="ULUSAL",BALKAN TURK tv ᴴᴰ⁺™
 https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="TrakyaTurkTV.tr" tvg-logo="https://www.euromediacenter.com/wp-content/uploads/2024/06/trakya-turk-tv.png" group-title="ULUSAL",Trakya Türk TV ᴴᴰ⁺™
 http://195.142.3.105/artidijital_trakyaturk/trakyaturk/chunks.m3u8?autoplay=1
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.canlitv.day/kanal/logo/67/13343.jpg"  group-title="ULUSAL",İZMİR TÜRK TV ᴴᴰ⁺™
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13343&.m3u8
+#https://uzunmuhalefet.serv00.net/canlitv2.php?id=13343&.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/557c3d07-ac1f-49ec-95ab-8171f782580f.png" group-title="ULUSAL",İzmir Time 35 ᴴᴰ⁺™
 #https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
@@ -238,7 +238,7 @@ https://edge1.socialsmart.tv/frttv/bant1/playlist.m3u8
 https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="aktueltv.tr"tvg-id="" tvg-logo="https://canlitv.center/channels/life-tv.png"group-title="ULUSAL"    ,LIFE TV ᴴᴰ⁺
-http://stream.tvcdn.net/yerel/life-tv-kayseri.m3u8
+https://195.142.3.105/artidijital_lifetv/lifetv/chunks.m3u8?autoplay=1
 
 #EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="ULUSAL",MELTEM TV ᵁᴴᴰ⁺
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
@@ -256,7 +256,7 @@ http://stream.tvcdn.net/diger/kanal-b.m3u8
 #https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/kanal5.m3u8
 
 #EXTINF:-1 tvg-id="TV5.tr" tvg-name="TV 5 TR" tvg-logo="https://picon-13398.kxcdn.com/tv5tr.jpg" group-title="ULUSAL",TV 5 ᴴᴰ
-https://tv5-live.ercdn.net:443/tv5/tv5_720p.m3u8
+https://tv5-live.ercdn.net/tv5/tv5_720p.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="http://assets.tvcdn.net/da621b46-9ced-4d17-90ff-90c116ab0018.png" group-title="ULUSAL",TV 48 ᴴᴰ
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
@@ -277,16 +277,16 @@ https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 http://195.142.3.105/artidijital_noratv/noratv/chunks.m3u8?autoplay=1
 
 #EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://www.canlitv.day/kanal/logo/67/13384.jpg" group-title="ULUSAL" ,gurmetv ᴴᴰ
-https://panel4.euromediacenter.com:3939/live/gurmetvlive.m3u8
+https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="ULUSAL" ,WOMAN  TV ᴴᴰ
-https://embedlp.b-cdn.net/womantv.m3u8j
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 
 #EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://womanlife.tv/images/logo.png" group-title="ULUSAL" ,WOMAN LİFE TV ʜᴅ
-https://yayin30.haber100.com/live/womanlifetv/playlist.m3u8
+#https://yayin30.haber100.com/live/womanlifetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvmor.tr"tvg-url="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" aspect-ratio="16:9"    group-title="ULUSAL",MOR TV ᴴᴰ
-https://panel4.euromediacenter.com:3284/live/tvmorlive.m3u8
+#https://panel4.euromediacenter.com:3284/live/tvmorlive.m3u8
 
 #EXTINF:0  tvg-id="wmtv.tr"tvg-logo="https://www.canlitv.day/kanal/logo/67/13388.jpg" group-title="ULUSAL" ,MODA MAGAZİN TV ᴴᴰ
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13388&e.m3u8
@@ -304,7 +304,7 @@ https://yayin30.haber100.com/live/yasamtv/chunklist_w2024915114.m3u8
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
 #EXTINF:-1 tvg-id="trtbelgesel.tr"tvg-name="TGRT Belgesel TR"  tvg-logo="https://picon-13398.kxcdn.com/tgrtbelgeseltr.jpg" aspect-ratio="16:9"  group-title="ULUSAL",TGRT BELGESEL  
-http://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/playlist.m3u8
+https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV ᴴᴰ⁺™
 https://live.euromediacenter.com/anadolunettv/chunks.m3u8?autoplay=1
@@ -364,7 +364,7 @@ https://krt.blutv.com/blutv_krt_live/live.m3u8
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele1.tr" tvg-logo="https://picon-13398.kxcdn.com/tele1tr.jpg" group-title="HABER",TELE 1 ᵁᴴᴰ⁺
-https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+https://tele1-live.ercdn.net/tele1/tele1_720p.m3u8
 
 #EXTINF:-1 tvg-id="HalkTV.tr"tvg-name="Halk TV TR"  tvg-logo="https://picon-13398.kxcdn.com/halktvtr.jpg" group-title="HABER",HALK TV ᵁᴴᴰ⁺
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
@@ -759,7 +759,7 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/aspor/172/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
 
 #EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="SELÇUK ➾ SPORT",7/24 SPOR ʜᴅ
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_720p.m3u8
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="SELÇUK ➾ SPORT", tv8'5 ʜᴅ
 #EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
@@ -771,10 +771,10 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 http://garaveli.serv00.net/GinikoHD?ID=797&e=.m3u8
 
 #EXTINF:0 tvg-id="idman-az-hd" tvg-logo="http://epg.it999.ru/img/2637.png" group-title="SELÇUK ➾ SPORT" , AZ IDMAN tv  ʜᴅ
-http://109.107.189.180/11446/tracks-v1a1/mono.m3u8?token=65B16463F628 
+http://162.212.179.33:80/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="cbcsport" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="SELÇUK ➾ SPORT"  , AZ CBC Sport  ʜᴅ
-http://109.107.189.180/11448/tracks-v1a1/mono.m3u8?token=65B16463F628 
+http://162.212.179.34/dvrfl05/gin-cbcs/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="CBCSportHD.az" tvg-name="" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="SELÇUK ➾ SPORT"  ,CBC Sport  ʜᴅ
 #EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
@@ -789,7 +789,7 @@ http://109.107.189.180/11448/tracks-v1a1/mono.m3u8?token=65B16463F628
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxentv/4011/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
 
 #EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="SELÇUK ➾ SPORT", beiN Sport 1& HABER ʜᴅ
-https://trn03.tulix.tv/gt-beinsportshaber/playlist.m3u8
+https://trn03.tulix.tv/gt-beinsportshaber/tracks-v1a1/mono.m3u8#
 
 #EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="SELÇUK ➾ SPORT", beiN Sport HABER  ʜᴅ
 #EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
@@ -1008,6 +1008,45 @@ https://tre.2b4a9bb526bd2acb.shop/i/exxentv/ssportplus6/playlist.m3u8?|user-agen
 
 
 
+#EXTINF: -1 tvg-id="SSport.tr"  tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SELÇUK ➾ SPORT", test1 ʜᴅ
+#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
+#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibuspor/401/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
+
+#EXTINF: -1 tvg-id="SSport.tr"  tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SELÇUK ➾ SPORT", test2 ʜᴅ
+#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
+#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibuspor/402/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
+
+#EXTINF: -1 tvg-id="SSport.tr"  tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SELÇUK ➾ SPORT", test3 ʜᴅ
+#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
+#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibuspor/403/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
+
+#EXTINF: -1 tvg-id="SSport.tr"  tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SELÇUK ➾ SPORT", test4 ʜᴅ
+#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
+#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibuspor/501/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
+
+#EXTINF: -1 tvg-id="SSport.tr"  tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SELÇUK ➾ SPORT", test5 ʜᴅ
+#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
+#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibuspor/502/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
+
+#EXTINF: -1 tvg-id="SSport.tr"  tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="SELÇUK ➾ SPORT", test6 ʜᴅ
+#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
+#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibuspor/105/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
+
+
+
+
 
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://picon-13398.kxcdn.com/beinmediagroupflag.jpg" group-title="RADAR ➾ SPORT",▬ GOL TV ▬
 https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
@@ -1037,13 +1076,15 @@ https://tre.2b4a9bb526bd2acb.shop/i/trtspor/2889/playlist.m3u8?|user-agent=Dalvi
 https://tre.2b4a9bb526bd2acb.shop/i/aspor/172/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) 
 
 #EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="RADAR ➾ SPORT",7/24 SPOR ʜᴅ
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_720p.m3u8
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
+#http://185.234.111.229:8000/play/a016
+#https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/24spor.m3u8
 
 #EXTINF: -1 tvg-id="ExxenTV.tr"tvg-name="EXXEN TV"tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" aspect-ratio="16:9"    group-title="RADAR ➾ SPORT",EXXEN TV ʜᴅ
 #EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
 #EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://tre.2b4a9bb526bd2acb.shop/i/exxentv/4011/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) 
+#https://tre.2b4a9bb526bd2acb.shop/i/exxentv/4011/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) 
 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="RADAR ➾ SPORT", tv8'5 ʜᴅ
 #EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
@@ -1057,10 +1098,10 @@ https://tre.2b4a9bb526bd2acb.shop/i/tv85/202/playlist.m3u8?|user-agent=Dalvik/2.
 http://garaveli.serv00.net/GinikoHD?ID=797&e=.m3u8
 
 #EXTINF:0 tvg-id="idman-az-hd" tvg-logo="http://epg.it999.ru/img/2637.png" group-title="RADAR ➾ SPORT" , AZ IDMAN tv  ʜᴅ
-http://109.107.189.180/11446/tracks-v1a1/mono.m3u8?token=65B16463F628 
+http://162.212.179.33:80/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="cbcsport" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="RADAR ➾ SPORT"  , AZ CBC Sport  ʜᴅ
-http://109.107.189.180/11448/tracks-v1a1/mono.m3u8?token=65B16463F628 
+http://162.212.179.34/dvrfl05/gin-cbcs/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="CBCSportHD.az" tvg-name="" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="RADAR ➾ SPORT"  ,CBC Sport  ʜᴅ
 #EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
@@ -1073,6 +1114,7 @@ https://owifavo5.rocketcdn.com:443/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="FB.TV.tr" tvg-name="" tvg-logo="https://www.tvizle.me/kanallar/fb-tv.png" group-title="RADAR ➾ SPORT", FB tv ʜᴅ
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#https://canlitvulusal.xyz/live/fbtv/index.m3u8
 
 #EXTINF: -1 tvg-id="beINSportsHaber.tr"  tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="RADAR ➾ SPORT", beiN Sport 1& HABER ʜᴅ
 https://dvrfl05.tulix.tv/gin-beinsportshaber/playlist.m3u8
@@ -1087,9 +1129,7 @@ http://162.212.179.32:80/dvrfl05/gin-beinsportshaber/playlist.m3u8
 https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="RADAR ➾ SPORT",beIN Sport 1 feed ʜᴅ
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 2.2.4) Android Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://tre.2b4a9bb526bd2acb.shop/i/bein1feed/2/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="RADAR ➾ SPORT",beIN Sport 2 ʜᴅ
@@ -1201,7 +1241,6 @@ https://tre.2b4a9bb526bd2acb.shop/i/eusport1/132/playlist.m3u8?|user-agent=Dalvi
 https://tre.2b4a9bb526bd2acb.shop/i/eusport1/142/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sport F1 " tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="RADAR ➾ SPORT",EXTREME SPORTS
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37 Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8?|User-Agent=ExoPlayer2/2.37
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sport F1 " tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="RADAR ➾ SPORT",WOMEN'S SPORTS NETWORK 
@@ -1306,240 +1345,6 @@ https://new.cache-stream.workers.dev/stream/UCNLO4lpteIloZ4IKb9L2DoA/live.m3u8/&
 
 #EXTINF:0  tvg-id="" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="RADAR ➾ SPORT",BYHORSES TV ʜᴅ
 https://mn-nl.mncdn.com/blutv_byhorses/smil:blutv_byhorses.smil/chunklist_b2064000.m3u8
-
-
-
-#EXTINF:-1 tvg-id="GOLTV.tr" tvg-name="▬ GOL TV ▬" tvg-logo="https://picon-13398.kxcdn.com/beinmediagroupflag.jpg" group-title="TARAFTARYUM ➾ SPORTS",▬ GOL TV ▬
-https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",TRT 1
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/2888/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",TRT SPOR 2
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/2890/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",A SPOR
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/172/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",TRT SPOR
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/2889/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-id="" tvg-name="7/24 SPOR TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/7-24-tv-tvlive-bl51.webp" group-title="TARAFTARYUM ➾ SPORTS",7/24 SPOR ʜᴅ
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_720p.m3u8
-
-#EXTINF:-1 tvg-id="tivibuspor" tvg-name="" tvg-logo="https://golvar2247.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp" auth=aspect-ratio="16:9" group-title="TARAFTARYUM ➾ SPORTS", TiviBU SPOR ʜᴅ
-http://garaveli.serv00.net/GinikoHD?ID=797&e=.m3u8
-
-#EXTINF:0 tvg-id="idman-az-hd" tvg-logo="http://epg.it999.ru/img/2637.png" group-title="TARAFTARYUM ➾ SPORTS" , AZ IDMAN tv  ʜᴅ
-http://109.107.189.180/11446/tracks-v1a1/mono.m3u8?token=65B16463F628 
-
-#EXTINF:1 tvg-id="cbcsport" tvg-name="" tvg-id""tvg-logo="http://epg.it999.ru/img/2636.png" group-title="TARAFTARYUM ➾ SPORTS"  , AZ CBC Sport  ʜᴅ
-http://109.107.189.180/11448/tracks-v1a1/mono.m3u8?token=65B16463F628 
-
-#EXTINF:1 tvg-id="CBCSportHD.az" tvg-name="" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="TARAFTARYUM ➾ SPORTS"  ,CBC Sport  ʜᴅ
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#https://tre.2b4a9bb526bd2acb.shop/i/cbcsport/3452/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) 
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",BEİN SPORTS HABER
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/1/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",BEİN SPORTS 1
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/601/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",BEİN SPORTS 1 feed
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/2/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",BEİN SPORTS 2
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/602/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",BEİN SPORTS 3
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/603/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",BEİN SPORTS 4
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/604/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",BEİN SPORTS 5
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/705/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",BEİN SPORTS MAX 1
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/805/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",BEİN SPORTS MAX 2
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/806/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",SSPORT PLUS 1
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/3450/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",S SPORT PLUS 2
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/3451/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",SPOR SMART 1
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/102/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",SPOR SMART 2
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/103/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",TİVİBU SPOR 1
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/606/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",TİVİBU SPOR 2
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/607/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",TİVİBU SPOR 3
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/608/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",TİVİBU SPOR 4
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/609/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",CBS SPORT
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/3452/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",NBA TV
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/112/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",EURO SPORT 1
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/132/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",EURO SPORT 2
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/142/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",EXXEN TV 1
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/4101/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",Tâbii Sport 
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/4106/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",Tâbii Sport  2
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/4102/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",Tâbii Sport  3
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/4103/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",Tâbii Sport  4
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/4104/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",Tâbii Sport  5
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/4105/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",Tâbii Sport  6
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/4107/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",Tâbii Sport  7
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/4108/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) 
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",TRT AVAZ
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/2891/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)  
-
-#EXTINF:-1 tvg-logo="https://proefem.github.io/IMG_GS.jpg" group-title="TARAFTARYUM ➾ SPORTS",EXXEN TV
-#EXTVLCOPT:http-referrer=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-origin=https://ib.strmrdrfr361899ac.click/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/4011/playlist.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) 
-
 
 
 
@@ -3269,246 +3074,6 @@ http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/718118?play_token=
 http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/718117?play_token=
 #EXTINF:-1 tvg-ID="" tvg-name="TR ▎CINETIME ANIMASYON 3 FHD" tvg-logo="https://img.logo-cdn.cc/cinetime.png" group-title="▎CINETIME",TR ▎CINETIME ANIMASYON 3 FHD
 http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/718116?play_token=
-
-
-
-
-#EXTINF:-1 group-title="Kemal Sunal",YUZ NUMARALI ADAM (Kemal Sunal)
-https://vod02.cdn.web.tv/iz/rb/izrblgef74o_,240,360,480,720,1080,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:-1 group-title="Kemal Sunal",KILIBIK (Kemal Sunal)
-https://vod02.cdn.web.tv/yy/pb/yypbdmuleie_,120,240,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
-#EXTINF:-1 group-title="Kemal Sunal",TOSUN PASA (Kemal Sunal)
-https://vod02.cdn.web.tv/ib/xs/ibxshxgbedu_,120,240,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
-#EXTINF:-1 group-title="Kemal Sunal",COPCULER KRALI (Kemal Sunal)
-https://vod02.cdn.web.tv/ah/f5/ahf5sfsoylq_,240,360,480,720,1080,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:-1 group-title="Kemal Sunal",TOKATCI (Kemal Sunal)
-https://vod02.cdn.web.tv/gk/pq/gkpqhziop3c_,120,240,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
-#EXTINF:-1 group-title="Kemal Sunal",ATLA GEL SABAN (Kemal Sunal)
-#https://ia600508.us.archive.org/3/items/AtlaGelaban1984720pSanssrsrzH2641280x720/Atla%20Gel%20%C5%9Eaban%20%281984%29%20%5B720p%20-%20Sans%C3%BCrs%C3%BCz%5D_H264-1280x720.mp4
-#EXTINF:-1 group-title="Kemal Sunal",SOSYETE SABAN (Kemal Sunal)
-https://vod02.cdn.web.tv/du/ni/dunimgqxpdu_,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
-#EXTINF:-1 group-title="Kemal Sunal",KEMAL SUNAL- KÖYDEN İNDİM ŞEHİRE HD
-http://vod02.cdn.web.tv/yv/um/yvumaob39ba_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - FIRTINA KEMAL HD
-https://vod02.cdn.web.tv/hx/iw/hxiwwdjrfca_,360,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - HAYATİMİZİN EN GÜZEL YİLLARİ HD
-https://vod02.cdn.web.tv/ry/v8/ryv8gcnbuuu_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN -  ASK MABUDESI HD
-https://vod02.cdn.web.tv/wf/ds/wfdso3ysfno_720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - ARİM BALIM PETEĞIM HD
-http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - BABANİN OĞLU HD
-https://vod02.cdn.web.tv/4k/me/4kmeosnomua_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - KÜÇÜK SEVGİLİM HD
-http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - OYUN BİTTİ HD
-http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - SATIN ALINAN KOCA HD
-http://vod02.cdn.web.tv/l6/5q/l65qigzmmcw_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN -  KIN HD
-https://vod02.cdn.web.tv/1m/sm/1msm0r3vr86_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - KUŞCU HD
-https://vod02.cdn.web.tv/4u/a4/4ua4oxvzkns_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - ÇARESİZLER HD
-https://vod02.cdn.web.tv/je/em/jeem0n5tm76_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKİN - İSTASYON HD
-http://vod02.cdn.web.tv/tk/xc/tkxcv7gtbmm_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="CÜNEYT ARKİN TV",CÜNEYT ARKIN- KÜSKÜN ÇİÇEK HD
-http://vod02.cdn.web.tv/gu/yi/guyi2dlk5x6_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KADİR İNANİR TV",KADİR İNANİR - KOPUK HD
-https://vod02.cdn.web.tv/vu/gq/vugqgg4ab3o_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KADİR İNANİR TV",KADİR İNANİR - ÜÇ ARKADAŞ HD
-https://vod02.cdn.web.tv/x9/sp/x9spfa5pfco_,1080,.mp4.urlset/master.m3u8
-#https://vod02.cdn.web.tv/x9/sp/x9spfa5pfco_,240,360,480,720,1080,.mp4.urlset/master.m3u8
-#https://vod02.cdn.web.tv/x9/sp/x9spfa5pfco_,240,360,480,720,1080,.mp4.urlset/master.m3u8
-#EXTINF:-1 group-title="KADİR İNANİR TV",KADİR İNANİR - TOPHANELİ MURAT HD
-https://vod02.cdn.web.tv/pi/fl/piflwwsxfka_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY - VUKAAT VAR HD
-https://vod02.cdn.web.tv/k9/qu/k9qumh1yomw_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY - SENLİK VAR HD
-https://vod02.cdn.web.tv/7z/gr/7zgrgwmwloq_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY - GELİN ÇİÇEĞİ HD
-https://vod02.cdn.web.tv/3z/2h/3z2har9oyna_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY - ACELE KOCA ARANIYOR
-https://vod02.cdn.web.tv/ae/g6/aeg6luszrck_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY- ATEŞ PARCASI HD
-https://vod02.cdn.web.tv/bi/ih/biihyjr8l3q_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY- KADIN DEĞİL BAŞ BELASİ
-https://vod02.cdn.web.tv/ju/fe/jufeohghvoe_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY- BÜLBÜL YUVASİ HD
-https://vod02.cdn.web.tv/pq/xn/pqxnrutu2se_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKSAN ŞORAY - TATLİ MELEĞİM HD
-https://vod02.cdn.web.tv/qi/jm/qijmwa4fwug_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="TÜRKAN ŞORAY TV",TÜRKAN ŞORAY-  SANA DÖNMEYECEĞİM HD
-https://vod02.cdn.web.tv/2n/oy/2noyzhuw87w_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="ŞENER ŞEN",ŞENER ŞEN- NAMUSLU HD
-http://vod02.cdn.web.tv/bn/2z/bn2zvu3xi2s_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="MURAT SOYDAN",MURAT SOYDAN- EVLAT HD
-https://vod02.cdn.web.tv/mw/rv/mwrvmz1dxne_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="EDİZ HUN",EDİZ HUN-  BÜTÜN ANNELER MELEKTİR
-http://vod02.cdn.web.tv/a0/wu/a0wuaonenok_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- HUZURUM KALMADİ
-https://vod02.cdn.web.tv/vr/1t/vr1tqky1jvc_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDİ TAYFUR- ÇEŞME HD
-https://vod02.cdn.web.tv/pa/z0/paz0aefhjk2_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- YADELLER HD
-https://vod02.cdn.web.tv/bq/gl/bqglza25zp2_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- DERBEDER HD
-https://vod02.cdn.web.tv/yr/he/yrhekknxoye_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- BENİM GİBİ SEVENLER HD
-https://vod02.cdn.web.tv/4c/jw/4cjwzig9mia_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDİ TAYFUR - HARAM OLDU HD
-https://vod02.cdn.web.tv/lq/qy/lqqyutrppco_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- HASRET SANCISI
-https://vod02.cdn.web.tv/nb/su/nbsuhiojwty_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- BENDE ÖZLEDİM BENDE HD
-https://vod02.cdn.web.tv/yq/i1/yqi13bav9am_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- YA BENİMSİN YA TOPRAGİN HD
-https://vod02.cdn.web.tv/8c/37/8c37sdhoqvm_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- BOYNU BÜKÜK HD
-https://vod02.cdn.web.tv/nz/ng/nzngp5ucyoi_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- ELVEDA MUTLULUKLAR HD
-https://vod02.cdn.web.tv/xn/ga/xngaayeukpc_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- KALBİMDEKİ ACI
-https://vod02.cdn.web.tv/2r/6e/2r6ef84dgou_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- SON SABAH
-https://vod02.cdn.web.tv/c1/1o/c11oshiuxai_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- SENDEMİ LEYLA
-https://vod02.cdn.web.tv/mw/ty/mwtyduw5iys_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- ALLAHİM SEN BİLİRSİN
-https://vod02.cdn.web.tv/zb/rt/zbrtbfqftbc_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- AH BİR COCUK OLSAYDIM
-https://vod02.cdn.web.tv/xu/sn/xusn7hzd84u_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- BU TALIHIMIN CANINA OKUYACAGIM
-https://vod02.cdn.web.tv/do/2r/do2rwkptski_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- OLMAZ OLSUN
-https://vod02.cdn.web.tv/mk/iq/mkiq1cuodbk_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- AFET ALLAHIM
-https://vod02.cdn.web.tv/w6/f5/w6f5fagykfc_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="FERDİ TAYFUR TV",FERDI TAYFUR- GÜNAHA GİRME
-https://vod02.cdn.web.tv/wu/hp/wuhpor71fek_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNERY- MELEK YÜZLÜM
-https://vod02.cdn.web.tv/uo/oe/uooejhp0wcu_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNEY - TUTSAK HD
-https://vod02.cdn.web.tv/bg/dz/bgdztqqgeko_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNEY - NAMUS SÖZÜ HD
-https://vod02.cdn.web.tv/ia/it/iaitqp6bebc_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNEY - CANDAN SEVMELİ HD
-https://vod02.cdn.web.tv/bu/0i/bu0ihpavchi_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",BÜLET KARABAŞ - MİNİK CADİ HD
-https://vod02.cdn.web.tv/ks/yh/ksyhtljlnsc_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNEY - SANA CAN DAYANMAZ HD
-https://vod02.cdn.web.tv/wd/ca/wdca1aeklwy_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNEY - GÜNAH DEFTERİ HD
-https://vod02.cdn.web.tv/ge/c3/gec3w2xaoei_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="GÖKHAN GÜNEY TV",GÖKHAN GÜNEY - TALİH KUŞU HD
-https://vod02.cdn.web.tv/0o/ou/0oouasqgtok_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="UMİT BESEN",UMİT BESEN - YİKİLAN GURUR HD
-http://vod02.cdn.web.tv/ve/3p/ve3plrj3tcy_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="UMİT BESEN",ÜMİT BESEN - SEVDA RÜZGARİ HD
-http://vod02.cdn.web.tv/fu/a2/fua2yxu1wg6_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="MAHMUT TÜNCER",MAHMUT TÜNCER - CAN KURBAN HD
-http://vod02.cdn.web.tv/i8/pi/i8pi3seutzg_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="MAHMUT TÜNCER",MAHMUT TÜNCER - İKİMİZDE SEVDİK HD
-http://vod02.cdn.web.tv/r4/ei/r4ei1wyqidu_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="MAHMUT TÜNCER",MAHMUT TUNCER- ÜÇ GÜZEL GÜVERCİN HD
-http://vod02.cdn.web.tv/9d/q7/9dq7eh4vube_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="MAHMUT TÜNCER",MAHMUT TÜNCER - YETER HD
-http://vod02.cdn.web.tv/6r/hq/6rhq2grajqw_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH - ACILARIN COCUĞU HD
-https://vod02.cdn.web.tv/dg/py/dgpyqrqd97u_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- ACI LOKMA
-https://vod02.cdn.web.tv/r9/hs/r9hsjy4ft2s_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH-  ZAVALLILAR HD
-https://vod02.cdn.web.tv/tx/su/txsu2ku74pi_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- AYRILLAMAM HD
-https://vod02.cdn.web.tv/92/4n/924n4bcswcu_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- ÖKSÜZLER HD
-https://vod02.cdn.web.tv/nt/te/ntte6rdw0x2_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- VURMAYIN HD
-https://vod02.cdn.web.tv/cs/t4/cst4nydcxyy_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- SEFILLER HD
-https://vod02.cdn.web.tv/zf/zy/zfzyjr2043o_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- CAN EVİMDEN VURDULAR
-https://vod02.cdn.web.tv/ft/ci/ftciavwafyq_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="KÜÇÜK EMRAH ",KÜÇÜK EMRAH- ES DELİ RÜZGAR
-https://vod02.cdn.web.tv/ws/cd/wscdchbcmia_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="ARIF SUSAM" tvg-logo="",ARIF SUSAM- KADER UTANSIN
-http://vod02.cdn.web.tv/l7/yw/l7ywnfzizds_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="| TR/M | YERLI SINEMA",BEBEK GİBİ MASALLAH HD
-https://vod02.cdn.web.tv/md/9v/md9v4chkuei_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="| TR/M | YERLI SINEMA",ZAMPARA SEYFETTİN HD
-http://vod02.cdn.web.tv/cm/ie/cmieel3fqmu_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="| TR/M | YERLI SINEMA",HZ. RABİA
-https://vod02.cdn.web.tv/4x/c7/4xc7ycljxpq_,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="| TR/M | YERLI SINEMA",NASREDDİN HOCA`NIN ÇARPICI HAYAT HİKAYESİ
-http://vod02.cdn.web.tv/zw/qf/zwqffgkwhrm_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:-1 group-title="| TR/M | YERLI SINEMA",NASRETTİN HOCA - YA TUTARSA HD
-http://vod02.cdn.web.tv/xx/hw/xxhwziqisic_,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E01" group-title="Konuşanlar",Konuşanlar S04 E01
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1471268469&type=M3U8_AUTO_1080&fid=751266844063025&sign=9d2e902e677ed6b550a9e62138d1e564f49a3426&timestamp=1705774655&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E02" group-title="Konuşanlar",Konuşanlar S04 E02
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3919552587&type=M3U8_AUTO_1080&fid=588394640707038&sign=5c16725ad20dc1e41456d6786c29b1daa056e911&timestamp=1705774182&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E04" group-title="Konuşanlar",Konuşanlar S04 E04
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3325710656&type=M3U8_AUTO_1080&fid=777990062168709&sign=e9338ac08a0b7e56d40f7b15d25fc9c6120cacab&timestamp=1705783893&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E05" group-title="Konuşanlar",Konuşanlar S04 E05
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1592747934&type=M3U8_AUTO_1080&fid=325381662797105&sign=39fc05d86cef1942b5a5e12e957a7381e57393a2&timestamp=1705784009&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E06" group-title="Konuşanlar",Konuşanlar S04 E06
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3978730202&type=M3U8_AUTO_1080&fid=67338793856212&sign=ad96c5abf61a6fe6cd9258ecd0c44d4ef4545b36&timestamp=1705784135&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E07" group-title="Konuşanlar",Konuşanlar S04 E07
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=490107767&type=M3U8_AUTO_1080&fid=406279574187884&sign=2db813f7ebbbe1039ecfeb6f026fcfe741e6a77b&timestamp=1705784644&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E08" group-title="Konuşanlar",Konuşanlar S04 E08
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=2959473649&type=M3U8_AUTO_1080&fid=865218785367389&sign=6ff7f6646fc66a8282d3d3fa990c9981219eea64&timestamp=1705784773&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E09" group-title="Konuşanlar",Konuşanlar S04 E09
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=693341146&type=M3U8_AUTO_1080&fid=979053591005831&sign=6fb3eeb4f6388161b2207f9140604b93cae78003&timestamp=1705784939&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E10" group-title="Konuşanlar",Konuşanlar S04 E10
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=160631463&type=M3U8_AUTO_1080&fid=199134936567106&sign=88f9d131b34bf7b116a0e1fdf6e2f39df72ab775&timestamp=1705785064&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E11" group-title="Konuşanlar",Konuşanlar S04 E11
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3302523523&type=M3U8_AUTO_1080&fid=666920015112773&sign=6764826bc6d797f1dcf177526a5c8add3eefd315&timestamp=1705785169&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E12" group-title="Konuşanlar",Konuşanlar S04 E12
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=2594149209&type=M3U8_AUTO_1080&fid=1001351250506154&sign=02d5265295063120d5557f92a28d46622dca27d4&timestamp=1705785256&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E13" group-title="Konuşanlar",Konuşanlar S04 E13
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1075793569&type=M3U8_AUTO_1080&fid=815368836251773&sign=8f5a98dbca75b9236ff10a6f766b03dfd2caa96a&timestamp=1705599962&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2800752CFDF023163ED288D43B837A2116CA1277330649BA4EBF1B7FF600A5B3843E4514FDDAD7279D58F3279DBFC72C44&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E14" group-title="Konuşanlar",Konuşanlar S04 E14
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3566911913&type=M3U8_AUTO_1080&fid=184090517090837&sign=b55c9342029cef6f4062a1c9d9f31801a6e23714&timestamp=1705599919&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2800752CFDF023163ED288D43B837A2116CA1277330649BA4EBF1B7FF600A5B3843E4514FDDAD7279D58F3279DBFC72C44&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E15" group-title="Konuşanlar",Konuşanlar S04 E15
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=488309651&type=M3U8_AUTO_1080&fid=739429632835976&sign=f365fea13267f34dca882ad79b3ac2cd13388f06&timestamp=1705599874&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2800752CFDF023163ED288D43B837A2116CA1277330649BA4EBF1B7FF600A5B3843E4514FDDAD7279D58F3279DBFC72C44&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E16" group-title="Konuşanlar",Konuşanlar S04 E16
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=178693071&type=M3U8_AUTO_1080&fid=613361682774985&sign=f2d50ee6b65043341c0c22ad2d77a2a68590b845&timestamp=1705582792&jsToken=DF7F8D0591E248AE2B7BEF21F9B84819010F53007BBA0AF20819556C58AE5444260404DF8DF9F739C89595AF247C4E985B8724C1BF2AC8D1C28DB8648E4057D10D9B7497DB5C9D44667F58C7512EFEC541233901A1E9FA44C6AA88A517BBBF7F&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E17" group-title="Konuşanlar",Konuşanlar S04 E17
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=2175910318&type=M3U8_AUTO_1080&fid=839643931012060&sign=09e31fbc3817271969c0320c2a4b92708284721b&timestamp=1705789754&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E18" group-title="Konuşanlar",Konuşanlar S04 E18
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=328849865&type=M3U8_AUTO_1080&fid=737716449775285&sign=e16a8200ae3f5d65adfa825193b3624977f729ad&timestamp=1705789799&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E19" group-title="Konuşanlar",Konuşanlar S04 E19
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3159514476&type=M3U8_AUTO_1080&fid=780280474552555&sign=dd07f8eae36534cd5c741c51ec61bcb387742db8&timestamp=1706391227&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283B7EA6B8DABB3F372AB55E285B744C0E9A4DE5776F005582F9EA167E723245EF0F30520AB1FE77FE29ABAADC704AF32E&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E20" group-title="Konuşanlar",Konuşanlar S04 E20
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=484070209&type=M3U8_AUTO_1080&fid=699978217970364&sign=c60348ad496ee47cadf8e55a2e31fc07bfc55152&timestamp=1705785403&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" tvg-name="Konuşanlar S04 E03" group-title="Konuşanlar",Konuşanlar S04 E03
-#EXTGRP:Konuşanlar
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3614733653&type=M3U8_AUTO_1080&fid=1056598732275138&sign=d701b1fb009734b84496f45108d3a47d2426e01e&timestamp=1705783801&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 
 
 
@@ -16128,7 +15693,7 @@ http://yayin1.yayindakiler.com:3024/;
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", DOKSANLAR
 http://46.20.4.34/radyoland/doksanlar.stream/playlist.m3u8
 
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="?? RADIO / TURKEY", DOST FM Ankara
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", DOST FM Ankara
 http://yayin.dostfm.com:8920/;
 
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", DUY FM
@@ -17485,7 +17050,7 @@ https://anadolu.liderhost.com.tr:10924/;
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", YILDIZ FM
 http://radyo.yayin.com.tr:5940/;
 
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", YOLCU FM
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="?? RADIO / TURKEY", YOLCU FM
 https://ssl123.ozelip.com/8046/stream
 
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", YOZ DUYGUSAL FM
@@ -18555,5 +18120,307 @@ https://2937ba9c0c3e46babadc32c327b710b5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="DE| ACTIONFILME - RAKUTEN TV" tvg-logo="http://103.176.90.118/picons/logos/logos/SamsungTVPlus.png" group-title="DE| SAMSUNG GERMANY",DE| ACTIONFILME - RAKUTEN TV
 https://e4c3186527294735b034e99058776780.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=431&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
+#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/de.xml.gz"
+#https://helmerluzo.github.io/SamsungTVPlus_HL/tv/m3u/SamsungTVPlus_tv_DE.m3u
+#EXTINF:-1 tvg-id="DEBA1000003IM" tvg-name="DEBA1000003IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000003IM_20241106T142740SQUARE.png" group-title="News" , Euronews Live
+https://jmp2.uk/sam-DEBA1000003IM.m3u8
+#EXTINF:-1 tvg-id="DEBD800001S4" tvg-name="DEBD800001S4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD800001S4_20230308T021608SQUARE.png_20230308021608.png" group-title="News" , CNN
+https://jmp2.uk/sam-DEBD800001S4.m3u8
+#EXTINF:-1 tvg-id="DEBD19000012M" tvg-name="DEBD19000012M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD19000012M_20240827T041048SQUARE.png" group-title="News" , CNN FAST
+https://jmp2.uk/sam-DEBD19000012M.m3u8
+#EXTINF:-1 tvg-id="DEBD1100002II" tvg-name="DEBD1100002II" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1100002II_20230823T033041SQUARE.png_20230823033041.png" group-title="News" , FRANCE 24 FAST
+https://jmp2.uk/sam-DEBD1100002II.m3u8
+#EXTINF:-1 tvg-id="DEBA3300027ZJ" tvg-name="DEBA3300027ZJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300027ZJ_20221026T004408SQUARE.png_20221026004409.png" group-title="News" , Bloomberg TV+
+https://jmp2.uk/sam-DEBA3300027ZJ.m3u8
+#EXTINF:-1 tvg-id="DEBD4900001QV" tvg-name="DEBD4900001QV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4900001QV_20240131T031117SQUARE.png_20240131031117.png" group-title="News" , Reuters
+https://jmp2.uk/sam-DEBD4900001QV.m3u8
+#EXTINF:-1 tvg-id="DEAJ0500413A" tvg-name="DEAJ0500413A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500413A_20240321T045855SQUARE.png" group-title="News" , Focus TV
+https://jmp2.uk/sam-DEAJ0500413A.m3u8
+#EXTINF:-1 tvg-id="DE7000028I" tvg-name="DE7000028I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE7000028I_20240521T042549SQUARE.png" group-title="News" , SPIEGEL TV
+https://jmp2.uk/sam-DE7000028I.m3u8
+#EXTINF:-1 tvg-id="DEBC4700002Z2" tvg-name="DEBC4700002Z2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20241106T142745SQUARE.png" group-title="Unterhaltung" , Entertainment Mix
+https://jmp2.uk/sam-DEBC4700002Z2.m3u8
+#EXTINF:-1 tvg-id="DEBC3000002Z5" tvg-name="DEBC3000002Z5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000002Z5_20241112T094039SQUARE.png" group-title="Unterhaltung" , Comedy Mix
+https://jmp2.uk/sam-DEBC3000002Z5.m3u8
+#EXTINF:-1 tvg-id="DEBD3700001YD" tvg-name="DEBD3700001YD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700001YD_20241112T094053SQUARE.png" group-title="Unterhaltung" , X-MAS Mix
+https://jmp2.uk/sam-DEBD3700001YD.m3u8
+#EXTINF:-1 tvg-id="DEBD30000014M" tvg-name="DEBD30000014M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20231011T082439SQUARE.png_20231011082440.png" group-title="Unterhaltung" , Bares für Rares
+https://jmp2.uk/sam-DEBD30000014M.m3u8
+#EXTINF:-1 tvg-id="DE40000191" tvg-name="DE40000191" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE40000191_20240319T052619SQUARE.png" group-title="Unterhaltung" , The Graham Norton Show
+https://jmp2.uk/sam-DE40000191.m3u8
+#EXTINF:-1 tvg-id="DEBD2700004YR" tvg-name="DEBD2700004YR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700004YR_20240507T094127SQUARE.png" group-title="Unterhaltung" , Freitag Nacht News
+https://jmp2.uk/sam-DEBD2700004YR.m3u8
+#EXTINF:-1 tvg-id="DEAK3504502A" tvg-name="DEAK3504502A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504502A_20221026T004357SQUARE.png_20221026004358.png" group-title="Unterhaltung" , MTV Catfish
+https://jmp2.uk/sam-DEAK3504502A.m3u8
+#EXTINF:-1 tvg-id="DEBC47000055Z" tvg-name="DEBC47000055Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC47000055Z_20240910T050506SQUARE.png" group-title="Unterhaltung" , Hell's Kitchen
+https://jmp2.uk/sam-DEBC47000055Z.m3u8
+#EXTINF:-1 tvg-id="DE3000016Q" tvg-name="DE3000016Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3000016Q_20240423T034130SQUARE.png" group-title="Unterhaltung" , Sony One Comedy TV
+https://jmp2.uk/sam-DE3000016Q.m3u8
+#EXTINF:-1 tvg-id="DE300003AV" tvg-name="DE300003AV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300003AV_20240423T034133SQUARE.png" group-title="Unterhaltung" , Sony One Thriller TV
+https://jmp2.uk/sam-DE300003AV.m3u8
+#EXTINF:-1 tvg-id="DE300005NB" tvg-name="DE300005NB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300005NB_20241106T142754SQUARE.png" group-title="Unterhaltung" , Sony One Best Of
+https://jmp2.uk/sam-DE300005NB.m3u8
+#EXTINF:-1 tvg-id="DEBA33000038I" tvg-name="DEBA33000038I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000038I_20240827T041106SQUARE.png" group-title="Unterhaltung" , Pluto TV - Star Trek
+https://jmp2.uk/sam-DEBA33000038I.m3u8
+#EXTINF:-1 tvg-id="DEAJ3200005JH" tvg-name="DEAJ3200005JH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3200005JH_20230222T012111SQUARE.png_20230222012112.png" group-title="Unterhaltung" , The Pet Collective
+https://jmp2.uk/sam-DEAJ3200005JH.m3u8
+#EXTINF:-1 tvg-id="DEAJ3200004UF" tvg-name="DEAJ3200004UF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3200004UF_20240313T073205SQUARE.png" group-title="Unterhaltung" , FailArmy
+https://jmp2.uk/sam-DEAJ3200004UF.m3u8
+#EXTINF:-1 tvg-id="DE31000011V" tvg-name="DE31000011V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE31000011V_20240924T050807SQUARE.png" group-title="Unterhaltung" , LOL Comedy Ha!
+https://jmp2.uk/sam-DE31000011V.m3u8
+#EXTINF:-1 tvg-id="DEBA3300038NO" tvg-name="DEBA3300038NO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300038NO_20241030T135602SQUARE.png" group-title="Unterhaltung" , Craction TV
+https://jmp2.uk/sam-DEBA3300038NO.m3u8
+#EXTINF:-1 tvg-id="DEAK3504500A" tvg-name="DEAK3504500A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504500A_20221026T004354SQUARE.png_20221026004355.png" group-title="Unterhaltung" , Comedy Central Pluto TV
+https://jmp2.uk/sam-DEAK3504500A.m3u8
+#EXTINF:-1 tvg-id="DEAJ7000105I" tvg-name="DEAJ7000105I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000105I_20220323T072040SQUARE.png_20220323072043.png" group-title="Unterhaltung" , MTV Teen Mom
+https://jmp2.uk/sam-DEAJ7000105I.m3u8
+#EXTINF:-1 tvg-id="DEAJ3500005RK" tvg-name="DEAJ3500005RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500005RK_20220323T072130SQUARE.png_20220323072133.png" group-title="Unterhaltung" , People Are Awesome
+https://jmp2.uk/sam-DEAJ3500005RK.m3u8
+#EXTINF:-1 tvg-id="DEAJ7000033P" tvg-name="DEAJ7000033P" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000033P_20220323T072034SQUARE.png_20220323072037.png" group-title="Unterhaltung" , MTV Pluto TV
+https://jmp2.uk/sam-DEAJ7000033P.m3u8
+#EXTINF:-1 tvg-id="DEBC2200002E7" tvg-name="DEBC2200002E7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200002E7_20231025T032858SQUARE.png_20231025032859.png" group-title="Unterhaltung" , Comedy & Shows
+https://jmp2.uk/sam-DEBC2200002E7.m3u8
+#EXTINF:-1 tvg-id="DEBC2200003Z3" tvg-name="DEBC2200003Z3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200003Z3_20230809T053743SQUARE.png_20230809053744.png" group-title="Unterhaltung" , Stars in Gefahr
+https://jmp2.uk/sam-DEBC2200003Z3.m3u8
+#EXTINF:-1 tvg-id="DEBD2400001PC" tvg-name="DEBD2400001PC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2400001PC_20240507T094129SQUARE.png" group-title="Unterhaltung" , Out TV
+https://jmp2.uk/sam-DEBD2400001PC.m3u8
+#EXTINF:-1 tvg-id="DEBA3300019EB" tvg-name="DEBA3300019EB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20240925T141736SQUARE.png" group-title="Sport" , FIFA+
+https://jmp2.uk/sam-DEBA3300019EB.m3u8
+#EXTINF:-1 tvg-id="DEBC470000128" tvg-name="DEBC470000128" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC470000128_20241112T094043SQUARE.png" group-title="Sport" , DAZN FAST+
+https://jmp2.uk/sam-DEBC470000128.m3u8
+#EXTINF:-1 tvg-id="DEBD700001C5" tvg-name="DEBD700001C5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD700001C5_20241106T142803SQUARE.png" group-title="Sport" , DAZN Rise
+https://jmp2.uk/sam-DEBD700001C5.m3u8
+#EXTINF:-1 tvg-id="DEBC2300001EU" tvg-name="DEBC2300001EU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20241106T142748SQUARE.png" group-title="Sport" , Red Bull TV
+https://jmp2.uk/sam-DEBC2300001EU.m3u8
+#EXTINF:-1 tvg-id="DEBD260000692" tvg-name="DEBD260000692" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD260000692_20231213T033336SQUARE.png_20231213033337.png" group-title="Sport" , Scooore
+https://jmp2.uk/sam-DEBD260000692.m3u8
+#EXTINF:-1 tvg-id="DEBD29000013S" tvg-name="DEBD29000013S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD29000013S_20230926T032246SQUARE.png_20230926032246.png" group-title="Sport" , World Poker Tour
+https://jmp2.uk/sam-DEBD29000013S.m3u8
+#EXTINF:-1 tvg-id="DEAJ0500429A" tvg-name="DEAJ0500429A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20240611T061010SQUARE.png" group-title="Sport" , Sportdigital Free
+https://jmp2.uk/sam-DEAJ0500429A.m3u8
+#EXTINF:-1 tvg-id="DEBA2200008NL" tvg-name="DEBA2200008NL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200008NL_20240911T162847SQUARE.png" group-title="Sport" , Tennis Channel Deutschland
+https://jmp2.uk/sam-DEBA2200008NL.m3u8
+#EXTINF:-1 tvg-id="DEBA3300016EV" tvg-name="DEBA3300016EV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300016EV_20240905T090252SQUARE.png" group-title="Sport" , Strongman Champions League
+https://jmp2.uk/sam-DEBA3300016EV.m3u8
+#EXTINF:-1 tvg-id="DE37000038D" tvg-name="DE37000038D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20241112T094036SQUARE.png" group-title="Lifestyle" , ZDF zu Hause
+https://jmp2.uk/sam-DE37000038D.m3u8
+#EXTINF:-1 tvg-id="DE1100002WN" tvg-name="DE1100002WN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100002WN_20240709T045047SQUARE.png" group-title="Lifestyle" , The Diary Of A CEO
+https://jmp2.uk/sam-DE1100002WN.m3u8
+#EXTINF:-1 tvg-id="DE2900001W0" tvg-name="DE2900001W0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2900001W0_20240924T050800SQUARE.png" group-title="Lifestyle" , BBC Travel
+https://jmp2.uk/sam-DE2900001W0.m3u8
+#EXTINF:-1 tvg-id="DE1100001CQ" tvg-name="DE1100001CQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100001CQ_20241016T141140SQUARE.png" group-title="Lifestyle" , Landlust TV
+https://jmp2.uk/sam-DE1100001CQ.m3u8
+#EXTINF:-1 tvg-id="DEBD1900002CB" tvg-name="DEBD1900002CB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1900002CB_20241210T051733SQUARE.png" group-title="Lifestyle" , Crime Time
+https://jmp2.uk/sam-DEBD1900002CB.m3u8
+#EXTINF:-1 tvg-id="DEBD1500001VJ" tvg-name="DEBD1500001VJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1500001VJ_20241112T094028SQUARE.png" group-title="Lifestyle" , Kaminfeuer
+https://jmp2.uk/sam-DEBD1500001VJ.m3u8
+#EXTINF:-1 tvg-id="DEAJ0500428A" tvg-name="DEAJ0500428A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500428A_20240321T045921SQUARE.png" group-title="Lifestyle" , just.fishing
+https://jmp2.uk/sam-DEAJ0500428A.m3u8
+#EXTINF:-1 tvg-id="DEAJ0500422A" tvg-name="DEAJ0500422A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500422A_20241023T143620SQUARE.png" group-title="Lifestyle" , Xplore
+https://jmp2.uk/sam-DEAJ0500422A.m3u8
+#EXTINF:-1 tvg-id="DEBD2700003W5" tvg-name="DEBD2700003W5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700003W5_20240313T073207SQUARE.png" group-title="Lifestyle" , Royalworld - Adel & Dynastien
+https://jmp2.uk/sam-DEBD2700003W5.m3u8
+#EXTINF:-1 tvg-id="DEAJ0500424A" tvg-name="DEAJ0500424A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500424A_20241030T135559SQUARE.png" group-title="Lifestyle" , Hip Trips
+https://jmp2.uk/sam-DEAJ0500424A.m3u8
+#EXTINF:-1 tvg-id="DEBA3300022IF" tvg-name="DEBA3300022IF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300022IF_20220323T071939SQUARE.png_20220323071942.png" group-title="Lifestyle" , Fashion TV
+https://jmp2.uk/sam-DEBA3300022IF.m3u8
+#EXTINF:-1 tvg-id="DEBD4700001UN" tvg-name="DEBD4700001UN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4700001UN_20241030T135522SQUARE.png" group-title="Kinder" , LooLoo Kids
+https://jmp2.uk/sam-DEBD4700001UN.m3u8
+#EXTINF:-1 tvg-id="DEBA3300023IR" tvg-name="DEBA3300023IR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300023IR_20241030T135529SQUARE.png" group-title="Kinder" , Teletubbies
+https://jmp2.uk/sam-DEBA3300023IR.m3u8
+#EXTINF:-1 tvg-id="DE3900001WX" tvg-name="DE3900001WX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3900001WX_20241112T094046SQUARE.png" group-title="Kinder" , Emily Erdbeer
+https://jmp2.uk/sam-DE3900001WX.m3u8
+#EXTINF:-1 tvg-id="DE3200003U8" tvg-name="DE3200003U8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200003U8_20241030T135540SQUARE.png" group-title="Kinder" , StoryZoo & Friends
+https://jmp2.uk/sam-DE3200003U8.m3u8
+#EXTINF:-1 tvg-id="DEBD5100001XP" tvg-name="DEBD5100001XP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD5100001XP_20241030T135532SQUARE.png" group-title="Kinder" , SuperToons TV
+https://jmp2.uk/sam-DEBD5100001XP.m3u8
+#EXTINF:-1 tvg-id="DE700001BN" tvg-name="DE700001BN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE700001BN_20241030T135538SQUARE.png" group-title="Kinder" , Pocoyo
+https://jmp2.uk/sam-DE700001BN.m3u8
+#EXTINF:-1 tvg-id="DE26000085Y" tvg-name="DE26000085Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE26000085Y_20241126T043031SQUARE.png" group-title="Kinder" , 100% Weihnachten - Rakuten TV
+https://jmp2.uk/sam-DE26000085Y.m3u8
+#EXTINF:-1 tvg-id="DEAJ70000561" tvg-name="DEAJ70000561" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ70000561_20241030T135516SQUARE.png" group-title="Kinder" , SpongeBob Schwammkopf
+https://jmp2.uk/sam-DEAJ70000561.m3u8
+#EXTINF:-1 tvg-id="DEAJ700004BT" tvg-name="DEAJ700004BT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700004BT_20231011T082437SQUARE.png_20231011082438.png" group-title="Kinder" , Teen Nick
+https://jmp2.uk/sam-DEAJ700004BT.m3u8
+#EXTINF:-1 tvg-id="DEAJ700002N8" tvg-name="DEAJ700002N8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700002N8_20221026T004347SQUARE.png_20221026004348.png" group-title="Kinder" , Nick Pluto TV
+https://jmp2.uk/sam-DEAJ700002N8.m3u8
+#EXTINF:-1 tvg-id="DEAJ700006MR" tvg-name="DEAJ700006MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700006MR_20241030T135519SQUARE.png" group-title="Kinder" , iCarly
+https://jmp2.uk/sam-DEAJ700006MR.m3u8
+#EXTINF:-1 tvg-id="DE2000004BG" tvg-name="DE2000004BG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000004BG_20241030T135535SQUARE.png" group-title="Kinder" , CAR CITY ADVENTURES
+https://jmp2.uk/sam-DE2000004BG.m3u8
+#EXTINF:-1 tvg-id="DEBC4700007JV" tvg-name="DEBC4700007JV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700007JV_20221214T045041SQUARE.png_20221214045042.png" group-title="Kinder" , duckTV
+https://jmp2.uk/sam-DEBC4700007JV.m3u8
+#EXTINF:-1 tvg-id="DEBA3300040CR" tvg-name="DEBA3300040CR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300040CR_20241210T052559SQUARE.png" group-title="Filme" , Moviedome Family
+https://jmp2.uk/sam-DEBA3300040CR.m3u8
+#EXTINF:-1 tvg-id="DE200001XV" tvg-name="DE200001XV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200001XV_20241030T135458SQUARE.png" group-title="Filme" , Starke Frauen
+https://jmp2.uk/sam-DE200001XV.m3u8
+#EXTINF:-1 tvg-id="DEBD5000001VL" tvg-name="DEBD5000001VL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD5000001VL_20241030T135452SQUARE.png" group-title="Filme" , Top Filme
+https://jmp2.uk/sam-DEBD5000001VL.m3u8
+#EXTINF:-1 tvg-id="DEBC35000020P" tvg-name="DEBC35000020P" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC35000020P_20241030T135455SQUARE.png" group-title="Filme" , Filmgold
+https://jmp2.uk/sam-DEBC35000020P.m3u8
+#EXTINF:-1 tvg-id="DEBA3300034HH" tvg-name="DEBA3300034HH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300034HH_20240911T162955SQUARE.png" group-title="Filme" , wedo movies
+https://jmp2.uk/sam-DEBA3300034HH.m3u8
+#EXTINF:-1 tvg-id="DEBA15000130L" tvg-name="DEBA15000130L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000130L_20240925T141818SQUARE.png" group-title="Filme" , Fabella
+https://jmp2.uk/sam-DEBA15000130L.m3u8
+#EXTINF:-1 tvg-id="DEAJ0500419A" tvg-name="DEAJ0500419A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500419A_20241030T135500SQUARE.png" group-title="Filme" , Netzkino
+https://jmp2.uk/sam-DEAJ0500419A.m3u8
+#EXTINF:-1 tvg-id="DEAK3504517A" tvg-name="DEAK3504517A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504517A_20220323T075105SQUARE.png_20220323075108.png" group-title="Filme" , Pluto TV Movies
+https://jmp2.uk/sam-DEAK3504517A.m3u8
+#EXTINF:-1 tvg-id="DEBA1500011RJ" tvg-name="DEBA1500011RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500011RJ_20240830T142634SQUARE.png" group-title="Filme" , Fantasja
+https://jmp2.uk/sam-DEBA1500011RJ.m3u8
+#EXTINF:-1 tvg-id="DEAK0500449A" tvg-name="DEAK0500449A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500449A_20240925T141835SQUARE.png" group-title="Filme" , Grjngo
+https://jmp2.uk/sam-DEAK0500449A.m3u8
+#EXTINF:-1 tvg-id="DEBA1500024PZ" tvg-name="DEBA1500024PZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500024PZ_20240321T045901SQUARE.png" group-title="Filme" , Heimatkino
+https://jmp2.uk/sam-DEBA1500024PZ.m3u8
+#EXTINF:-1 tvg-id="DE30000067I" tvg-name="DE30000067I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE30000067I_20241022T050655SQUARE.png" group-title="Filme" , Deutsches Kino - Rakuten TV
+https://jmp2.uk/sam-DE30000067I.m3u8
+#EXTINF:-1 tvg-id="DEBA3300039TT" tvg-name="DEBA3300039TT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300039TT_20241210T052556SQUARE.png" group-title="Filme" , Moviedome
+https://jmp2.uk/sam-DEBA3300039TT.m3u8
+#EXTINF:-1 tvg-id="DE1900001NT" tvg-name="DE1900001NT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1900001NT_20240827T041043SQUARE.png" group-title="Filme" , Himmlisches Kino
+https://jmp2.uk/sam-DE1900001NT.m3u8
+#EXTINF:-1 tvg-id="DE30000489" tvg-name="DE30000489" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE30000489_20240423T034123SQUARE.png" group-title="Filme" , Sony One Action HITS
+https://jmp2.uk/sam-DE30000489.m3u8
+#EXTINF:-1 tvg-id="DE300002CL" tvg-name="DE300002CL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300002CL_20241126T043040SQUARE.png" group-title="Filme" , Sony One Comedy HITS
+https://jmp2.uk/sam-DE300002CL.m3u8
+#EXTINF:-1 tvg-id="DE4000002I3" tvg-name="DE4000002I3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4000002I3_20241126T150804SQUARE.png" group-title="Filme" , Moviesphere by Lionsgate
+https://jmp2.uk/sam-DE4000002I3.m3u8
+#EXTINF:-1 tvg-id="DE2400001DK" tvg-name="DE2400001DK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2400001DK_20241126T043029SQUARE.png" group-title="Filme" , DDR TV-Archiv
+https://jmp2.uk/sam-DE2400001DK.m3u8
+#EXTINF:-1 tvg-id="DEBD2700002MZ" tvg-name="DEBD2700002MZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700002MZ_20240131T031123SQUARE.png_20240131031124.png" group-title="Filme" , alleskino
+https://jmp2.uk/sam-DEBD2700002MZ.m3u8
+#EXTINF:-1 tvg-id="DEAK0500448A" tvg-name="DEAK0500448A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500448A_20240925T141829SQUARE.png" group-title="Filme" , Artflix
+https://jmp2.uk/sam-DEAK0500448A.m3u8
+#EXTINF:-1 tvg-id="DE2300002KX" tvg-name="DE2300002KX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2300002KX_20240709T045051SQUARE.png" group-title="Filme" , Top Sci-Fi
+https://jmp2.uk/sam-DE2300002KX.m3u8
+#EXTINF:-1 tvg-id="DE2600006H2" tvg-name="DE2600006H2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600006H2_20241022T050657SQUARE.png" group-title="Filme" , Komödien - Rakuten TV
+https://jmp2.uk/sam-DE2600006H2.m3u8
+#EXTINF:-1 tvg-id="DEBA3300032UV" tvg-name="DEBA3300032UV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300032UV_20241210T052604SQUARE.png" group-title="Filme" , MyTime Movie Network
+https://jmp2.uk/sam-DEBA3300032UV.m3u8
+#EXTINF:-1 tvg-id="DE26000096S" tvg-name="DE26000096S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE26000096S_20240827T041109SQUARE.png" group-title="Filme" , Top Filme - Rakuten TV
+https://jmp2.uk/sam-DE26000096S.m3u8
+#EXTINF:-1 tvg-id="DEBD2700001ID" tvg-name="DEBD2700001ID" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700001ID_20231115T012104SQUARE.png_20231115012104.png" group-title="Filme" , DEFA TV
+https://jmp2.uk/sam-DEBD2700001ID.m3u8
+#EXTINF:-1 tvg-id="DE1200001JW" tvg-name="DE1200001JW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1200001JW_20241015T034951SQUARE.png" group-title="Filme" , Free Comedy
+https://jmp2.uk/sam-DE1200001JW.m3u8
+#EXTINF:-1 tvg-id="DE2600007ET" tvg-name="DE2600007ET" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600007ET_20240924T050804SQUARE.png" group-title="Filme" , Drama Filme - Rakuten TV
+https://jmp2.uk/sam-DE2600007ET.m3u8
+#EXTINF:-1 tvg-id="DE2600005XA" tvg-name="DE2600005XA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600005XA_20240827T041057SQUARE.png" group-title="Filme" , Actionfilme - Rakuten TV
+https://jmp2.uk/sam-DE2600005XA.m3u8
+#EXTINF:-1 tvg-id="DEBC2100001ZJ" tvg-name="DEBC2100001ZJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2100001ZJ_20240925T141739SQUARE.png" group-title="Musik" , Vevo Pop
+https://jmp2.uk/sam-DEBC2100001ZJ.m3u8
+#EXTINF:-1 tvg-id="DEBD3800001QD" tvg-name="DEBD3800001QD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3800001QD_20240131T032211SQUARE.png_20240131032211.png" group-title="Musik" , DELUXE RAP
+https://jmp2.uk/sam-DEBD3800001QD.m3u8
+#EXTINF:-1 tvg-id="DE23000015Y" tvg-name="DE23000015Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE23000015Y_20240924T050750SQUARE.png" group-title="Musik" , Deluxe Dance By Kontor
+https://jmp2.uk/sam-DE23000015Y.m3u8
+#EXTINF:-1 tvg-id="DEBC21000022L" tvg-name="DEBC21000022L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20230412T042621SQUARE.png_20230412042621.png" group-title="Musik" , Vevo Schlager Pop
+https://jmp2.uk/sam-DEBC21000022L.m3u8
+#EXTINF:-1 tvg-id="DEBA2200007V6" tvg-name="DEBA2200007V6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20241030T135552SQUARE.png" group-title="Musik" , XITE Hits
+https://jmp2.uk/sam-DEBA2200007V6.m3u8
+#EXTINF:-1 tvg-id="DE3900002R1" tvg-name="DE3900002R1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3900002R1_20241105T025318SQUARE.png" group-title="Musik" , K-POP by CJ ENM
+https://jmp2.uk/sam-DE3900002R1.m3u8
+#EXTINF:-1 tvg-id="DEBA150003050" tvg-name="DEBA150003050" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20240321T045923SQUARE.png" group-title="Musik" , Deluxe Deutschpop
+https://jmp2.uk/sam-DEBA150003050.m3u8
+#EXTINF:-1 tvg-id="DE2500001DO" tvg-name="DE2500001DO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2500001DO_20240815T004655SQUARE.png" group-title="Musik" , Cool Summer Channel
+https://jmp2.uk/sam-DE2500001DO.m3u8
+#EXTINF:-1 tvg-id="DEAH3904006A" tvg-name="DEAH3904006A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20240321T045850SQUARE.png" group-title="Musik" , Deluxe Lounge HD
+https://jmp2.uk/sam-DEAH3904006A.m3u8
+#EXTINF:-1 tvg-id="DEAK0500445A" tvg-name="DEAK0500445A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500445A_20240918T132255SQUARE.png" group-title="Musik" , GoldStar TV
+https://jmp2.uk/sam-DEAK0500445A.m3u8
+#EXTINF:-1 tvg-id="DEBA3300030O1" tvg-name="DEBA3300030O1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300030O1_20230614T005701SQUARE.png_20230614005702.png" group-title="Musik" , Trace Urban
+https://jmp2.uk/sam-DEBA3300030O1.m3u8
+#EXTINF:-1 tvg-id="DEBD3000002SI" tvg-name="DEBD3000002SI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3000002SI_20240611T061015SQUARE.png" group-title="Musik" , XITE Rock X Metal
+https://jmp2.uk/sam-DEBD3000002SI.m3u8
+#EXTINF:-1 tvg-id="DE2600004U3" tvg-name="DE2600004U3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600004U3_20241210T052610SQUARE.png" group-title="Serien" , Crime Serien - Rakuten TV
+https://jmp2.uk/sam-DE2600004U3.m3u8
+#EXTINF:-1 tvg-id="DEAK3504508A" tvg-name="DEAK3504508A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504508A_20230809T053737SQUARE.png_20230809053738.png" group-title="Serien" , Pluto TV Sitcoms
+https://jmp2.uk/sam-DEAK3504508A.m3u8
+#EXTINF:-1 tvg-id="DE3700004DM" tvg-name="DE3700004DM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700004DM_20241210T052614SQUARE.png" group-title="Serien" , Heartland
+https://jmp2.uk/sam-DE3700004DM.m3u8
+#EXTINF:-1 tvg-id="DEBD26000020X" tvg-name="DEBD26000020X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20241015T034946SQUARE.png" group-title="Serien" , Baywatch
+https://jmp2.uk/sam-DEBD26000020X.m3u8
+#EXTINF:-1 tvg-id="DE33000013J" tvg-name="DE33000013J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE33000013J_20241023T143613SQUARE.png" group-title="Serien" , Lindenstraße
+https://jmp2.uk/sam-DE33000013J.m3u8
+#EXTINF:-1 tvg-id="DEAJ700007OT" tvg-name="DEAJ700007OT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700007OT_20230809T053735SQUARE.png_20230809053736.png" group-title="Serien" , Pluto TV Serie
+https://jmp2.uk/sam-DEAJ700007OT.m3u8
+#EXTINF:-1 tvg-id="DE4300001HK" tvg-name="DE4300001HK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300001HK_20241126T043034SQUARE.png" group-title="Serien" , ARD Plus Krimi
+https://jmp2.uk/sam-DE4300001HK.m3u8
+#EXTINF:-1 tvg-id="DEBC2200001EO" tvg-name="DEBC2200001EO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200001EO_20230809T053741SQUARE.png_20230809053742.png" group-title="Serien" , Spannung & Emotionen
+https://jmp2.uk/sam-DEBC2200001EO.m3u8
+#EXTINF:-1 tvg-id="DEAJ2900003CN" tvg-name="DEAJ2900003CN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900003CN_20230913T030540SQUARE.png_20230913030541.png" group-title="Serien" , Zee One
+https://jmp2.uk/sam-DEAJ2900003CN.m3u8
+#EXTINF:-1 tvg-id="DEBD4100001ZB" tvg-name="DEBD4100001ZB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4100001ZB_20240709T045045SQUARE.png" group-title="Serien" , Merhaba Türkische Serien
+https://jmp2.uk/sam-DEBD4100001ZB.m3u8
+#EXTINF:-1 tvg-id="DEBB3100001AR" tvg-name="DEBB3100001AR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBB3100001AR_20240925T141733SQUARE.png" group-title="Serien" , Crime Mix
+https://jmp2.uk/sam-DEBB3100001AR.m3u8
+#EXTINF:-1 tvg-id="DEBC3000003IG" tvg-name="DEBC3000003IG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000003IG_20241106T142757SQUARE.png" group-title="Dokus" , Terra X
+https://jmp2.uk/sam-DEBC3000003IG.m3u8
+#EXTINF:-1 tvg-id="DEAJ2900001NG" tvg-name="DEAJ2900001NG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900001NG_20241106T142729SQUARE.png" group-title="Dokus" , SPIEGEL TV Konflikte
+https://jmp2.uk/sam-DEAJ2900001NG.m3u8
+#EXTINF:-1 tvg-id="DEBC220000422" tvg-name="DEBC220000422" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20230412T042631SQUARE.png_20230412042631.png" group-title="Dokus" , The Wicked Tuna Channel
+https://jmp2.uk/sam-DEBC220000422.m3u8
+#EXTINF:-1 tvg-id="DEBA3300014CV" tvg-name="DEBA3300014CV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300014CV_20241023T143623SQUARE.png" group-title="Dokus" , CURIOSITY Now
+https://jmp2.uk/sam-DEBA3300014CV.m3u8
+#EXTINF:-1 tvg-id="DEAJ700008WL" tvg-name="DEAJ700008WL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700008WL_20220323T072155SQUARE.png_20220323072157.png" group-title="Dokus" , Pluto TV Paranormal
+https://jmp2.uk/sam-DEAJ700008WL.m3u8
+#EXTINF:-1 tvg-id="DE2900003ED" tvg-name="DE2900003ED" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2900003ED_20240924T050757SQUARE.png" group-title="Dokus" , BBC History
+https://jmp2.uk/sam-DE2900003ED.m3u8
+#EXTINF:-1 tvg-id="DEAK0500450A" tvg-name="DEAK0500450A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500450A_20241106T142800SQUARE.png" group-title="Dokus" , Tempora
+https://jmp2.uk/sam-DEAK0500450A.m3u8
+#EXTINF:-1 tvg-id="DEAJ7000096L" tvg-name="DEAJ7000096L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000096L_20220323T072004SQUARE.png_20220323072007.png" group-title="Dokus" , Ice Pilots
+https://jmp2.uk/sam-DEAJ7000096L.m3u8
+#EXTINF:-1 tvg-id="DEAK3504506A" tvg-name="DEAK3504506A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504506A_20220914T041104SQUARE.png_20220914041105.png" group-title="Dokus" , Pluto TV Science
+https://jmp2.uk/sam-DEAK3504506A.m3u8
+#EXTINF:-1 tvg-id="DEBA15000298V" tvg-name="DEBA15000298V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000298V_20241105T025115SQUARE.png" group-title="Dokus" , Höhenrausch
+https://jmp2.uk/sam-DEBA15000298V.m3u8
+#EXTINF:-1 tvg-id="DEBC4700004VZ" tvg-name="DEBC4700004VZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700004VZ_20240131T031111SQUARE.png_20240131031112.png" group-title="Dokus" , Love the Planet
+https://jmp2.uk/sam-DEBC4700004VZ.m3u8
+#EXTINF:-1 tvg-id="DEBA1500009ZY" tvg-name="DEBA1500009ZY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500009ZY_20241126T043026SQUARE.png" group-title="Dokus" , Moconomy
+https://jmp2.uk/sam-DEBA1500009ZY.m3u8
+#EXTINF:-1 tvg-id="DE3200001RI" tvg-name="DE3200001RI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20241023T143603SQUARE.png" group-title="Natur" , BBC Earth
+https://jmp2.uk/sam-DE3200001RI.m3u8
+#EXTINF:-1 tvg-id="DE3700001F7" tvg-name="DE3700001F7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700001F7_20241023T143615SQUARE.png" group-title="Natur" , Fluss Monsters
+https://jmp2.uk/sam-DE3700001F7.m3u8
+#EXTINF:-1 tvg-id="DEBA3300042XG" tvg-name="DEBA3300042XG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20241023T143608SQUARE.png" group-title="Natur" , Wilder Planet
+https://jmp2.uk/sam-DEBA3300042XG.m3u8
+#EXTINF:-1 tvg-id="DEAJ0500423A" tvg-name="DEAJ0500423A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500423A_20241106T142806SQUARE.png" group-title="Natur" , Tierwelt
+https://jmp2.uk/sam-DEAJ0500423A.m3u8
+#EXTINF:-1 tvg-id="DEAJ32000012H" tvg-name="DEAJ32000012H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ32000012H_20241106T142751SQUARE.png" group-title="Natur" , Terra Mater WILD
+https://jmp2.uk/sam-DEAJ32000012H.m3u8
+#EXTINF:-1 tvg-id="DEAK3504503A" tvg-name="DEAK3504503A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504503A_20221026T004359SQUARE.png_20221026004359.png" group-title="Natur" , Pluto TV Animals
+https://jmp2.uk/sam-DEAK3504503A.m3u8
+#EXTINF:-1 tvg-id="DEBA15000227H" tvg-name="DEBA15000227H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000227H_20240321T045910SQUARE.png" group-title="Natur" , One Terra
+https://jmp2.uk/sam-DEBA15000227H.m3u8
+#EXTINF:-1 tvg-id="DEBD5000002EW" tvg-name="DEBD5000002EW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD5000002EW_20240131T031121SQUARE.png_20240131031122.png" group-title="Extremsport" , World of Freesports - WoF
+https://jmp2.uk/sam-DEBD5000002EW.m3u8
+#EXTINF:-1 tvg-id="DEBD3700002HO" tvg-name="DEBD3700002HO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20241112T094055SQUARE.png" group-title="Essen & Trinken" , ZDF kocht!
+https://jmp2.uk/sam-DEBD3700002HO.m3u8
+#EXTINF:-1 tvg-id="DE200003PX" tvg-name="DE200003PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20241112T094051SQUARE.png" group-title="Essen & Trinken" , The Jamie Oliver Channel
+https://jmp2.uk/sam-DE200003PX.m3u8
+#EXTINF:-1 tvg-id="DE2900002Z8" tvg-name="DE2900002Z8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2900002Z8_20240924T050754SQUARE.png" group-title="Essen & Trinken" , BBC Food
+https://jmp2.uk/sam-DE2900002Z8.m3u8
+#EXTINF:-1 tvg-id="DEBA3300001L9" tvg-name="DEBA3300001L9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300001L9_20220323T072142SQUARE.png_20220323072145.png" group-title="Essen & Trinken" , Pluto TV Food
+https://jmp2.uk/sam-DEBA3300001L9.m3u8
+#EXTINF:-1 tvg-id="DEAK0500439A" tvg-name="DEAK0500439A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500439A_20241106T142743SQUARE.png" group-title="Essen & Trinken" , Just Cooking
+https://jmp2.uk/sam-DEAK0500439A.m3u8
+#EXTINF:-1 tvg-id="DEBD2300001ND" tvg-name="DEBD2300001ND" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2300001ND_20231115T012113SQUARE.png_20231115012114.png" group-title="Auto & Motor" , Sport 1 Motor
+https://jmp2.uk/sam-DEBD2300001ND.m3u8
+#EXTINF:-1 tvg-id="DE2400002VA" tvg-name="DE2400002VA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2400002VA_20241015T034944SQUARE.png" group-title="Auto & Motor" , Top Gear
+https://jmp2.uk/sam-DE2400002VA.m3u8
+#EXTINF:-1 tvg-id="DEAK0500452A" tvg-name="DEAK0500452A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500452A_20240321T045919SQUARE.png" group-title="Auto & Motor" , auto motor und sport
+https://jmp2.uk/sam-DEAK0500452A.m3u8
+#EXTINF:-1 tvg-id="DEBD2600004U7" tvg-name="DEBD2600004U7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2600004U7_20230913T030533SQUARE.png_20230913030533.png" group-title="Auto & Motor" , Motorvision Classic
+https://jmp2.uk/sam-DEBD2600004U7.m3u8
+#EXTINF:-1 tvg-id="DEBD2600005U6" tvg-name="DEBD2600005U6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2600005U6_20241106T142734SQUARE.png" group-title="Auto & Motor" , Motorvision
+https://jmp2.uk/sam-DEBD2600005U6.m3u8
+#EXTINF:-1 tvg-id="DEBD26000034M" tvg-name="DEBD26000034M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000034M_20230913T030529SQUARE.png_20230913030529.png" group-title="Auto & Motor" , More than Sports TV
+https://jmp2.uk/sam-DEBD26000034M.m3u8
+#EXTINF:-1 tvg-id="DEBD390000181" tvg-name="DEBD390000181" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD390000181_20240925T141747SQUARE.png" group-title="Anime" , Aniverse TV
+https://jmp2.uk/sam-DEBD390000181.m3u8
+#EXTINF:-1 tvg-id="DEBD11000019M" tvg-name="DEBD11000019M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD11000019M_20240925T141758SQUARE.png" group-title="Anime" , Naruto
+https://jmp2.uk/sam-DEBD11000019M.m3u8
+#EXTINF:-1 tvg-id="DEAJ2900002FC" tvg-name="DEAJ2900002FC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900002FC_20231101T032746SQUARE.png_20231101032746.png" group-title="Anime" , Yu-Gi-Oh!
+https://jmp2.uk/sam-DEAJ2900002FC.m3u8
+#EXTINF:-1 tvg-id="DE1400001OB" tvg-name="DE1400001OB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1400001OB_20240611T061023SQUARE.png" group-title="Anime" , Beyblade
+https://jmp2.uk/sam-DE1400001OB.m3u8
 
 
